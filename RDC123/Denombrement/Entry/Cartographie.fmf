@@ -1,0 +1,2258 @@
+﻿[FormFile]
+Version=CSPro 6.3
+Name=CARTOGRAPHIE_FF
+Label=Cartographie
+DefaultTextFont=-013 0000 0000 0000 0700 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+FieldEntryFont=0018 0000 0000 0000 0600 0000 0000 0000 0000 0000 0000 0000 0000 Courier New
+FieldColor=Current,62708
+Type=SystemControlled
+  
+[Dictionaries]
+File=..\Dicts\Cartographie.dcf
+  
+[Form]
+Name=FORM000
+Label=(Id Items)
+QuestionTextHeight=122
+Level=1
+Size=857,527
+  
+Item=NG01
+Item=NG02
+Item=NG04
+Item=NG05
+Item=NG06
+Item=NG03
+Item=R10M
+Item=R10H
+Item=R09A
+Item=R09M
+Item=R09J
+Item=R13
+  
+Box=188,82,638,121,Raised
+Box=51,27,791,72,Thin
+Box=258,129,594,169,Raised
+Box=206,194,626,406,Raised
+Box=6,5,832,502,Etched
+  
+[Text]
+Name=TEXT1
+Position=195,89,624,111
+Text=DENOMBREMENT DES BATIS ET MENAGES
+Form=1
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT2
+Position=55,37,784,61
+Text=ENQUETE CONDITIONS DE VIE DES MENAGES EN MILIEU URBAIN
+Form=1
+Font=-021 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT3
+Position=268,136,577,160
+Text=IDENTIFICATION DE L'ILOT
+Form=1
+Font=-021 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT11
+Position=294,417,301,439
+Text=/
+Form=1
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT12
+Position=337,417,344,439
+Text=/
+Form=1
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT13
+Position=581,417,592,439
+Text=h
+Form=1
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT14
+Position=428,417,538,439
+Text=Heure début
+Form=1
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndForm]
+  
+[Form]
+Name=FORM001
+Label=Renseignements
+Level=1
+Size=876,563
+  
+Item=R01
+Item=R03
+Item=R04
+Item=R05
+Item=R06
+Item=R07
+Item=R02
+Item=R02A
+  
+Box=198,92,648,131,Raised
+Box=61,37,801,82,Thin
+Box=268,139,604,179,Raised
+Box=180,234,721,477,Raised
+Box=34,13,851,538,Raised
+  
+[Text]
+Name=TEXT4
+Position=205,99,634,121
+Text=DENOMBREMENT DES BATIS ET MENAGES
+Form=2
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT5
+Position=65,47,794,71
+Text=ENQUETE CONDITIONS DE VIE DES MENAGES EN MILIEU URBAIN
+Form=2
+Font=-021 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT6
+Position=278,146,581,170
+Text=PANNEAU D'INFORMATION
+Form=2
+Font=-021 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT16
+Position=201,286,307,308
+Text=Rue/Avenue
+Form=2
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndForm]
+  
+[Form]
+Name=FORM002
+Label=Bâtis
+Level=1
+Size=836,583
+  
+Item=BATIS000
+Item=R04A
+  
+Box=295,105,601,141,Raised
+Box=71,47,811,92,Thin
+  
+[Text]
+Name=TEXT7
+Position=302,112,593,134
+Text=DENOMBREMENT DES BATIS
+Form=3
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT8
+Position=75,57,804,81
+Text=ENQUETE CONDITIONS DE VIE DES MENAGES EN MILIEU URBAIN
+Form=3
+Font=-021 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndForm]
+  
+[Form]
+Name=FORM003
+Label=Ménages
+QuestionTextHeight=120
+Level=1
+Size=1340,585
+  
+Item=MENAGES000
+Item=R08
+Item=R11H
+Item=R11M
+Item=R12FIN
+  
+Box=498,84,844,123,Raised
+Box=303,24,1043,69,Thin
+  
+[Text]
+Name=TEXT9
+Position=505,92,834,114
+Text=DENOMBREMENT DES MENAGES
+Form=4
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT10
+Position=307,34,1036,58
+Text=ENQUETE CONDITIONS DE VIE DES MENAGES EN MILIEU URBAIN
+Form=4
+Font=-021 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Name=TEXT15
+Position=204,487,215,509
+Text=h
+Form=4
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndForm]
+  
+[Level]
+Name=CARTO
+Label=Cartographie questionnaire
+  
+[Group]
+Required=Yes
+Name=IDS0_FORM
+Label=(Id Items)
+Form=1
+LogicControl=No
+Max=1
+  
+[Field]
+Name=NG01
+Position=488,210,517,230
+Item=NG01,CARTOGRAPHIE
+Persistent=Yes
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=1
+  
+[Text]
+Position=254,208,330,230
+Text=Province
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=NG02
+Position=488,240,531,260
+Item=NG02,CARTOGRAPHIE
+Persistent=Yes
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=1
+  
+[Text]
+Position=254,238,343,260
+Text=Commune
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=NG03
+Position=488,272,545,292
+Item=NG03,CARTOGRAPHIE
+Persistent=Yes
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=1
+  
+[Text]
+Position=254,272,328,294
+Text=Quartier
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=NG04
+Position=488,300,559,320
+Item=NG04,CARTOGRAPHIE
+Persistent=Yes
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+Form=1
+  
+[Text]
+Position=254,298,285,320
+Text=Ilot
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=NG05
+Position=488,330,517,350
+Item=NG05,CARTOGRAPHIE
+Persistent=Yes
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+Form=1
+  
+[Text]
+Position=254,328,304,350
+Text=Strate
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=NG06
+Position=489,362,532,382
+Item=NG06,CARTOGRAPHIE
+Protected=Yes
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+Form=1
+  
+[Text]
+Position=254,358,467,380
+Text=N° d'ordre de la parcelle
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=R10H
+Position=547,417,576,437
+Item=R10H,CARTOGRAPHIE
+Protected=Yes
+Form=1
+  
+  
+[Field]
+Name=R10M
+Position=594,417,623,437
+Item=R10M,CARTOGRAPHIE
+Protected=Yes
+Form=1
+  
+  
+[Field]
+Name=R09J
+Position=260,417,289,437
+Item=R09J,CARTOGRAPHIE
+Protected=Yes
+Form=1
+  
+[Text]
+Position=209,417,250,439
+Text=Date
+Form=1
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=R09M
+Position=305,417,334,437
+Item=R09M,CARTOGRAPHIE
+Protected=Yes
+Form=1
+  
+  
+[Field]
+Name=R09A
+Position=348,417,405,437
+Item=R09A,CARTOGRAPHIE
+Protected=Yes
+HideInCaseTree=Yes
+Form=1
+  
+  
+[Field]
+Name=R13
+Position=636,416,654,436
+Item=R13,CARTOGRAPHIE
+UseUnicodeTextBox=Yes
+Form=1
+  
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=RES_I_FORM
+Label=Renseignements
+Form=2
+LogicControl=No
+Max=1
+  
+[Field]
+Name=R01
+Position=440,254,455,274
+Item=R01,CARTOGRAPHIE
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=2
+  
+[Text]
+Position=202,257,421,279
+Text=Nature de la Rue/Avenue
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=R02A
+Position=332,288,361,308
+Item=R02A,CARTOGRAPHIE
+Form=2
+  
+  
+[Field]
+Name=R02
+Position=382,287,712,307
+Item=R02,CARTOGRAPHIE
+UseUnicodeTextBox=Yes
+Form=2
+  
+  
+[Field]
+Name=R03
+Position=519,312,593,332
+Item=R03,CARTOGRAPHIE
+UpperCase=Yes
+UseUnicodeTextBox=Yes
+FieldLabelType=DictionaryLabel
+Form=2
+  
+[Text]
+Position=203,316,349,338
+Text=Numero parcelle
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=R04
+Position=519,342,548,362
+Item=R04,CARTOGRAPHIE
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=NumberPad
+Form=2
+  
+[Text]
+Position=203,346,488,368
+Text=Nombre de bâtis dans la parcelle
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=R05
+Position=440,374,455,394
+Item=R05,CARTOGRAPHIE
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=2
+  
+[Text]
+Position=203,375,386,397
+Text=Nature de la Parcelle
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=R06
+Position=291,414,432,434
+Item=R06,CARTOGRAPHIE
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=NumberPad
+Form=2
+  
+[Text]
+Position=203,414,275,436
+Text=Latitude
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=R07
+Position=556,414,683,434
+Item=R07,CARTOGRAPHIE
+UpperCase=Yes
+FieldLabelType=DictionaryLabel
+DataCaptureType=NumberPad
+Form=2
+  
+[Text]
+Position=455,414,543,436
+Text=Longitude
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=BATIS_FORM
+Label=Bâtis
+Form=3
+LogicControl=No
+Max=1
+  
+[Field]
+Name=R04A
+Position=159,152,188,172
+Item=R04A,CARTOGRAPHIE
+Protected=Yes
+UpperCase=Yes
+Form=3
+  
+[Text]
+Position=99,154,146,176
+Text=R04A
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Grid]
+Name=BATIS000
+Label=Bâtis
+Form=3
+Required=Yes
+Type=Record
+TypeName=BATIS
+Max=99
+MaxField=R04A
+DisplaySize=106,201,767,558
+Orientation=Horizontal
+FieldRowHeight=0
+HeadingRowHeight=70
+UseOccurrenceLabels=Yes
+FreeMovement=No
+ 
+[Text]
+Position=2,0,28,30
+Text=1
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=2,0,28,30
+Text=2
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=2,0,28,30
+Text=3
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=2,0,28,30
+Text=4
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=2,0,28,30
+Text=5
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=2,0,28,30
+Text=6
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=2,0,28,30
+Text=7
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=2,0,28,30
+Text=8
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=2,0,28,30
+Text=9
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=10
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=11
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=12
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=13
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=14
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=15
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=16
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=17
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=18
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=19
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=20
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=21
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=22
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=23
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=24
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=25
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=26
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=27
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=28
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=29
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=30
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=31
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=32
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=33
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=34
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=35
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=36
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=37
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=38
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=39
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=40
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=41
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=42
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=43
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=44
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=45
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=46
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=47
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=48
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=49
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=50
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=51
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=52
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=53
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=54
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=55
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=56
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=57
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=58
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=59
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=60
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=61
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=62
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=63
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=64
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=65
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=66
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=67
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=68
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=69
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=70
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=71
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=72
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=73
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=74
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=75
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=76
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=77
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=78
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=79
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=80
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=81
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=82
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=83
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=84
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=85
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=86
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=87
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=88
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=89
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=90
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=91
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=92
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=93
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=94
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=95
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=96
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=97
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=98
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,30
+Text=99
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Column]
+Width=10
+[EndColumn]
+  
+[Column]
+Width=75
+  
+[HeaderText]
+Position=33,40,75,70
+Text=B01
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=B01
+Position=38,0,67,20
+Item=B01,CARTOGRAPHIE
+Protected=Yes
+Sequential=Yes
+UpperCase=Yes
+  
+[Text]
+Position=0,0,26,16
+Text=B01
+ 
+[EndColumn]
+  
+[Column]
+Width=62
+  
+[HeaderText]
+Position=20,40,62,70
+Text=B02
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=B02
+Position=25,0,54,20
+Item=B02,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=RadioButton
+  
+[Text]
+Text=B02
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=74
+  
+[HeaderText]
+Position=32,40,74,70
+Text=B03
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=B03
+Position=51,0,66,20
+Item=B03,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=RadioButton
+  
+[Text]
+Text=B03
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=78
+  
+[HeaderText]
+Position=36,40,78,70
+Text=B04
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=B04
+Position=41,0,70,20
+Item=B04,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=B04
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=149
+  
+[HeaderText]
+Position=107,40,149,70
+Text=B05
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=B05
+Position=0,0,141,20
+Item=B05,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=B05
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=135
+  
+[HeaderText]
+Position=93,40,135,70
+Text=B06
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=B06
+Position=0,0,127,20
+Item=B06,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=B06
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=82
+  
+[HeaderText]
+Position=40,40,82,70
+Text=B07
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=B07
+Position=31,0,74,20
+Item=B07,CARTOGRAPHIE
+UpperCase=Yes
+  
+[Text]
+Text=B07
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[EndGrid]
+ 
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=MENAGES_FORM
+Label=Ménages
+Form=4
+LogicControl=No
+Max=1
+  
+[Field]
+Name=R08
+Position=127,115,156,135
+Item=R08,CARTOGRAPHIE
+Protected=Yes
+UpperCase=Yes
+Form=4
+  
+[Text]
+Position=65,114,98,136
+Text=R08
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Grid]
+Name=MENAGES000
+Label=Ménages
+Form=4
+Required=No
+Type=Record
+TypeName=MENAGES
+Max=99
+MaxField=R08
+DisplaySize=32,152,1315,467
+Orientation=Horizontal
+FieldRowHeight=33
+HeadingRowHeight=34
+FreeMovement=No
+ 
+[Text]
+Position=0,0,28,33
+Text=1
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=2
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=3
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=4
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=5
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=6
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=7
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=8
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=9
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=10
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=11
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=12
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=13
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=14
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=15
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=16
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=17
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=18
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=19
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=20
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=21
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=22
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=23
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=24
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=25
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=26
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=27
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=28
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=29
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=30
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=31
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=32
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=33
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=34
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=35
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=36
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=37
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=38
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=39
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=40
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=41
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=42
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=43
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=44
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=45
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=46
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=47
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=48
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=49
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=50
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=51
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=52
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=53
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=54
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=55
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=56
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=57
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=58
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=59
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=60
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=61
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=62
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=63
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=64
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=65
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=66
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=67
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=68
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=69
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=70
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=71
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=72
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=73
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=74
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=75
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=76
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=77
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=78
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=79
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=80
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=81
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=82
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=83
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=84
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=85
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=86
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=87
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=88
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=89
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=90
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=91
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=92
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=93
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=94
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=95
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=96
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=97
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=98
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Text]
+Position=0,0,28,33
+Text=99
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Column]
+Width=10
+[EndColumn]
+  
+[Column]
+Width=107
+  
+[HeaderText]
+Position=23,4,83,34
+Text=M01A
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+HorizontalAlignment=Center
+ 
+[Field]
+Name=M01A
+Position=0,0,99,20
+Item=M01A,CARTOGRAPHIE
+Protected=Yes
+UseUnicodeTextBox=Yes
+  
+[Text]
+Position=47,4,83,20
+Text=M01A
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=46
+  
+[HeaderText]
+Position=0,4,46,34
+Text=M01
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M01
+Position=3,0,32,20
+Item=M01,CARTOGRAPHIE
+Protected=Yes
+UpperCase=Yes
+  
+[Text]
+Text=M01
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=46
+  
+[HeaderText]
+Position=0,4,46,34
+Text=M02
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M02
+Position=4,1,33,21
+Item=M02,CARTOGRAPHIE
+Protected=Yes
+UpperCase=Yes
+  
+[Text]
+Position=0,0,28,16
+Text=M02
+ 
+[EndColumn]
+  
+[Column]
+Width=226
+  
+[HeaderText]
+Position=90,4,136,34
+Text=M03
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+HorizontalAlignment=Center
+ 
+[Field]
+Name=M03
+Position=0,0,218,20
+Item=M03,CARTOGRAPHIE
+UpperCase=Yes
+UseUnicodeTextBox=Yes
+  
+[Text]
+Position=313,4,359,34
+Text=M03
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=219
+  
+[HeaderText]
+Position=173,4,219,34
+Text=M04
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M04
+Position=0,0,211,20
+Item=M04,CARTOGRAPHIE
+UpperCase=Yes
+UseUnicodeTextBox=Yes
+  
+[Text]
+Text=M04
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=62
+  
+[HeaderText]
+Position=16,4,62,34
+Text=M05
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M05
+Position=39,0,54,20
+Item=M05,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=RadioButton
+  
+[Text]
+Text=M05
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=71
+  
+[HeaderText]
+Position=25,4,71,34
+Text=M06
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M06
+Position=34,0,63,20
+Item=M06,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=M06
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=64
+  
+[HeaderText]
+Position=18,4,64,34
+Text=M07
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M07
+Position=27,0,56,20
+Item=M07,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=M07
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=60
+  
+[HeaderText]
+Position=14,4,60,34
+Text=M08
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M08
+Position=23,0,52,20
+Item=M08,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=M08
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=52
+  
+[HeaderText]
+Position=6,4,52,34
+Text=M09
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M09
+Position=15,0,44,20
+Item=M09,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=M09
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=67
+  
+[HeaderText]
+Position=21,4,67,34
+Text=M10
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M10
+Position=30,0,59,20
+Item=M10,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=M10
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=149
+  
+[HeaderText]
+Position=103,4,149,34
+Text=M11
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[Field]
+Name=M11
+Position=0,0,141,20
+Item=M11,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=M11
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndColumn]
+  
+[Column]
+Width=135
+  
+[HeaderText]
+Position=44,4,90,34
+Text=M12
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+HorizontalAlignment=Center
+ 
+[Field]
+Name=M12
+Position=0,0,127,20
+Item=M12,CARTOGRAPHIE
+UpperCase=Yes
+DataCaptureType=NumberPad
+  
+[Text]
+Text=M12
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=83
+  
+[HeaderText]
+Position=18,4,64,34
+Text=M13
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+HorizontalAlignment=Center
+ 
+[Field]
+Name=M13
+Position=31,0,74,20
+Item=M13,CARTOGRAPHIE
+UpperCase=Yes
+  
+[Text]
+Text=M13
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[EndGrid]
+ 
+  
+[Field]
+Name=R11H
+Position=171,486,200,506
+Item=R11H,CARTOGRAPHIE
+Protected=Yes
+Form=4
+  
+[Text]
+Position=43,484,154,506
+Text=Heure de fin
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+  
+[Field]
+Name=R11M
+Position=217,486,246,506
+Item=R11M,CARTOGRAPHIE
+Protected=Yes
+Form=4
+  
+  
+[Field]
+Name=R12FIN
+Position=81,536,96,556
+Item=R12FIN,CARTOGRAPHIE
+FieldLabelType=DictionaryLabel
+DataCaptureType=RadioButton
+Form=4
+  
+[Text]
+Position=46,538,74,560
+Text=Fin
+Font=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+ 
+[EndGroup]
+  

@@ -1,0 +1,20 @@
+﻿[Run Information]
+Version=CSPro 6.3
+AppType=Entry
+
+[DataEntryInit]
+FullScreen=YES
+Interactive=Ask
+
+[Files]
+Application=.\Cartographie.ent
+InputData=..\DataCarto\Carto.dat
+
+
+[UserFiles]
+CARTOKML=
+FTEMP=
+FICHSAPART=
+
+[Parameters]
+

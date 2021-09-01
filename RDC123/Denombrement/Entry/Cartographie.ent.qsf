@@ -1,0 +1,895 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 6.3
+
+[LANGUAGES]
+ENG=English
+
+[QUESTION]
+Field=CARTOGRAPHIE.B01
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Num\'e9ro d'ordre du bati dans la parcelle N\'b0 \cf2\b0 %R03%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.B02
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Quel est le type du b\'e2ti N\'b0 \cf2\b0 %B01%\cf1\b  dans la parcelle N\'b0\cf2\b0  %R03%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.B03
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Quelle est la nature du b\'e2ti N\'b0 \cf2\b0 %B01%\cf1\b  de la parcelle N\'b0 %R03%\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.B04
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien de m\'e9nages occupent le b\'e2ti N\'b0 \cf2\b0 %B01%\cf1\b  de la parcelle N\'b0 \cf2\b0 %R03%\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.B05
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la latitude d'un point du b\'e2ti N\'b0 \cf2\b0 %B01%\cf1\b  \par
+ENG=\par
+ENG=\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.B06
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la longitude d'un point du b\'e2ti N\'b0 \cf2\b0 %B01%\cf1\b  \par
+ENG=\par
+ENG=\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.B07
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Distance\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M01
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Num\'e9ro d'ordre du b\'e2ti \par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M02
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Num\'e9ro d'ordre du m\'e9nage dans le b\'e2ti N\'b0 \cf2\b0 %M01%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M03
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Quel est le Nom du Chef de M\'e9nage N\'b0 \cf2\b0 %M02%\cf1\b  du b\'e2ti N\'b0 \cf2\b0 %M01% \cf1\b dans la parcelle N\'b0 \cf2\b0 %R03%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M04
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez le Prenom du Chef de M\'e9nage \cf2\b0 %M03%\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M05
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Sexe du chef de m\'e9nage \cf2\b0 %M03%\cf1\b  \cf2\b0 %M04%\par
+ENG=\par
+ENG=\cf1\b NB. \cf3\i Le sexe est constat\'e9, pas la peine de poser la question \par
+ENG=Dans le cas o\'f9 le chef de m\'e9nage est absent veuillez poser la question de la mani\'e8re suivante: \par
+ENG=\cf2\b0\i0 %M04%\cf1\b  est un homme ou une femme ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M06
+Condition=M05=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien des personnes au total vivent dans le m\'e9nage de Mr \cf2\b0 %M04% \cf1\b ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M06
+Condition=M05=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien des personnes au total vivent dans le m\'e9nage de Mme \cf2\b0 %M04%\cf1\b  ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M07
+Condition=M05=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien d'hommes au total (y compris les enfants de moins de 5 ans)  vivent dans le m\'e9nage de Mr \cf2\b0 %M04%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M07
+Condition=M05=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien d'hommes au total (y compris les enfants de moins de 5 ans)  vivent dans le m\'e9nage de Mme \cf2\b0 %M04%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M08
+Condition=M05=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien de femmes au total (y compris les enfants de moins de 5 ans)  vivent dans le m\'e9nage de Mr \cf2\b0 %M04%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M08
+Condition=M05=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien de femmes au total (y compris les enfants de moins de 5 ans)  vivent dans le m\'e9nage de Mme \cf2\b0 %M04%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M09
+Condition=M05=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Parmi les hommes qui vivent dans le m\'e9nage de Mr \cf2\b0 %M03%, \cf1\b combien sont \'e2g\'e9s de moins de 5 ans ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M09
+Condition=M05=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Parmi les hommes qui vivent dans le m\'e9nage de Mme \cf2\b0 %M03%, \cf1\b combien sont \'e2g\'e9s de moins de 5 ans ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M10
+Condition=M05=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Parmi les femmes qui vivent dans le m\'e9nage de Mr \cf2\b0 %M03%, \cf1\b combien sont \'e2g\'e9es de moins de 5 ans ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M10
+Condition=M05=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Parmi les femmes qui vivent dans le m\'e9nage de Mr \cf2\b0 %M03%, \cf1\b combien sont \'e2g\'e9es de moins de 5 ans ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M11
+Condition=M05=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la latitude du m\'e9nage de Mr \cf2\b0 %M04% \par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M11
+Condition=M05=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la latitude du m\'e9nage de Mme \cf2\b0 %M04%\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M12
+Condition=M05=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la longitude du m\'e9nage de Mr \cf2\b0 %M04%\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M12
+Condition=M05=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la longitude du m\'e9nage de Mme \cf2\b0 %M04%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.M13
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Distance\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.NG01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Province\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.NG02
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 L'ilot \'e0 d\'e9nombrer se trouve dans quelle commune ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.NG03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Pr\'e9cisement dans quel quartier ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.NG04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Choississez l'ilot \'e0 d\'e9nombrer\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.NG05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Strate\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.NG06
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Num\'e9ro d'ordre de la parcelle dans l'ilot \cf2\b0 %NG04%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Vous \'eates sur une Rue ou une Avenue ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R02
+Condition=R01=1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez le nom de la Rue dans laquelle vous vous situez\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R02
+Condition=R01=2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez le nom de l'Avenue dans laquelle vous vous situez\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R02A
+Condition=R01=1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Selectionnez la Rue dans l'ilot\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R02A
+Condition=R02=2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Selectionnez l'Avenue dans l'ilot\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Veuillez renseigner le num\'e9ro de la parcelle N\'b0 \cf2\b0 %NG06%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien y a-t-il de b\'e2tis dans la parcelle \cf2\b0 %R03%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R04A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Nombre de b\'e2tis dans la parcelle N\'b0 \cf2\b0 %R03%\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Quelle est la nature de la parcelle N\'b0 \cf2\b0 %R03%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R06
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la latitude d'un point de la parcelle N\'b0 \cf2\b0 %R03%\cf1\b  \par
+ENG=\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R07
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la longitude d'un point de la parcelle N\'b0 \cf2\b0 %R03%\cf1\b  \par
+ENG=\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R08
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Nombre total de m\'e9nages dans le b\'e2ti N\'b0 \cf2\b0 %B01%\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R09J
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Jour \par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R09M
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Mois\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R10H
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Heure d\'e9but\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R10M
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Minutes\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R11H
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Heure de fin\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R11M
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Minutes\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R12FIN
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Fin\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE.R13
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+ENG=\pard\cf1\b\f0\fs36 Validez pour voir l'image de votre z\'f4ne de travail\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.B01
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez le num\'e9ro d'ordre du b\'e2ti o\'f9 vous vous trouvez dans la parcelle N\'b0 \cf2\b0 %NUM_PARC%\par
+ENG=\cf1\b\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.B02
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Quel est le type du b\'e2ti N\'b0 \cf2\b0 %NUM_BATI% \cf1\b  la parcelle N\'b0 \cf2\b0 %NUM_PARC% \cf1\b ?\cf2\b0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.B03
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Quelle est la nature du b\'e2ti N\'b0 \cf2\b0 %NUM_BATI%  \cf1\b de la parcelle N\'b0 \cf2\b0 %NUM_PARC% \cf1\b ?\cf2\b0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.B04
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien de m\'e9nages occupent dans le b\'e2ti N\'b0 \cf2\b0 %NUM_BATI%  \cf1\b de la parcelle N\'b0 \cf2\b0 %NUM_PARC% \cf1\b ?\cf2\b0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.B05
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la latitude du b\'e2ti N\'b0 \cf2\b0 %NUM_BATI%  \cf1\b de la parcelle N\'b0 \cf2\b0 %NUM_PARC% \cf1\b ?\par
+ENG=\par
+ENG=\cf3\i Par exemple: 04,.....\cf2\b0\i0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.B06
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la longitude du b\'e2ti N\'b0 \cf2\b0 %NUM_BATI%  \cf1\b de la parcelle N\'b0 \cf2\b0 %NUM_PARC% \cf1\b ?\par
+ENG=\par
+ENG=\cf3\i Par exemple : 15,.....\cf2\b0\i0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.B07
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Distance\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M01
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Num\'e9ro d'ordre du b\'e2ti \par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M02
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez le num\'e9ro d'ordre du m\'e9nagedu b\'e2ti N\'b0 \cf2\b0 %NUM_BATI% \cf1\b  dans lequel vous vous trouvez.\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M03
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Quel est le nom du chef de m\'e9nage N\'b0 \cf2\b0 %NUM_MEN% \par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M04
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez son pr\'e9nom \par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M05
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Le sexe du chef de m\'e9nage\par
+ENG=\cf2\i NB.  Le sexe est \'e0 constater !\par
+ENG=Dans le cas o\'f9 le chef de m\'e9nage est absent veuillez poser la question suivante:\cf3\b0\i0  %NOM_CM% \cf1\b est un homme ou une femme ? \par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M06
+Condition=SEXE_CM=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien de personnes au total vivent dans le m\'e9nage de Monsieur  \cf2\b0 %PN_CM% %NOM_CM%\cf1\b  ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M06
+Condition=SEXE_CM=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien de personnes au total vivent dans le m\'e9nage de Madame  \cf2\b0 %PN_CM% %NOM_CM%\cf1\b  ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M07
+Condition=SEXE_CM=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien d'hommes au total (\cf2\i y compris les enfants de moins de 5 ans\cf1\i0 ) vivent dans le m\'e9nage de Mr  \cf3\b0 %PN_CM% %NOM_CM%\cf1\b  ?\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M07
+Condition=SEXE_CM=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien d'hommes au total (\cf2\i y compris les enfants de moins de 5 ans\cf1\i0 ) vivent dans le m\'e9nage de Mme  \cf3\b0 %PN_CM% %NOM_CM%\cf1\b  ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M08
+Condition=SEXE_CM=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien de femmes au total (\cf2\i y compris les enfants de moins de 5 ans\cf1\i0 ) vivent dans le m\'e9nage de Mr  \cf3\b0 %PN_CM% %NOM_CM%\cf1\b  ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M08
+Condition=SEXE_CM=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien de femmes au total (\cf2\i y compris les enfants de moins de 5 ans\cf1\i0 ) vivent dans le m\'e9nage de Mme  \cf3\b0 %PN_CM% %NOM_CM%\cf1\b  ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M09
+Condition=SEXE_CM=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Parmi les hommes qui vivent dans le m\'e9nage de Mr \cf2\b0 %PN_CM% %NOM_CM%\cf1\b   combien ont moins de 5 ans ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M09
+Condition=SEXE_CM=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Parmi les hommes qui vivent dans le m\'e9nage de Mme \cf2\b0 %PN_CM% %NOM_CM%\cf1\b   combien ont moins de 5 ans ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M10
+Condition=SEXE_CM=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Parmi les femmes qui vivent dans le m\'e9nage de Mr \cf2\b0 %PN_CM% %NOM_CM%\cf1\b   combien ont moins de 5 ans ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M10
+Condition=SEXE_CM=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Parmi les femmes qui vivent dans le m\'e9nage de Mme \cf2\b0 %PN_CM% %NOM_CM%\cf1\b   combien ont moins de 5 ans ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M11
+Condition=SEXE_CM=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la latitude du m\'e9nage de Mr \cf2\b0 %PN_CM% %NOM_CM%\cf1\b  \par
+ENG=\par
+ENG=\cf3\i Par exemple: 04,.....\cf1\i0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M11
+Condition=SEXE_CM=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la latitude du m\'e9nage de Mme \cf2\b0 %PN_CM% %NOM_CM%\cf1\b  \par
+ENG=\par
+ENG=\cf3\i Par exemple: 04,.....\cf1\i0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M12
+Condition=SEXE_CM=1
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la longitude du m\'e9nage de Mr \cf2\b0 %PN_CM% %NOM_CM%\par
+ENG=\par
+ENG=\cf3\b\i Par exemple : 15,.....\cf1\i0  \par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M12
+Condition=SEXE_CM=2
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la longitude du m\'e9nage de Mme \cf2\b0 %PN_CM% %NOM_CM%\par
+ENG=\par
+ENG=\cf3\b\i Par exemple : 15,.....\cf1\i0  \par
+ENG=
+ENG=\pard\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.M13
+Occurrences=1:99
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Distance\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.NG01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Indiquez la province \b0\f1\fs24\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.NG02
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 L'ilot \'e0 d\'e9nombrer se trouve dans quelle commune ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.NG03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Dans quel quartier se trouve l'ilot ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.NG04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Vous travaillez dans quel ilot ?\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.NG05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez le num\'e9ro de la strate s'il vous plait !\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.NG06
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Num\'e9ro d'ordre de la parcelle dans l'ilot\par
+ENG=\par
+ENG=\cf2\i Le num\'e9ro d'ordre de la parcelle dans l'ilot correspond au num\'e9ro de la parcelle selon l'ordre croissant des parcelles \'e0 d\'e9nombrer.\cf1\i0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.R01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 S'agit-il d'une Rue ou d'une Avenue ?\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.R02
+Condition=NATURE_AV_VS1=1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Veuillez indiquer le nom de la Rue s'il vous plait !\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.R02
+Condition=NATURE_AV_VS1=2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Veuillez indiquer le nom de l'Avenue s'il vous plait !\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.R03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez le num\'e9ro de la parcelle\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.R04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Combien il y a-t-il des b\'e2tis dans la parcelle \cf2\b0 %NUM_PARC%\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.R05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Quelle est la nature de la parcelle N\'b0 \cf2\b0 %NUM_PARC% \cf1\b ?\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.R06
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la latitude d'un point de la parcelle \cf2\b0 %NUM_PARC%\cf1\b\par
+ENG= \par
+ENG=\cf3\i Par exemple: 04,.....\cf1\i0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.R07
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Renseignez la longitude d'un point de la parcelle \cf2\b0 %NUM_PARC%\par
+ENG=\cf1\b\par
+ENG=\cf3\i Par exemple : 15,.....\cf1\i0\par
+ENG=}
+
+[QUESTION]
+Field=CARTOGRAPHIE_DICT.R08
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs36 Nombre total de m\'e9nage dans la parcelle\par
+ENG=}
+

@@ -1,0 +1,475 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Cartographie
+Name=CARTOGRAPHIE
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Level]
+Label=Cartographie questionnaire
+Name=CARTO
+
+[IdItems]
+
+[Item]
+Label=Province
+Name=NG01
+Start=2
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province
+Name=NG01_VS1
+Value=1;KINSHASA
+
+[Item]
+Label=Commune
+Name=NG02
+Start=4
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Quartier
+Name=NG03
+Start=7
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Ilot
+Name=NG04
+Start=11
+Len=5
+ZeroFill=Yes
+
+[Item]
+Label=Strate
+Name=NG05
+Start=16
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=N° d'ordre de la parcelle
+Name=NG06
+Start=18
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=Renseignements
+Name=RES_I
+RecordTypeValue='1'
+RecordLen=115
+
+[Item]
+Label=Nature de la Rue/Avenue
+Name=R01
+Start=21
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nature de la Rue/Avenue
+Name=R01_VS1
+Value=1;Rue
+Value=2;Avenue
+
+[Item]
+Label=Rue/Avenue
+Name=R02
+Start=22
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Numero parcelle
+Name=R03
+Start=62
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Nombre de bâtis dans la parcelle
+Name=R04
+Start=70
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de bâtis dans la parcelle
+Name=R04A
+Start=72
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Nature de la Parcelle
+Name=R05
+Start=74
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nature de la Parcelle
+Name=R05_VS1
+Value=1;Habitée
+Value=2;Non habitée
+
+[Item]
+Label=Latitude
+Name=R06
+Start=75
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude
+Name=R07
+Start=85
+Len=9
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de ménage dans la parcelle
+Name=R08
+Start=94
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Date
+Name=R09
+Start=96
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour
+Name=R09J
+Start=96
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Mois
+Name=R09M
+Start=98
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Année
+Name=R09A
+Start=100
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Temps début
+Name=R10
+Start=104
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début - Heure
+Name=R10H
+Start=104
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début - Heure
+Name=R10H_VS1
+Value=6:23
+
+[Item]
+Label=Début - Minutes
+Name=R10M
+Start=106
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début - Minutes
+Name=R10M_VS1
+Value=0:59
+
+[Item]
+Label=Temps de fin
+Name=R11
+Start=108
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin - Heure
+Name=R11H
+Start=108
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin - Heure
+Name=R11H_VS1
+Value=6:23
+
+[Item]
+Label=Fin - Minutes
+Name=R11M
+Start=110
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin - Minutes
+Name=R11M_VS1
+Value=0:59
+
+[Item]
+Label=Fin
+Name=R12FIN
+Start=112
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin
+Name=R12FIN_VS1
+Value=1;Verifier mon questionnaire
+Value=2;Terminer
+Value=3;Voir
+
+[Item]
+Label=Debut
+Name=R13
+Start=113
+Len=1
+DataType=Alpha
+
+[Item]
+Label=Numéro de la Rue/Avenue dans l'ilot
+Name=R02A
+Start=114
+Len=2
+ZeroFill=Yes
+
+[Record]
+Label=Bâtis
+Name=BATIS
+RecordTypeValue='2'
+MaxRecords=99
+RecordLen=49
+
+[Item]
+Label=N° d'ordre du Bati
+Name=B01
+Start=21
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Type du bati
+Name=B02
+Start=23
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Type du bati
+Name=B02_VS1
+Value=1;Maison simple
+Value=2;Villa
+Value=3;Duplex
+Value=4;Immeuble
+Value=5;Taudis
+Value=6;Cuisine externe
+Value=7;Chambre Isolée
+Value=8;Douche externe
+Value=9;Toilette externe
+Value=10;Douche/Toilette externe
+Value=11;Boutique
+Value=12;Autre n'abritant pas de ménage
+
+[Item]
+Label=Nature du Bati
+Name=B03
+Start=25
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nature du Bati
+Name=B03_VS1
+Value=1;Habitée
+Value=2;Non habitée
+
+[Item]
+Label=Nombre de ménages dans le bati
+Name=B04
+Start=26
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de ménages dans le bati
+Name=B04_VS1
+Value=0:99
+
+[Item]
+Label=Latitude
+Name=B05
+Start=28
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude
+Name=B06
+Start=38
+Len=9
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Distance (m) point de la parcelle
+Name=B07
+Start=47
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=Ménages
+Name=MENAGES
+RecordTypeValue='3'
+Required=No
+MaxRecords=99
+RecordLen=114
+
+[Item]
+Label=N° d'ordre du bati
+Name=M01
+Start=21
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=N° d'ordre du ménage
+Name=M02
+Start=23
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Nom du chef de ménage
+Name=M03
+Start=25
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Prenom du chef de ménage
+Name=M04
+Start=50
+Len=25
+DataType=Alpha
+
+[Item]
+Label=sexe du CM
+Name=M05
+Start=75
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=sexe du CM
+Name=M05_VS1
+Value=1;Masculin
+Value=2;Feminin
+
+[Item]
+Label=Total des membres du ménage
+Name=M06
+Start=76
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Total Masculin
+Name=M07
+Start=78
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Total Feminin
+Name=M08
+Start=80
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Total garçon
+Name=M09
+Start=82
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Total fille
+Name=M10
+Start=84
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Latitude
+Name=M11
+Start=86
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude
+Name=M12
+Start=96
+Len=9
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Distance (m) point du bati
+Name=M13
+Start=105
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Bâtiment
+Name=M01A
+Start=108
+Len=7
+DataType=Alpha
