@@ -381,6 +381,7 @@ rech_Avenue();
 
 setvalueset(@getsymbol(),codes,labels);
 setcapturetype($,1);
+
 postproc
 R02=labels(R02A);
 PROC R02
