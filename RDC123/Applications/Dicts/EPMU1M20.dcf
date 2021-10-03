@@ -1,0 +1,611 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Dépenses effectuées à l'occasion de fêtes ou cérémonie
+Name=EPMU1M20
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=Francais
+LIN=LINGALA
+SWA=Swahili
+
+[Level]
+Label=Fête questionnaire
+Name=M20
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=M201
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=M202
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro enquêteur
+Name=M20INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M203
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M203_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS DU MODULE 10
+Name=MOD20
+RecordTypeValue='M20'
+RecordLen=180
+
+[Item]
+Label=Code Enquêteur|Numéro Enquêteur
+Name=M20HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur|Numéro Superviseur
+Name=M205
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview|Date d'interview
+Name=M206
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview|Jour d'interview
+Name=M206J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview|Jour d'interview
+Name=M206J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de l'interview|Mois d'interview
+Name=M206M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview|Mois d'interview
+Name=M206M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année de l'interview|Année d'interview
+Name=M206A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview|Année d'interview
+Name=M206A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu|Milieu de résidence
+Name=M207
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu|Milieu de résidence
+Name=M207_VS1
+Value=1;URBAIN
+
+[Item]
+Label=Province|Province
+Name=M208
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province|Province
+Name=M208_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps dudébut de l'interview|Temps début de l' interview
+Name=M209
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M209H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M209H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M209M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M209M_VS1
+Value=0:59
+
+[Item]
+Label=L'heure de la fin de l'interview|Temps de fin de l'interview
+Name=M2010
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M2010H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M2010H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M2010M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M2010M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement |Consentement
+Name=M2011
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement |Consentement
+Name=M2011_VS1
+Value=1;OUI, PERMISSION DONNEE|OUI, PERMISSION DONNEE|نعم، تم إعطاء الإذن
+Value=2;NON, PERMISSION PAS DONNEE |NON, PERMISSION PAS DONNEE|لا، لم يتم إعطاء الإذن
+
+[Item]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M2017
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M2017_VS1
+Value=1;COMPLETE|COMPLETE|أُنجزت المقابلة
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|PAS DE MEMBRE DU MENAGE A LA MAISON OU PAS DE REPONDANT DU MENAGE COMPETENT A LA MAISON AU MOMENT DE LA VISITE|لا يوجد أي فرد من أفراد الأسرة المعيشية أو مستجيب كفؤ في المنزل للإجابة وقت الزيارة
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE DE TEMPS|الأسرة بأكملها غير متواجدة في المسكن لمدة زمنية طويلة
+Value=4;REFUS|REFUS|رفضت الأسرة إجراء المقابلة
+Value=5;LOGEMENT VIDE|LOGEMENT VIDE OU ADRESSE N’EST PAS CELLE D’UN LOGEMENT|المسكن فارغ أو العنوان ليس مسكن
+Value=6;LOGEMENT DETRUIT|LOGEMENT DETRUIT|المسكن هدم
+Value=7;LOGEMENT PAS TROUVE|LOGEMENT PAS TROUVE|لم يتم العثور على المسكن
+Value=96;AUTRE
+
+[Item]
+Label=Nom du chef de ménage|Nom du chef de ménage
+Name=M20NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M20ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M20FIN
+Start=122
+Len=1
+
+[ValueSet]
+Label=Finish
+Name=M20FIN_VS1
+Value=1;Revisiter le questionnaire
+Value=2;Ajouter les  notes
+Value=3;Savegarder questionnaire et terminer
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer
+
+[Item]
+Label=Total Fetes
+Name=FEQTOT
+Start=124
+Len=13
+ZeroFill=Yes
+
+[ValueSet]
+Label=Total Fetes
+Name=FEQTOT_VS1
+Value=0:9999999998
+
+[Item]
+Label=Nombre de lignes
+Name=FEQ01
+Start=137
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de lignes
+Name=FEQ01_VS1
+Value=0:99
+
+[Item]
+Label=Code Répondant
+Name=CODE_REP
+Start=139
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Nom Répondant
+Name=NOM_REP
+Start=141
+Len=40
+DataType=Alpha
+
+[Record]
+Label=Fêtes
+Name=DEP_FETES
+RecordTypeValue='DFE'
+Required=No
+MaxRecords=99
+RecordLen=114
+
+[Item]
+Label=Numero de ligne
+Name=FEQ02
+Start=14
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Code de l'évènement
+Name=FEQ03
+Start=16
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code de l'évènement
+Name=FEQ03_VS1
+Value=1;Anniversaire
+Image=..\..\Reference\icons\Anniversaire.png
+Value=2;Diplôme et Collation des grades
+Image=..\..\Reference\icons\collations_grades.PNG
+Value=3;Nouvel an
+Image=..\..\Reference\icons\nouvel_an.png
+Value=4;Naissance
+Image=..\..\Reference\icons\naissance.png
+Value=5;Pré Dote
+Image=..\..\Reference\icons\predote_M20.PNG
+Value=6;Mariage Coutumier
+Image=..\..\Reference\icons\mariage_coutumier.png
+Value=7;Mariage Civile
+Image=..\..\Reference\icons\marriage_civile.png
+Value=8;Mariage Religieux
+Image=..\..\Reference\icons\mariage.PNG
+Value=9;Noël
+Image=..\..\Reference\icons\noel1.png
+Value=10;Baptême
+Image=..\..\Reference\icons\bapteme.png
+Value=11;Ramadan, Tabaski
+Image=..\..\Reference\icons\tabaski_ramadan.png
+Value=12;Deuil ou Lévé du deuil
+Image=..\..\Reference\icons\levée deuil24.PNG
+Value=13;Autres fêtes et cérémonies
+Image=..\..\Reference\icons\autrest.PNG
+Value=14;Autres fêtes Religieuses
+Image=..\..\Reference\icons\fetes_autr_relig.png
+Value=15;Autre fêtes non Religieuses
+Image=..\..\Reference\icons\autres_fetes.png
+
+[Item]
+Label=Mois de cet évènement
+Name=FEQ04
+Start=18
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de cet évènement
+Name=FEQ04_VS1
+Value=1;Janvier|Sanza ya liboso (Janv)
+Value=2;Février|Sanza ya mibale (Fév)
+Value=3;Mars|Sanza ya misato (Mars)
+Value=4;Avril|Sanza ya mineyi (Avr)
+Value=5;Mai|Sanza ya mitano (Mai)
+Value=6;Juin|Sanza ya motoba(Juin)
+Value=7;Juillet|Sanza ya sambo(Juillet)
+Value=8;Août|Sanza ya mwambe(Août)
+Value=9;Septembre|Sanza ya libwa (Sept)
+Value=10;Octobre|Sanza ya zomi (Oct)
+Value=11;Novembre|Sanza ya zomi na moko(Nov)
+Value=12;Décembre|Sanza ya zomi na mibale(Dec)
+Value=98;Ne sait pas|Ayebi Te
+
+[Item]
+Label=Libellé de la dépense effectuée à l'occasion de cet évènement
+Name=FEQ05
+Start=20
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Code du type de dépense effectuée
+Name=FEQ06
+Start=45
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code du type de dépense effectuée
+Name=FEQ06_VS1
+Value=1;Achat d'alimentation|Kosomba Biloko ya ko lia|Ununuzi wa chakula
+Image=..\..\Reference\icons\alimentation.PNG
+Value=2;Achat de boisson|Kosomba biloko ya ko mela (masanga)|Ununuzi wa kunywa
+Image=..\..\Reference\icons\AchatBoisson.png
+Value=3;Paiement d'un traiteur|Ko futa batu ya traiteur|Malipo ya mkulima
+Image=..\..\Reference\icons\traiteur.PNG
+Value=4;Achat de vêtements et de chaussures|Kosomba bilamba na ba sapatu|Ununuzi wa nguo na viatu
+Image=..\..\Reference\icons\achat vetement.PNG
+Value=5;Location de tables, chaise et tentures|Ko defisa/Ko bulisa (location) ba kiti, ba mesa na ba katafalke|Kukodisha meza, viti na vifungo
+Image=..\..\Reference\icons\location_chaise_plastique.PNG
+Value=6;Location animation (musique, griot, ..)|Ko defisa/ ko bulisa (location) ya musiki|ukodishaji wa filamu (muziki, la wengine ..)
+Image=..\..\Reference\icons\location_musik.PNG
+Value=7;Location de moyens de transports|Ko defisa/ ko bulisa (location) ya mituka, pusu, porteur (moyens de trasport)|Kukodisha njia za usafiri
+Image=..\..\Reference\icons\location_transport.PNG
+Value=8;Location des locaux (salles de fêtes)|Ko defisa/ ko bulisa (location) ya bisika|Kukodisha majengo
+Image=..\..\Reference\icons\location_locaux.PNG
+Value=9;Frais de photographe|Mbongo ya photographe|Ada ya wapiga picha
+Image=..\..\Reference\icons\photographe.PNG
+Value=10;Frais de publicité|Mbongo ya pubicité (ko sala ete likambo eyebana na bato ya misaka pe ye pene)|Matangazo ya matangazo
+Image=..\..\Reference\icons\publicité.PNG
+Value=11;Cadeaux offerts aux invités|Cado ba pesi bapaya|Zawadi zinazotolewa kwa wageni
+Image=..\..\Reference\icons\cadeau donn.PNG
+Value=12;Autres dépenses|Ba mbongo misusu|Gharama nyingine
+Image=..\..\Reference\icons\autres.PNG
+Value=0;Ne peut pas détailler|Naza na makoki ya ko loba yango moko moko te|Haiwezi maelezo zaidi
+
+[Item]
+Label=Montant total de cette dépense
+Name=FEQ07
+Start=47
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Montant total de cette dépense
+Name=FEQ07_VS1
+Value=0:9999999999;Total dépense||Matumizi ya jumla
+
+[Item]
+Label=Mode d'acquisition
+Name=FEQ08
+Start=57
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mode d'acquisition
+Name=FEQ08_VS1
+Value=0;Cadeau donné|Cadeau Opesi|kupewa zawadi
+Image=..\..\Reference\icons\cadeau donn.PNG
+Value=1;Cadeau reçu|Cadeau Ozui|zawadi iliyotolewa
+Image=..\..\Reference\icons\cadeau_recu.png
+Value=2;bien ou service autoproduit|Biloko to musala oyo yo moko o sali|Kujitolea vizuri au huduma
+Image=..\..\Reference\icons\biens ou services autoproduits.PNG
+Value=3;Achat ambulant|Esombamaki epayi ya bateki ya nzela|Nunua
+Image=..\..\Reference\icons\AchatAmbulant.png
+Value=4;Achat domicile|Esombamaki na ndaku|Ununuzi nyumbani
+Image=..\..\Reference\icons\achat domicile.PNG
+Value=5;Achat marché public|Esombamaki  na wenze|Kununua soko la umma
+Image=..\..\Reference\icons\AchatAuMarche.png
+Value=6;Autre lieu informel|Bisika mosusu eyebani te epa ba konzi|Sehemu nyingine isiyo rasmi
+Image=..\..\Reference\icons\autre lieu formel.png
+Value=7;Achat supermarché|Esombamaki na  supermarché|Ununuzi katika maduka makubwa
+Image=..\..\Reference\icons\AchatAuSupermarch.png
+Value=8;Achat dans un magasin ou un atelier|Esombamaki  na magasin to  na atelier|Ununuzi katika duka au semina
+Image=..\..\Reference\icons\achat dans un magasin.PNG
+Value=9;Achat au secteur public ou parapublic|Esobamaki na ba wenze ya minene to ya mua munene|Esobamaki na ba wenze ya l'Etat
+Image=..\..\Reference\icons\secteur public ou parapublic.PNG
+Value=10;Autre lieu d'achat formel|Bisika mususu ya kosomba|Mahali mengine ya ununuzi
+Image=..\..\Reference\icons\autres.PNG
+Value=11;Achat à l'étranger|Esombamaki libanda ya mboka|Kununua nje ya nchi
+Image=..\..\Reference\icons\AchatAAtranger.png
+
+[Item]
+Label=Raison principale
+Name=FEQ09
+Start=59
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Raison principale
+Name=FEQ09_VS1
+Value=1;Biens ou services moins cher|Biloko to musala ya talo mukie|Bidhaa au huduma nafuu
+Image=..\..\Reference\icons\biens moins cher.png
+Value=2;Biens ou services de meilleure qualité|biloko to musala ya qualite ya malamu|Bidhaa au huduma za ubora bora
+Image=..\..\Reference\icons\meilleure qualite.png
+Value=3;Vendeur fait du crédit|Moteki adefisaka|Muuzaji hufanya mikopo
+Image=..\..\Reference\icons\vendeur fait du credit.PNG
+Value=4;Vendeur proche / pratique|Moteki aza pembeni ya ndaku|Muuzaji karibu / vitendo
+Image=..\..\Reference\icons\vendeur proche.PNG
+Value=5;Accueillant/ ami famille|Moteki ayambaka batu malamu/moteki aza ndeko na ngai|Kukubali / familia ya rafiki
+Image=..\..\Reference\icons\vendeur accueillant.PNG
+Value=6;Spécialisé / pas ailleurs|ye nde spécialiste na ngo/ batekaka  yango kaka esika moko|Maalum / sio mahali pengine
+Image=..\..\Reference\icons\specialis_pas_ailleurs.PNG
+Value=7;Autre raison|motindo mususu|Sababu nyingine
+Image=..\..\Reference\icons\autres.PNG
+
+[Item]
+Label=Raison principale des cadeaux
+Name=FEQ09A
+Start=61
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Raison principale des cadeaux
+Name=FEQ09A_VS3
+Value=6;Maladie
+Image=..\..\Reference\icons\maladie.png
+Value=7;Investissement
+Image=..\..\Reference\icons\investissement.png
+Value=8;Autre
+Image=..\..\Reference\icons\autres.PNG
+
+[ValueSet]
+Label=Raison principale des cadeaux
+Name=FEQ09A_VS2
+Value=4;Décès, funéraille
+Image=..\..\Reference\icons\deces_parent.png
+Value=5;Levée de deuil
+Image=..\..\Reference\icons\deces_funerailles.png
+Value=6;Maladie
+Image=..\..\Reference\icons\maladie.png
+Value=8;Autre
+Image=..\..\Reference\icons\autres.PNG
+
+[ValueSet]
+Label=Raison principale des cadeaux
+Name=FEQ09A_VS1
+Value=1;Fêtes
+Image=..\..\Reference\icons\autres_fetes3.PNG
+Value=2;Baptême, mariage ou autre cérémonie
+Image=..\..\Reference\icons\Bapteme ou Mariage.png
+Value=3;Naissance
+Image=..\..\Reference\icons\naissance.png
+Value=8;Autre
+Image=..\..\Reference\icons\autres.PNG
+
+[Item]
+Label=Origine du produit
+Name=FEQ10
+Start=63
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Origine du produit
+Name=FEQ10_VS1
+Value=1;Local|esalami na mboka|ya apa
+Image=..\..\Reference\icons\local_rdc.PNG
+Value=2;Importé|esalami libanda ya mboka|ya inje
+Image=..\..\Reference\icons\importe.PNG
+Value=3;Ne sait pas|a yebi te|Sijui
+Image=..\..\Reference\icons\autre.png
+
+[Item]
+Label=Autre produit
+Name=AUTRFEQ
+Start=64
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autre produit
+Name=AUTRFEQ_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=libelle de l'événement
+Name=FEQ03A
+Start=65
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Libelle du type de dépense effectué
+Name=FEQ06_A
+Start=90
+Len=25
+DataType=Alpha

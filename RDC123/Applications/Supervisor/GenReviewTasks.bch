@@ -1,0 +1,20 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=GENREVIEWTASKS
+Name=GENREVIEWTASKS
+AppType=Batch
+[External Dictionaries]
+File=..\Dicts\Tasks.dcf
+File=..\Dicts\EPMU1M16.dcf
+[AppCode]
+File=.\GenReviewTasks.bch.apc
+Include=..\Common\GlobalVars.apc
+Include=..\Common\CommandWrappers.apc
+[Message]
+File=.\GenReviewTasks.bch.mgf
+[Order]
+File=.\GenReviewTasks.ord
+[Dictionary Types]
+Dict-Type=..\Dicts\EPMU1HH.dcf,Input,.\GenReviewTasks.ord
+Dict-Type=..\Dicts\Tasks.dcf,External
+Dict-Type=..\Dicts\EPMU1M16.dcf,External

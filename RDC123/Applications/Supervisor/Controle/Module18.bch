@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=MODULE18
+Name=MODULE18
+AppType=Batch
+[AppCode]
+File=.\Module18.bch.apc
+[Message]
+File=.\Module18.bch.mgf
+[Order]
+File=.\Module18.ord
+[Dictionary Types]
+Dict-Type=..\..\Dicts\EPMU1M18.dcf,Input,.\Module18.ord

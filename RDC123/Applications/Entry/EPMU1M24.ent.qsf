@@ -1,0 +1,2274 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 6.3
+
+[LANGUAGES]
+FRA=Français
+LIN=Lingala
+SWA=Swahili
+
+[QUESTION]
+Field=EPMU1M24.CRPD24
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1 
+FRA=\pard\cf1\f0\fs29\lang1036 Selectionner le nom du r\'e9pondant sur la liste des membres du m\'e9nage.\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.M2410H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Fin de l'interview - Heure\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.M2410M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Fin de l'interview - Minutes\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.M2411
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Maintenant je voudrais vous parler de \cf2\b\f1 D\'e9penses de sant\'e9 au cours de 6 derniers mois\cf1\b0 .\f0 Cette interview prend habituellement 40 minutes.\par
+FRA=\par
+FRA=\f1\fs29 ce module concerne les d\'e9penses des m\'e9dicaments, consultations, examens m\'e9dicaux, frais d'hospitalisation et autres services m\'e9dicaux que  vous avez effectu\'e9 au cours de 6 derrnies mois.\cf0\b\f0\fs28\par
+FRA=\b0\par
+FRA=\cf1 Toutes les informations que nous obtiendrons resteront strictement confidentielles et anonymes. vous pouvez toute fois m'interrompre durant l'interview si vous avez autre chose \'e0 faire.\par
+FRA=\tab\tab\tab\tab\tab\tab\tab\b Puis-je commencer maintenant s'il vous plait?\par
+FRA=
+FRA=\pard\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 Sikoyo na lingi na tuna mituna oyo etali ba depenses ya sant\'e9 (ko somba ba kisi, ko futa consultation na hopital, ko futa na labo pona ba examens, ko futa pona ba frais ya hopital...) wuta sanza motoba eyo ewuti ko leka.  \par
+LIN=Mituna oyo ezuaka mingi mingi ba 40 minutes.\par
+LIN=ba informations nionso oko pesa awa eza kaka entre nga na yo, ekobima libanda te...\par
+LIN=okoki ko interrompre ngai tango nionso o lingi soki oza na mituna to eloko mususu ya ko sala.\par
+LIN=\tab\tab\tab\tab\tab\tab\b\fs29 Na koki ko banda?\b0\fs29\par
+LIN=
+LIN=\pard\f1\fs28\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.M2417
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 R\'e9sultat d'interview\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.M24FIN
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Fin \par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ01
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs29\par
+FRA=\fs29 Avez-vous \'e9ffectu\'e9 une d\'e9pense de sant\'e9 au cours des six (6) derniers mois \cf2\b\fs28 (depuis   % sixdernmois %)\cf1  \b0\fs29 y compris les r\'e9parations que vous avez eu \'e0 effectuer   ?\par
+FRA=\par
+FRA=\cf3\i -Si "OUI"   mettez   le nombre de d\'e9pense\par
+FRA=-Si "NON" mettez    0\fs29\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 Est ce que o salali depense ya sante wuta sanza motoba eleki\b\fs28  \cf2 (wuta  % sixdernmois %)\cf1   \b0\fs29 ?\b\fs28\par
+LIN=\b0\f1\par
+LIN=\cf3\i\f0\fs29 -Soki  Andimi  koma  nombre ya ba depense\par
+LIN=-Soki Aboyi     koma  0\par
+LIN=
+LIN=\pard\cf1\i0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ02
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ02: Num\'e9ro de ligne\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28  SANTQ02: Num\'e9ro ya ba lignes\par
+LIN=\b\f1\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs28 SANTQ02: Namba ya mstari\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ03
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs29 S\'e9lectionner le code de \fs24  \cf2\b\f1 %SANTQ03S% \par
+FRA=\b0\fs28\par
+FRA=\cf3\i\f0 Recherchez le code du produit ou service de sant\'e9 declar\'e9 par l'enqu\'eat\'e9 en dessous de la liste deroulante puis renseignez-le\cf1\i0\f1\par
+FRA=\cf3\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\i\f0\fs28 Pona code ya \cf2\i0\fs24  \cf3\b\f1 %SANTQ03S% \b0\fs28\par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs28 SANTQ03:  Teua kitu kiliwe andikiwa pa mtungamano(orodha)\par
+SWA=
+SWA=\pard\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ03N
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ03N. \cf2\i\f1 Libelle du code NAEMA du produit saisi (\cf3\b\i0 % SANTQ03S%\cf2\b0\i )\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28 SANTQ03N.\cf2\i Kombo ya code NAEMA ya produit okomi\cf1\i0  (\cf3\b\f1 % SANTQ03S%)\cf1\b0\f0\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs28 mwao ya kitu ya NAEMA\par
+SWA=
+SWA=\pard\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ03S
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ03S.Pour les d\'e9penses de sant\'e9 (medicament, hospitalisation,...), quel est le produit que vous avez achet\'e9, re\'e7u ou autoproduit au cours de 6 derniers mois ( Depuis \cf2 %sixdernmois%\cf1 )?\par
+FRA=\par
+FRA=\cf3\i\f1\fs29 Renseignez le nom du produit tel que declar\'e9 par l'enqu\'eat\'e9.\cf1\i0\f0\fs28  \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\fs28 SANTQ03S.Pona makambu ya ba depenses ya sante (kisi, ko futa hopital...) , eloko nini bo sombaki, bo zuaki to bo salaki bino moko ko banda lelo ti na sanza motoba oyo eleki  (Banda \cf2 %sixdernmois%\cf1 )?\par
+LIN=\par
+LIN=\cf3\i\f1\fs29 Koma kombo ya depense ya sant\'e9 oyo enqu\'eat\'e9 a lobi\cf1\i0\f0\fs28\par
+LIN=\par
+LIN=\par
+LIN=\cf3\i\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs28 SANTQ03S.\b\f1 Ni bidhaa gani za nyumbani ambazo umepaswa kununua katika miezi 6 iliyopita?\b0\f0\par
+SWA=\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ04
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ04:  \i\f1 -\i0 Quel est le montant total d'achat ou d'acquisition de \cf2\b\f0 %SANTQ03S%\b0\f1  \cf1  ?   \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\fs29 Si c'est un cadeau donn\'e9, re\'e7u ou un bien autoproduit posez la question comme suit:\cf1\i0\fs28  A quel montant  pouvez-vous estimer ce \cf2\b\f0 %SANTQ03S%\b0\f1  \cf1 ? \cf3\i\par
+FRA=\cf1\i0\f0\par
+FRA= \cf3\i\f1 Inscrivez le montant en FC\cf1\i0\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28  SANTQ04:\f1\fs24    \cf2\i\fs29 -\fs28 Soki eza eloko yo moko o sombaki \fs29 tuna boye:\cf1\i0\f0\fs28  Talo nionso ya \cf3\b %SANTQ03S%\cf1\b0  osombaki \f1  \f0 esalaki boni\f1  \f0 ?\cf2\f1\par
+LIN=\i\fs29  - Soki eza cadeau o pesi to ozuaki to eloko yo moko o produire tuna boye :\cf1\i0\f0\fs28  \f1 Talo nionso okoki ko pesa na\f0  \cf3\b %SANTQ03S%\b0\f1  \cf1 ? \cf2\i\par
+LIN=\par
+LIN=Koma talo wana na FC\cf1\i0\f0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs28 SANTQ04: Kiasi zima ngapi uliye toa ili ununue ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs24 SANTQ05.\b0  \b\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 achet\'e9s de \cf2\b %SANTQ03s%\cf1\b0  ?  \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=Si c'est un cadeau donn\'e9 posez la question comme suit: \cf1\i0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 donn\'e9 de \cf2\b %SANTQ03s%\cf1\b0  ?    \par
+FRA=\cf3\i Si c'est un cadeau re\'e7u\cf1\i0  \cf3\i posez la question comme suit:\cf1\i0  Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %SANTQ03s%\cf1\b0  ?\cf3\i      \par
+FRA=Si c'est un bien autoproduit\cf1\i0  \cf3\i posez la question comme suit:\cf1\i0  Quel est le nombre de \cf2\b %xunite%\cf1  \b0 produits de \cf2\b %SANTQ03s%\cf1\b0  ?   \cf3\i\par
+FRA=\par
+FRA=                 \cf1\b\i0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs24 SANTQ05.    -\b0\fs28 Osombaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\par
+LIN=Soki eza eloko a pesi tuna boye: \cf1\i0 Opesaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0  ?    \par
+LIN=\cf3\i Soki eza eloko ba pesi yo\cf1\i0  \cf3\i\fs29 tuna boye\cf1\i0\fs28  Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %SANTQ03s%\cf1\b0  ?    \par
+LIN=\cf3\i Soki eza eloko yo moko o sali\cf1\i0  \cf3\i\fs29 tuna boye :\cf1\i0\fs28  O salaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0  ?            \cf3\i\par
+LIN=\cf1\i0\par
+LIN=                \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=61380
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \b\fs24\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62101
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62102
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62103
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62104
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62105
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62201
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62202
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62203
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62311
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62312
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62313
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62314
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62315
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62316
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62317
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62318
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62319
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62321
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62322
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62323
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62324
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62325
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62326
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62327
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62328
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28\lang1036 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62401
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62402
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=62403
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=63001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28\lang1036 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=63002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28\lang1036 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=63003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28\lang1036 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=63004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28\lang1036 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ05
+Condition=SANTQ03=63005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28\lang1036 -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0  de \cf2\b %SANTQ03s%\cf1\b0   avez-vous pay\'e9? \b\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 -Ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %SANTQ03s%\cf1\b0   o futaki ? \par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ06
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ06: \cf2\b\f1  \cf1\b0\f0 -\f1 En quelle \b unit\'e9\b0  avez-vous achet\'e9 le \fs24  \cf2\b\f0\fs28 %SANTQ03S%\cf1\b0\f1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0  \cf3\i Si c'est un cadeau donn\'e9 posez la question comme suit: \cf1\i0 En quelle \b unit\'e9\b0  avez-vous achet\'e9 \cf2\b\f0 %SANTQ03S%\cf1\b0\f1 ? \par
+FRA=\cf3\i Si c'est un cadeau re\'e7u posez la question comme suit: \cf1\i0 En quelle \b unit\'e9\b0  avez-vous  r\'e9\'e7u le \fs24  \cf2\b\f0\fs28 %SANTQ03S%\b0\f1  \cf1 ?\i  \i0  \i\par
+FRA=\cf3 Si c'est un bien autoproduit posez la question comme suit: \cf1\i0 En quelle \b unit\'e9\b0  avez-vous produit le \fs24  \cf2\b\f0\fs28 %SANTQ03S%\b0\f1  \cf1 ?\cf3\i\par
+FRA=\par
+FRA=\cf1\i0\tab           \cf3\fs24\par
+FRA=\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28 SANTQ06: -Na \b unit\'e9\b0  nini bo sombaki \cf2\b %SANTQ03S%\cf1\b0\f1  ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\par
+LIN=Soki eza eloko a pesi tuna boye : \cf1\i0\f0 Na \b unit\'e9\b0  nini o sombaki \cf2\b %SANTQ03S%\cf1\b0\f1  ?\par
+LIN=\cf3\i Soki eza eloko ba pesi yo tuna boye : \cf1\i0\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b %SANTQ03S%\cf1\b0\f1  ?   \par
+LIN=\cf3\i Soki eza eloko yo moko o sali tuna boye: \cf1\i0\f0 Na \b unit\'e9\b0  nini bo salaki bino moko \cf2\b %SANTQ03S%\cf1\b0\f1  ?     \cf3\i\par
+LIN=\cf1\i0\par
+LIN=                  \par
+LIN=\cf3\par
+LIN=\cf1\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs28 SANTQ06: Mu kitengo gani uliye nunua \b\f1\fs24 %SANTQ03S%\b0\f0\fs28\par
+SWA=
+SWA=\pard\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ07:  \f1 O\'f9 avez-vous achet\'e9 le/la \cf2\b %SANTQ03s% \cf1\b0 ?\tab  \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\i0 -Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0  s'il s'agit d'un cadeau donn\'e9\par
+FRA=\cf3\b\fs24 -\b0\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i s'il s'agit d'un cadeau r\'e9\'e7u  \par
+FRA=\fs29 -\i0\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\cf3\b0\i  s'il s'agit d'un bien autoproduit\par
+FRA=\cf1\i0\par
+FRA=\cf3\i s\'e9l\'e9ctionner une modalit\'e9 correspondant \'e0 la r\'e9ponse de l'enqu\'eat\'e9\cf1\i0\par
+FRA=\cf3\b\fs24  \tab        \b0\i\fs28  \par
+FRA=\b\i0\fs24\tab        \cf2\b0\f0\fs28\par
+FRA=               \cf3\i\f1\par
+FRA=\cf1\b\i0\par
+FRA=\b0\f0  \cf2\b\par
+FRA=\cf3\b0\i\f1\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28 SANTQ07: \f1 Osombaki \cf2\b %SANTQ03s% \cf1 wapi ?\tab\cf3\b0\i (Soki eza eloko moko bo sombaki)\par
+LIN=\cf1\i0   \cf3 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i soki eza cadeau oyo o pesaki\par
+LIN=\cf1\i0   -\cf3 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i soki eza cadeau oyo ozuaki\par
+LIN=\i0  \cf1 -\cf3 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\par
+LIN=\par
+LIN=pona modalit\'e9 oyo ezo correspondre na eyano ya enqu\'eat\'e9 \cf1\b\i0\par
+LIN=\par
+LIN=\b0  \tab      \par
+LIN=               \par
+LIN=\cf3                 \cf1\par
+LIN=\f0\par
+LIN=\b\f1\fs24\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=61380
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 O\'f9 avez-vous\f1  pay\'e9 pour \f0 la \cf2\b %SANTQ03s% \cf1\b0 ?\f1\par
+FRA=
+FRA=\pard\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036  \fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62101
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 pour \f0 la \cf2\b %SANTQ03s% \cf1\b0 ?\f1\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28  \fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\f1\fs28\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62102
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour la \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28  \fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\fs28\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62103
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour la \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\fs28\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62104
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour la \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62105
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour d' \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62201
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour la \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62202
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour l' \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62203
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour l' \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62311
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  l'\cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62312
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  l'\cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62313
+Occurrences=1:99
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  l'\cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62314
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  l'\cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62315
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  l'\cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62316
+Occurrences=1:99
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  l'\cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62317
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  la \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62318
+Occurrences=1:99
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  la \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62319
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  d' \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62321
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  le \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62322
+Occurrences=1:99
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  l' \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62323
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  l' \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62324
+Occurrences=1:99
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  le \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62325
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour d' \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62326
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour la \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62327
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour le \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62328
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 O\'f9 avez-vous\f1  pay\'e9 \f0 pour la  \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29\lang1036 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62401
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour  le \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62402
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour d' \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=62403
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour les \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=63001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 O\'f9 avez-vous\f1  pay\'e9 \f0 les \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29\lang1036 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=63002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 O\'f9 avez-vous\f1  pay\'e9 \f0 les \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29\lang1036 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=63003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 O\'f9 avez-vous\f1  pay\'e9 \f0 les \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29\lang1036 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=63004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 O\'f9 avez-vous\f1  pay\'e9 \f0 les \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29\lang1036 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=
+LIN=\pard\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ07
+Condition=SANTQ03=63005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 O\'f9 avez-vous\f1  pay\'e9 \f0 pour d'  \cf2\b %SANTQ03s% \cf1\b0 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs29 O futaki\fs28  \cf2\b %SANTQ03s% \cf1\b0\fs29 wapi ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 Pour quelle raison principale avez-vous achet\'e9 le/la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\f1\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 Pona motindo nini bosombaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=\cf1\b0\f1\par
+LIN=\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=61380
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62101
+Occurrences=1:99
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62102
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62103
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62104
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62105
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 d' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62201
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62202
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62203
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62311
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62312
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62313
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62314
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62315
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62316
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62317
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62318
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62319
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 d' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62321
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62322
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62323
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 l' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62324
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62325
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 d' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62326
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62327
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62328
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 la \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62401
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62402
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 d' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=62403
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 les \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=63001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 les \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=63002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 les \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=63003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 les \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=63004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 les \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08
+Condition=SANTQ03=63005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang1036 Pour quelle raison principale avez-vous pay\'e9 d' \cf2\b %SANTQ03s%\cf1\b0   \cf2\b %libelle%\par
+FRA=\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28\lang1036 Pona motindo nini bofutaki \cf2\b %SANTQ03s%\cf1\b0  \cf2\b %libelle%\par
+LIN=
+LIN=\pard\cf1\b0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08A
+Condition=SANTQ07 = 0
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28   \cf2\b0\fs29 -Pour quelle raison principale avez-vous donn\'e9 ce cadeau de \cf1 %SANTQ03s%\cf2   comme cadeau ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 -\b0\i0 Pona motindo nini ya motuya bopesaki cadeau ya \cf2\b %SANTQ03s%\cf1\b0   ?  \b\i\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08A
+Condition=SANTQ07 = 1
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28  -Pour quelle raison principale avez-vous re\'e7u ce cadeau de   \cf2\b %SANTQ03s% \cf1\b0  ?\b\i\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 -Pona motindo nini ya motuya ozuaki cadeau ya \cf2\b %SANTQ03s%\cf1\b0  \b  \b0 ?\b\i\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ08A
+Condition=SANTQ07 = 2
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28  -Pour quelle raison principale avez-vous produit le \cf2\b %SANTQ03s%\cf1\b0   \cf2  \cf1 ?\b\i\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28  -Pona motindo nini ya motuya bosalaki bino moko \cf2\b %SANTQ03s%\cf1\b0     ?\b\i\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ09
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ09: \f1 Quel est l'origine du \cf2\b %SANTQ03s%\par
+FRA=\cf1\b0\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28 SANTQ09: \cf2\b\f1 %SANTQ03s%\cf1\b0\f0  \f1 ewuti wapi?\f0\par
+LIN=\f1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs28  SANTQ09: Nini mzizi wa \b\f1 %SANTq03s%\b0\f0\par
+SWA=
+SWA=\pard\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ0A
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 ENTRQ04. \f1  Quel est le montant total  de l'achat de \cf2\b %SANTQ03s%\cf1\b0   ?\par
+FRA=\cf3\i\par
+FRA=\i0 NB: cette question est pos\'e9e uniquement  de la sorte s'il s'agit d'un bien achet\'e9 pour sa propre maison ou un bien achet\'e9 pour donner un cadeau sinon :\i\par
+FRA=(si c'est un cadeau r\'e9\'e7u ou un bien autoproduit posez la question : \cf1\i0 A quel montant  pouvez-vous estimer ce  \cf2\b %SANTQ03s%\b0  \cf1 ?)\cf3\i\par
+FRA=\cf1\i0\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28 ENTRQ04. Montant nionso oyo osombelaki \cf2\b\f1 %SANTQ03s%\cf1\b0  \f0 ?\par
+LIN=\cf3\f1 NB: tuna motuna boye kaka soki ezali eloko osombaki po na ndaku na yo moko to pona kopesa mutu mususu sinon :\cf1\b\par
+LIN=\cf3\b0\i (soki eza cadeau ba pesaki yo to eloko yo moko o produire tuna question boye : \cf1\i0 Montant total nini okoki ko pesa na \cf2\b %SANTQ03s%\cf1\b0  \cf2  \cf1 oyo ?)\cf3\i\par
+LIN=
+LIN=\pard\cf1\i0\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ10
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ10:  -En quel \'e9tat avez-vous achet\'e9 le \cf2\b\f1 %SANTQ03s%\cf1\b0\f0  ?                      \cf3\i\f1\par
+FRA=\tab\cf1\i0\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28 SANTQ10: Na \'e9tat nini bosombaki \cf2\b\f1 %SANTQ03s%\cf1\b0\f0  ?   \f1  \f0                 \f1\par
+LIN=\f0\tab\tab\tab\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ10
+Condition=SANTQ07 = 1
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28  -En quel \'e9tat avez-vous r\'e9\'e7u le \cf2\b\f1 %SANTQ03s%\b0  \cf1 ?   \cf3\i  \par
+FRA=\cf1\i0\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28   -Na \'e9tat nini ozuaki \cf2\b\f1 %SANTQ03s%\cf1\b0  ?\f0\par
+LIN=
+LIN=\pard\cf3\i\f1\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQ10
+Condition=SANTQ07 = 2
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\i\f0\fs28 - \i0 Cochez la modalit\'e9\cf2  \cf3\b non concern\'e9 \cf2\b0    \cf1\i (puisque c'est un bien autoproduit)\par
+FRA=\cf2\i0\f1\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\i\f0\fs28 -\i0 Pona  modalit\'e9\cf2  \cf3\b non concern\'e9 \cf2\b0    \cf1\i (po eza eloko oyo bosalaki bino moko)\cf2\i0\par
+LIN=
+LIN=\pard\f1\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQAUTR
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Avez-vous une autre d\'e9pense ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28 Boza na d\'e9pense mususu?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M24.SANTQTOT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQTOT: D\'e9pense totale de sant\'e9\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28 SANTQTOT: Ba depense nionso esali combien ?\par
+LIN=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ01
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ01. Nombre de lignes\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ02
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ02. Num\'e9ro de ligne\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ03
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ03. Qu'avez-vous effectivement consomm\'e9 ? Code produit ou du service consomm\'e9\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ04
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ04. Quel est le montant total de cette d\'e9pense ? (en Fc)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ05
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQ05. Nombre d'unit\'e9s achet\'e9es par achat\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ06
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 ANTQ06. Unit\'e9    (Kg, Litre,m3,Kwh,Pi\'e8ce,mois)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ07
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 ANTQ07. Mode d\rquote acquisition  (lieu d\rquote achat)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ08
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 ANTQ08. Raison principale\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ09
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 ANTQ09. Origine du produit\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQ10
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 ANTQ10. Etat du produit  (Neuf ou usag\'e9)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_24_DICT.SANTQTOT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 SANTQTOT. D\'e9penses totales de sant\'e9\par
+FRA=}
+

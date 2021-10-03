@@ -1,0 +1,2303 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 6.3
+
+[LANGUAGES]
+FRA=français
+LIN=lingala
+SWA=swahili
+
+[QUESTION]
+Field=EPMU1M11.CRPD
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs28 Selectionnez le code du repondant au module 11\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M11.M1110H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 M1110H. Heure de fin - Heure\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs28 M1110H. tango ya suka na heure\fs29\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 M1110H.wakati wa Mwisho - Muda\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.M1110M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 M1910H. Heure de fin- Minutes\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs28 M1910H. tango ya suka na minute\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs28 M1910H. \fs29 wakati\fs28  wa dakika ya mwisho \fs29\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.M1117
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 R\'e9sultat d'interview\b0\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 Resultat ya interview\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 Matokeo ya mahojiano\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.NRPD
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs28 Nom du repondant\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1A. Etes-vous inqui\'e8ts actuellement  \cf2 des violences d'ordre criminel (en g\'e9n\'e9ral) \cf1 dans votre quotidien? \b0\f1\fs24\par
+FRA=\b\f0\fs29\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29  \cf2 PS1A. Ebangisaka yo mokolo na mokolo \cf1 mobulu etali koboma batou\cf2 ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1A.Je, unyanyasaji wa uhalifu (kwa ujumla) unakuhangaika hivi sasa katika maisha yako ya kila siku?\cf2\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1B. Est-ce que les \cf2 Violences entre communaut\'e9s\cf1  vous inqui\'e8tent actuellement dans votre quotidien?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1B. Mobulu etali \cf2 masanga ya bato (ekolo)\cf1  etungisaka yo mokolo na mokolo?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1B.Je! Unyanyasaji kati ya jumuiya unawahangaikia katika maisha yako ya kila siku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1C. Est-ce que les \cf2 Violences contre les femmes\cf1  vous inqui\'e8tent actuellement dans votre quotidien?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green128\blue255;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1C. \cf2 mobulu etali kolanda basi na makasi \cf1 etungisaka yo mukolo na mukolo?\par
+LIN=\cf3 to pe koluka nzoto ya mwasi na makasi\par
+LIN=\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1C. Je, unyanyasaji dhidi ya wanawake sasa unawahangaika katika maisha yako ya kila siku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1D. Etes vous inqui\'e8ts actuellement dans votre quotidien \cf2\i\fs29 des conflits arm\'e9s ou guerres\cf1\i0\fs29 ?\b0\f1\fs24\par
+FRA=\b\f0\fs29\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1D. \cf2 bitumba na manduki \cf1 etungisaka yo mukolo na mukolo?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1D. Je! Sasa una wasiwasi katika maisha yako ya kila siku ya migogoro ya silaha au vita?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1E. Etes vous inqui\'e8ts actuellement  dans votre quotidien \cf2\i du terrorisme \cf1\i0 ?\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1E. \cf2 mubulu etali ba terroriste \cf1 etungisaka yo mukolo na mukolo?\par
+LIN=\cf3\b0 terroriste:batou oyo ba talisaka ba posa na bango na nzela ya koboma batou ebele ou \par
+LIN=ko bebibisa biloko ya motuya to pe ko miboma \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1E. Je! Sasa una wasiwasi juu ya maisha yako ya kila siku ya ugaidi?\par
+SWA=
+SWA=\pard\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1F. Est-ce que \cf2 les Catastrophes naturelles \cf1 vous inqui\'e8tent actuellement dans votre quotidien?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1F. \cf2 bobebi ya mabele(lokola ba mbula ya makasi to ba mayi kotonda) \cf1 etungisaka yo mokolo na mokolo?\par
+LIN= \par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1F. Je, majanga ya asili yanawahangaikia katika maisha yako ya kila siku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1G. Est-ce que les\cf2  Risques end\'e9miques pour la sant\'e9 (pand\'e9mie, \'e9pid\'e9mie, end\'e9mie, \'85)\cf1  vous inqui\'e8tent actuellement dans votre quotidien?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1G. \cf2 bokweyi na maladie oyo esimbaka batu ebele(malaria,cholera,...) \cf1 etungisaka yo mokolo na mokolo?\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1G. Je! Hatari za afya (janga, janga, endemic, ...) wasiwasi katika maisha yako ya kila siku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1H. Est-ce que la\cf2  Pauvret\'e9\cf1  vous inqui\'e8tent actuellement dans votre quotidien?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1H. \cf2 bozangi mbongo \cf1 etungisaka yo mukolo na mukolo?\par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1H. Je! Umaskini sasa unakuhangaika katika maisha yako ya kila siku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1I. Est-ce que le\cf2  Chom\'e2ge\cf1  vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1I.\cf2 bozangi misala \cf1 etungisaka yo mukolo na mukolo?\par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1I. Je! Chom\'e2ge inawahangaikia sasa katika maisha yako ya kila siku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1J. Est-ce que \cf2 la Faim \cf1 vous inqui\'e8tent actuellement dans votre quotidien?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1J.\cf2 nzala \cf1 etungisaka yo mokolo na mokolo?\par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1J. Je, una wasiwasi juu ya njaa katika maisha yako ya kila siku?\b0\f1\fs24\par
+SWA=
+SWA=\pard\b\f0\fs29\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01K
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1K. Est-ce que les risque d'\cf2 Expulsion (de votre lieu de r\'e9sidence / votre terre)\cf1  vous inqui\'e8tent actuellement dans votre quotidien?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1K.\cf2 makambo etali kobengana batu(na bisika bafandaka/ to na mabele songolo ) \cf1 etungisaka yo mukolo na mukolo?\par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1K. Je! Hatari za kufukuzwa (ya mahali pako / nchi yako) zinawahangaikia katika maisha yako ya kila siku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01L
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1L. Est-ce que le \cf2 Trafic des enfants \cf1 vous inqui\'e8tent actuellement dans votre quotidien?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1L. mambi etali \cf2 ko yiba bana to ketaka bana \cf1 etungisaka yo mukolo na mukolo?\par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1L. Je! Trafiki ya Watoto sasa inakuhangaikia katika maisha yako ya kila siku?...\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1M. Etes vous inqui\'e8ts actuellement dans votre quotidien des \par
+FRA=\cf2\i\fs29 bandits de grands chemins (coupeurs des routes)\cf1\i0\fs29 ? \b0\f1\fs24\par
+FRA=\b\f0\fs29\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1M. miyibi ya nzela etungisaka yo mukolo na mukolo?\par
+LIN=\cf2 batou oyo ba kalaka batu na nzela pona kobotola batou biloko to pe kosala batu mabe\par
+LIN=\cf3\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1M. Je! Sasa una wasiwasi juu ya maisha yako ya kila siku\par
+SWA=barabara kuu (wapiga barabara)?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS01N
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1N. Etes vous inqui\'e8ts actuellement dans votre quotidien des \cf2\i\fs29 Agressions exterieures \cf1\i0\fs29 ?\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS1N. mobulu ewuti libanda ya mboka etungisaka yo mukolo na mukolo?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS1N. Je! Sasa una wasiwasi katika uchokozi wako wa kila siku nje?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02A. Quelle est l'origine de cette menace?\fs29\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02A. mobulu wana etali koboma ewuti wati pona yo?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02A.Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02B. Quelle est l'origine de cette menace?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02B. mobulu wana etali masanga ewuti wati pona yo?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02B.Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02C. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02C.mobulu wana ya kolanda basi na makasi ewuti wati pona yo?\par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02C. Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02D. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02D.bitumba wana etali manduki ewuti wati pona yo?\par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02D. Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02E. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02E. mobulu etali ba terroriste ewuti wati pona yo?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02E. Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02F. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02F.bobebi ya mabele(lokola ba mbula ya makasi to ba mayi kotonda) ewuti wati pona yo?\par
+LIN=\cf2\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02F. Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02G. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02G.\cf2 bokweyi na maladie oyo esimbaka batu ebele(malaria,cholera,...)\cf1  ewuti wapi pona yo?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02G. Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02H. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02H. bozangi mbongo ewuti wati pona yo?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02H. Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02I. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02I.\cf2 bozangi misala wana \cf1\b0 ewuti wapi pona yo?\cf2\b\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02I. Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02J. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02J.\cf2 nzala \cf1\b0 ewuti wapi pona yo?\cf2\b\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02J. Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02K
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02K. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02K.\cf2 ba probleme etali kobengana batu bisika ba vandaka wana \cf1\b0 ewuti wapi pona yo?\cf2\b\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02K.Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02L
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02L. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02L.\cf2 mambi etali koyiba bana to koteka bana wana \cf1\b0 ewuti wapi?\cf2\b\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02L.Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02M. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02M. ewuti wapi?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02M.Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS02N
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS02N. Quelle est l'origine de cette menace?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS02N.ewuti wapi?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS02N.Nini asili ya tishio hili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS03A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS3A. Vous sentez vous en s\'e9curit\'e9 \cf2 Quand vous marchez seul dans votre quartier, le jour \cf1 ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS3A.otambolaka na kimia  \cf2 na quartier  na bino na moyi?\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS3A. Unajihisi salama Unapotembea peke yako katika jirani yako, siku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS03B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS3B. Vous sentez vous en s\'e9curit\'e9 \cf2  Quand vous marchez seul dans votre quartier, la nuit\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS3B. otambolaka na kimia  \cf2 na quartier  na bino na butu?\cf1\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS3B. Jisikie salama unapotembea peke yako katika jirani yako usiku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS03C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS3C. Vous sentez vous en s\'e9curit\'e9 \cf2 Quand vous \'eates seul \'e0 la maison, le jour\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS3C. ozalaka na kimia \cf2 tango ozalaka yo moko na ndaku na moyi?\cf1\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS3C. Unajihisi salama Unapokuwa peke yake nyumbani, siku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS03D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS3D. Vous sentez vous en s\'e9curit\'e9 \cf2 Quand vous \'eates seul \'e0 la maison, la nuit\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS3D. ozalaka na kimia \cf2 tango ozalaka yo moko na ndaku na butu?\cf1\par
+LIN=\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS3D. Je! Unahisi salama Unapokuwa peke yake nyumbani, usiku?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS03E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS3E. Vous sentez vous en s\'e9curit\'e9  \cf2 Quand vous attendez ou \'eates dans un transport en commun (dans votre quartier) \cf1 ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS3E. ozalaka na kimia \cf2 tango ozelaka motuka ou tango ozalaka na kati ya motuka (na quartier na bino)?\cf1\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS3E. Unajisikia salama unaposimama au usafiri wa umma (katika eneo lako)?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS03F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS3F. Vous sentez vous en s\'e9curit\'e9 sur \cf2 votre lieu de travail (ex : champs, march\'e9, atelier, etc.)\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS3F. ozalaka na kimia  \cf2 na esika nayo ya mosala(ndakisa:esika ya bilanga,na wenze, na atelier, etc)?\cf1\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS3F. Je! Unajisikia salama mahali pa kazi (kwa mfano mashamba, soko, semina, nk)?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS03H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS1. Est-ce que le \cf2 Ch\'f4mage\cf1  vous inqui\'e8tent actuellement dans votre quotidien?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04AA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29  PS4.A. Au cours des 12 derniers mois soit \cf2 %douzdernmois% \cf1 , avez-vous \'e9t\'e9 \cf2 victime d\rquote agression (bless\'e9, gifl\'e9, bouscul\'e9, coup de poing, etc.) \cf1 ?  \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4.A.na mbula oyo eleki, okutanaki na motungisi (ya kozokisama, ko betama, ko tindikama)\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4.A. Tangu Januari 2017, umekuwa mhasiriwa wa uchochezi (kujeruhiwa, kupigwa mateka, jostled, punched, nk)?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04AB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4.B. Avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4.B. omemaki (to pe moto mususu) likama yango epa ya mapinga to pe na bisika misusu ya mibeko?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4.B. Je! (Au mtu mwingine) aliripoti tukio hilo kwa kutekeleza sheria, au kwa taasisi nyingine?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04AC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4.C. Avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4.C. bosepelaki na lolenge likambo yango elandelamaki?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4.C. Je! Umejaa kuridhika na njia ambayo tatizo limefanyika?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04BA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS3BA. Au cours des 12 derniers mois soit \cf2 %douzdernmois% \cf1 ,\cf2\b0  \b Quelqu\rquote un s\rquote est introduit dans votre r\'e9sidence sans permission et a vol\'e9 ou essay\'e9 de voler quelque chose\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS3BA. na mbula eleki,\cf2 mutu moko akotelaki bino na ndaku na lolenge ya kimuyibi pe ayibaki to pe alukaki koyiba eloko?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS3BA. Katika miezi 12 iliyopita, je, mtu yeyote aliingia nyumbani kwako bila idhini na kuiba au kujaribu kuiba kitu?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04BB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS3BB\b0\f1\fs24 . \b\f0\fs29 Avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\b0\f1\fs24\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS3BB\b0\f1\fs24 . \b\f0\fs29 omemaki (to pe moto mususu) likama yango epa ya mapinga to pe na bisika misusu ya mibeko?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS3BB. Je! (Au mtu mwingine) aliripoti tukio hilo kwa kutekeleza sheria, au kwa taasisi nyingine?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04BC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS3BC. Avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS3BC. bosepelaki na lolenge likambo yango elandelamaki?\par
+LIN=
+LIN=\pard\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS3BC. Je! Umejaa kuridhika na njia ambayo tatizo limefanyika?\b0\f1\fs24\par
+SWA=
+SWA=\pard\b\f0\fs29\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04CA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29  PS4CA. Y a-t-il eu de la violence ?     \b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4CA. mobulu ya kosimbana na nzoto ezalaki?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4CA. Je! Kuna unyanyasaji?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04DA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PSDA.  Au cours des 12 derniers mois soit \cf2 %douzdernmois%\cf1 , Quelqu\rquote un a-y-il \cf2 d\'e9lib\'e9r\'e9ment d\'e9truit ou endommag\'e9 votre maison, boutique, ou tout autre bien\b0  \cf1\b vous appartenant ou appartenant \'e0 votre m\'e9nage?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PSDA. Mutu moko esi abebisa ndaku,boutique na yo to pe eloko moko ya yo to pe ya mutu \par
+LIN=ya libota nayo?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 SPDA. Je, kuna mtu aliyeharibiwa kwa makusudi au kuharibu nyumba yako, duka, au mali nyingine inayomilikiwa na inayomilikiwa na wewe?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04DB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4DB. \b0\f1\fs24  \b\f0\fs29 Avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4DB. Omemaki (to pe moto mususu) likama yango epa ya mapinga to pe na bisika misusu ya mibeko\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4DB. Je! (Au mtu mwingine) aliripoti tukio hilo kwa kutekeleza sheria, au kwa taasisi nyingine?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04DC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4.DC. \fs29 Avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4.DC. bosepelaki na lolenge likambo yango elandelamaki?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4.DC. Je! Umejaa kuridhika na njia ambayo tatizo limefanyika?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04EA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4EA. Au cours des 12 derniers mois soit \cf2 %douzdernmois%\cf1 , Quelqu\rquote un vous a-t-il \cf2 vol\'e9 \'e0 l\rquote ext\'e9rieur de votre lieu\cf1  de r\'e9sidence ?\b0\f1\fs24\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4EA. Mutu moko esi ayiba yo eloko libanda  ya ndako na yo?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4EA. Je! Mtu aliiba kutoka kwako nje ya mahali pako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04EB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4EB. Avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4EB. Omemaki (to pe moto mususu) likama yango epa ya mapinga to pe na bisika misusu ya mibeko?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4EB. Je! (Au mtu mwingine) aliripoti tukio hilo kwa kutekeleza sheria, au kwa taasisi nyingine?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04EC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4EC. Avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4EC. bosepelaki na lolenge likambo yango elandelamaki?\par
+LIN= \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4EC. Je! Umejaa kuridhika na njia ambayo tatizo limefanyika?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04FA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29  PS4FA. Y a-t-il eu de la violence ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4FA. mobulu ya kosimbana na nzoto ezalaki?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4FA. Je! Kuna unyanyasaji?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04GA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS04GA. Au cours des 12 derniers mois soit \cf2 %douzdernmois%\cf1 , Avez vous \'e9t\'e9 \cf2 victime d\rquote harc\'e8lement sexuel \cf1 ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS04GA. esi batungisayo pona posa ya nzoto nayo?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS04GA. Umekuwa unyanyasaji wa kijinsia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04GB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4GB. Avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4GB. Omemaki (to pe moto mususu) likama yango epa ya mapinga to pe na bisika misusu ya mibeko\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4GB. Je! (Au mtu mwingine) aliripoti tukio hilo kwa kutekeleza sheria, au kwa taasisi nyingine?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04GC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4GC.\b0\f1\fs24  \b\f0\fs29 Avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4GC. bosepelaki na lolenge likambo yango elandelamaki?\par
+LIN=\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4GC. Je! Umejaa kuridhika na njia ambayo tatizo limefanyika?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04HA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4HA. Au cours des 12 derniers mois soit \cf2 %douzdernmois%\cf1 , Avez vous \'e9t\'e9 \cf2 victime de viol ou d\rquote une tentative de viol\cf1 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4HA. esi basangisa nayo nzoto na makasi to pe baluka kosingasa nayo nzoto na makasi?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4HA. Je! Umekuwa mhasiriwa wa ubakaji au kujaribu kubakwa?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04HB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4HB. Avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4HB. Omemaki (to pe moto mususu) likama yango epa ya mapinga to pe na bisika misusu ya mibeko\par
+LIN=\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4HB. Je! (Au mtu mwingine) aliripoti tukio hilo kwa kutekeleza sheria, au kwa taasisi nyingine?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS04HC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS4HC.\b0\f1\fs24  \b\f0\fs29 Avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS4HC. bosepelaki na lolenge likambo yango elandelamaki?\par
+LIN= \par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS4HC. Je! Umejaa kuridhika na njia ambayo tatizo limefanyika?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS05A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS5A. Au cours des 12 derniers mois soit \cf2 %douzdernmois% \cf1 , vous a-t-on \cf2 Menac\'e9 avec une arme \'e0 feu\cf1  ?\par
+FRA=\cf3\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS5A. Na mbula eleki, esi batungisayo na monduki ya moto?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS5A. Katika miezi 12 iliyopita, umekuwa unatishiwa na silaha?\par
+SWA=\cf2\fs29 NB: Msaidizi aliyejiuliza aelewe miezi 12 iliyopita. Badilisha tangu Januari 2017\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS05B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS5B. Au cours des 12 derniers mois soit \cf2 %douzdernmois% \cf1 , vous a-t-on \cf2 Menac\'e9 avec un autre type d'arme (couteau, machette, lame de rasoir, tournevis\'85)\cf1  ?\par
+FRA=\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS5B. na mbula eleki, esi batungisayo na mandoki ya lolenge oyo(mbeli, epasola, gilette, tournevis...)\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS5B. Katika kipindi cha miezi 12 iliyopita, umekuwa unatishiwa na aina nyingine ya silaha (kisu, machete, blazi, screwdriver ...)?\par
+SWA=\cf2\fs29 NB: Msaidizi aliyejiuliza aelewe miezi 12 iliyopita. Badilisha tangu Januari 2017\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS05C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS5C. Au cours des 12 derniers mois soit \cf2 %douzdernmois% \cf1 , vous a-t-on \cf2 Menac\'e9 verbalement (par t\'e9l\'e9phone, SMS, oralement etc)\cf1  ?\par
+FRA=\cf3\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS5C. Na mbula eleki, esi batungisa yo na maloba ya mabe(na nzela ya singa,na makomi etc)?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS5C. Katika miezi 12 iliyopita, umekuwa unaogopwa na maneno (kwa simu, SMS, kinywa, nk)?\par
+SWA=\cf2\fs29 NB: Msaidizi aliyejiuliza aelewe miezi 12 iliyopita. Badilisha tangu Januari 2017\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS06
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS6. Selon vous, la possession d'arme \'e0 feu dans votre quartier est elle r\'e9pandue?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS6. Pona yo, batu ebele na quertier nayo bazali na mandoki to pe kobomba mandoki?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS6. Kwa maoni yako, ni milki ya silaha katika eneo lako lililoenea?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS07
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS7. Est-ce que vous (ou quelqu'un de  votre m\'e9nage) poss\'e9dez une arme \'e0 feu?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS7. yo to (moto moko ya ndaku na bino) azali na mondoki ya moto?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS7. Je, wewe (au mtu yeyote katika kaya yako) ana silaha?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS08
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS8. D'apr\'e8s vous, est-il probable que vous soyez victime de criminalit\'e9?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS8. pona yo, batu mabe bakoki ko kotela bino na ndaku to pe kosala bino mabe?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS8. Kwa maoni yako, kuna uwezekano kwamba wewe ni mwathirika wa uhalifu?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS09A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS9A. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de \cf2 discrimination de la part des forces de l'ordre \'e0 cause de votre Ethnie\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS9A.esi mapinga batungisayo likolo ya ekolo nayo?\par
+LIN=\cf2 lokola oza mukongo,pe ab kongo balingama te na mapinga po \par
+LIN=ba luba nde baleki mingi na mapinga \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS9A. Je! Umewahi kuchukiwa na polisi kwa sababu ya mbio yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS09B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS9B. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de\cf2  discrimination de la part des forces de l'ordre \'e0 cause de votre Langue / dialecte\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS9B. esi mapinga batungisayo likolo ya langue/dialecte?\par
+LIN=\cf2 olobaka kikongo kasi swahili nde elobamaka mingi okati ya mapinga\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS9B. Je! Umewahi kuchuliwa na polisi kwa sababu ya lugha yako / lugha?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS09C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS9C. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de \cf2 discrimination de la part des forces de l'ordre \'e0 cause de votre Religion\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS9C. esi mapinga batungisayo likolo ya kondima nayo?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS9C. Je! Umewahi kuchuliwa na polisi kwa sababu ya dini yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS09D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs29 PS9D. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de \cf2 discrimination de la part des forces de l'ordre \'e0 cause de votre Province\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS9D. esi mapinga batungisayo likolo ya esika owutela?\par
+LIN=\cf2 lokola oza moto ya kasai kasi mapinga balingaka batu ya kasai te\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS9D. Je! Umewahi kuchukiwa na polisi kwa sababu ya asili yako ya kikanda (eneo)?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS09E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS9E. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de \cf2 discrimination de la part des forces de l'ordre parce que vous \'eates \'e9tranger \cf1 ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS9E. esi mapinga batungisayo po ete oza ya mopaya(mutu ya mboka mosusu)?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS9E. Je! Umewahi kuchukiwa na polisi kwa sababu wewe ni mgeni?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS09F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS9F. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de \cf2 discrimination de la part des forces de l'ordre \'e0 cause de votre niveau de vie\cf1  ?\par
+FRA=\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS9F. esi mapinga batungisayo likolo ya lolenge nayo ya ko bika(vivre)?\par
+LIN=\par
+LIN=
+LIN=\pard\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS9F. Je! Umewahi kuchukiwa na polisi kwa sababu ya kiwango cha maisha yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS09G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS9G. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de \cf2 discrimination de la part des forces de l'ordre du fait de votre genre \cf1 ?\par
+FRA=\cf3\i Attention : le GENRE revoit au sexe de l'individu. Si la repondant (enqu\'eat\'e9 est une femme) adapter la question. Faire de m\'eame si c'est un homme.\cf1\b0\i0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS9G. esi mapinga batungisayo likolo ya genre?\par
+LIN=\cf2 Genre awa ezo mema na sexe ya mutu oyo ozo ko tuna mituna.\par
+LIN=soki eza mubali tia na esika ya genre mubali\par
+LIN=\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS9G. Je! Umewahi kuchukiwa na polisi kwa sababu ya jinsia yako?\par
+SWA=\cf2\fs29 Tazama: GENRE inaangalia jinsia ya mtu binafsi. Ikiwa mhojiwa (uchunguzi ni mwanamke) ajaribu swali. Kufanya hivyo kama ni mtu.\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS09H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS9H. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de \cf2 discrimination de la part des forces de l'ordre \'e0 cause de votre Handicap\cf1  ?\par
+FRA=\cf3\i\fs29 Attention : cette question ne doit etre posee que si l'individu \'e0 un HANDICAP. Si pas d'Handicap COCHEZ NON\cf1\b0\i0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS9H. esi mapinga batungisayo likolo ya handicap na yo?\par
+LIN=\cf2 motuna oyo kotuna yango te soki mutu oyo ozo tuna mituna aza handicap\par
+LIN=\cf1\par
+LIN=
+LIN=\pard\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS9H. Je! Umewahi kuchukiwa na polisi kwa sababu ya ulemavu wako?\par
+SWA=\cf2\fs29 Onyo: swali hili linapaswa kuulizwa tu ikiwa mtu ana shida. Ikiwa sio walemavu usio\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS09I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS9I. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de \cf2 discrimination de la part des forces de l'ordre \'e0 cause de votre Appartenance politique\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS9I. esi mapinga batungisayo likolo ya parti politiki oyo ozali?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS9I. Je! Umewahi kuchukiwa na polisi kwa sababu ya ushirikiano wako wa kisiasa?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS10. Au cours des 12 derniers mois soit \cf2 %douzdernmois% \cf1 , avez-vous \'e9t\'e9 forc\'e9 d'offrir un cadeau, faire une faveur ou donner de l'argent \'e0 un repr\'e9sentant des forces de l'ordre en \'e9change d'un service?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS10. Na mbula eleki, esi moto moko ya mapinga asenga yo cadeau, to mosala moko to pe kaniaka pona asala musala oyo osengi ye?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS10. Tangu Januari 2017, umeshindwa kutoa zawadi, kufanya neema au kutoa fedha kwa afisa wa utekelezaji wa sheria badala ya huduma?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS11. Combien de fois au cours de 12 derniers mois soit \cf2 %douzdernmois% \cf1 ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS11.mbala boni na mbula oyo eleki?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M11.PS12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS12. De nos jours, y a-t-il des tensions, conflits ou violences entre les diff\'e9rentes communaut\'e9s qui vivent dans votre quartier?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS12. \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS12. Siku hizi, kuna mvutano, migogoro au vurugu kati ya jamii tofauti zinazoishi katika jirani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS13
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 PS13. Quelle en est l'origine?\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\fs24 PS13. ewuti wapi kasi?\f1\fs29\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS13. Nini asili?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS14. Comment appr\'e9ciez- vous les tensions ou violences entre les diff\'e9rentes communaut\'e9s de votre quartier?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS14.\f1\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS14. Je! Unashukuruje mvutano au vurugu kati ya jamii tofauti katika eneo lako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS15. A votre avis, comment la situation \'e9voluera t-elle au cours des 12 prochains mois ?\cf2\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS15.\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS15. Kwa maoni yako, hali hiyo itabadilikaje mpaka Januari 2019?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS16. Dans votre quartier, y a-t-il un m\'e9canisme, institution ou personne ayant pour fonction d'aider \'e0 r\'e9soudre des conflis?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS16. Na quartier na bino, lolenge moko ezali to pe esika ya mibeko to pe lisusu mutu moko boye oyo musala naye eza kosunga bino pona kosilisa bozangi boyokani na kati na bino?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS16. Katika jirani yako, kuna utaratibu, taasisi au mtu ambaye kazi yake ni kusaidia kutatua conflis?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS17. A qui les habitants du quartier demandent-t-ils principalement assistance en cas de conflit?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS17. batu oyo ya quartier basengaka lisungi epa ya nani tango kozanga boyokani ekotaka?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS17. Wapi wakazi wa jirani wanaomba msaada katika tukio la mgongano?...\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS18
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS18. Cette assistance est-elle efficace?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS18. lisungi yango ezalaka makasi?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS18. Je! Msaada huu ufanisi?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS19
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS19. A quel point pouvez vous faire confiance \'e0 la majorit\'e9 des gens?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS19.\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS19. Ni kiasi gani unaweza kuamini watu wengi?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS20
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS20. A quel point faites-vous confiance \'e0 l'Etat pour assurer votre protection, celle de votre m\'e9nage et de vos biens contre la criminalit\'e9 et la violence?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS20. \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS20. Je! Unaamini kiwango gani ili kulinda, nyumba yako na mali yako dhidi ya uhalifu na vurugu?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS21A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS21A. Quel d\'e9gr\'e9 de confiance avez-vous en \cf2 Votre famille \cf1 ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS21A.\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS21A. Unaamini kiasi gani katika familia yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS21B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS21 B. Quel d\'e9gr\'e9 de confiance avez-vous en \cf2 Vos voisins\cf1  ?\b0\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS21 B. Una kiwango gani cha uaminifu katika jirani zako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS21C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS21. Quel d\'e9gr\'e9 de confiance avez-vous aux\cf2  personnes d\rquote une ethnie diff\'e9rente de la v\'f4tre\cf1  ?\b0\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS21. Je! Una kiwango gani cha uaminifu kwa watu wa kabila tofauti na yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS21D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs29 PS21. Quel d\'e9gr\'e9 de confiance avez-vous aux\cf2  personnes parlant une langue / dialecte diff\'e9rente de la v\'f4tre\cf1  ?\b0\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS21. Unaamini kiasi gani katika watu wanaozungumza lugha / dialeta tofauti na yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS21E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS21. Quel d\'e9gr\'e9 de confiance avez-vous aux\cf2  personnes d\rquote une religion diff\'e9rente de la v\'f4tre\cf1  ?\b0\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS21. Je! Una kiwango gani cha uaminifu kwa watu wa dini tofauti kutoka kwako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS21F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS21. Quel d\'e9gr\'e9 de confiance avez-vous aux\cf2  personnes ayant une affiliation politique diff\'e9rente de la v\'f4tre \cf1 ?\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS21. Je! Una kiwango gani cha uaminifu kwa watu wenye ushirikiano wa kisiasa tofauti kuliko wewe?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS21G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS21. Quel d\'e9gr\'e9 de confiance avez-vous aux\cf2\b0  \b personnes de nationalit\'e9 diff\'e9rente de la v\'f4tre\cf1  ?\b0\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS21. Je! Una kiwango gani cha uaminifu kwa watu wa taifa tofauti kutoka kwako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS22A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS22. Diriez-vous que vous vous sentez \cf2 En s\'e9curit\'e9\cf1  ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS22. okoki kolaba ete oza na ya kobatelama?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS22. Je! Unasema kwamba unasikia salama?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M11.PS22B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PS22. Diriez-vous que vous vous sentez \cf2 Heureux \cf1 ?\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PS22. okoki koloba ete oza na esengo?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PS22. Je! Unasema kwamba unafurahi?\par
+SWA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01A. Est-ce que la menace suivante [\cf2 Violence d\rquote ordre criminel (en g\'e9n\'e9ral)\cf1  ] vous inqui\'e8tent actuellement dans votre quotidien?\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01B. Est-ce que la menace suivante [\cf2 Violence entre communaut\'e9s\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01C. Est-ce que la menace suivante [\cf2 Violence contre les femmes\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01D. Est-ce que la menace suivante [\cf2 Conflit arm\'e9 ou guerre\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01E. Est-ce que la menace suivante [\cf2 Terrorisme\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01F. Est-ce que la menace suivante [\cf2 Catastrophes naturelles\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01G. Est-ce que la menace suivante [\cf2 Risque pour la sant\'e9 (pand\'e9mie, \'e9pid\'e9mie, end\'e9mie, \'85)\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01H. Est-ce que la menace suivante [\cf2  Pauvret\'e9\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01I. Est-ce que la menace suivante [\cf2  Ch\'f4mage \cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01J. Est-ce que la menace suivante [\cf2 Faim\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01K
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01K. Est-ce que la menace suivante [\cf2 Expulsion (de votre lieu de r\'e9sidence / votre terre)\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01L
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01L. Est-ce que la menace suivante [\cf2 Trafic des enfants\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01M. Est-ce que la menace suivante [\cf2 Bandits de grands chemins (Coupeurs de route)\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS01N
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS01N. Est-ce que la menace suivante [\cf2 Agression ext\'e9rieure\cf1 ] vous inqui\'e8tent actuellement dans votre quotidien?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS02
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS2. \cf2 Si 2,3 ou 4\cf1 ,  quel est l'origine de ces menaces?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS03A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS3A. Vous sentez vous en s\'e9curit\'e9 dans la situation suivante : Quand vous marchez seul dans votre quartier, le jour \par
+FRA=\par
+FRA=\cf2 (Lire les modalit\'e9s)\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS03B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS3B. Vous sentez vous en s\'e9curit\'e9 dans la situation suivante : Quand vous marchez seul dans votre quartier, la nuit\par
+FRA=\par
+FRA=\cf2 (Lire les modalit\'e9s)\cf1\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS03C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS3C. Vous sentez vous en s\'e9curit\'e9 dans la situation suivante : Quand vous \'eates seul \'e0 la maison, le jour\par
+FRA=\par
+FRA=\cf2 (Lire les modalit\'e9s)\cf1\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS03D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS3D. Vous sentez vous en s\'e9curit\'e9 dans la situation suivante : Quand vous \'eates seul \'e0 la maison, la nuit\par
+FRA=\par
+FRA=\cf2 (Lire les modalit\'e9s)\cf1\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS03E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS3E. Vous sentez vous en s\'e9curit\'e9 dans la situation suivante : Quand vous attendez ou \'eates dans un transport en commun (dans votre localit\'e9)\par
+FRA=\par
+FRA=\cf2 (Lire les modalit\'e9s)\cf1\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS03F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS3E. Vous sentez vous en s\'e9curit\'e9 dans la situation suivante : A votre lieu de travail (ex : champs, march\'e9, atelier, etc.)\par
+FRA=\par
+FRA=\cf2 (Lire les modalit\'e9s)\cf1\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04AA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28  PS4AA. Avez-vous \'e9t\'e9 victime de la situations suivante :  \cf2 d\rquote une agression\par
+FRA=(bless\'e9, gifl\'e9, bouscul\'e9, coup de poing, etc.)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04AB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4AB. Si oui, avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04AC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4AC. Si l'incident a \'e9t\'e9 rapport\'e9, avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04BA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4BA. Avez-vous \'e9t\'e9 victime de la situation suivante :  \cf2 Quelqu\rquote un s\rquote est introduit dans votre r\'e9sidence sans permission et a vol\'e9 ou essay\'e9 de voler quelque chose\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04BB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4BB. Si oui, avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04BC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4BC. Si l'incident a \'e9t\'e9 rapport\'e9, avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04CA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4CA. Si oui, y a-t-il eu de la violence ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04DA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28  PS4DA. Avez-vous \'e9t\'e9 victime de la situation suivante :  \cf2 Quelqu\rquote un a d\'e9lib\'e9r\'e9ment d\'e9truit ou endommag\'e9 votre maison, boutique, ou tout autre bien vous appartenant ou appartenant \'e0 votre m\'e9nage\par
+FRA=\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04DB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4DB. Si oui, avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04DC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4DC. Si l'incident a \'e9t\'e9 rapport\'e9, avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04EA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28  PS4EA. Avez-vous \'e9t\'e9 victime de la situation suivante :  \cf2  Quelqu\rquote un vous a vol\'e9 \'e0 l\rquote ext\'e9rieur de votre lieu\par
+FRA=de r\'e9sidence\par
+FRA=\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04EB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4EB. Si oui, avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04EC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4EC. Si l'incident a \'e9t\'e9 rapport\'e9, avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04FA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4FA. Si oui, y a-t-il eu de la violence ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04GA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4GA. Avez-vous \'e9t\'e9 victime de la situation suivante :  \cf2 victime d\rquote harc\'e8lement sexuel\par
+FRA=\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04GB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4GB. Si oui, avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04GC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4GC. Si l'incident a \'e9t\'e9 rapport\'e9, avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04HA
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28  PS4HA. Avez-vous \'e9t\'e9 victime de la situation suivante :  \cf2 victime de viol ou d\rquote une tentative\par
+FRA=de viol\par
+FRA=\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04HB
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4HB. Si oui, avez-vous (ou quelqu'un d'autre)  rapport\'e9 l'incident aux forces de l'ordre, ou \'e0 une autre institution?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS04HC
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS4HC. Si l'incident a \'e9t\'e9 rapport\'e9, avez-vous \'e9t\'e9 satisfait de la fa\'e7on dont le probl\'e8me a \'e9t\'e9 trait\'e9?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS05A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS05A. Au cours des 12 derniers mois, vous a-t-on : \cf2 Menac\'e9 avec une arme \'e0 feu\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS05B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS05B. Au cours des 12 derniers mois, vous a-t-on : \cf2 Menac\'e9 avec un autre type d'arme (couteau, machette, lame de rasoir, tournevis\'85)\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS05C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS05B. Au cours des 12 derniers mois, vous a-t-on : \cf2 Menac\'e9 verbalement (par t\'e9l\'e9phone, SMS, oralement etc)\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS06
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS6. Selon vous, la possession d'arme \'e0 feu dans votre quartier est elle r\'e9pandue?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS07
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS7. Est-ce que vous (ou quelqu'un de  votre m\'e9nage) poss\'e9dez une arme \'e0 feu?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS08
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS8. D'apr\'e8s vous, est-il probable que vous soyez victime de criminalit\'e9?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS9. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination de la part des forces de l'ordre du fait de votre : \par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS10. Au cours des 12 dernies mois, avez-vous \'e9t\'e9 forc\'e9 d'offrir un cadeau, faire une faveur ou donner de l'argent \'e0 un repr\'e9sentant des forces de l'ordre en \'e9change d'un service?\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS12. De nos jours, y a-t-il des tensions, conflits ou violence entre les diff\'e9rentes communaut\'e9s qui vivent dans votre quartier?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS13
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS13. Si oui, a votre avis, quel en est l'origine?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS14. Comment appr\'e9ciez- vous les tensions ou violences entre les diff\'e9rentes communaut\'e9s de votre quartier?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS15. A votre avis, comment la situation \'e9voluera t-elle au cours des 12 prochains mois?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS16. Dans votre quartier, y a-t-il un m\'e9canisme, institution ou personne ayant pour fonction d'aider \'e0 r\'e9soudre des conflis?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS17. A qui les habitants du quartier demande-t-il principalement assistance en cas de conflit?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS18
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS18. Cette assistance est-elle efficace?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS19
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS19. A quel point pouvez vous faire confiance \'e0 la majorit\'e9 des gens?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS20
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS20. A quel point faites-vous confiance \'e0 l'Etat pour assurer votre protection, celle de votre m\'e9nage et de vos biens contre la criminalit\'e9 et la violence?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS21A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS21A. De mani\'e8re sp\'e9cifique, quel d\'e9gr\'e9 de confiance avez-vous en les personnes suivantes : Votre famille\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS21B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS21B. De mani\'e8re sp\'e9cifique, quel d\'e9gr\'e9 de confiance avez-vous en les personnes suivantes : Vos voisins\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS21C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS21C. De mani\'e8re sp\'e9cifique, quel d\'e9gr\'e9 de confiance avez-vous en les personnes suivantes : Les personnes d\rquote une ethnie diff\'e9rente de la v\'f4tre\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS21D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS21D. De mani\'e8re sp\'e9cifique, quel d\'e9gr\'e9 de confiance avez-vous en les personnes suivantes : Les personnes parlant une langue / dialecte diff\'e9rent(e) de la v\'f4tre\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS21E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS21E. De mani\'e8re sp\'e9cifique, quel d\'e9gr\'e9 de confiance avez-vous en les personnes suivantes : Les personnes d\rquote une religion diff\'e9rente de la v\'f4tre\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS21F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS21F. De mani\'e8re sp\'e9cifique, quel d\'e9gr\'e9 de confiance avez-vous en les personnes suivantes : Les personnes ayant une affiliation politique diff\'e9rente de la v\'f4tre\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS21G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS21G. De mani\'e8re sp\'e9cifique, quel d\'e9gr\'e9 de confiance avez-vous en les personnes suivantes : Les personnes de nationalit\'e9 diff\'e9rente de la v\'f4tre\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS22A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS22A. Tout compte fait, diriez-vous que vous vous sentez : En s\'e9curit\'e9\par
+FRA=}
+
+[QUESTION]
+Field=MOD_11_DICT.PS22B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PS22B. Tout compte fait, diriez-vous que vous vous sentez : Heureux\par
+FRA=}
+

@@ -1,0 +1,29 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=DEPENSES EDUCATION
+Name=EPMU1M27
+AppType=DataEntry
+OperatorID=No
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+[External Dictionaries]
+File=..\Dicts\Clusters.dcf
+File=..\Dicts\Tasks.dcf
+[AppCode]
+File=.\EPMU1M27.ent.apc
+Include=..\Common\CommandWrappers.apc
+Include=..\Common\GlobalVars.apc
+Include=..\Common\coicop.apc
+[Message]
+File=.\EPMU1M27.ent.mgf
+[Help]
+File=.\EPMU1M27.ent.qsf
+[Forms]
+File=.\EPMU1M27.fmf
+[Dictionary Types]
+Dict-Type=..\DICTS\EPMU1M27.dcf,Input,.\EPMU1M27.fmf
+Dict-Type=..\Dicts\Clusters.dcf,External
+Dict-Type=..\Dicts\Tasks.dcf,External

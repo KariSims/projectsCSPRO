@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=MODULE_MENAGE
+Name=MODULE_MENAGE
+AppType=Batch
+[AppCode]
+File=.\Module_Menage.bch.apc
+[Message]
+File=.\Module_Menage.bch.mgf
+[Order]
+File=.\Module_Menage.ord
+[Dictionary Types]
+Dict-Type=..\..\Dicts\EPMU1HH.dcf,Input,.\Module_Menage.ord

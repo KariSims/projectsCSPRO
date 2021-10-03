@@ -1,0 +1,2608 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 6.3
+
+[LANGUAGES]
+FRA=Français
+LIN=Lingala
+SWA=Swahili
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ01
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1 
+FRA=\pard\cf1\b\i\fs28 EDUCQ01\b0\i0 . Avez-vous achet\'e9, donn\'e9 ou re\'e7u des biens d'\'e9ducation 12 derniers mois \cf2\b (de % sixdernmois % \'e0 %underniermois%)\cf1\b0\par
+FRA=\par
+FRA=\cf3 - Si oui, mettez le nombre de depenses\par
+FRA=- Si non, mettez 0 \par
+FRA=\cf1\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1 
+LIN=\pard\cf1\b\i\fs28 EDUCQ01. \b0\i0  Est-ce que bo sombaki, bo pesaki, bo zuaki biloko oyo etali ba depenses d'education ko banda sanza motoba oyo eleki ti lelo \cf2\b (de % sixdernmois % \'e0 %underniermois%)\par
+LIN=\cf3\b0\par
+LIN=- Soki ezali, botia nombres ya ba depenses\par
+LIN=- Si eza te, botia 0 \par
+LIN=\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ01\b0\i0 . Hesabu ya mstari\b\i\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ02
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ02.\b0\i0  Num\'e9ro de ligne\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ02. \b0\i0 Num\'e9ro ya ligne\b\i\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ02. \b0\i0 Namba ya mstari\b\i\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ03
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ03.\cf2\b0  Selectionner le code de \cf3\b\i0\f1 %EDUCq03s%\cf1\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ03.\cf2\b0  Pona code ya \cf3\b\i0\f1 %EDUCq03s%\cf2\b0\i\f0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ03. \cf2\b0\f1 Chagua code wa \cf3\b\i0 %EDUCq03s%\cf1\i\f0\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ03N
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ03N.\cf2\b0\f1  Libelle du code NAEMA du produit saisi\cf1\i0  \cf2\i (\cf3\b\i0 %EDUCq03s%\cf2\b0\i )\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ03N. \cf2\b0 Kombo ya code NAEMA ya produit okomi \f1 (\cf3\b\i0 %EDUCq03s%\cf2\b0\i )\cf1\b\f0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ03N.\cf2\b0\f1  Mwao ya code ya NAEMA ya kitu kiliyo andikiwa\cf1\i0  \cf2\f0 (\cf3\b\f1 %EDUCq03s%\cf2\b0\f0 )\cf1\b\i\par
+SWA=\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ03S
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ03S.\b0\i0  Pour les d\'e9penses d'\'e9ducation, quel est leproduit que vous avez achet\'e9 ou re\'e7u au cours de 12 derniers mois ?\par
+FRA=\par
+FRA=\cf2\i Il s'agit de preciser \'e0 l'enqu\'eat\'e9 \'e0 quel mois de l'ann\'e9e pass\'e9e correspond au 12 derniers mois\par
+FRA=Par ex, dites depuis fevrier 2017\par
+FRA=\cf1\i0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ03S.\b0\i0  Pona makambu ya ba depenses ya kelasi bo sombaki, eloko nini bo sombaki to bo zuaki lokola cadeau ko banda lelo ti na sanza zomi na mibale oyo eleki ?\par
+LIN=\par
+LIN=\cf2\i Enqu\'eateur asengeli ko preciser epayi ya enqu\'eat\'e9, sanza nini ya mbula oyo ewuti ko leka ezo correspondre na sanza zomi na mibale oyo eleki\par
+LIN=Par ex  : bo loba banda fevrier ya 2017\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ04
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ04\b0\i0 . \i\f1 -\i0 Quel est le montant total d'achat ou d'acquisition de \cf2\b %EDUCq03s%\b0  \cf1  ? \cf3\i (Si c'est un bien achet\'e9 ou pay\'e9)\par
+FRA=\cf1\i0\f0\par
+FRA=                    \f1 -A quel montant  pouvez-vous estimer ce \cf2\b %EDUCq03s%\b0  \cf1 ?   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \cf1\i0\par
+FRA=\f0\par
+FRA=\cf3\i\f1\tab\tab Inscrivez le montant en FC\cf1\i0\f0\par
+FRA=\par
+FRA=\cf3\i\f1\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ04. \b0\i0 -Talo nionso ya \cf2\b\f1 %EDUCq03s%\cf1\b0\f0  osombaki \f1  \f0 esalaki boni\f1  \f0 ?\cf3\i\f1 (Soki eza eloko moko bo sombaki)\par
+LIN=\i0\par
+LIN=\cf1\f0\tab            -\f1 Talo nionso okoki ko pesa na\f0  \cf2\b\f1 %EDUCq03s%\b0  \cf1 ? \cf3 (\i Soki eza cadeau ozuaki to eloko yo moko o produire)\par
+LIN=\par
+LIN=\tab\tab Koma talo wana na FC\par
+LIN=\f0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ04\b0\i0 .-Kiasi zima ngapi uliye toa ili ununue \cf2\b\f1 %EDUCq03s%\cf3\b0\i  \cf1\i0\f0 ? \f1 (non traduit : si c'est un bien achet\'e9)\b\i\f0\par
+SWA=\b0\i0\par
+SWA=\par
+SWA=\cf3\i\f1 Andika kiasi cha FC\par
+SWA=\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 . \b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 achet\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\i0\f1\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 Osombaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=\cf1\i0\par
+LIN=\par
+LIN=\b\i\f1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\f0\fs28 EDUCQ05.\i0  -\b0 Buingi ya\cf2  \b %xunite%\cf1\b0  wa \cf2\b %EDUCq03s%\cf1\b0\f1  \f0 uliye nunua ? (non traduit : si c'est un bien achet\'e9)\b\i\f1\par
+SWA=\par
+SWA=\par
+SWA=\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=101001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=101002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=102001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=102002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=104001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=104002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=105001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=105002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=105003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=105004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=105005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=105006
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=105007
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=105008
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=105009
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=111201
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=111202
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=111204
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=112001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=112002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=112003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=112005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ05
+Condition=EDUCQ03=96001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\f0\fs28 EDUCQ05\b0\i0 .\b -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 pay\'e9s de \cf2\b %EDUCq03s%\cf1\b0  ?  \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=                 \cf1\b\i0    -\b0 Quel est le nombre de \cf2\b %xunite%\cf1  \b0 r\'e9\'e7us de \cf2\b %EDUCq03s%\cf1\b0  ?\cf3\i  (Si c'est un cadeau r\'e9\'e7u ) \par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\f0\fs28 EDUCQ05.  \i0\fs24 -\b0\fs28 O futaki ba \cf2\b %xunite%\cf1\b0  boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                     -Bapesaki yo ba \cf2\b %xunite%\b0  \cf1 boni ya \cf2\b %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous achet\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=\cf1\b\i0\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo sombaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?   \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=\cf1\i0\par
+LIN=\b\i\f0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 Mu kitengo gani uliye nunua \cf2\b\f1 %EDUCq03s%\b0  \cf1 ? (non traduit : si c'est un bien achet\'e9)\b\i\f0\par
+SWA=\par
+SWA=\b0\i0\par
+SWA=\b\i\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=101001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=101002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=102001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=102002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=104001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=104002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=105001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=105002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=105003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=105004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=105005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=105006
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=105007
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=105008
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=\par
+FRA=\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=\par
+LIN=\cf1\i0\par
+LIN=\cf3\i\par
+LIN=\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=105009
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=111201
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=\par
+FRA=\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=\par
+LIN=\cf1\i0\par
+LIN=\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=111202
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=\par
+LIN=\cf1\i0\par
+LIN=\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=112001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=112002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=112003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=112004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=112005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ06
+Condition=EDUCQ03=96001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -\f1 En quelle \b unit\'e9\b0  avez-vous pay\'e9 le \cf2\b %EDUCq03s%\b0  \cf1 ? \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\cf1\i0\tab            \f0 -\f1 En quelle \b unit\'e9\b0  avez-vous r\'e9\'e7u le \cf2\b %EDUCq03s% \cf1\b0 ?\i  \cf3 (Si c'est un cadeau r\'e9\'e7u)\par
+FRA=
+FRA=\pard\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ06. \b0\i0 -Na \b unit\'e9\b0  nini bo futaki \cf2\b\f1 %EDUCq03s%\cf1\b0 ?  \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\cf1\i0\par
+LIN=                    -\f0 Na \b unit\'e9\b0  nini bo zuaki \cf2\b\f1 %EDUCq03s%\cf1\b0  ?  \cf3\i (Soki eza cadeau oyo ozuaki)\par
+LIN=
+LIN=\pard\cf1\b\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous achet\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien achet\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\i0\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 Osombaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 Uliye nunua wapi\fs24  \fs28  \cf2\b %EDUCq03s%\cf1  \b0 ? (non traduit : si c'est un bien achet\'e9)\b\i\f0\par
+SWA=\f1\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=101001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=101002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=102001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=102002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=104001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=104002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=105001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=105002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=105003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=105004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo futaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=105005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=105006
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=105007
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=105008
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=105009
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=111201
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=111202
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=1120005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=112001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=112002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=112003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=112004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ07
+Condition=EDUCQ03=96001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ07\b0\i0 . \f1 O\'f9 avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  ?    \cf3\i (Si c'est un bien pay\'e9)\par
+FRA=\par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau donn\'e9\cf1\b0   \cf3\i (Si c'est un cadeau donn\'e9 ) \par
+FRA=\i0\fs24\tab\tab -\fs28 Cochez la modalit\'e9\cf1\b  \cf2 cadeau r\'e9\'e7u\cf1\b0   \cf3\i (Si c'est un cadeau r\'e9\'e7u )  \tab\cf2\i0\f0\par
+FRA=\tab\tab\cf3\f1\fs24 -\fs28 Cochez la modalit\'e9\cf1  \cf2\b bien autoproduit\b0   \cf3\i (Si c'est un bien autoproduit)\par
+FRA=\cf1\b\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ07.\b0\i0   \f1 O futaki \cf2\b %EDUCq03s%\cf1  \b0 wapi ?   \cf3\i (Soki eza eloko moko bo sombaki)\par
+LIN=\tab\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau opesi \cf1\b0  \cf3\i (Soki eza cadeau oyo o pesaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b cadeau ozui\cf1\b0   \cf3\i (Soki eza cadeau oyo ozuaki)\cf1\i0\par
+LIN=\cf3\fs24\tab\tab -\fs28 Pona modalit\'e9 \cf2\b eloko to musala yo moko osali \cf3\b0\i (Soki eza eloko oyo bosalaki bino moko)\cf1\i0\par
+LIN=\b\i\par
+LIN=
+LIN=\pard\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous achet\'e9 \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bosombaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Kwa sababu mku gani uliye nunua \cf2\b %EDUCq03s%\cf1\b0\f0  ku \b\f1 %libelle% \b0 ?\b\i\f0\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=101001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=101002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=102001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=102002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=104001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=104002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=105001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=105002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=105003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=105004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=105005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=105006
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\f0\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=105007
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=105008
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=105009
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=111201
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=111202
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=112001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=112002
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=112003
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=112004
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=112005
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08
+Condition=EDUCQ03=96001
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08\b0\i0 . \f1 Pour quelle raison principale avez-vous pay\'e9 le \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08. \b0\i0\f1 Pona motindo nini ya motuya bo futaki \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08A
+Condition=EDUCQ07=0
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28\lang1036 EDUCQ08A\b0\i0 . \f1 Pour quelle raison principale avez-vous donn\'e9 ce cadeau de \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ? \f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08A. \b0\i0\f1 Pona motindo nini ya motuya bopesaki cadeau ya \cf2\b %EDUCq03s%\cf1\b0  \b %libelle% \b0 ? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ09. \b0\i0\f1 Kwa sababu mku gani uliye nunua \b zawadi\b0  \cf2\b %EDUCq03s%\cf1\b0  ku \b %libelle% \b0 ? (non traduit : si c'est un bien achet\'e9)\b\i\f0\par
+SWA=\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ08A
+Condition=EDUCQ07=1
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ08A\b0\i0 .\f1  Pour quelle raison principale avez-vous re\'e7u ce cadeau de   \cf2\b %EDUCq03s%\cf1\b0  \b %libelle%\b0  ?\cf2  \cf3\i\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ08A\b0\i0 . \f1 Pona motindo nini ya motuya ozuaki cadeau ya \cf2\b %EDUCq03s%\cf1\b0  \b %libelle%\b0  ? \b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ09
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ09. \b0\i0\f1 Quel est l'origine du \cf2\b %EDUCq03s%\cf1\b0  ?\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ09. \cf2\i0\f1 %EDUCq03s%\b0  \cf1 esalamaki wapi ?\b\i\f0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ09. \b0\i0 Nini mzizi wa \cf2\b\f1 %EDUCq03s%\cf1  \b0 ?\b\i\f0\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ10
+Condition=EDUCQ07=0
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ10.\b0\i0  En quel \'e9tat avez-vous achet\'e9 le \cf2\b\f1 %EDUCq03s%\cf1\b0\f0  ?\cf3\i\f1   \par
+FRA=\par
+FRA=\tab\tab\tab\par
+FRA=\cf1\i0\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ10. \b0\i0 Na \'e9tat nini bosombaki \cf2\b\f1 %EDUCq03s%\cf1\b0\f0 ?   \f1  \par
+LIN=\f0\tab\tab\cf3\i\f1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28 EDUCQ10. \b0\i0 Ni nini hali ya \cf2\b\f1 %EDUCq03s%\cf1\b0\f0  ? \f1 (non traduit : si c'est un bien achet\'e9)\b\i\f0\par
+SWA=\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQ10
+Condition=EDUCQ07=1
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ10. \b0\i0 En quel \'e9tat avez-vous r\'e9\'e7u le \cf2\b\f1 %EDUCq03s%\b0  \cf1 ? \b\i\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ10.\b0\i0  Na \'e9tat nini ozuaki\cf2\b\f1  %EDUCq03s%\b0  \cf1 ?\b\i\f0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQAUTR
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\i\fs28 EDUCQ10.\b0\i0  Avez-vous un autre bien achet\'e9, r\'e9\'e7u ou autoproduit?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+LIN=\pard\cf1\b\i\fs28 EDUCQ10. \b0\i0 Boza na biloko mususu bsambaki, bo zuaki to bo salaki bino moko ?\b\i\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+SWA=\pard\cf1\b\i\fs28\tab\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M27.EDUCQTOT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 D\'e9pense totale d'\'e9ducation\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+LIN=\pard\cf1\fs28 Ba depenses nionso ya makambu etali kelasi\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.M271
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Num\'e9ro de grappe\fs24\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M2710H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Fin de l'interview - Heure\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M2710M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Fin de l'interview - Minutes\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M2711
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\widctlpar\sa160\sl252\slmult1\cf1\f0\fs28 Consentement\cf0\par
+FRA=Maintenant, je voudrais vous parler de\cf2\b\~D\'e9penses d'\'e9ducation\b0 . \cf0 Cette interview prend habituellement au plus 30 minutes. \par
+FRA=\cf2 Ces questions nous permettront de connaitre toutes les d\'e9penses li\'e9es \'e0 l'\'e9ducation au cours de 12 derniers mois \par
+FRA=\cf0\'ab\~Toutes les informations que nous obtiendrons resteront strictement confidentielles et anonymes\~\'bb\par
+FRA=Puis-je commencer maintenant\~?\par
+FRA=
+FRA=\pard\cf3\f1\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\f0\fs28 Consentement\par
+LIN=\par
+LIN=\cf0 Sikoyo, na lingi na lobela bino makambu ya \cf2\b Depenses etali education. \cf0\b0 Intervieuw oyo ekoki ko zua biso 1 heure.\par
+LIN=\par
+LIN=Ba motuna oyo eko sunga biso to yeba ba depenses nionso etali education kobanda lelo ti na sanza zomi na mibale oyo ewuti ko leka\par
+LIN=\par
+LIN=\'abBa informations nionso oyo toko zua eko zala confidentielles \'bb\par
+LIN=\par
+LIN=Na koki ko banda ?\par
+LIN=\cf3\b\i\par
+LIN=\f1\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M27.M2717
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Resultat d'interview\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M272
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Num\'e9ro de m\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M276J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Jour de l'interview\fs24\par
+FRA=
+FRA=\pard\fs28\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M277
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Milieu\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M27ADDR
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Adresse du M\'e9nage\fs24\par
+FRA=
+FRA=\pard\fs28\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M27HINT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Code Enqu\'eateur\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M27INT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Code Enqu\'eateur\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M27.M27NAME
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Nom du chef de m\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ01
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ01. Nombre de lignes\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ02
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ02. Num\'e9ro de ligne\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ03
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ03. Qu'avez-vous effectivement consomm\'e9 ? Code produit ou du service consomm\'e9\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ04
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ04. Quel est le montant total de cette d\'e9pense ? (en Fc)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ05
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ05. Nombre d'unit\'e9s achet\'e9es par achat\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ06
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ06. (Pi\'e8ce, carton, trimestre....)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ07
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ07. Mode d'acquisition (lieu d'achat)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ08
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ08. Raison principale\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ09
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ09. Orgine du produit\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQ10
+Occurrences=1:99
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQ10. Etat du produit (neuf ou usag\'e9)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_27_DICT.EDUCQTOT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EDUCQTOT. D\'e9penses totales d'\'e9ducation\par
+FRA=}
+

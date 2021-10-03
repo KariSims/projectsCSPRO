@@ -1,0 +1,28 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=EPMU1M34
+Name=EPMU1M34
+AppType=DataEntry
+OperatorID=No
+CAPI=Yes
+CAPIFont1=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+CAPIFont2=-019 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+[External Dictionaries]
+File=..\Dicts\Clusters.dcf
+File=..\Dicts\Tasks.dcf
+[AppCode]
+File=.\EPMU1M34.ent.apc
+Include=..\Common\CommandWrappers.apc
+Include=..\Common\GlobalVars.apc
+[Message]
+File=.\EPMU1M34.ent.mgf
+[Help]
+File=.\EPMU1M34.ent.qsf
+[Forms]
+File=.\EPMU1M34.fmf
+[Dictionary Types]
+Dict-Type=..\Dicts\Clusters.dcf,External
+Dict-Type=..\Dicts\Tasks.dcf,External
+Dict-Type=..\Dicts\EPMU1M34.dcf,Input,.\EPMU1M34.fmf

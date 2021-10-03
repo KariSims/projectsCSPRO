@@ -1,0 +1,799 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=MODULE 24: DEPENSES DE SANTE AU COURS DES  6 DERNIERS MOIS
+Name=EPMU1M24
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=français
+LIN=lingala
+SWA=swahili
+
+[Level]
+Label=MODULE 24: DEPENSES DE SANTE AU COURS DES  6 DERNIERS MOIS questionnaire
+Name=M24
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=M241
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=M242
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro enquêteur
+Name=M24INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M243
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M243_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS DU MODULE 24
+Name=MODM24
+RecordTypeValue='M24'
+RecordLen=181
+
+[Item]
+Label=Code Enquêteur|Numéro Enquêteur
+Name=M24HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur|Numéro Superviseur
+Name=M245
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview|Date d'interview
+Name=M246
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview|Jour d'interview
+Name=M246J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview|Jour d'interview
+Name=M246J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de l'interview|Mois d'interview
+Name=M246M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=M246M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année de l'interview|Année d'interview
+Name=M246A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview|Année d'interview
+Name=M246A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu|Milieu de résidence
+Name=M247
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu|Milieu de résidence
+Name=M247_VS1
+Value=1;URBAIN
+
+[Item]
+Label=Province|Province
+Name=M248
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province|Province
+Name=M248_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps dudébut de l'interview|Temps début de l' interview
+Name=M249
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M249H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M249H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M249M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M249M_VS1
+Value=0:59
+
+[Item]
+Label=L'heure de la fin de l'interview|Temps de fin de l'interview
+Name=M2410
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M2410H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M2410H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M2410M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M2410M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement |Consentement
+Name=M2411
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement |Consentement
+Name=M2411_VS1
+Value=1;OUI, PERMISSION DONNEE|IYO, ANDIMI KO YANOLA|NDIYO, RUHUSA ILIYOTOLEWA
+Image=..\..\Reference\icons\OuiPermission.png
+Value=2;NON, PERMISSION NON DONNEE |TE, ABOYI NAYE|HAPANA, RUHUSA NAIPATIKANI
+Image=..\..\Reference\icons\NonPermission.png
+
+[Item]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M2417
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M2417_VS1
+Value=1;COMPLETE|COMPLETE|أُنجزت المقابلة
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|PAS DE MEMBRE DU MENAGE A LA MAISON OU PAS DE REPONDANT DU MENAGE COMPETENT A LA MAISON AU MOMENT DE LA VISITE|لا يوجد أي فرد من أفراد الأسرة المعيشية أو مستجيب كفؤ في المنزل للإجابة وقت الزيارة
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE DE TEMPS|الأسرة بأكملها غير متواجدة في المسكن لمدة زمنية طويلة
+Value=4;REFUS|REFUS|رفضت الأسرة إجراء المقابلة
+Value=5;LOGEMENT VIDE|LOGEMENT VIDE OU ADRESSE N’EST PAS CELLE D’UN LOGEMENT|المسكن فارغ أو العنوان ليس مسكن
+Value=6;LOGEMENT DETRUIT|LOGEMENT DETRUIT|المسكن هدم
+Value=7;LOGEMENT PAS TROUVE|LOGEMENT PAS TROUVE|لم يتم العثور على المسكن
+Value=96;AUTRE
+
+[ValueSet]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M2417_VS2
+Value=1;COMPLETE|COMPLETE|أُنجزت المقابلة
+
+[Item]
+Label=Nom du chef de ménage|Nom du chef de ménage
+Name=M24NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M24ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M24FIN
+Start=122
+Len=1
+
+[ValueSet]
+Label=Finish
+Name=M24FIN_VS1
+Value=1;Revisiter le questionnaire
+Image=..\..\Reference\icons\revisiter.png
+Value=2;Ajouter les  notes
+Image=..\..\Reference\icons\notes.png
+Value=3;Savegarder questionnaire et terminer
+Image=..\..\Reference\icons\sauvegarder.png
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer
+
+[Item]
+Label=Nombre de ligne
+Name=SANTQ01
+Start=124
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de ligne
+Name=SANTQ01_VS1
+Value=0:99
+
+[Item]
+Label=Total santé
+Name=SANTQTOT
+Start=126
+Len=14
+ZeroFill=Yes
+
+[Item]
+Label=Code du repondant
+Name=CRPD24
+Start=140
+Len=2
+
+[Item]
+Label=Nom du repondant
+Name=NRPD24
+Start=142
+Len=40
+DataType=Alpha
+
+[Record]
+Label=MODULE 24: DEPENSES DE SANTE AU COURS DES  6 DERNIERS MOIS
+Name=SANTE
+RecordTypeValue='DSA'
+MaxRecords=99
+RecordLen=125
+
+[Item]
+Label=Numéro de ligne
+Name=SANTQ02
+Start=14
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Libelles produits saisis
+Name=SANTQ03S
+Start=16
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Libelles produits NAEMA
+Name=SANTQ03N
+Start=56
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Code du produit
+Name=SANTQ03
+Start=96
+Len=6
+
+[ValueSet]
+Label=Code du produit
+Name=SANTQ03_VS1
+Value=61111;Aspirines, Novalgine
+Image=..\..\Reference\icons\aspirine.PNG
+Value=61112;Vermox, Mebox en sirop
+Image=..\..\Reference\icons\vermox.PNG
+Value=61113;Vitamine C, Vitamines B12 et Autres vitamines
+Image=..\..\Reference\icons\vitamine c.PNG
+Value=61114;Mercurochrome, alcool iodé, …
+Image=..\..\Reference\icons\merco.PNG
+Value=61115;Quinine, Malaxin et autres antipaludéenne
+Image=..\..\Reference\icons\quinine.PNG
+Value=61116;Pénicilline, Ampicilline, Aminophylline et Autres antibiotiques
+Image=..\..\Reference\icons\penicilline.PNG
+Value=61117;Pulmine en sirop, Sirop hémoglobine
+Image=..\..\Reference\icons\hemoglobine.PNG
+Value=61118;Kongo bololo, Feuille de citronnelle et autres traditionnelles
+Image=..\..\Reference\icons\feuille citronnelle.PNG
+Value=61119;Autres médicaments modernes n.d;a
+Image=..\..\Reference\icons\autres medicaments.PNG
+Value=61211;Coton hydrophile
+Image=..\..\Reference\icons\coton.PNG
+Value=61212;Mamie Extra
+Image=..\..\Reference\icons\extra.PNG
+Value=61213;Seringue 5cc, autres seringues hypodermiques
+Image=..\..\Reference\icons\seringue.PNG
+Value=61214;Bande ordinaire en coton, pansement adhésif et non adhésifs
+Image=..\..\Reference\icons\pansement.PNG
+Value=61215;Capote anglaise et autres préservatifs et contraceptifs mécaniques, tests de grossesse
+Image=..\..\Reference\icons\capote.PNG
+Value=61216;Thermomètre médical, bouillotte
+Image=..\..\Reference\icons\thermo.PNG
+Value=61217;Autres produits pharmaceutiques n.d.a (trousses de premier secours, poches de glace, …
+Image=..\..\Reference\icons\pharmacie.PNG
+Value=61310;Verres standard blancs (2 dioptries), lunettes de vue et lentilles de contact.
+Image=..\..\Reference\icons\oil.PNG
+Value=61320;Monture de lunette
+Image=..\..\Reference\icons\lunette.PNG
+Value=61330;Prothèses diverses
+Image=..\..\Reference\icons\protese.PNG
+Value=61340;Chaise roulante, fauteuil roulant, voiture d’invalide, béquilles
+Image=..\..\Reference\icons\chaise roulante.PNG
+Value=61350;Chaussures et ceintures orthopédiques, matériel de massage et lampes thérapeutiques, etc…
+Image=..\..\Reference\icons\ortho.PNG
+Value=61360;Appareil pour tension artérielle
+Image=..\..\Reference\icons\tension m.PNG
+Value=61370;Autres appareils et matériel thérapeutique  n.d.a
+Image=..\..\Reference\icons\app ortho.PNG
+Value=61380;Réparation de ces appareils.
+Image=..\..\Reference\icons\reparation.PNG
+Value=62101;Consultation Généraliste en milieu public
+Image=..\..\Reference\icons\consultation public.PNG
+Value=62102;Consultation  Généraliste en milieu privé
+Image=..\..\Reference\icons\generaliste privé.PNG
+Value=62103;Consultation  Spécialiste en milieu public
+Image=..\..\Reference\icons\consultation specialiste.PNG
+Value=62104;Consultation  Spécialiste en milieu privé
+Image=..\..\Reference\icons\spec.PNG
+Value=62105;Autres services des médecins n.d.a
+Image=..\..\Reference\icons\autre serv med.png
+Value=62201;Consultation du dentiste
+Image=..\..\Reference\icons\consultation dentiste.PNG
+Value=62202;Extraction d'une dent chez le médecin public
+Image=..\..\Reference\icons\service dentiste.PNG
+Value=62203;Extraction d'une dent chez le médecin privé
+Value=62401;Plombage d'une dent chez le médecin privé
+Image=..\..\Reference\icons\plombage dent.PNG
+Value=62402;Autre service des dentistes n.d.a
+Value=62403;Services paramédicaux
+Image=..\..\Reference\icons\service paramedicaux.PNG
+Value=62311;Examen d'urine hôpital public
+Image=..\..\Reference\icons\exa lab urine pri.PNG
+Value=62312;Examen d'urine, hôpital privé
+Image=..\..\Reference\icons\lab ur.PNG
+Value=62313;Examen de selle(hôpital public)
+Image=..\..\Reference\icons\labo pub.PNG
+Value=62314;Examen de selle (hôpital privé)
+Image=..\..\Reference\icons\labo priv.PNG
+Value=62315;Examen de sang (hôpital public)
+Image=..\..\Reference\icons\exa sang1.PNG
+Value=62316;Examen de sang (hôpital privé)
+Image=..\..\Reference\icons\exa sang.PNG
+Value=62317;Radiographie d’un thorax, Echographie  (hôpital public)
+Image=..\..\Reference\icons\echo.PNG
+Value=62318;Radiographie d’un thorax, Echographie (hôpital privé)
+Image=..\..\Reference\icons\radiologie.PNG
+Value=62319;Autres analyses médicales n.d;a
+Value=62321;Service d'infirmier indépendant
+Image=..\..\Reference\icons\infirmier.PNG
+Value=62322;Etablissement d'une fiche(hôpital public)
+Value=62323;Etablissement d'une fiche(hôpital privé)
+Value=62324;Service de sage-femme indépendant
+Image=..\..\Reference\icons\sage Femme.png
+Value=62325;Autres services des auxiliaires médicaux indépendants (acupuncteur, physiothérapeutes, d’optométristes, d’orthophonistes, de chiropracteurs et d’ostéopathes)
+Value=62326;Kinésithérapie
+Image=..\..\Reference\icons\kine.PNG
+Value=62327;Service d’un praticien traditionnel
+Image=..\..\Reference\icons\tradi praticien.PNG
+Value=62328;Location des matériels thérapeutiques
+Image=..\..\Reference\icons\theurap.PNG
+Value=63001;Frais journaliers ( Chambre collective ), hôpital public ou Centres de soins médicaux publics)
+Image=..\..\Reference\icons\paye en franc.PNG
+Value=63002;Frais journaliers (Chambre collective), hôpital privé ou Centres de soins médicaux privés)
+Image=..\..\Reference\icons\payer.PNG
+Value=63003;Frais journaliers ( Chambre individuelle), hôpital d'Etat (ou Centres de soins médicaux Etat)
+Image=..\..\Reference\icons\paye en franc.PNG
+Value=63004;Frais journalier (Chambre individuelle), hôpital privé ou Centres de soins médicaux privés)
+Image=..\..\Reference\icons\payer.PNG
+Value=63005;Autres services des hôpitaux n.d.a
+Image=..\..\Reference\icons\autre serv med.png
+
+[Item]
+Label=Unité
+Name=SANTQ06
+Start=102
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Unité
+Name=SANTQ06_VS1
+Value=86;Ampoule, tube
+Value=7;boite manufacture
+Value=94;Comprimé
+Value=92;cure
+Value=109;Demi litre
+Value=93;Flacon
+Value=5;Nombre de fois
+Value=87;Paire
+Value=6;Paquet manufacture
+Value=1;Piece
+Value=98;Service
+Value=4;Tarif
+Value=13;Tas
+Value=3;Unité
+Value=666;Autre
+
+[Item]
+Label=Montant total de cette dépense
+Name=SANTQ04
+Start=105
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Montant total de cette dépense
+Name=SANTQ04_VS1
+Value=0:9999999998
+
+[Item]
+Label=Nombre d'unités achetées par achat
+Name=SANTQ05
+Start=115
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre d'unités achetées par achat
+Name=SANTQ05_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+Value=32;32
+Value=33;33
+Value=34;34
+Value=35;35
+Value=36;36
+Value=37;37
+Value=38;38
+Value=39;39
+Value=40;40
+Value=41;41
+Value=42;42
+Value=43;43
+Value=44;44
+Value=45;45
+Value=46;46
+Value=47;47
+Value=48;48
+Value=49;49
+Value=50;50
+Value=51;51
+Value=52;52
+Value=53;53
+Value=54;54
+Value=55;55
+Value=56;56
+Value=57;57
+Value=58;58
+Value=59;59
+Value=60;60
+Value=61;61
+Value=62;62
+Value=63;63
+Value=64;64
+Value=65;65
+Value=66;66
+Value=67;67
+Value=68;68
+Value=69;69
+Value=70;70
+Value=71;71
+Value=72;72
+Value=73;73
+Value=74;74
+Value=75;75
+Value=76;76
+Value=77;77
+Value=78;78
+Value=79;79
+Value=80;80
+Value=81;81
+Value=82;82
+Value=83;83
+Value=84;84
+Value=85;85
+Value=86;86
+Value=87;87
+Value=88;88
+Value=89;89
+Value=90;90
+Value=91;91
+Value=92;92
+Value=93;93
+Value=94;94
+Value=95;95
+Value=96;96
+Value=97;97
+Value=98;98
+Value=99;99
+
+[Item]
+Label=Lieu d'achat
+Name=SANTQ07
+Start=119
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Lieu d'achat
+Name=SANTQ07_VS1
+Value=0;Cadeau donné
+Image=..\..\Reference\icons\cadeau donn.PNG
+Value=1;Cadeau reçu
+Image=..\..\Reference\icons\cadeau_recu.png
+Value=2;bien ou service autoproduit ou prélevé
+Image=..\..\Reference\icons\feuille citronnelle.PNG
+Value=3;au près d'un vendeur ambulant, ou poste fixe sur la voie publique
+Image=..\..\Reference\icons\Ambulant_Kisi.png
+Value=4;auprès d'un vendeur à domicile du vendeur, dans une petite boutique ou un atelier informel (indépendant)
+Image=..\..\Reference\icons\achat domicile24.PNG
+Value=5;au marché public (grand marché, Wenze, … )
+Image=..\..\Reference\icons\AchatAuMarche.png
+Value=6;dans un autre lieu informel (indépendant)
+Image=..\..\Reference\icons\autre lieu formel.png
+Value=7;dans un supermarché
+Image=..\..\Reference\icons\Pharmacie.png
+Value=8; dans un magasin ou un atelier  (société)
+Image=..\..\Reference\icons\AchatAuSupermarch.png
+Value=9;au secteur public ou parapublic
+Image=..\..\Reference\icons\secteur pub pharmaceutique 24.PNG
+Value=10;dans un autre lieu d'achat formel
+Image=..\..\Reference\icons\autre lieu formel hop.png
+Value=11;à l'étranger
+Image=..\..\Reference\icons\AchatAAtranger.png
+Value=12;dans une pharmacie
+Image=..\..\Reference\icons\Pharmacie.png
+Value=13;dans un depot pharmaceutique
+Image=..\..\Reference\icons\depot pharma.PNG
+Value=14;dans un hopital ou un centre de santé
+Image=..\..\Reference\icons\Hopital24.PNG
+Value=15;Auprès d'un service offert par une institution médicale
+Image=..\..\Reference\icons\service med 24.PNG
+
+[ValueSet]
+Label=Lieu d'achat service
+Name=SANTQ07_VS2
+Value=1;Cadeau reçu
+Image=..\..\Reference\icons\cadeau_recu.png
+Value=12;dans une pharmacie
+Image=..\..\Reference\icons\Pharmacie.png
+Value=13;dans un depot pharmaceutique
+Image=..\..\Reference\icons\depot pharma.PNG
+Value=14;dans un hopital ou un centre de santé
+Image=..\..\Reference\icons\Hopital24.PNG
+Value=15;Auprès d'un service offert par une institution médicale
+Image=..\..\Reference\icons\service med 24.PNG
+
+[Item]
+Label=Raison principale
+Name=SANTQ08
+Start=121
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Raison principale
+Name=SANTQ08_VS1
+Value=1;Biens ou services moins cher|Biloko to musala ya talo mukie|Bidhaa au huduma nafuu
+Image=..\..\Reference\icons\biens moins cher.png
+Value=2;Biens ou services de meilleure qualité|biloko to musala ya qualite ya malamu|Bidhaa au huduma za ubora bora
+Image=..\..\Reference\icons\meilleure qualite.png
+Value=3;Vendeur fait du crédit|Moteki adefisaka|Muuzaji hufanya mikopo
+Image=..\..\Reference\icons\credit.PNG
+Value=4;Vendeur proche / pratique|Moteki aza pembeni ya ndaku|Muuzaji karibu / vitendo
+Image=..\..\Reference\icons\vendeur proche.PNG
+Value=5;Accueillant/ ami famille|Moteki ayambaka batu malamu/moteki aza ndeko na ngai|Kukubali / familia ya rafiki
+Image=..\..\Reference\icons\Accueillant.png
+Value=6;Spécialisé / pas ailleurs|ye nde spécialiste na ngo/ batekaka  yango kaka esika moko|Maalum / sio mahali pengine
+Image=..\..\Reference\icons\specialis_pas_ailleurs.PNG
+Value=7;Autre raison|motindo mususu|Sababu nyingine
+Image=..\..\Reference\icons\autrest.PNG
+
+[Item]
+Label=Raison principale des cadeaux
+Name=SANTQ08A
+Start=122
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Raison principale des cadeaux
+Name=SANTQ08A_VS1
+Value=1;Maladie|Bokono|ugonjwa
+Image=..\..\Reference\icons\consultation specialiste.PNG
+Value=2;Décès, funéraille|Liwa, Matanga|Kifo, mazishi
+Image=..\..\Reference\icons\deces_funerailles.png
+Value=3;Levée de deuil|Kopanza matanga|Kulia
+Image=..\..\Reference\icons\levée deuil24.PNG
+Value=4;Naissance|Mbotama|kuzaliwa
+Image=..\..\Reference\icons\naissance.png
+Value=5;Baptême, mariage ou autre cérémonie|batisimoi,libala to molulu mususu|Ubatizo, ndoa au sherehe nyingine
+Image=..\..\Reference\icons\Bapteme ou Mariage.png
+Value=6;Consommation courante|Kolia ya mikolo nionso|Matumizi ya sasa
+Image=..\..\Reference\icons\Consommation courante.png
+Value=7;Investissement|Po na mo mbongo(ko gagne na retour)|uwekezaji
+Image=..\..\Reference\icons\investissement.png
+Value=8;Autre|motindo mosusu|nyingine
+Image=..\..\Reference\icons\autrest.PNG
+
+[Item]
+Label=Origine du produit
+Name=SANTQ09
+Start=123
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Origine du produit
+Name=SANTQ09_VS1
+Value=1;Local|esalami na mboka|ya apa
+Image=..\..\Reference\icons\local_rdc.png
+Value=2;Importé|esalami libanda ya mboka|ya inje
+Image=..\..\Reference\icons\importe24.PNG
+Value=3;Ne sait pas|a yebi te|Sijui
+Image=..\..\Reference\icons\NSP16.PNG
+Value=4;Non concerné|Etali yango te|Sio wasiwasi
+Image=..\..\Reference\icons\Non.png
+
+[ValueSet]
+Label=Origine de service
+Name=SANTQ09_VS2
+Value=1;Au pays|esalami na mboka|ya apa
+Image=..\..\Reference\icons\local_rdc.png
+Value=2;A l'étranger|esalami libanda ya mboka|ya inje
+Image=..\..\Reference\icons\importe24.PNG
+Value=3;Ne sait pas|a yebi te|Sijui
+Image=..\..\Reference\icons\NSP16.PNG
+Value=4;Non concerné|Etali yango te|Sio wasiwasi
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Etat du produit
+Name=SANTQ10
+Start=124
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Etat du produit||Etat du produit
+Name=SANTQ10_VS1
+Value=1;Neuf|ya sika|mpya
+Image=..\..\Reference\icons\new.PNG
+Value=2;Usagé|ba salela |kutumika
+Image=..\..\Reference\icons\usage.png
+Value=8;Non concerné|etali ye te|Si wasiwasi
+Image=..\..\Reference\icons\no conern.PNG
+
+[Item]
+Label=Autre dépense
+Name=SANTQAUTR
+Start=125
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autre dépense
+Name=SANTQAUTR_VS1
+Value=1;oui|iyo|ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;non|te|apana
+Image=..\..\Reference\icons\Non.png

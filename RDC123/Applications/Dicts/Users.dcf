@@ -1,0 +1,76 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Users
+Name=USERS_DICT
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Users questionnaire
+Name=USERS_QUEST
+
+[IdItems]
+
+[Item]
+Label=User identification (Bluetooth MAC address)
+Name=UID
+Start=1
+Len=12
+DataType=Alpha
+
+[Record]
+Label=Users record
+Name=USERS_REC
+RecordTypeValue=''
+RecordLen=71
+
+[Item]
+Label=User number
+Name=UNUMBER
+Start=13
+Len=5
+
+[Item]
+Label=Team number
+Name=UTEAM
+Start=18
+Len=3
+
+[Item]
+Label=Name
+Name=UNAME
+Start=21
+Len=48
+DataType=Alpha
+
+[Item]
+Label=Gender
+Name=UGENDER
+Start=69
+Len=1
+
+[ValueSet]
+Label=Gender
+Name=UGENDER_VS1
+Value=1;Male
+Value=2;Female
+Value=9;Undefined
+
+[Item]
+Label=Role
+Name=UROLE
+Start=70
+Len=2
+
+[ValueSet]
+Label=Role
+Name=UROLE_VS1
+Value=1;Enqueteur
+Value=2;Chef d'equipe
+Value=3;Superviseur
+Value=4;Edition secondaire
+Value=5;Bureau Central
+Value=99;Autre

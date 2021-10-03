@@ -1,0 +1,319 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 6.3
+
+[LANGUAGES]
+FRA=français
+LIN=lingala
+SWA=swahili
+
+[QUESTION]
+Field=EPMU1M37.M3717
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 Resultat d'interview\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 resultat ya interview\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\fs28 matokeo ya mahojiano\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M37.M37FIN
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 Fin\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 esili\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\fs28 mwisho\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M37.PATRIQ01
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+FRA=\pard\cf1\b\fs28 Est ce qu'au moins un membre du m\'e9nage possede une habitation?\par
+FRA=\fs24\par
+FRA=\fs28 Indication : \cf2\b0 Cherche \'e0 savoir s'il y a\cf1\b  \cf2 une personne\cf1  \cf2 ou\cf1  \cf2 plus d'une personne\cf1  \cf2\b0 dans le menage qui poss\'e8de une habitation\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+LIN=\pard\cf1\b\fs28 ata mutu moko ya liboto aza mukolo lopangu(habitation) to pe aza na lopango?\par
+LIN=\par
+LIN=\cf2\fs24 luka oyeba soki ata mutu moko to pe koleka moko aza kolo lopango\par
+LIN=to pe aza na lopango\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\fs28 bila shaka mwanachama mmoja wa kaya anamiliki makao\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M37.PATRIQ02
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+FRA=\pard\cf1\b\fs28 Veuillez estimer la valeur totale de toutes ces habitations \cf2 (en Francs Congolais).\par
+FRA=\fs24\par
+FRA=\cf3  \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+LIN=\pard\cf1\b\fs28  meka ko pesa talo ya ba ndaku nionso  boza na yango(na franc congolais).\par
+LIN=\par
+LIN=\b0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\fs28 inakadiriwa thamani ya jumla ya makao haya\par
+SWA=\cf2\b mfano:ikiwa utajiri ni 7.000.000Fc kuandika 7.000\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M37.PATRIQ03
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+FRA=\pard\cf1\b\fs28 Quel est le nombre total des propri\'e9t\'e9s des membres du m\'e9nage?\par
+FRA=\fs24\par
+FRA=\cf2\b0 Exemple: si il y a deux personnes qui ont des propri\'e9t\'e9s (habitations) et que la premi\'e8re personne \par
+FRA=a \b 2 propri\'e9t\'e9s\b0  et la deuxi\'e8me a \b 3 propri\'e9t\'e9s (habitations)\b0 ,la reponse ici sera \cf3\b 5\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 Mapango na bino nionso eza boni?\par
+LIN=\par
+LIN=\cf2\b0 bato oyo baza bakolo lopango na kati ya libota,mapango yango eza boni? \par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\fs28 jumla ya mali ya wanachama wa kaya\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M37.PATRIQ04
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+FRA=\pard\cf1\b\fs28 Quel est nombre total de propri\'e9t\'e9s appartenant aux femmes?\par
+FRA=\fs24\par
+FRA=\cf2\b0 parmis ceux qui ont des propri\'e9t\'e9s (habitations), \b combien appartiennent uniquement aux femmes\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+LIN=\pard\cf1\fs28 nakati ya batou ya libota oyo baza na ba ndaku(lopango) ?\par
+LIN=basi baza na yango boni\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+SWA=\pard\cf1\fs28 jumla ya mali inayomilikiwa na wanawake\par
+SWA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3703A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3703a. \b0 Nom de l'enfant \par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3704
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3704. \b0 Num\'e9ro de ligne de la M\'e8re\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3704A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3704a. \b0 Nom de la M\'e8re\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3705
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3707. \b0 Code Enqu\'eateur\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3706
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3706. \b0 Code Superviseur\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3707
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3707. \b0 Date de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3708
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3708. \b0 Heure de d\'e9but de l'interview \par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3709
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3709. \b0 Premier interview avec le r\'e9pondant \par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M371
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3701.\b0  Num\'e9ro de la Grappe\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3710
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M37010. \b0 Consentement \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3711
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3711. \b0 Heure de fin de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3712
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3712. \b0 Langue du Questionnaire\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3713
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3713. \b0 Langue de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3714
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3714. \b0 Langue Maternelle\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3715
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3715.\b0  Utilisation d'un interpr\'e8te \par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M3717
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3717. \b0 R\'e9sultat de l'interview \par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M372
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3702. \b0 Num\'e9ro du M\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M373
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3703. \b0 Num\'e9ro de Ligne\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.M37INT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M37ENQ. \b0 Num\'e9ro de l'enqu\'eateur M\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.PATRIQ01
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 PATRIQ01. \b0 Est-ce qu'au moins un membre de votre m\'e9nage poss\'e8de une habitation (non occup\'e9e par le membre) ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.PATRIQ02
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 PATRIQ02. \b0 A combien estimez-vous la valeur totale de ces habitations ? (en Fc)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.PATRIQ03
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 PATRIQ03. Quel est le nombre total des propri\'e9t\'e9s des membres du m\'e9nage ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_37_DICT.PATRIQ04
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 PATRIQ04. \b0 Quel est le nombre total des propri\'e9t\'e9s appartenant aux femmes du m\'e9nage ?\par
+FRA=}
+

@@ -1,0 +1,19 @@
+﻿[Run Information]
+Version=CSPro 6.3
+AppType=Batch
+
+[Files]
+Application=.\Module14.bch
+InputData=..\..\..\SuiviTerrain\DataConcat\MOD14.dat
+Listing=.\Module14.lst
+
+[ExternalFiles]
+EPMU1=..\..\..\SuiviTerrain\DataConcat\MENAGE.dat
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+

@@ -1,0 +1,1037 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=MODULE 8 : SECURITE ALIMENTAIRE (SE)
+Name=EPMU1M08
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=Français
+LIN=Lingala
+SWA=Swahili
+
+[Level]
+Label=MODULE 8 : SECURITE ALIMENTAIRE (SE) questionnaire
+Name=M08
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=M081
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=M082
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro enquêteur
+Name=M08INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M083
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M083_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS DU MODULE 08
+Name=MODM08
+RecordTypeValue='M08'
+RecordLen=123
+
+[Item]
+Label=Numéro Enquêteur
+Name=M08HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro Superviseur
+Name=M085
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date d'interview
+Name=M086
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour d'interview
+Name=M086J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour d'interview
+Name=M086J_VS1
+Value=1:31
+
+[Item]
+Label=Mois d'interview
+Name=M086M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois d'interview
+Name=M086M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Decembre
+
+[Item]
+Label=Année d'interview
+Name=M086A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année d'interview
+Name=M086A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu de résidence
+Name=M087
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu de résidence
+Name=M087_VS1
+Value=1;URBAIN
+
+[Item]
+Label=Province
+Name=M088
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province
+Name=M088_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps début de l' interview
+Name=M089
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l' interview - Heure
+Name=M089H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l' interview - Heure
+Name=M089H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes
+Name=M089M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes
+Name=M089M_VS1
+Value=0:59
+
+[Item]
+Label=Temps de fin de l'interview
+Name=M0810
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin  de l'interview - Heure
+Name=M0810H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin  de l'interview - Heure
+Name=M0810H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'nterview - Minutes
+Name=M0810M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'nterview - Minutes
+Name=M0810M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement
+Name=M0811
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement
+Name=M0811_VS1
+Value=1;OUI, PERMISSION DONNEE|نعم، تم إعطاء الإذن
+Image=..\..\Reference\icons\Oui.png
+Value=2;NON, PERMISSION PAS DONNEE|لا، لم يتم إعطاء الإذن
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Résultat de l’enquête du Questionnaire Ménage
+Name=M0817
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Résultat de l’enquête du Questionnaire Ménage
+Name=M0817_VS1
+Value=1;COMPLETE|ESILI|INA ISHA
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|MUTU AZA TE|MUTU AYIKO
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|ATA MUTU MOKO TE  YA NDAKU|AKUNA MUTU KUNIUMBA
+Value=4;REFUS|BABOYI|BA KATALA
+Value=5;LOGEMENT VIDE|MUTU AFANDAKA TE|MUNTU AYIKALE
+Value=6;LOGEMENT DETRUIT|NDAKU BA BUKA|NIUMBA  BANA VUNZA
+Value=7;LOGEMENT PAS TROUVE|NDAKU EMONANI TE|NIUMBA AYO NE KANE
+Value=96;AUTRE|MISUSU|INGINE
+
+[Item]
+Label=Nom du chef de ménage
+Name=M08NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M08ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M08FIN
+Start=122
+Len=1
+
+[ValueSet]
+Label=Finish
+Name=M08FIN_VS1
+Value=1;Revisiter le questionnaire
+Image=..\..\Reference\icons\revisiter.png
+Value=2;Ajouter des notes
+Image=..\..\Reference\icons\notes.png
+Value=3;Savegarder questionnaire et terminer
+Image=..\..\Reference\icons\sauvegarder.png
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer
+
+[Record]
+Label=Sécurité alimentaire
+Name=SECURITE
+RecordTypeValue='AL1'
+RecordLen=110
+
+[Item]
+Label=Code ID du principal répondant à la section|Code ID du principal répondant à la section
+Name=SEC0A
+Start=14
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code ID du principal répondant à la section|Code ID du principal répondant à la section
+Name=SEC0A_VS1
+Value=1:50;Répondant
+
+[Item]
+Label=Nom du principal répondant
+Name=SEC0B
+Start=16
+Len=25
+DataType=Alpha
+
+[Item]
+Label=SEC.01 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage  etiez preoccupés de ne pas avoir assez de nourriture à cause du manque d'argent?
+Name=SEC01
+Start=41
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.01 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage  etiez preoccupés de ne pas avoir assez de nourriture à cause du manque d'argent?
+Name=SEC01_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=SEC.02 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage  n'avez pas été capable de manger des produits sains et nutritifs à cause du manque d'argent ou de ressources?
+Name=SEC02
+Start=42
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.02 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage  n'avez pas été capable de manger des produits sains et nutritifs à cause du manque d'argent ou de ressources?
+Name=SEC02_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=SEC.03 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage  avez mangé seulement un nombre limité d'aliments à cause du manque d'argent ou de ressources?
+Name=SEC03
+Start=43
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.03 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage  avez mangé seulement un nombre limité d'aliments à cause du manque d'argent ou de ressources?
+Name=SEC03_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=SEC.04 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage avez dû sauter un repas à cause du manque d'argent ou de ressources?
+Name=SEC04
+Start=44
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.04 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage avez dû sauter un repas à cause du manque d'argent ou de ressources?
+Name=SEC04_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=SEC.05 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage avez du manger moins que ce que vous estimez nécessaire à cause d'argent ou de ressources?
+Name=SEC05
+Start=45
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.05 Au cours de 30 derniers jours, vous ou d'autres membres de votre ménage avez du manger moins que ce que vous estimez nécessaire à cause d'argent ou de ressources?
+Name=SEC05_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=SEC.06 Au cours de 30 derniers jours,   Votre ménage a-t-il terminé les stocks alimentaires disponobles à cause du manque d'argent ou de ressources?
+Name=SEC06
+Start=46
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.06 Au cours de 30 derniers jours,   Votre ménage a-t-il terminé les stocks alimentaires disponobles à cause du manque d'argent ou de ressources?
+Name=SEC06_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=SEC.07 Au cours de 30 derniers jours,  vous ou  un autre membre du ménage était affamé mais n'a pas pu manger à cause du manque d'argent ou de ressources?
+Name=SEC07
+Start=47
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.07 Au cours de 30 derniers jours,  vous ou  un autre membre du ménage était affamé mais n'a pas pu manger à cause du manque d'argent ou de ressources?
+Name=SEC07_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=SEC.08 Au cours de 30 derniers jours, vous ou un autre membre de votre ménage   avez  passé une journée entiere sans manger à cause du manque d'argent ou de ressources?
+Name=SEC08
+Start=48
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.08 Au cours de 30 derniers jours, vous ou un autre membre de votre ménage   avez  passé une journée entiere sans manger à cause du manque d'argent ou de ressources?
+Name=SEC08_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=SEC.09A. Combien de repas, y compris le petit-déjeuner, sont pris par jour dans le ménage? A. Adultes
+Name=SEC09A
+Start=49
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.09A. Combien de repas, y compris le petit-déjeuner, sont pris par jour dans le ménage? A. Adultes
+Name=SEC09A_VS1
+Value=0;Aucun repas|0 bileyi mbala moko te|0 chakula
+Value=1;1 repas|1 bileyi mbala moko|1 chakula
+Value=2;2 repas|2 bileyi mbala mibale|2 chakula
+Value=3;3 repas|3 bileyi mbala misato|3 chakula
+Value=4;4 repas|4 bileyi mbala mineyi|4 chakula
+Value=5;5 repas|5 bileyi mbala mitano|5 chakula
+
+[Item]
+Label=SEC.09B. Combien de repas, y compris le petit-déjeuner, sont pris par jour dans le ménage? B. Enfants (6 à 59 mois)
+Name=SEC09B
+Start=50
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.09B. Combien de repas, y compris le petit-déjeuner, sont pris par jour dans le ménage? B. Enfants (6 à 59 mois)
+Name=SEC09B_VS1
+Value=0;Pas d'enfants dans le ménage|0 bileyi mbala moko te|0 chakula
+Value=1;1 repas|1 bileyi mbala moko|1 chakula
+Value=2;2 repas|2 bileyi mbala mibale|2 chakula
+Value=3;3 repas|3 bileyi mbala misato|3 chakula
+Value=4;4 repas|4 bileyi mbala mineyi|4 chakula
+Value=5;5 repas|5 bileyi mbala mitano|5 chakula
+
+[Item]
+Label=SEC.10. Au cours des 12 derniers mois, avez-vous fait face à une situation où vous n'aviez pas suffisamment de nourriture pour tout le ménage?
+Name=SEC10
+Start=51
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.10. Au cours des 12 derniers mois, avez-vous fait face à une situation où vous n'aviez pas suffisamment de nourriture pour tout le ménage?
+Name=SEC10_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=SEC.11A. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  A. Consommer des aliments moins chers que d'habitude?
+Name=SEC11A
+Start=52
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.11A. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  A. Consommer des aliments moins chers que d'habitude?
+Name=SEC11A_VS1
+Value=0;Aucune fois|Mbala moko te|hakuna mara
+Value=1;1 jour|1 mokolo moko|1 siku
+Value=2;2 jours|2 mikolo mibale|2 siku
+Value=3;3 jours|3 mikolo misato|3 siku
+Value=4;4 jours|4 mikolo minei|4 siku
+Value=5;5 jours|5 mikolo mitano|5 siku
+Value=6;6 jours|6 mikolo motoba|6 siku
+Value=7;7 tous les jours|7 mikolo minso|7 kila siku
+
+[Item]
+Label=SEC.11B. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  B. Réduire les quantités consommées chaque fois?
+Name=SEC11B
+Start=53
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.11B. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  B. Réduire les quantités consommées chaque fois?
+Name=SEC11B_VS1
+Value=0;Aucune fois|Mbala moko te|hakuna mara
+Value=1;1 jour|1 mokolo moko|1 siku
+Value=2;2 jours|2 mikolo mibale|2 siku
+Value=3;3 jours|3 mikolo misato|3 siku
+Value=4;4 jours|4 mikolo minei|4 siku
+Value=5;5 jours|5 mikolo mitano|5 siku
+Value=6;6 jours|6 mikolo motoba|6 siku
+Value=7;7 tous les jours|7 mikolo minso|7 kila siku
+
+[Item]
+Label=SEC.11C. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  C. Réduire le nombre de repas par jour?
+Name=SEC11C
+Start=54
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.11C. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  C. Réduire le nombre de repas par jour?
+Name=SEC11C_VS1
+Value=0;Aucune fois|Mbala moko te|hakuna mara
+Value=1;1 jour|1 mokolo moko|1 siku
+Value=2;2 jours|2 mikolo mibale|2 siku
+Value=3;3 jours|3 mikolo misato|3 siku
+Value=4;4 jours|4 mikolo minei|4 siku
+Value=5;5 jours|5 mikolo mitano|5 siku
+Value=6;6 jours|6 mikolo motoba|6 siku
+Value=7;7 tous les jours|7 mikolo minso|7 kila siku
+
+[Item]
+Label=SEC.11D. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  D. Réduire les quantités consommées par les adultes au profit des enfants?
+Name=SEC11D
+Start=55
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.11D. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  D. Réduire les quantités consommées par les adultes au profit des enfants?
+Name=SEC11D_VS1
+Value=0;Aucune fois|Mbala moko te|hakuna mara
+Value=1;1 jour|1 mokolo moko|1 siku
+Value=2;2 jours|2 mikolo mibale|2 siku
+Value=3;3 jours|3 mikolo misato|3 siku
+Value=4;4 jours|4 mikolo minei|4 siku
+Value=5;5 jours|5 mikolo mitano|5 siku
+Value=6;6 jours|6 mikolo motoba|6 siku
+Value=7;7 tous les jours|7 mikolo minso|7 kila siku
+
+[Item]
+Label=SEC.11E. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  E. Emprunter de la nourriture, ou compter sur l'aide de parents ou d'amis?
+Name=SEC11E
+Start=56
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=SEC.11E. Au cours des 7 derniers jours, combien de jours vous, ou une autre personne du ménage a eu à :  E. Emprunter de la nourriture, ou compter sur l'aide de parents ou d'amis?
+Name=SEC11E_VS1
+Value=0;Aucune fois|Mbala moko te|hakuna mara
+Value=1;1 jour|1 mokolo moko|1 siku
+Value=2;2 jours|2 mikolo mibale|2 siku
+Value=3;3 jours|3 mikolo misato|3 siku
+Value=4;4 jours|4 mikolo minei|4 siku
+Value=5;5 jours|5 mikolo mitano|5 siku
+Value=6;6 jours|6 mikolo motoba|6 siku
+Value=7;7 tous les jours|7 mikolo minso|7 kila siku
+
+[Item]
+Label=A rencontré des problèmes au mois de :  Septembre 2017
+Name=SEC12G
+Start=57
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de :  Septembre 2017
+Name=SEC12G_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de :  Octobre 2017
+Name=SEC12H
+Start=58
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de :  Octobre 2017
+Name=SEC12H_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de :  Novembre 2017
+Name=SEC12I
+Start=59
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de :  Novembre 2017
+Name=SEC12I_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de :  Décembre 2017
+Name=SEC12J
+Start=60
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de :  Décembre 2017
+Name=SEC12J_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de :  Janvier 2018
+Name=SEC12K
+Start=61
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de :  Janvier 2018
+Name=SEC12K_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de : Février 2018
+Name=SEC12L
+Start=62
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de : Février 2018
+Name=SEC12L_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de : Mars 2018
+Name=SEC12M
+Start=63
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de : Mars 2018
+Name=SEC12M_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de :  Avril  2018
+Name=SEC12N
+Start=64
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de :  Avril  2018
+Name=SEC12N_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de : Mai 2018
+Name=SEC12O
+Start=65
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de : Mai 2018
+Name=SEC12O_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de :  Juin  2018
+Name=SEC12P
+Start=66
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de :  Juin  2018
+Name=SEC12P_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de : Juillet  2018
+Name=SEC12Q
+Start=67
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de : Juillet  2018
+Name=SEC12Q_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A rencontré des problèmes au mois de :  Août 2018
+Name=SEC12R
+Start=68
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A rencontré des problèmes au mois de :  Août 2018
+Name=SEC12R_VS1
+Value=1;Oui, nous avons eu suffisamment à manger|Iyo, towzaki bileyi ekoka|Ndio, tulikuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Oui.png
+Value=0;Non, nous n'avons pas eu suffisamment à manger|Te, tozwaki bileyi ekoka te|Hapana, hatukuwa na chakula cha kutosha
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Première cause de cette situation
+Name=SEC13A
+Start=69
+Len=2
+
+[ValueSet]
+Label=Text From Clipboard||Première cause de cette situation
+Name=SEC13A_VS2
+Value=1;Faibles recoltes du fait de la sécheresse|Bilanga eboti muke likolo ya bokawuki ya mabele|Mazao ya chini kutokana na ukame
+Value=2;Faibles recoltes du fait de l'attaque des insectes|Bilanga eboti muke likolo ya bokawuki ya ba niama ya mike|Mazao ya chini kutokana na mashambulizi ya wadudu
+Value=3;Faibles recoltes du fait du faible accès aux terres cultivables|Bilanga eboti muke likolo ya bozangi mabele ya kolona|Mavuno ya chini kutokana na upatikanaji duni wa ardhi ya kilimo
+Value=4;Faibles recoltes du fait du manque des inputs|Bilanga eboti muke likolo ya mozangi ba kisi ya kokolisa yango|Mavuno ya chini kutokana na ukosefu wa pembejeo
+Value=5;Cherté des produits alimentaires sur le marché|Talo ya biloko ya kolia emati na wenze|Bei ya juu ya bidhaa za chakula kwenye soko
+Value=6;Accès difficile aux marché du fait des coûts de transport élevé|biloko ya kolia ezomonana te na wenze likolo ya talo ya transport|Upatikanaji mgumu wa masoko kutokana na gharama kubwa za usafiri
+Value=7;Pas/Peu de produits alimentaires au marché|biloko ya kolia eza te/muke na  wenze|Hapana / Bidhaa ndogo za chakula kwenye soko
+Value=8;Faibles ressources financières|makoki muke|Rasilimali za chini za fedha
+Value=9;Innondations|kodinda na mayi|mafuriko
+Value=10;Perte d'emploi|Musala ebungi|Si kulipa mshahara
+Value=11;Arrêt temporaire d'emploi|Musala ekatani po na mwa ngonga|Malipo ya malipo ya mshahara
+Value=12;Autres (A préciser)|mususu|nyingine
+
+[Item]
+Label=Deuxième cause de cette situation
+Name=SEC13B
+Start=71
+Len=2
+
+[ValueSet]
+Label=Text From Clipboard||Deuxième cause de cette situation
+Name=SEC13B_VS2
+Value=1;Faibles recoltes du fair de la sécheresse|Bilanga eboti muke likolo ya bokawuki ya mabele|Mazao ya chini kutokana na ukame
+Value=2;Faibles recoltes du fait de l'attaque des insectes|Bilanga eboti muke likolo ya bokawuki ya ba niama ya mike|Mazao ya chini kutokana na mashambulizi ya wadudu
+Value=3;Faibles recoltes du fait du faible accès aux terres cultivables|Bilanga eboti muke likolo ya bozangi mabele ya kolona|Mavuno ya chini kutokana na upatikanaji duni wa ardhi ya kilimo
+Value=4;Faibles recoltes du fait du manque des inputs|Bilanga eboti muke likolo ya mozangi ba kisi ya kokolisa yango|Mavuno ya chini kutokana na ukosefu wa pembejeo
+Value=5;Cherté des produits alimentaires sur le marché|Talo ya biloko ya kolia emati na wenze|Bei ya juu ya bidhaa za chakula kwenye soko
+Value=6;Accès difficile aux marché du fait des coûts de transport élevé|biloko ya kolia ezomonana te na wenze likolo ya talo ya transport|Upatikanaji mgumu wa masoko kutokana na gharama kubwa za usafiri
+Value=7;Pas/Peu de produits alimentaires au marché|biloko ya kolia eza te/muke na  wenze|Hapana / Bidhaa ndogo za chakula kwenye soko
+Value=8;Faibles ressources financières|makoki muke|Rasilimali za chini za fedha
+Value=9;Innondations|kodinda na mayi|mafuriko
+Value=10;Non payement de salaire|salaire ezofutama te|Si kulipa mshahara
+Value=11;Retard payement de salaire|salaire ezofutama na retard|Malipo ya malipo ya mshahara
+Value=12;Grêve|Grève|mgomo
+Value=13;Autres|mususu|nyingine
+
+[Item]
+Label=Troisième cause de cette situation
+Name=SEC13C
+Start=73
+Len=2
+
+[ValueSet]
+Label=Text From Clipboard||Troisième cause de cette situation
+Name=SEC13C_VS2
+Value=1;Faibles recoltes du fair de la sécheresse|Bilanga eboti muke likolo ya bokawuki ya mabele|Mazao ya chini kutokana na ukame
+Value=2;Faibles recoltes du fait de l'attaque des insectes|Bilanga eboti muke likolo ya bokawuki ya ba niama ya mike|Mazao ya chini kutokana na mashambulizi ya wadudu
+Value=3;Faibles recoltes du fait du faible accès aux terres cultivables|Bilanga eboti muke likolo ya bozangi mabele ya kolona|Mavuno ya chini kutokana na upatikanaji duni wa ardhi ya kilimo
+Value=4;Faibles recoltes du fait du manque des inputs|Bilanga eboti muke likolo ya mozangi ba kisi ya kokolisa yango|Mavuno ya chini kutokana na ukosefu wa pembejeo
+Value=5;Cherté des produits alimentaires sur le marché|Talo ya biloko ya kolia emati na wenze|Bei ya juu ya bidhaa za chakula kwenye soko
+Value=6;Accès difficile aux marché du fait des coûts de transport élevé|biloko ya kolia ezomonana te na wenze likolo ya talo ya transport|Upatikanaji mgumu wa masoko kutokana na gharama kubwa za usafiri
+Value=7;Pas/Peu de produits alimentaires au marché|biloko ya kolia eza te/muke na  wenze|Hapana / Bidhaa ndogo za chakula kwenye soko
+Value=8;Faibles ressources financières|makoki muke|Rasilimali za chini za fedha
+Value=9;Innondations|kodinda na mayi|mafuriko
+Value=10;Non payement de salaire|salaire ezofutama te|Si kulipa mshahara
+Value=11;Retard payement de salaire|salaire ezofutama na retard|Malipo ya malipo ya mshahara
+Value=12;Grêve|Grève|mgomo
+Value=13;Autres|mususu|nyingine
+
+[Item]
+Label=Nombre de repas que le ménage prenait avant de connaitre cette situation / Adultes
+Name=SEC14A
+Start=75
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de repas que le ménage prenait avant de connaitre cette situation / Adultes
+Name=SEC14A_VS1
+Value=1;1 repas|bileyi mbala moko (1)|1 chakula
+Value=2;2 repas|bileyi mbala mibale (2)|2 chakula
+Value=3;3 repas|bileyi mbala misato (3)|3 chakula
+Value=4;4 repas|bileyi mbala minei (4)|4 chakula
+Value=5;5 repas|bileyi mbala mitano (5)|5 chakula
+Value=6;6 repas|bileyi mbala motoba (6)|6 chakula
+
+[Item]
+Label=Nombre de repas que le ménage prenait avant de connaitre cette situation / Enfants
+Name=SEC14B
+Start=77
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de repas que le ménage prenait avant de connaitre cette situation / Enfants
+Name=SEC14B_VS1
+Value=1;1 repas|bileyi mbala moko (1)|1 chakula
+Value=2;2 repas|bileyi mbala mibale (2)|2 chakula
+Value=3;3 repas|bileyi mbala misato (3)|3 chakula
+Value=4;4 repas|bileyi mbala minei (4)|4 chakula
+Value=5;5 repas|bileyi mbala mitano (5)|5 chakula
+Value=6;6 repas|bileyi mbala motoba (6)|6 chakula
+Value=99;Pas d'enfants dans le ménage|Mwana aza te nakati ya libota|hakuna watoto katika kaya
+
+[Item]
+Label=Le lien du parenté de répondant avec le chef du ménage
+Name=LPR
+Start=79
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le lien du parenté de répondant avec le chef du ménage
+Name=LPR_VS1
+Value=1;Chef du ménage|Mukonzi ya ndaku|Mkuu wa kaya
+Value=2;Conjoint du chef de ménage|Molongani ya mukonzi ya ndako|Mwenzi wa mkuu wa nyumba
+Value=3;Enfant du chef de Ménage|Muana ya mokonzi ya ndako|Mtoto wa kichwa cha nyumbani
+Value=4;Enfant du Conjoint|Muana ya molongani ya mukonzi ndako|Mtoto wa Mwenzi
+Value=5;Père ou mère du chef de ménage|Moboti ya mokonzi ya ndaku|Baba au mama wa mkuu wa nyumba
+Value=6;Père ou Mère du conjoint|moboti ya Molongani ya mokonzi ya ndako|Baba au Mama wa Mwenzi
+Value=7;Autres parents du chef|Ndeko ya mokonzi ya ndako|Wazazi wengine wa kiongozi
+Value=8;Autres parents du conjoint|Ndeko ya molongani ya mokonzi ya ndako|Wazazi wengine wa mume
+Value=9;Autre personne non apparentée|Mutu oyo ya libota te|Mtu mwingine asiye na uhusiano
+Value=10;Domestique|Muana musala|Ndani ya
+
+[Item]
+Label=libelle du lien de parenté
+Name=LLPR
+Start=81
+Len=30
+DataType=Alpha
+
+[Record]
+Label=Sécurité alimentaire
+Name=SECURITF
+RecordTypeValue='AL2'
+MaxRecords=37
+RecordLen=58
+
+[Item]
+Label=Numéro de ligne de l'aliment consommé
+Name=SEC15A
+Start=14
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne de l'aliment consommé
+Name=SEC15A_VS1
+Value=1:37
+
+[Item]
+Label=Libellé de l'aliment consommé
+Name=SEC15B
+Start=16
+Len=35
+DataType=Alpha
+
+[Item]
+Label=Code du produit
+Name=SEC15C
+Start=51
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Code du produit
+Name=SEC15C_VS1
+Value=011111;Maïs
+Image=..\..\Reference\icons\maïs.PNG
+Value=011112;Riz
+Image=..\..\Reference\icons\riz.PNG
+Value=011115;Sorgho
+Image=..\..\Reference\icons\sorgho.PNG
+Value=011114;Mil
+Image=..\..\Reference\icons\mil.PNG
+Value=011116;Autres céréales(blé,)
+Value=011754;Manioc
+Image=..\..\Reference\icons\manioc.PNG
+Value=011744;Patates douces
+Image=..\..\Reference\icons\patate douce.PNG
+Value=011746;Taro
+Image=..\..\Reference\icons\taro.PNG
+Value=011745;Pomme de terre
+Image=..\..\Reference\icons\pomme de terre.PNG
+Value=011746;Ignames
+Image=..\..\Reference\icons\igname.PNG
+Value=011747;Autres tubercules
+Value=011737;Haricot
+Image=..\..\Reference\icons\haricot.PNG
+Value=011738;Petit pois
+Value=011729;Autres légumineuses
+Value=011210;Viandes
+Image=..\..\Reference\icons\viande.PNG
+Value=011246;Volaille
+Image=..\..\Reference\icons\volaille.PNG
+Value=011318;Poisson
+Image=..\..\Reference\icons\poisson.PNG
+Value=011318;Crustacées
+Image=..\..\Reference\icons\crustacé.PNG
+Value=011432;Œufs
+Image=..\..\Reference\icons\oeuf.png
+Value=011731;Oléagineux : arachides décorcotiqués
+Value=011738;sésame
+Image=..\..\Reference\icons\sésame.PNG
+Value=011418;Lait/produits laitiers
+Value=011712;Feuilles de manioc
+Image=..\..\Reference\icons\feuille de manioc.PNG
+Value=011729;Feuilles de Haricot
+Value=011716;Mfumbwa
+Value=011714;Epinard
+Image=..\..\Reference\icons\epinard.PNG
+Value=011729;Feuilles de patates douces
+Image=..\..\Reference\icons\feuille de patate douce.PNG
+Value=011711;Amarante (bitekuteku)
+Image=..\..\Reference\icons\amarante.PNG
+Value=011729;Autres légumes
+Value=011729;Produits de ceuillette (feuilles,noix,racines,fruits,etc.)
+Value=011613;Fruits: banane de table
+Image=..\..\Reference\icons\banane.PNG
+Value=011611;ananas
+Image=..\..\Reference\icons\ananas.PNG
+Value=011616;orange
+Image=..\..\Reference\icons\orange.PNG
+Value=011612;Avocat
+Image=..\..\Reference\icons\avocat.PNG
+Value=011617;papaye
+Image=..\..\Reference\icons\papaye.PNG
+Value=011618;Mangue
+Value=011699;Autres fruits
+Value=011813;Sucre et produits sucrés
+Value=011525;Huile de cuisson
+Image=..\..\Reference\icons\huile de cuisson.PNG
+
+[Item]
+Label=Fréquence de consommation au cours de la semaine précédent l'enquête
+Name=SEC15D
+Start=57
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fréquence de consommation au cours de la semaine précédent l'enquête
+Name=SEC15D_VS1
+Value=0;0 jour||0 siku
+Value=1;1 jour||1 siku
+Value=2;2 jours||2 siku
+Value=3;3 jours||3 siku
+Value=4;4 jours||4 siku
+Value=5;5 jours||5 siku
+Value=6;6 jours||6 siku
+Value=7;7 jours||7 siku
+
+[Item]
+Label=Principale source de l'aliment
+Name=SEC15E
+Start=58
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Principale source de l'aliment
+Name=SEC15E_VS1
+Value=1;Propre consommation (production du ménage)|Ewuti epai ya ménage|Matumizi ya mwenyewe (uzalishaji wa kaya)
+Value=2;Achat au marché|Esombami na wenze|Ununuzi kwenye soko
+Value=3;Boutique / Magasin||Duka / Hifadhi
+Value=4;Marchant ambulant|Bateki ya nzela|Mtaalamu wa Anwani
+Value=5;Chasse, cueillette, pêche||Uwindaji, mavuno, uvuvi
+Value=6;Paiement en nature||Malipo kwa aina
+Value=7;Emprunt|Kodefa|kukopa
+Value=8;Dons||michango
+Value=9;Aide alimentaire (ONGs, PAM, ...)|Lisungi ya bileyi (ONGs, PAM, ...)|Msaada wa chakula (ONGs, PAM, ...)

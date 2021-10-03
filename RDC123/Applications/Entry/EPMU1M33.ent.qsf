@@ -1,0 +1,1556 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 6.3
+
+[LANGUAGES]
+FRA=francais
+LIN=lingala
+SWA=swahili
+
+[QUESTION]
+Field=EPMU1M33.M331
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Num\'e9ro de grappe\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M33.M332
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Num\'e9ro de m\'e9nage\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M33.M33INT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Num\'e9ro enqu\'eateur\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M33.REPONDANT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+FRA=\pard\cf1\b\fs28\lang1036 Qui a repondu au module?\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ01
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM1. Depuis les 12 derniers mois,c \'e0 d depuis (le %douzederniermois%)  les revenus de votre m\'e9nage ont :\par
+FRA=\cf2\b0\i\fs24 il s'agit des revenues  de votre m\'e9nage allant du %douzederniermois% jusqu'au mois pass\'e9\cf1\i0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM1. wuta ba sanza zomi na mibale ya suka,mbongo ya ndaku na bino:\b0\fs24\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM1. Tangu miezi kumi na mbili iliyopita, mapato yako ya kaya ina:\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ01A
+Condition=SMQ01=1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 les revenus de votre m\'e9nage ont  augment\'e9s de combien de pourcent?\par
+FRA= \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 mbongo ya ndaku na bino emati to pe ekiti na pourcentage boni?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 Mapato yako ya kaya yana tofauti (kuongezeka au kupungua) kwa kiasi gani?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ01A
+Condition=SMQ01=3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 les revenus de votre m\'e9nage ont  baiss\'e9s de combien de pourcent?\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ02
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM2. Depuis les 12 derniers mois,c \'e0 d depuis (le %douzederniermois%)  les \'e9conomies (\'e9pargne) de votre m\'e9nage ont :\par
+FRA=\cf2\b0\i\fs24 il s'agit des \'e9conomies(\'e9pargne) de votre m\'e9nage du %douzederniermois% jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM2.wuta ba sanza zomi na mibale oyo ya suka,mbongo oyo ndaku na bino ebombaka: \b0\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 Kwa miezi kumi na mbili iliyopita, akiba (akiba) katika kaya yako kuwa:\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ02A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 les \'e9conomies (\'e9pargnes)de votre m\'e9nage ont vari\'e9 (augment\'e9 ou baiss\'e9) de combien de pourcent?\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 mbongo oyo ndaku na bino ebombaka emati to pe ekiti na pourcentage boni?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 akiba (akiba) katika kaya yako imebadilika (kuongezeka au kupungua) kwa kiasi gani?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ03
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM3. Depuis les 12 derniers mois, c \'e0 d depuis (le %douzederniermois%) les achats (consommation) de votre m\'e9nage ont :\par
+FRA=\cf2\b0\i\fs24 il s'agit des achats(consommation) que votre m\'e9nage a effectu\'e9 du %douzederniermois%  jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM3.wuta ba sanza somi na mibale oyo ya suka ,biloko bosombaka pona ndaku esalela pe ko lia :\b0\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM3. Kwa miezi kumi na miwili iliyopita, ununuzi (matumizi) ya kaya yako una:\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ03A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 les achats(consommations) de votre m\'e9nage ont vari\'e9 (augment\'e9 ou baiss\'e9) de combien de pourcent?\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 biloko bosombaka pona ndaku esalela pe ko lia e mati to pe ekiti na pourcentage boni?\par
+LIN=\par
+LIN=\par
+LIN=\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 ununuzi (matumizi) katika kaya yako umebadilika (kuongezeka au kupungua) kwa kiasi gani?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ04A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM4.  Depuis les 12 derniers mois, c \'e0 d depuis (le %douzederniermois%) quels sont les postes qui ont le plus baiss\'e9 dans vos achats\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le premier poste qui a le plus baiss\'e9 dans vos achats \'e0 partir du %douzederniermois%  jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM4.wuta ba sanza zomi na mibale oyo ya suka ,na biloko oyo bosombaka biloko nini bozo somba mukie ko leka ndenge bo bandaki kosomba yango  liboso? \b0\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM4. Katika miezi kumi na miwili iliyopita, ni mambo gani yafuatayo yaliyoanguka zaidi?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ04B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM4.  Depuis les 12 derniers mois, c \'e0 d depuis (le %douzederniermois%) quels sont les postes qui ont le plus baiss\'e9 dans vos achats\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le second poste qui a le plus baiss\'e9 dans vos achats \'e0 partir du  % douzederniermois%  jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM4.wuta ba sanza zomi na mibale oyo ya suka ,na biloko oyo bosombaka biloko nini bozo somba mukie ko leka ndenge bo bandaki kosomba yango  liboso? \b0\fs24\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM4. Katika miezi kumi na miwili iliyopita, ni mambo gani yafuatayo yaliyoanguka zaidi?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ04C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM4.  Depuis les 12 derniers mois,c \'e0 d depuis (le %douzederniermois%)  quels sont les postes qui ont le plus baiss\'e9 dans vos achats\~? \b0\fs24\par
+FRA=\cf2\i nous voulons connaitre le troisi\'e8me poste qui a le plus baiss\'e9 dans vos achats \'e0 partir du %douzederniermois%  jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM4.wuta ba sanza zomi na mibale oyo ya suka ,na biloko oyo bosombaka biloko nini bozo somba mukie ko leka ndenge bo bandaki kosomba yango  liboso? \par
+LIN=\b0\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM4. Katika miezi kumi na miwili iliyopita, ni mambo gani yafuatayo yaliyoanguka zaidi?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ05A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM5.  Depuis les 12 derniers mois, c \'e0 d depuis (le %douzederniermois%) quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le premier poste qui a le plus augment\'e9 dans vos achats \'e0 partir du  %douzederniermois%  jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs28 SM5.wuta ba sanza zomi na mibale oyo ya suka ,na biloko oyo bosombaka biloko nini bozo somba mingi ko leka ndenge bo bandaki kosomba yango liboso? \fs24\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM5. Katika miezi kumi na miwili iliyopita, ni nafasi gani zilizoongezeka zaidi katika ununuzi wako?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ05B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM5.  Depuis les 12 derniers mois,c \'e0 d depuis (le %douzederniermois%)  quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le second poste qui a le plus augment\'e9 dans vos achats \'e0 partir du %douzederniermois%  jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM5.wuta ba sanza zomi na mibale oyo ya suka ,na biloko oyo bosombaka biloko nini bozo somba mingi ko leka ndenge bo bandaki kosomba yango liboso? \b0\fs24\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM5. Katika miezi kumi na miwili iliyopita, ni nafasi gani zilizoongezeka zaidi katika ununuzi wako?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ05C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM5.  Depuis les 12 derniers mois,c \'e0 d depuis (le %douzederniermois%)  quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~?\par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le troisi\'e8me poste qui a le plus augment\'e9 dans vos achats \'e0 partir du %douzederniermois%  jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=\b\fs28  \b0\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM5.wuta ba sanza zomi na mibale oyo ya suka ,na biloko oyo bosombaka biloko nini bozo somba mingi ko leka ndenge bo bandaki kosomba yango liboso? \par
+LIN=\b0\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM5. Katika miezi kumi na miwili iliyopita, ni nafasi gani zilizoongezeka zaidi katika ununuzi wako?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ05D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM5.  Depuis les 12 derniers mois,c \'e0 d depuis (le %douzederniermois%)  quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le quatri\'e8me poste qui a le plus augment\'e9 dans vos achats \'e0 partir du  %douzederniermois% jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM5.wuta ba sanza zomi na mibale oyo ya suka ,na biloko oyo bosombaka biloko nini bozo somba mingi ko leka ndenge bo bandaki kosomba yango liboso? \par
+LIN=\b0\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM5. Katika miezi kumi na miwili iliyopita, ni nafasi gani zilizoongezeka zaidi katika ununuzi wako?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ05E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM5.  Depuis les 12 derniers mois,c \'e0 d depuis (le %douzederniermois%)  quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le cinqui\'e8me poste qui a le plus augment\'e9 dans vos achats \'e0 partir du %douzederniermois% jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM5.wuta ba sanza zomi na mibale oyo ya suka ,na biloko oyo bosombaka biloko nini bozo somba mingi ko leka ndenge bo bandaki kosomba yango liboso? \par
+LIN=\b0\fs24\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM5. Katika miezi kumi na miwili iliyopita, ni nafasi gani zilizoongezeka zaidi katika ununuzi wako?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ06
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM6. Comment avez-vous principalement baiss\'e9 ces achats ?\par
+FRA=\cf2\b0\i\fs24 Nous voulons connaitre les strat\'e8gies utilis\'e9es par votre m\'e9nage pour baisser ses achats\cf1\b\fs28\par
+FRA=\b0\i0\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM6. osalaki ndenge po okoma kosomba biloko yango mukie?\b0\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM6. Je, umepungua kiasi gani manunuzi haya?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ07A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM7. Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes (biens ou services) dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le premier poste dont vous diminuerez la consommation ,si votre revenu diminuez \cf1\i0\par
+FRA=\par
+FRA=\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM7. soki bozui ya ndaku na bino ekiti,biloko nini oko pona ko somba ya yambo mukie? \b0\fs24\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM7. Ikiwa mapato yako ya kaya yanapaswa kuanguka, ni vitu vipi (bidhaa au huduma) ambazo zingeweza kupunguza matumizi yako kwanza?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ07B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM7. Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes (biens ou services) dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le second poste dont vous diminuerez la consommation ,si votre revenu diminuez \cf1\i0\par
+FRA=\b\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM7. soki bozui ya ndaku na bino ekiti,biloko nini oko pona ko somba ya yambo mukie? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM7. Ikiwa mapato yako ya kaya yanapaswa kuanguka, ni vitu vipi (bidhaa au huduma) ambazo zingeweza kupunguza matumizi yako kwanza?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ07C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM7. Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes (biens ou services) dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le troisi\'e8me poste dont vous diminuerez la consommation ,si votre revenu diminuez \cf1\i0\par
+FRA=\b\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM7. soki bozui ya ndaku na bino ekiti,biloko nini oko pona ko somba ya yambo mukie? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM7. Ikiwa mapato yako ya kaya yanapaswa kuanguka, ni vitu vipi (bidhaa au huduma) ambazo zingeweza kupunguza matumizi yako kwanza?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ07D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM7. Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes (biens ou services) dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le quatri\'e8me poste dont vous diminuerez la consommation ,si votre revenu diminuez \cf1\i0\par
+FRA=\b\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM7. soki bozui ya ndaku na bino ekiti,biloko nini oko pona ko somba ya yambo mukie? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs32 SM7. Ikiwa mapato yako ya kaya yanapaswa kuanguka, ni vitu vipi (bidhaa au huduma) ambazo zingeweza kupunguza matumizi yako kwanza?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ07E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM7. Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes (biens ou services) dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le cinqui\'e8me poste dont vous diminuerez la consommation ,si votre revenu diminuez \cf1\i0\par
+FRA=\b\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM7. soki bozui ya ndaku na bino ekiti,biloko nini oko pona ko somba ya yambo mukie? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM7. Ikiwa mapato yako ya kaya yanapaswa kuanguka, ni vitu vipi (bidhaa au huduma) ambazo zingeweza kupunguza matumizi yako kwanza?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ08A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM8. Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes (biens ou services) dont vous augmenteriez la consommation en priorit\'e9 ? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le premier poste dont vous augmenterez la consommation ,si votre revenu augmentez \cf1\i0\par
+FRA=\b\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM7. soki bozui ya ndaku na bino emati,biloko nini oko pona ko somba ya yambo ebele? \b0\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM8. Ikiwa mapato ya kaya yako yanaongezeka, ni vitu vipi (bidhaa au huduma) ambazo utaongeza matumizi katika kipaumbele?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ08B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM8. Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes (biens ou services) dont vous augmenteriez la consommation en priorit\'e9 ? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le second poste dont vous augmenterez la consommation ,si votre revenu augmentez \cf1\i0\par
+FRA=\b\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM8.soki bozui ya ndaku na bino emati,biloko nini oko pona ko somba ya yambo ebele? \par
+LIN=\b0\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM8. Ikiwa mapato ya kaya yako yanaongezeka, ni vitu vipi (bidhaa au huduma) ambazo utaongeza matumizi katika kipaumbele?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ08C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM8. Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes (biens ou services) dont vous augmenteriez la consommation en priorit\'e9 ?\b0\fs24  \par
+FRA=\cf2\i nous voulons connaitre letroisi\'e8me  poste dont vous augmenterez la consommation ,si votre revenu augmentez \cf1\i0\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM8.soki bozui ya ndaku na bino emati,biloko nini oko pona ko somba ya yambo ebele? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM8. Ikiwa mapato ya kaya yako yanaongezeka, ni vitu vipi (bidhaa au huduma) ambazo utaongeza matumizi katika kipaumbele?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ08D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM8. Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes (biens ou services) dont vous augmenteriez la consommation en priorit\'e9 ? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le quatri\'e8me poste dont vous augmenterez la consommation ,si votre revenu augmentez \cf1\i0\par
+FRA=\b\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM8.soki bozui ya ndaku na bino emati,biloko nini oko pona ko somba ya yambo ebele? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM8. Ikiwa mapato ya kaya yako yanaongezeka, ni vitu vipi (bidhaa au huduma) ambazo utaongeza matumizi katika kipaumbele?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ08E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM8. Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes (biens ou services) dont vous augmenteriez la consommation en priorit\'e9 ? \par
+FRA=\cf2\b0\i\fs24 nous voulons connaitre le cinqui\'e8me poste dont vous augmenterez la consommation ,si votre revenu augmentez \cf1\i0\par
+FRA=\b\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM8.soki bozui ya ndaku na bino emati,biloko nini oko pona ko somba ya yambo ebele? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM8. Ikiwa mapato ya kaya yako yanaongezeka, ni vitu vipi (bidhaa au huduma) ambazo utaongeza matumizi katika kipaumbele?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ09A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM9. Pensez-vous (ou envisagez-vous) d'acheter une voiture dans les deux ou trois ans \'e0 venir\~?    \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM9.ozo kanisa (to pe oza na posa ya) ko somba motuka na ba mbula  mibale to misatu eza ko ya?\par
+LIN=    \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM9. Je, wewe (au unafikiri) kununua gari katika kipindi cha miaka miwili hadi mitatu ijayo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ09B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM9. Pensez-vous (ou envisagez-vous) d'acheter une t\'e9l\'e9vision dans les deux ou trois ans \'e0 venir\~?    \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM9.ozo kanisa (to pe oza na posa ya) ko somba television na ba mbula  mibale to misatu eza ko ya?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM9. Je, wewe (au una mpango) kununua TV katika miaka miwili hadi mitatu ijayo?\b0\fs24\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ09C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM9. Pensez-vous (ou envisagez-vous) d'acheter une terre dans les deux ou trois ans \'e0 venir\~?    \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM9.ozo kanisa (to pe oza na posa ya) ko somba mabele na ba mbula  mibale to misatu eza ko ya?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM9. Je, wewe (au unafikiria) kununua ardhi katika miaka miwili hadi mitatu ijayo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ09D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM9. Pensez-vous (ou envisagez-vous) d'acheter (ou de construire) une maison dans les deux ou trois ans \'e0 venir\~?    \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM9.ozo kanisa (to pe oza na posa ya) ko somba (to pe kotonga) ndaku na ba mbula  mibale to misatu eza ko ya?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM9. Je, wewe (au una mpango) kununua (au kujenga) nyumba katika miaka miwili hadi mitatu ijayo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM10. Au cours des 12 derniers mois,c \'e0 d depuis (le %douzederniermois%)  les prix ont-ils?\par
+FRA=\cf2\b0\fs24 nous voulons connaitre l'evolution des prix \i allant du %douzederniermois% jusqu'au mois pass\'e9\cf1\i0\par
+FRA=\b\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 na ba sanza zomi na mibale ya suka,talo ya biloko ekomi ndenge nini?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM10. Katika miezi kumi na miwili iliyopita, una bei?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM11. Dans les 6 mois qui viennent , les prix vont :\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 na ba sanza motoba oyo ezali ko ya ,ba talo ya biloko eko koma ndenge nini?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM11. Katika miezi sita ijayo, bei zitakwenda:\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM12. A votre avis, est-il raisonnable d'acheter des biens tr\'e8s chers maintenant ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM12. pona yo,ezali mayele ko somba biloko ya talo makasi sikoyo?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM12. Kwa maoni yako, ni busara kununua bidhaa ghali sana sasa?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ13
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM13. Compte tenu de la conjoncture \'e9conomique des salaires et des prix, est-il possible d'\'e9pargner ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM13. ndenge makambo ya mbongo , bofutami na ba talo ya biloko ezali,moto akoki ko bomba mbongo?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM13. Kutokana na hali ya kiuchumi ya mshahara na bei, inawezekana kuokoa?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ14A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM14. y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie d'une assurance maladie employeur \~? \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM14.eza ata na mutu moko ya ndaku na bino azalaka na assurance maladie na ndenge ya mosala? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM14. Je! Kuna mwanachama mmoja wa kaya yako ambaye anafurahia faida zifuatazo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ14B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM14. y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie  d'une assurance qu'il a contract\'e9 lui m\'eame \~? \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM14.eza ata na mutu moko ya ndaku na bino azalaka na assurance maladie oyo akota ye moko? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM14. Je! Kuna mwanachama mmoja wa kaya yako ambaye anafurahia faida zifuatazo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ14C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM14. y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie  du regime de retraite employeur \~? \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM14.eza ata na mutu moko ya ndaku na bino azuaka mbongo ya pansion na ndenge ya mosala abandaka ko sala? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM14. Je! Kuna mwanachama mmoja wa kaya yako ambaye anafurahia faida zifuatazo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ14D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM14. y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie du regime de retraite qu'il a contract\'e9 lui m\'eame\~? \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM14.eza ata na mutu moko ya ndaku na bino azuaka mbongo ya pansion oyo akota na ndenge naye? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM14. Je! Kuna mwanachama mmoja wa kaya yako ambaye anafurahia faida zifuatazo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ14E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM14. y a-t-il au moins un membre  de votre m\'e9nage qui possede un compte \'e0 vue (compte courant)? \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM14.eza ata na mutu moko ya ndaku na bino azalaka na compte courant? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM14. Je! Kuna mwanachama mmoja wa kaya yako ambaye anafurahia faida zifuatazo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ14F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM14. y a-t-il au moins un membre  de votre m\'e9nage qui possede un compte epargne \~? \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM14.eza ata na mutu moko ya ndaku na bino azalaka na compte epargne? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM14. Je! Kuna mwanachama mmoja wa kaya yako ambaye anafurahia faida zifuatazo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ14G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM14. y a-t-il au moins un membre  de votre m\'e9nage qui possede des placements financiers  \~? \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM14.eza ata na mutu moko ya ndaku na bino azalaka na ba placements financiers? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM14. Je! Kuna mwanachama mmoja wa kaya yako ambaye anafurahia faida zifuatazo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ15A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM15. Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois c \'e0 d depuis (le %douzederniermois%)  :  un cas de maladie grave\par
+FRA=\cf2\b0\i\fs24 nous voulons savoir s'il y a une personne qui est tomb\'e9 malade dans votre menage depuis le  %douzederniermois% jusqu'au mois pass\'e9\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM15. Kulikuwa katika nyumba wakati wa miezi kumi na miwili iliyopita:\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 na ba sanza zomi na mibale ya suka,moto moko a belaki makasi na ndaku na bino?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ15B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM15. Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois c \'e0 d depuis (le %douzederniermois%)  :  un cas de d\'e9c\'e8s\par
+FRA=\cf2\b0\i\fs24 nous voulons savoir s'il y a une personne qui est morte dans votre menage depuis le %douzederniermois% jusqu'au mois pass\'e9\par
+FRA=\cf1\b\i0\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM15.na ba sanza zomi na mibale ya suka,moto moko akufaki na ndaku na bino?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM15. Kulikuwa katika nyumba wakati wa miezi kumi na miwili iliyopita:\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ15C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM15. Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois c \'e0 d depuis (le %douzederniermois%) :  un mariage ,un bapt\'eame\par
+FRA=\cf2\b0\i\fs24 nous voulons savoir s'il y a une personne qui s'est mari\'e9 ou s'est fait baptis\'e9 dans votre menage depuis le %douzederniermois% jusqu'au mois pass\'e9\par
+FRA=\cf1\b\i0\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM15.na ba sanza zomi na mibale ya suka,moto moko abalaki to pe azuaki libatisi na ndaku na bino?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM15. Kulikuwa katika nyumba wakati wa miezi kumi na miwili iliyopita:\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ15D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM15. Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois c \'e0 d depuis (le %douzederniermois%)  :  une perte d'emploi\par
+FRA=\cf2\b0\i\fs24 nous voulons savoir s'il y a une personne qui a perdu son emploi dans votre menage depuis le  %douzederniermois% jusqu'au mois pass\'e9\par
+FRA=\cf1\b\i0\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 SM15.na ba sanza zomi na mibale ya suka,mosala ya moto moko ekufaki na ndaku na bino? \par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM15. Kulikuwa katika nyumba wakati wa miezi kumi na miwili iliyopita:\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M33.SMQ15E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 SM15. Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois c \'e0 d depuis (le %douzederniermois%)  : une lev\'e9e de deuil \par
+FRA=\cf2\b0\i\fs24 nous voulons savoir s'il y a eu une lev\'e9e de deuil dans votre menage depuis le  %douzederniermois%  jusqu'au mois pass\'e9\par
+FRA=\cf1\b\i0\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\fs24 S\b\fs28 M15.na ba sanza zomi na mibale ya suka, bo panzaki matanga na ndaku na bino?\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28 SM15. Kulikuwa katika nyumba wakati wa miezi kumi na miwili iliyopita:\par
+SWA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3303A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3303a. \b0 Nom de l'enfant \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3304
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3304. \b0 Num\'e9ro de ligne de la M\'e8re\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3304A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3304A. \b0 Nom de la M\'e8re\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3305
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3305. \b0 Code Enqu\'eateur\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3306
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3306. \b0 Code Superviseur\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3307
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3307. \b0 Date de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3308
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3308. \b0 Heure de d\'e9but de l'interview \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3309
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3309. \b0 Premier interview avec le r\'e9pondant \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M331
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3301.\b0  Num\'e9ro de la Grappe\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3310
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M33010. \b0 Consentement \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3311
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3311. \b0 Heure de fin de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3312
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3312. \b0 Langue du Questionnaire\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3313
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3313.\b0  Langue de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3314
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3314. \b0 Langue Maternelle\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3315
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3315. \b0 Utilisation d'un interpr\'e8te \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M3317
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3317. \b0 R\'e9sultat de l'interview \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M332
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3302. \b0 Num\'e9ro du M\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M333
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M3303. \b0 Num\'e9ro de Ligne\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.M33INT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M33ENQ. \b0 Num\'e9ro de l'enqu\'eateur M\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ01
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM1. \b0 Depuis les 12 derniers mois, les revenus de votre m\'e9nage ont :\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ01A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SMQ01A. \b0 Si 1 ou 3,  de combien (%) \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ02
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM2. Depuis les 12 derniers mois, les \'e9conomies (\'e9pargne) de votre m\'e9nage ont :\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ02A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SMQ02A. \b0 Si 1 ou 3,  de combien (%) \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ03
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM3. \b0 Depuis les 12 derniers mois, les achats (consommation) de votre m\'e9nage ont :\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ03A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SMQ03A. \b0 Si 1 ou 3,  de combien (%) \b\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ04A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM4.  \b0 Depuis les 12 derniers mois, quels sont les postes qui ont le plus baiss\'e9 dans vos achats\~? \par
+FRA=\par
+FRA=1. Premier Poste\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ04B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM4.  \b0 Depuis les 12 derniers mois, quels sont les postes qui ont le plus baiss\'e9 dans vos achats\~? \par
+FRA=\par
+FRA=2. Deuxi\'e8me Poste\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ04C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM4.  \b0 Depuis les 12 derniers mois, quels sont les postes qui ont le plus baiss\'e9 dans vos achats\~? \par
+FRA=\par
+FRA=3. Troisi\'e8me Poste\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ04D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM4.  \b0 Depuis les 12 derniers mois, quels sont les postes qui ont le plus baiss\'e9 dans vos achats\~? \par
+FRA=\par
+FRA=4. Quatri\'e8me Poste\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ05A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM5. \b0  Depuis les 12 derniers mois, quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~? \par
+FRA=\par
+FRA=1. Premier Poste de d\'e9pense\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ05B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM5. \b0  Depuis les 12 derniers mois, quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~? \par
+FRA=\par
+FRA=2. Deuxi\'e8me Poste de d\'e9pense\par
+FRA=
+FRA=\pard\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ05C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM5. \b0  Depuis les 12 derniers mois, quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~? \par
+FRA=\par
+FRA=3. Troisi\'e8me Poste de d\'e9pense\par
+FRA=
+FRA=\pard\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ05D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM5. \b0  Depuis les 12 derniers mois, quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~? \par
+FRA=\par
+FRA=4. Quatri\'e8me Poste de d\'e9pense\par
+FRA=
+FRA=\pard\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ05E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM5. \b0  Depuis les 12 derniers mois, quels sont les  postes qui ont le plus augment\'e9 dans vos achats\~? \par
+FRA=\par
+FRA=5. Cinqui\'e8me Poste de d\'e9pense\par
+FRA=
+FRA=\pard\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ06
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM6. \b0 Comment avez-vous principalement baiss\'e9 ces achats ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ07A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM7.\b0  Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\par
+FRA=1. Premier Produit \'e0 diminuer \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ07B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM7.\b0  Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\par
+FRA=2. Deuxi\'e8me Produit \'e0 diminuer \par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ07C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM7.\b0  Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\par
+FRA=3. Troisi\'e8me Produit \'e0 diminuer \par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ07D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM7.\b0  Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\par
+FRA=4. Quatri\'e8me Produit \'e0 diminuer \par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ07E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM7.\b0  Si le revenu de votre m\'e9nage venait \'e0 baisser, quels seraient les principaux postes dont vous diminueriez la consommation en priorit\'e9\~? \par
+FRA=\par
+FRA=5. Cinqui\'e8me Produit \'e0 diminuer \par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ08A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM8\b0 . Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes dont vous augmenteriez la consommation \par
+FRA=\par
+FRA=1. Premier produit \'e0 augmenter\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ08B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM8\b0 . Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes dont vous augmenteriez la consommation \par
+FRA=\par
+FRA=2. Deuxi\'e8me produit \'e0 augmenter\b\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ08C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM8\b0 . Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes dont vous augmenteriez la consommation \par
+FRA=\par
+FRA=3. Troisi\'e8me produit \'e0 augmenter\b\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ08D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM8\b0 . Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes dont vous augmenteriez la consommation \par
+FRA=\par
+FRA=4. Quatri\'e8me produit \'e0 augmenter\b\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ08E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM8\b0 . Si le revenu de votre m\'e9nage venait \'e0 augmenter, quels seraient les principaux postes dont vous augmenteriez la consommation \par
+FRA=\par
+FRA=5. Cinqui\'e8me produit \'e0 augmenter\b\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ09A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM9. \b0 Pensez-vous (ou envisagez-vous) d'acheter (ou de construire) les biens suivants dans les deux ou trois ans \'e0 venir\~?\par
+FRA=\par
+FRA=1. Achat voiture    \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ09B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM9. \b0 Pensez-vous (ou envisagez-vous) d'acheter (ou de construire) les biens suivants dans les deux ou trois ans \'e0 venir\~?\par
+FRA=\par
+FRA=2. Achat poste t\'e9l\'e9visuer  \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ09C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM9. \b0 Pensez-vous (ou envisagez-vous) d'acheter (ou de construire) les biens suivants dans les deux ou trois ans \'e0 venir\~?\par
+FRA=\par
+FRA=3. Achat d'une terre\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ09D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM9. \b0 Pensez-vous (ou envisagez-vous) d'acheter (ou de construire) les biens suivants dans les deux ou trois ans \'e0 venir\~?\par
+FRA=\par
+FRA=4. Achat d'une maison  \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM10. \b0 Au cours des 12 derniers mois, les prix ont-ils ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM11. \b0 Dans les 6 mois qui viennent, les prix vont-ils :\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM12. \b0 A votre avis, est-il raisonnable d'acheter des biens tr\'e8s chers maintenant ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ14A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM14. \b0 y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie  des avantages suivants \~? \par
+FRA=\par
+FRA=a. Assurance maladie employeur   \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ14B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM14. \b0 y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie  des avantages suivants \~? \par
+FRA=\par
+FRA=b. Assurance maladie contract\'e9e soi-m\'eame   \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ14C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM14. \b0 y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie  des avantages suivants \~? \par
+FRA=\b\par
+FRA=c. \b0 R\'e9gime de retraite employeur \b  \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ14D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM14. \b0 y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie  des avantages suivants \~? \par
+FRA=\b\par
+FRA=
+FRA=\pard d. \b0 R\'e9gime de retraite contract\'e9e soi-m\'eame  \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ14E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM14. \b0 y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie  des avantages suivants \~? \par
+FRA=\par
+FRA=e. Compte \'e0 vue (Compte courant)        \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ14F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM14. \b0 y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie  des avantages suivants \~? \par
+FRA=\par
+FRA=f. Compte \'e9pargne   \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ14G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM14. \b0 y a-t-il au moins un membre  de votre m\'e9nage qui  b\'e9n\'e9ficie  des avantages suivants \~? \par
+FRA=\par
+FRA=g. placements financiers    \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ15A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM15. \b0 Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois :  \par
+FRA=\par
+FRA=a.   un malade   grave   \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ15B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM15. \b0 Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois :  \par
+FRA=\par
+FRA=b.   un d\'e9c\'e8s    \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ15C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM15. \b0 Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois : \b  \par
+FRA=\par
+FRA=c.   \b0 un mariage, un bapt\'eame   \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ15D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM15. \b0 Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois :  \par
+FRA=\par
+FRA=d.   une perte d'emploi    \par
+FRA=}
+
+[QUESTION]
+Field=MOD_33_DICT.SMQ15E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 SM15. \b0 Y a t-il eu dans le m\'e9nage au cours des 12 derniers mois : \b  \par
+FRA=\par
+FRA=e.   \b0 une lev\'e9e de deuil    \par
+FRA=}
+

@@ -1,0 +1,1643 @@
+﻿[FormFile]
+Version=CSPro 6.3
+Name=EPMU1M34_FF
+Label=EPMU1M34
+DefaultTextFont=-013 0000 0000 0000 0700 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+FieldEntryFont=0018 0000 0000 0000 0600 0000 0000 0000 0000 0000 0000 0000 0000 Courier New
+FieldColor=Current,8454143
+Type=SystemControlled
+  
+[Dictionaries]
+File=..\Dicts\EPMU1M34.dcf
+  
+[Form]
+Name=FORM000
+Label=(Id Items)
+QuestionTextHeight=203
+Level=1
+Size=1095,399
+Color=16777215
+  
+Item=M341
+Item=M342
+Item=M34INT
+Item=M343
+Item=M34HINT
+Item=M347
+Item=M348
+Item=M34NAME
+Item=M34ADDR
+Item=M3411
+Item=M346J
+Item=M346M
+Item=M346A
+Item=M349H
+Item=M349M
+  
+Box=344,69,780,111,Raised
+Box=382,151,750,153,Raised
+Box=51,68,1070,374,Raised
+Box=50,19,1070,314,Raised
+Box=52,162,1070,246,Etched
+Box=737,163,738,245,Etched
+Box=369,164,372,246,Etched
+  
+[Text]
+Name=TEXT1
+Position=393,73,721,107
+Text=MODULE 34 : TRANSFERT
+Form=1
+Font=-029 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0018 Cambria
+Color=16711680
+ 
+  
+[Text]
+Name=TEXT2
+Position=97,26,1042,63
+Text=ENQUETE CONDITIONS DE VIE DES MENAGES  EN MILIEU URBAIN
+Form=1
+Font=-032 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Cambria
+Color=16711680
+ 
+  
+[Text]
+Name=TEXT5
+Position=417,119,728,147
+Text=PANNEAU D'INFORMATIONS
+Form=1
+Font=-024 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Cambria
+ 
+  
+[Text]
+Name=TEXT6
+Position=528,325,578,352
+Text=Date
+Form=1
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT7
+Position=635,322,642,351
+Text=/
+Form=1
+Font=-024 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT8
+Position=683,324,690,353
+Text=/
+Form=1
+Font=-024 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT9
+Position=823,321,840,350
+Text=H
+Form=1
+Font=-024 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT10
+Position=881,322,902,351
+Text=M
+Form=1
+Font=-024 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT11
+Position=116,76,234,99
+Text=ECVM1 2018
+Form=1
+Font=-020 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT12
+Position=168,101,193,124
+Text=VF
+Form=1
+Font=-020 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+Color=32768
+ 
+[EndForm]
+  
+[Form]
+Name=FORM003
+Label=MODULE 34: TRANSFERTS RECUS PAR LE MENAGE
+QuestionTextHeight=217
+Level=1
+Size=1239,549
+Color=16777215
+  
+Item=TRANSFER2000
+Item=T01
+Item=T01A
+  
+  
+[Text]
+Name=TEXT3
+Position=352,4,1033,51
+Text=TRANSFERTS REÇUS PAR LE MENAGE
+Form=2
+Font=-040 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Cambria
+ 
+  
+[Text]
+Name=TEXT13
+Position=223,61,341,84
+Text=ECVM1 2018
+Form=2
+Font=-020 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT15
+Position=1065,56,1150,79
+Text=V08 2018
+Form=2
+Font=-020 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Form]
+Name=FORM004
+Label=MODULE 34: TRANSFERTS EMIS PAR LE MENAGE
+QuestionTextHeight=184
+Level=1
+Size=1181,707
+Color=16777215
+  
+Item=TRANSFER3000
+Item=T17
+Item=M3417
+Item=M34FIN
+Item=M3410H
+Item=M3410M
+Item=T17A
+Item=REP_MOD34
+  
+  
+[Text]
+Name=TEXT4
+Position=343,14,996,61
+Text=TRANSFERTS EMIS PAR LE MENAGE
+Form=3
+Font=-040 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Cambria
+ 
+  
+[Text]
+Name=TEXT14
+Position=252,78,370,101
+Text=ECVM1 2018
+Form=3
+Font=-020 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Name=TEXT16
+Position=1034,73,1119,96
+Text=V08 2018
+Form=3
+Font=-020 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndForm]
+  
+[Level]
+Name=M34
+Label=MODULE 34: TRANSFERTS RECUS PAR LE MENAGE questionnaire
+  
+[Group]
+Required=Yes
+Name=IDS0_FORM
+Label=(Id Items)
+Form=1
+LogicControl=No
+Max=1
+  
+[Field]
+Name=M341
+Position=213,176,256,196
+Item=M341,EPMU1M34
+Protected=Yes
+Form=1
+  
+[Text]
+Position=158,175,190,202
+Text=M1
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M342
+Position=224,209,253,229
+Item=M342,EPMU1M34
+Protected=Yes
+Form=1
+  
+[Text]
+Position=158,208,190,235
+Text=M2
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M34INT
+Position=596,178,639,198
+Item=M34INT,EPMU1M34
+Protected=Yes
+Form=1
+  
+[Text]
+Position=444,177,557,204
+Text=Enquêteur
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M343
+Position=546,209,575,229
+Item=M343,EPMU1M34
+Protected=Yes
+Form=1
+  
+[Text]
+Position=487,208,519,235
+Text=M3
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M34HINT
+Position=974,178,1017,198
+Item=M34HINT,EPMU1M34
+Protected=Yes
+Form=1
+  
+[Text]
+Position=770,173,947,200
+Text=Code Enquêteur
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M347
+Position=844,210,859,230
+Item=M347,EPMU1M34
+Protected=Yes
+Form=1
+  
+[Text]
+Position=793,206,825,233
+Text=M7
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M348
+Position=984,207,1013,227
+Item=M348,EPMU1M34
+Protected=Yes
+HideInCaseTree=Yes
+Form=1
+  
+[Text]
+Position=921,204,953,231
+Text=M8
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M34NAME
+Position=437,257,767,277
+Item=M34NAME,EPMU1M34
+Protected=Yes
+UseUnicodeTextBox=Yes
+Form=1
+  
+[Text]
+Position=283,257,376,284
+Text=Nom CM
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M34ADDR
+Position=439,283,769,303
+Item=M34ADDR,EPMU1M34
+Protected=Yes
+HideInCaseTree=Yes
+UseUnicodeTextBox=Yes
+Form=1
+  
+[Text]
+Position=284,285,371,312
+Text=Adresse
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M3411
+Position=465,329,480,349
+Item=M3411,EPMU1M34
+DataCaptureType=RadioButton
+Form=1
+  
+[Text]
+Position=266,327,423,354
+Text=Consentement
+Font=-024 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+Color=255
+ 
+  
+[Field]
+Name=M346J
+Position=599,326,628,346
+Item=M346J,EPMU1M34
+Protected=Yes
+Form=1
+  
+  
+[Field]
+Name=M346M
+Position=646,326,675,346
+Item=M346M,EPMU1M34
+Protected=Yes
+Form=1
+  
+  
+[Field]
+Name=M346A
+Position=696,325,753,345
+Item=M346A,EPMU1M34
+Protected=Yes
+HideInCaseTree=Yes
+Form=1
+  
+  
+[Field]
+Name=M349H
+Position=788,324,817,344
+Item=M349H,EPMU1M34
+Protected=Yes
+Form=1
+  
+  
+[Field]
+Name=M349M
+Position=846,324,875,344
+Item=M349M,EPMU1M34
+Protected=Yes
+HideInCaseTree=Yes
+Form=1
+  
+[EndGroup]
+  
+[Group]
+Required=No
+Name=TRANSFER2_FORM
+Label=MODULE 34: TRANSFERTS RECUS PAR LE MENAGE
+Form=2
+LogicControl=No
+Max=1
+  
+[Field]
+Name=T01
+Position=325,97,340,117
+Item=T01,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+Form=2
+  
+[Text]
+Position=278,96,312,118
+Text=T01
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=T01A
+Position=1122,92,1151,112
+Item=T01A,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=NumberPad
+Form=2
+  
+[Text]
+Position=1059,93,1106,115
+Text=T01A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Grid]
+Name=TRANSFER2000
+Label=MODULE 34: TRANSFERTS RECUS PAR LE MENAGE
+Form=2
+Required=No
+Type=Record
+TypeName=TRANSFER2
+Max=12
+MaxField=T01A
+DisplaySize=213,128,1214,524
+Orientation=Horizontal
+FieldRowHeight=34
+HeadingRowHeight=44
+FreeMovement=Yes
+DefaultMovement=Horizontal
+ 
+[Text]
+Position=0,0,30,34
+Text=1
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=2
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=3
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=4
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=5
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=6
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=7
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=8
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=9
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=10
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=11
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,30,34
+Text=12
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Column]
+Width=10
+[EndColumn]
+  
+[Column]
+Width=50
+  
+[HeaderText]
+Position=4,14,46,44
+Text=T02
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T02
+Position=7,5,36,25
+Item=T02,EPMU1M34
+FieldLabelType=DictionaryName
+  
+[Text]
+Position=19,1,50,31
+Text=T02
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=59
+  
+[HeaderText]
+Position=7,14,51,44
+Text=T2A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T2A
+Position=9,5,38,25
+Item=T2A,EPMU1M34
+  
+[Text]
+Position=25,1,69,31
+Text=T2A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=54
+  
+[HeaderText]
+Position=6,14,48,44
+Text=T03
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T03
+Position=19,6,34,26
+Item=T03,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=12,42,54,72
+Text=T03
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=58
+  
+[HeaderText]
+Position=8,14,50,44
+Text=T04
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T04
+Position=16,4,31,24
+Item=T04,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=14,42,56,72
+Text=T04
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=50
+  
+[HeaderText]
+Position=4,14,46,44
+Text=T05
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T05
+Position=2,5,31,25
+Item=T05,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=NumberPad
+  
+[Text]
+Position=5,42,47,72
+Text=T05
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=53
+  
+[HeaderText]
+Position=5,14,47,44
+Text=T06
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T06
+Position=15,2,30,22
+Item=T06,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Position=47,122,89,152
+Text=T06
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=54
+  
+[HeaderText]
+Position=6,14,48,44
+Text=T07
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T07
+Position=17,2,46,22
+Item=T07,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Position=0,0,24,16
+Text=T07
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=64
+  
+[HeaderText]
+Position=11,14,53,44
+Text=T08
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T08
+Position=20,1,35,21
+Item=T08,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Position=0,14,42,44
+Text=T08
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=50
+  
+[HeaderText]
+Position=4,14,46,44
+Text=T09
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T09
+Position=14,2,29,22
+Item=T09,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=6,42,48,72
+Text=T09
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=61
+  
+[HeaderText]
+Position=9,14,51,44
+Text=T10
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T10
+Position=8,1,37,21
+Item=T10,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=18,42,42,58
+Text=T10
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=55
+  
+[HeaderText]
+Position=7,14,48,44
+Text=T11
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T11
+Position=17,0,32,20
+Item=T11,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=13,42,55,72
+Text=T11
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=63
+  
+[HeaderText]
+Position=10,14,52,44
+Text=T12
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T12
+Position=16,0,31,20
+Item=T12,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=9,42,51,72
+Text=T12
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=72
+  
+[HeaderText]
+Position=8,14,63,44
+Text=T13A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T13A
+Position=16,2,45,22
+Item=T13A,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T13A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=55
+  
+[HeaderText]
+Position=0,14,55,44
+Text=T13B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[Field]
+Name=T13B
+Position=18,0,47,20
+Item=T13B,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T13B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndColumn]
+  
+[Column]
+Width=70
+  
+[HeaderText]
+Position=7,14,63,44
+Text=T13C
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T13C
+Position=32,0,61,20
+Item=T13C,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T13C
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=92
+  
+[HeaderText]
+Position=25,14,67,44
+Text=T14
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T14
+Position=69,0,84,20
+Item=T14,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T14
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=70
+  
+[HeaderText]
+Position=14,14,56,44
+Text=T15
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T15
+Position=20,0,35,20
+Item=T15,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=18,42,59,72
+Text=T15
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=197
+  
+[HeaderText]
+Position=71,14,126,44
+Text=T16A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T16A
+Position=20,0,189,20
+Item=T16A,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=NumberPad
+  
+[Text]
+Position=113,1,168,31
+Text=T16A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=64
+  
+[HeaderText]
+Position=9,14,64,44
+Text=T16B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[Field]
+Name=T16B
+Position=16,0,31,20
+Item=T16B,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T16B
+ 
+[EndColumn]
+  
+[Column]
+Width=359
+  
+[HeaderText]
+Position=157,14,201,44
+Text=T2B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T2B
+Position=0,3,351,23
+Item=T2B,EPMU1M34
+Protected=Yes
+UseUnicodeTextBox=Yes
+  
+[Text]
+Position=315,1,341,17
+Text=T2B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[EndGrid]
+ 
+[EndGroup]
+  
+[Group]
+Required=No
+Name=TRANSFER3_FORM
+Label=MODULE 34: TRANSFERTS EMIS PAR LE MENAGE
+Form=3
+LogicControl=No
+Max=1
+  
+[Field]
+Name=T17
+Position=342,121,357,141
+Item=T17,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=281,123,315,145
+Text=T17
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=T17A
+Position=1116,118,1145,138
+Item=T17A,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=NumberPad
+Form=3
+  
+[Text]
+Position=1058,118,1105,140
+Text=T17A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Grid]
+Name=TRANSFER3000
+Label=MODULE 34: TRANSFERTS EMIS PAR LE MENAGE
+Form=3
+Required=No
+Type=Record
+TypeName=TRANSFER3
+Max=12
+MaxField=T17A
+DisplaySize=237,156,1156,502
+Orientation=Horizontal
+FieldRowHeight=0
+HeadingRowHeight=41
+FreeMovement=Yes
+DefaultMovement=Horizontal
+ 
+[Text]
+Position=0,0,33,30
+Text=1
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=2
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=3
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=4
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=5
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=6
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=7
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=8
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=9
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=10
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=11
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Text]
+Position=0,0,33,30
+Text=12
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Column]
+Width=10
+[EndColumn]
+  
+[Column]
+Width=59
+  
+[HeaderText]
+Position=8,11,50,41
+Text=T18
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T18
+Position=11,0,40,20
+Item=T18,EPMU1M34
+FieldLabelType=DictionaryName
+  
+[Text]
+Position=30,10,72,40
+Text=T18
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=70
+  
+[HeaderText]
+Position=7,11,62,41
+Text=T18A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T18A
+Position=14,1,43,21
+Item=T18A,EPMU1M34
+  
+[Text]
+Text=T18A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=62
+  
+[HeaderText]
+Position=10,11,52,41
+Text=T19
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T19
+Position=18,0,33,20
+Item=T19,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=17,10,59,40
+Text=T19
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=67
+  
+[HeaderText]
+Position=12,11,54,41
+Text=T20
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T20
+Position=23,0,38,20
+Item=T20,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=27,10,69,40
+Text=T20
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=75
+  
+[HeaderText]
+Position=16,11,58,41
+Text=T21
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T21
+Position=22,0,51,20
+Item=T21,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=NumberPad
+  
+[Text]
+Position=33,10,57,26
+Text=T21
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=59
+  
+[HeaderText]
+Position=8,11,50,41
+Text=T22
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T22
+Position=20,0,35,20
+Item=T22,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=17,10,59,40
+Text=T22
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=59
+  
+[HeaderText]
+Position=8,11,50,41
+Text=T23
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T23
+Position=20,0,49,20
+Item=T23,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T23
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=60
+  
+[HeaderText]
+Position=9,11,51,41
+Text=T24
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T24
+Position=23,1,38,21
+Item=T24,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Position=18,11,60,41
+Text=T24
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=50
+  
+[HeaderText]
+Position=4,11,46,41
+Text=T25
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T25
+Position=7,0,22,20
+Item=T25,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=8,10,50,40
+Text=T25
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=57
+  
+[HeaderText]
+Position=7,11,49,41
+Text=T26
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T26
+Position=9,1,38,21
+Item=T26,EPMU1M34
+FieldLabelType=DictionaryName
+  
+[Text]
+Position=15,0,57,30
+Text=T26
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=45
+  
+[HeaderText]
+Position=1,11,43,41
+Text=T27
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T27
+Position=14,1,29,21
+Item=T27,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=10,0,52,30
+Text=T27
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=53
+  
+[HeaderText]
+Position=5,11,47,41
+Text=T28
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T28
+Position=17,2,32,22
+Item=T28,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=35,0,77,30
+Text=T28
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=82
+  
+[HeaderText]
+Position=13,11,68,41
+Text=T29A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T29A
+Position=27,1,56,21
+Item=T29A,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T29A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=65
+  
+[HeaderText]
+Position=10,11,65,41
+Text=T29B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[Field]
+Name=T29B
+Position=17,2,46,22
+Item=T29B,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T29B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndColumn]
+  
+[Column]
+Width=66
+  
+[HeaderText]
+Position=10,11,66,41
+Text=T29C
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[Field]
+Name=T29C
+Position=24,1,53,21
+Item=T29C,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T29C
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndColumn]
+  
+[Column]
+Width=59
+  
+[HeaderText]
+Position=17,11,59,41
+Text=T30
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[Field]
+Name=T30
+Position=28,2,43,22
+Item=T30,EPMU1M34
+DataCaptureType=RadioButton
+  
+[Text]
+Text=T30
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndColumn]
+  
+[Column]
+Width=49
+  
+[HeaderText]
+Position=3,11,45,41
+Text=T31
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T31
+Position=13,0,28,20
+Item=T31,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=7,0,49,30
+Text=T31
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=177
+  
+[HeaderText]
+Position=61,11,116,41
+Text=T32A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T32A
+Position=0,0,169,20
+Item=T32A,EPMU1M34
+FieldLabelType=DictionaryName
+  
+[Text]
+Position=80,10,135,40
+Text=T32A
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=55
+  
+[HeaderText]
+Position=0,11,55,41
+Text=T32B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T32B
+Position=16,0,31,20
+Item=T32B,EPMU1M34
+FieldLabelType=DictionaryName
+DataCaptureType=RadioButton
+  
+[Text]
+Position=0,10,55,40
+Text=T32B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[Column]
+Width=359
+  
+[HeaderText]
+Position=152,11,207,41
+Text=T18B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[Field]
+Name=T18B
+Position=0,1,351,21
+Item=T18B,EPMU1M34
+Protected=Yes
+UseUnicodeTextBox=Yes
+  
+[Text]
+Text=T18B
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorizontalAlignment=Center
+ 
+[EndColumn]
+  
+[EndGrid]
+ 
+  
+[Field]
+Name=REP_MOD34
+Position=456,576,485,596
+Item=REP_MOD34,EPMU1M34
+Form=3
+  
+[Text]
+Position=282,576,404,598
+Text=REP_MOD 34
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M3417
+Position=369,657,398,677
+Item=M3417,EPMU1M34
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=280,659,349,681
+Text=Résultat
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M3410H
+Position=474,657,503,677
+Item=M3410H,EPMU1M34
+Protected=Yes
+Form=3
+  
+[Text]
+Position=507,659,520,681
+Text=H
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M3410M
+Position=527,657,556,677
+Item=M3410M,EPMU1M34
+Protected=Yes
+Form=3
+  
+[Text]
+Position=564,659,589,681
+Text=Mn
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+  
+[Field]
+Name=M34FIN
+Position=725,662,740,682
+Item=M34FIN,EPMU1M34
+DataCaptureType=RadioButton
+Form=3
+  
+[Text]
+Position=648,659,679,681
+Text=FIN
+Font=-019 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+ 
+[EndGroup]
+  

@@ -1,0 +1,105 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Events
+Name=EVENTS_DICT
+RecordTypeStart=17
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Events questionnaire
+Name=EVENTS_QUEST
+
+[IdItems]
+
+[Item]
+Label=Event ID
+Name=EVID
+Start=1
+Len=16
+DataType=Alpha
+
+[Record]
+Label=Events record
+Name=EVENTS_REC
+RecordTypeValue='E01'
+MaxRecords=500
+RecordLen=105
+
+[Item]
+Label=Event type
+Name=EVTYPE
+Start=20
+Len=24
+DataType=Alpha
+
+[Item]
+Label=Event date
+Name=EVDATE
+Start=44
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Event date (Year)
+Name=EVYEAR
+Start=44
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Event date (Month)
+Name=EVMONTH
+Start=48
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Even date (Day)
+Name=EVDAY
+Start=50
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Event time
+Name=EVTIME
+Start=52
+Len=6
+ZeroFill=Yes
+
+[Item]
+Label=Even time (Hours)
+Name=EVHOURS
+Start=52
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Event time (Minutes)
+Name=EVMINUTES
+Start=54
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Event time (Seconds)
+Name=EVSECONDS
+Start=56
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Event parameter
+Name=EVPARAM
+Start=58
+Len=48
+DataType=Alpha

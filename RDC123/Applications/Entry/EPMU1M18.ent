@@ -1,0 +1,28 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=CHOC_NATUREL
+Name=EPMU1M18
+AppType=DataEntry
+OperatorID=No
+CAPI=Yes
+CAPIFont1=-019 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+CAPIFont2=-019 0000 0000 0000 0700 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+[External Dictionaries]
+File=..\Dicts\Clusters.dcf
+File=..\Dicts\Tasks.dcf
+[AppCode]
+File=.\EPMU1M18.ent.apc
+Include=..\Common\CommandWrappers.apc
+Include=..\Common\GlobalVars.apc
+[Message]
+File=.\EPMU1M18.ent.mgf
+[Help]
+File=.\EPMU1M18.ent.qsf
+[Forms]
+File=.\EPMU1M18.fmf
+[Dictionary Types]
+Dict-Type=..\DICTS\EPMU1M18.dcf,Input,.\EPMU1M18.fmf
+Dict-Type=..\Dicts\Clusters.dcf,External
+Dict-Type=..\Dicts\Tasks.dcf,External

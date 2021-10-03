@@ -1,0 +1,570 @@
+﻿//CSPro wrappers for PC commands
+//2017-07-15 
+
+//Folders where PC container utility is stored and temporary folder
+string utilsDir, tempDir;
+file tempFile, fMenu;
+
+//array of options for the showMenu functions
+array string menuOptions(999);
+
+//array of values to store between sessions (up to 10)
+array state(10);
+
+//Buffered command run variables
+file buffer1;
+numeric bufferOpen = 0;
+string bFile = "";
+
+function runCommand(string command)
+  if !bufferOpen then
+    execsystem('"' + utilsDir + '\PCCommand.exe" "' + command + '"', normal, wait);
+  else
+    filewrite(buffer1, "%s", command);
+  endif;
+end;
+
+//Function to retrieve Bluetooth address of the current device
+function string GetBtAddress()
+  string output = tempDir + "\btAddress.txt";
+  string btAddr;
+  filedelete(output);
+  
+  runCommand("GetBtAddress?outputfile=" + output);
+  
+  if fileexist(output) then
+    setfile(tempFile, output);
+	open(tempFile);
+	
+	fileread(tempFile, btAddr);
+	GetBtAddress = btAddr;
+	
+	close(tempFile);
+	filedelete(output);
+  endif;
+end;
+
+//Setting temp folder for the container app
+function setTempFolder(string tempFolder)
+  runCommand("SetTempFolder?path=" + tempDir);
+end;
+
+//Setting % constraints on the menu
+function setMenuConstraints(minX, minY, maxX, maxY)
+  string command = "SetMenuContraints";
+  string char1 = "?&&&";
+  numeric pCount = 0;
+  if minX > 0 then
+    pCount = pCount + 1;
+    command = command + char1[pCount:1] + "minx=" + edit("ZZ9", minX);
+  endif;
+  if minY > 0 then
+    pCount = pCount + 1;
+    command = command + char1[pCount:1] + "minY=" + edit("ZZ9", minY);
+  endif;
+  if maxX > 0 then
+    pCount = pCount + 1;
+    command = command + char1[pCount:1] + "maxx=" + edit("ZZ9", maxX);
+  endif;
+  if maxY > 0 then
+    pCount = pCount + 1;
+    command = command + char1[pCount:1] + "maxy=" + edit("ZZ9", maxY);
+  endif;
+  
+  runCommand(command);
+end;
+
+//showing a menu from an array of options (1 based)
+//back button result value is 9999
+function showMenu(string menuTitle)
+  numeric res = 0;
+  string command = "showmenu?title=" + menuTitle;
+  
+  numeric i;
+  do i = 1 while i <= 999 by 1
+    if length(strip(menuOptions(i))) then
+	  command = command + "&option=" + menuOptions(i);
+	else
+	  break;
+	endif;
+  enddo;
+  
+  command = command + "&backbutton=9999";
+  
+  runCommand(command);
+  
+  //reading result
+  string ares;
+  if fileexist(concat(strip(tempDir), "\menuform.tmp")) then
+    setfile(fMenu, concat(strip(tempDir), "\menuform.tmp"));
+    open(fMenu);
+    
+    fileread(fMenu, ares);
+    
+    res = tonumber(ares);
+    if res = default then
+      res = 0;
+    endif;
+    close(fMenu);
+  endif;
+
+  
+  showMenu = res;
+end;
+
+function clearMenu()
+  numeric i;
+  do i = 1 while i <= 999 by 1
+    menuOptions(i) = "";
+  enddo;
+end;
+
+//adds an optoin to the menu and returns option index
+function addMenuOption(string optionText)
+  numeric i;
+  do i = 1 while i <= 999 by 1
+    if !length(strip(menuOptions(i))) then
+	  break
+	endif;
+  enddo;
+  
+  if i > 999 then
+    break;
+  endif;
+  
+  menuOptions(i) = optionText;
+  
+  addMenuOption = i;
+end;
+
+function addMenuSeparator()
+  addMenuOption("%sep%");
+end;
+
+function createTaskList(string name, string templateFile, string output)
+  runCommand("CreateTaskList?name=" + name + "&template=" + templateFile + "&output=" + output);
+end;
+
+function loadTasks(string taskListName, panelIndex, string tasksDict, string tasksData)
+  runCommand("loadtasks?tasklist=" + taskListName + "&panel=" + edit("9", panelIndex) + "&dcf=" + tasksDict + "&data=" + tasksData);
+end;
+
+function showTaskList(string taskListName)
+  runCommand("showtasklist?tasklist=" + taskListName);
+end;
+
+function setOption(string taskList, optionId, string optionLabel, string optionWarning, string visible)
+  runCommand("setoption?tasklist=" + taskList + "&id=" + edit("99999", optionId) + "&label=" + optionLabel + "&warning=" + optionWarning + "&visible=" + visible);
+end;
+
+function setOptionsTree(string taskList, string templateName, statusId, string optionsStr)
+  runCommand("setoptionstree?tasklist=" + taskList + "&template=" + templateName + "&status=" + edit("99999", statusId) + "&options=" + optionsStr);
+end;
+
+function setOptionsSubTree(string taskList, string templateName, statusId, string optionsStr, parentId)
+  runCommand(maketext("setoptionstree?tasklist=%s&template=%s&status=%d&options=%s&parent=%d", taskList, templateName, statusId, optionsStr, parentId));
+end;
+
+function setCache(string cacheFile)
+  runCommand("setcache?filename=" + cacheFile);
+end;
+
+function execEnvi(string commands)
+  runCommand("execenvi?commands=" + commands);
+end;
+
+function addTaskToSync(string taskVar, string contentId, string receiverId, string senderId, string destFile, string shelf)
+  runCommand("addtasktosync?taskvar=" + taskVar + "&contentid=" + contentId + "&receiverid=" + receiverId + "&senderid=" + senderId + "&destfile=" + destfile + "&shelf=" + shelf);
+end;
+
+function addFilesToSync(string filesVar, string contentId, string receiverId, string senderId, string encrKey, string shelf)
+  runCommand("addfilestosync?filesvar=" + filesVar + "&contentid=" + contentId + "&receiverid=" + receiverId + "&senderid=" + senderId + "&encrkey=" + encrKey + "&shelf=" + shelf);
+end;
+
+//removes all outgoing packages with the same content, receiver and sender IDs
+//returns number of packages removed
+function removeFromSync(string contentId, string receiverId, string senderId, string shelf)
+  numeric res = -1;
+  
+  runCommand("removefromsync?contentid=" + contentId + "&receiverid=" + receiverId + "&senderid=" + senderId + "&shelf=" + shelf);
+  
+  //reading result
+  string ares;
+  if fileexist(concat(strip(tempDir), "\PackagesRemoved.tmp")) then
+    setfile(fMenu, concat(strip(tempDir), "\PackagesRemoved.tmp"));
+    open(fMenu);
+    
+    fileread(fMenu, ares);
+    
+    res = tonumber(ares);
+    if res = default then
+      res = -1;
+    endif;
+    close(fMenu);
+  endif;
+
+  removeFromSync = res;
+end;
+
+function startSync(string localAddress, string localPeerId, string localPeerName, string remoteAddress, string remotePeerId, string remotePeerName, string tasksDict, string filterStr)
+  runCommand("startsync?localaddress=" + localAddress + "&localpeerid=" + localPeerId + "&localpeername=" + localPeerName + "&remoteaddress=" + remoteAddress + "&remotepeerid=" + remotePeerId + "&remotepeername=" + remotePeerName + "&tasksdict=" + tasksDict + "&filter=" + filterStr);
+end;
+
+function getOutgoingPackageCount(string filterStr)
+  numeric res = 0;
+  
+  runCommand("getpackagescount?shelf=outgoing&filter=" + filterStr);
+  
+  //reading result
+  string ares;
+  if fileexist(concat(strip(tempDir), "\PackageCount.tmp")) then
+    setfile(fMenu, concat(strip(tempDir), "\PackageCount.tmp"));
+    open(fMenu);
+    
+    fileread(fMenu, ares);
+    
+    res = tonumber(ares);
+    if res = default then
+      res = -1;
+    endif;
+    close(fMenu);
+  endif;
+  
+  getOutgoingPackageCount = res;
+end;
+
+function procIncoming(string filterStr, string tasksDict)
+  runCommand("procincmoingpackages?filter=" + filterStr + "&tasksdict=" + tasksDict);
+end;
+
+function procIncoming2(string filterStr, string tasksDict, string shelf)
+  runCommand("procincmoingpackages?filter=" + filterStr + "&tasksdict=" + tasksDict + "&shelf=" + shelf);
+end;
+
+//removes all packages from "sent", "received" and "failed" folders in the current sync cache
+function cleanupSyncCache()
+  removeFromSync("", "", "", "sent");
+  removeFromSync("", "", "", "received");
+  removeFromSync("", "", "", "failed");
+end;
+
+//reads state.dat file in the temp folder and populates an array of previously saved values
+function loadPreviousValues()
+  if fileexist(tempDir + "\state.dat") then
+    setfile(tempFile, tempDir + "\state.dat");
+    open(tempFile);
+  
+    numeric i = 1;
+    string a;
+    while fileread(tempFile, a) & i <= 10 do
+      state(i) = tonumber(a);
+      i = i + 1;
+    enddo;
+    
+    close(tempFile);
+  endif;
+end;
+  
+//writes out array of values to state.dat file
+function savePreviousValues()
+  setfile(tempFile, tempDir + "\state.dat", create);
+  open(tempFile);
+    
+  numeric i;
+  do i = 1 while i <= 10 by 1
+    filewrite(tempFile, "%d", state(i));
+  enddo;
+    
+  close(tempFile);
+end;
+
+
+//reads a value from an ENVI expression
+//this function cannot be executed in buffered mode, 
+//and is always executed in non-buffered mode even if buffered execution is enabled
+function string readEnviValue(string expr)
+  string res = "";
+  
+  numeric bo_xxx = bufferOpen;
+  bufferOpen = 0;
+  runCommand("getenvivalue?value=" + expr);
+  bufferOpen = bo_xxx;
+  
+  //reading result
+  if fileexist(concat(strip(tempDir), "\envivalue.tmp")) then
+    setfile(fMenu, concat(strip(tempDir), "\envivalue.tmp"));
+    open(fMenu);
+    fileread(fMenu, res);
+    close(fMenu);
+  endif;
+  
+  readEnviValue = res;
+end;
+
+function enableDebugMode(string debugOutput)
+  runCommand("setdebugfile?debugfile=" + debugOutput);
+end;
+
+function disableDebugMode()
+  runCommand("setdebugfile");
+end;
+
+function writeDebugMessage(string message)
+  runCommand("writedebugmessage?message=" + message);
+end;
+
+//Report commands
+function clearDocument()
+  runCommand("ClearDocument");
+end;
+
+function clearCssLinks()
+  runCommand("ClearCssLinks");
+end;
+
+function string htmlHeader(order, string content)
+  htmlHeader = "<h" + edit("9", order) +">" + content + "</h" + edit("9", order) +">"
+end;
+
+function setDocumentTitle(string title1)
+  runCommand("SetDocumentTitle?title=" + title1);
+end;
+
+function addCssLink(string css)
+  runCommand("AddCssLink?css=" + css);
+end;
+
+function setLabel(string name, string content)
+  runCommand("SetLabel?Name=" + name + "&content=" + content);
+end;
+
+function setLabelCss(string name, string content, string cssClass)
+  runCommand("SetLabel?Name=" + name + "&content=" + content + "&cssclass=" + cssClass);
+end;
+
+function setTableCss(string name, string cssClass)
+  runCommand("SetTable?name=" +  name + "&cssclass=" + cssClass);
+end;
+
+function addTableRow(string tableName)
+  runCommand("AddTableRow?tablename=" + tableName);
+end;
+
+function addTableCell(string content, isHeader)
+  if isHeader then
+    runCommand("AddTableCell?content=" + content + "&isheader=true");
+  else
+    runCommand("AddTableCell?content=" + content + "&isheader=false");
+  endif;
+end;
+
+//HTML line break tag constant
+string lbr = "<br>";
+
+function addContent(string content)
+  runCommand("AddContent?content=" + content);
+end;
+
+function renderDocument(string fname)
+   runCommand("RenderDocument?filename=" + fname);
+end;
+
+function browse(string url)
+   runCommand("Browse?url=" + url);
+end;
+
+function string div(string content, string cssClass)
+  div = '<div class="' + cssclass + '">' + content + "</div>"
+end;
+
+
+function setProgressBar(string name, value)
+  runCommand("SetProgressBar?name=" + name + "&value=" + edit("ZZ9", value));  
+end;
+
+function setProgressBarCss(string name, string css, string cssBack, string cssFront, string cssText)
+  runCommand("setprogressbarcss?name=" + name + "&css=" + css + "&cssback=" + cssBack + "&cssfront=" + cssFront + "&csstext=" + cssText);
+end;
+
+
+//Opens buffer for buffered command execution
+function openBuffer(string bufferFile)
+   bFile = bufferFile;
+   close(buffer1);
+   filedelete(bufferFile);
+   setFile(buffer1, bufferFile);
+   bufferOpen = open(buffer1, create);
+   openBuffer = bufferOpen;
+end;
+
+//closes the command buffer and executes all recorded commands
+function closeBuffer()
+  close(buffer1);
+  bufferOpen = 0;
+  
+  //executing commands
+  runCommand("runcommandslist?file=" + bFile);
+end;
+
+function setList(string name)
+  runCommand("SetList?name=" + name);
+end;
+
+function addListItem(string listName, string content)
+  runCommand("AddListItem?listname=" + listName + "&content=" + content);
+end;
+
+function string getLabelContent(string labelName)
+  string res = "";
+  
+  runCommand("getlabelcontent?labelname=" + labelName);
+  
+  //reading result
+  if fileexist(concat(strip(tempDir), "\labelContent.tmp")) then
+    setfile(fMenu, concat(strip(tempDir), "\labelContent.tmp"));
+    open(fMenu);
+    fileread(fMenu, res);
+    close(fMenu);
+  endif;
+
+  getLabelContent = res;
+end;
+
+function cleanupTaskFile(string taskFile, idLength)
+  //write(maketext("cleanuptaskfile?file=%s&idlength=%d", taskFile, idLength));
+  runCommand(maketext("cleanuptaskfile?file=%s&idlength=%d", taskFile, idLength));
+end;
+
+function cleanupTaskFile2(string taskFile, idLength, skipDelCases)
+  runCommand(maketext("cleanuptaskfile?file=%s&idlength=%d&skipdelcases=%d", taskFile, idLength, skipDelCases));
+end;
+
+function deleteCase(string dataFile, string dict, array string idValues(,), idsNum)
+  //constructing command
+  string cx = "deletecase?datafile=" + dataFile + "&dict=" + dict;
+  
+  numeric ix;
+  do ix = 1 while ix <= idsNum by 1
+    cx = cx + "&" + idValues(ix, 1) + "=" + idValues(ix, 2);
+  enddo;
+  
+  runCommand(cx);
+end;
+
+function createDataGrid(string name, string gridTitle, string gridDict)
+  runCommand("createdatagrid?name=" + name + "&title=" + gridTitle + "&dict=" + gridDict);
+end;
+
+function setDataGridFontSize(string dataGrid, fontSize)
+  runCommand(maketext("setdatagridparams?datagrid=%s&fontsize=%d", dataGrid, fontSize));
+end;
+
+function setDataGridLabelFontSize(string dataGrid, fontSize)
+  runCommand(maketext("setdatagridparams?datagrid=%s&labelfontsize=%d", dataGrid, fontSize));
+end;
+
+function setDataGridLabel(string dataGrid, string label)
+  runCommand(maketext("setdatagridparams?datagrid=%s&label=%s", dataGrid, label));
+end;
+
+function setDataGridFilters(string dataGrid, array string filters(), filterNum)
+  string cx = "setdatagridfilters?datagrid=" +  dataGrid;
+  numeric ix;
+  do ix = 1 while ix <= filterNum by 1
+    cx = cx + "&filter=" + filters(ix);
+  enddo;
+
+  runCommand(cx);
+end;
+
+function addDataGridColumn(string dataGrid, string columnName, string columnType, string columnLabel, visible, fill)
+  string cx = "adddatagridcolumn?datagrid=" + datagrid;
+  cx = cx + "&name=" + columnName;
+  cx = cx + "&type=" + columnType;
+  cx = cx + "&label=" + columnLabel;
+  if !visible then
+    cx = cx + "&visible=false";
+  endif;
+  if fill then
+    cx = cx + "&fill=true";
+  endif;
+  
+  runCommand(cx);
+end;
+
+function showDataGrid(string dataGrid, string dataFile, string filterColumn)
+  runCommand(maketext("showdatagrid?datagrid=%s&datafile=%s&filtercolumn=%s", dataGrid, dataFile, filterColumn));
+end;
+
+//scans the current system and retruns a ';' delimited list of mapped system drives
+function string getSystemDrives(removableOnly)
+  string res = "";
+  
+  runCommand(maketext("getsystemdrives?removableonly=%d", removableOnly));
+  
+  //reading result
+  if fileexist(concat(strip(tempDir), "\systemdrives.tmp")) then
+    setfile(fMenu, concat(strip(tempDir), "\systemdrives.tmp"));
+    open(fMenu);
+    fileread(fMenu, res);
+    close(fMenu);
+  endif;
+
+  getSystemDrives = res;
+end;
+
+function execProc(string target, string arg, string windowMode)
+  runCommand(maketext("exec?proc=%s&arg=%s&window=%s", target, arg, windowMode));
+end;
+
+function createFilesListVar(string varName, string sourceDir, string destDir, string mask)
+  runCommand(maketext("createfileslistvar?filesvar=%s&sourcedir=%s&destdir=%s&mask=%s", varName, sourceDir, destDir, mask));
+end;
+
+function exitEnvironment()
+  runCommand("exitenvironment");
+end;
+
+function procCount(string procName)
+  string res = "";
+  
+  runCommand(maketext("proccount?exename=%s", procName));
+  
+  //reading result
+  if fileexist(concat(strip(tempDir), "\proccount.tmp")) then
+    setfile(fMenu, concat(strip(tempDir), "\proccount.tmp"));
+    open(fMenu);
+    fileread(fMenu, res);
+    close(fMenu);
+  endif;
+  
+  procCount = tonumber(res);
+end;
+
+function sortTasks(string taskFile, string tasksDict, string taskVar)
+  runCommand(maketext("sorttasks?file=%s&dict=%s&taskvar=%s", taskFile, tasksDict, taskVar));
+end;
+
+function photoCapture(string configFile, string outputFile)
+  runCommand(maketext("photocapture?configfile=%s&output=%s", configFile, outputFile));
+end;
+
+function photoGallery(string configFile, string folder, string fname)
+  runCommand(maketext("photogallery?configfile=%s&folder=%s&filename=%s", configFile, folder, fname));
+end;
+
+function showWaitScreen(timeout)
+  if timeout <= 100 then
+    exit;
+  endif;
+  
+  runCommand(maketext("startwaitanim?timeout=%d", timeout));
+end;
+
+function hideWaitScreen()
+  runCommand("stopwaitanim");
+end;
+
+function renameDictionary(string inputDictPath, string newDictName, string outputDictPath)
+  runCommand(maketext("renamedictionary?input=%s&newname=%s&output=%s", inputDictPath, newDictName, outputDictPath));
+end;

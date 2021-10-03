@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=MODULE13
+Name=MODULE13
+AppType=Batch
+[AppCode]
+File=.\Module13.bch.apc
+[Message]
+File=.\Module13.bch.mgf
+[Order]
+File=.\Module13.ord
+[Dictionary Types]
+Dict-Type=..\..\Dicts\EPMU1M13.dcf,Input,.\Module13.ord

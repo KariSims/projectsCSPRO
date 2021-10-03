@@ -1,0 +1,31 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=INTERVIEWERMENU
+Name=INTERVIEWERMENU
+AppType=DataEntry
+OperatorID=No
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+CenterForms=Yes
+[External Dictionaries]
+File=..\Dicts\Users.dcf
+File=..\Dicts\Clusters.dcf
+File=..\Dicts\Tasks.dcf
+[AppCode]
+File=.\InterviewerMenu.ent.apc
+Include=..\Common\GlobalVars.apc
+Include=..\Common\CommandWrappers.apc
+[Message]
+File=..\Common\Menu.mgf
+[Help]
+File=.\InterviewerMenu.ent.qsf
+[Forms]
+File=.\InterviewerMenu.fmf
+[Dictionary Types]
+Dict-Type=..\Dicts\Menu.dcf,Input,.\InterviewerMenu.fmf
+Dict-Type=..\Dicts\Users.dcf,External
+Dict-Type=..\Dicts\Clusters.dcf,External
+Dict-Type=..\Dicts\Tasks.dcf,External

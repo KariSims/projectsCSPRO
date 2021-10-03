@@ -1,0 +1,450 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=MODULE 32: CADEAUX DONNES OU RECUS AU COURS DES  6 DERNIERS MOIS
+Name=EPMU1M32
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=francais
+LIN=lingala
+SWA=swahili
+
+[Level]
+Label=MODULE 32: CADEAUX DONNES OU RECUS AU COURS DES  6 DERNIERS MOIS     questionnaire
+Name=M32
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=M321
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=M322
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro enquêteur
+Name=M32INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M323
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M323_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS DU MODULE 32
+Name=MODM32
+RecordTypeValue='M32'
+RecordLen=136
+
+[Item]
+Label=Code Enquêteur|Numéro Enquêteur
+Name=M32HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur|Numéro Superviseur
+Name=M325
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview|Date d'interview
+Name=M326
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview|Jour d'interview
+Name=M326J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview|Jour d'interview
+Name=M326J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de l'interview|Mois d'interview
+Name=M326M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=M326M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année de l'interview|Année d'interview
+Name=M326A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview|Année d'interview
+Name=M326A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu|Milieu de résidence
+Name=M327
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu|Milieu de résidence
+Name=M327_VS1
+Value=1;URBAIN
+
+[Item]
+Label=Province|Province
+Name=M328
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province|Province
+Name=M328_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps du début de l'interview|Temps début de l' interview
+Name=M329
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M329H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M329H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M329M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M329M_VS1
+Value=0:59
+
+[Item]
+Label=L'heure de la fin de l'interview|Temps de fin de l'interview
+Name=M3210
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M3210H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M3210H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M3210M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M3210M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement |Consentement
+Name=M3211
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement |Consentement
+Name=M3211_VS1
+Value=1;OUI, PERMISSION DONNEE|iyo,a ndimi|Ndio, DATA YA MAFUNZO
+Image=..\..\..\travail expert info\dossier photo\photo ange\Oui.PNG
+Value=2;NON, PERMISSION PAS DONNEE |te ,aboyi|HASI, UFUNZO HUWEZI
+Image=..\..\..\travail expert info\dossier photo\photo ange\Non.png
+
+[Item]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M3217
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M3217_VS1
+Value=1;COMPLETE|tosilisi|COMPLETE
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|ba kolo ndaku bazali te na tango to leki|HAKI MEMBA WA HOUSE MKI
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|ba kolo ndaku bazali te na tango molayi|HAKI YA HABARI YA KUTAA KWA KATIKA KIJU CHA MUDA
+Value=4;REFUS|baboyi|kukataa
+Value=5;LOGEMENT VIDE|ndaku ezali te|KUTUMIA KUTUMA
+Value=6;LOGEMENT DETRUIT|ndaku ba buka|Nyumba za kurejeshwa
+Value=7;LOGEMENT PAS TROUVE|tomoni ndaku te|Nyumba haipatikani
+Value=96;AUTRE|mosusu
+
+[Item]
+Label=Nom du chef de ménage|Nom du chef de ménage
+Name=M32NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M32ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M32FIN
+Start=122
+Len=1
+
+[ValueSet]
+Label=Finish
+Name=M32FIN_VS1
+Value=1;Revisiter le questionnaire|kozongela ko tala questionnaire|Rejea hoja ya
+Value=2;Ajouter les  notes|ko bakisa makomi|Ongeza maelezo
+Value=3;Savegarder questionnaire et terminer|esili,ko bomba questionnaire|Hifadhi dodoso na kumaliza
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer|ko koba|endelesha
+
+[Item]
+Label=Nombre de ligne
+Name=CADEAUQ01
+Start=124
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Total cadeaux
+Name=CADEAUQTOT
+Start=126
+Len=10
+ZeroFill=Yes
+
+[Item]
+Label=REPONDANT
+Name=REPONDANT
+Start=136
+Len=1
+ZeroFill=Yes
+
+[Record]
+Label=MODULE 32: CADEAUX DONNES OU RECUS AU COURS DES  6 DERNIERS MOIS
+Name=CADEAUX
+RecordTypeValue='CDM'
+MaxRecords=99
+RecordLen=114
+
+[Item]
+Label=Numéro de ligne
+Name=CADEAUQ02
+Start=14
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Libelles produits saisis
+Name=CADEAUQ03S
+Start=16
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Libelles produits NAEMA
+Name=CADEAUQ03N
+Start=56
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Code du produit
+Name=CADEAUQ03
+Start=96
+Len=6
+
+[ValueSet]
+Label=Code du produit
+Name=CADEAUQ03_VS1
+Value=151101;cadeaux données en argent par  le père ou la mère|mabonza ya mbongo oyo opesi tata to mama nayo |Zawadi zilizotolewa kwa fedha na baba au mama
+Value=151102;Cadeaux donnés en argent  par le  conjoint|mabonza ya mbongo oyo opesi molongani nayo|Zawadi zinazotolewa kwa fedha kwa mke
+Value=151103;Cadeaux donnés en argent  par  l'enfant|mabonza ya mbongo oyo opesi muana nayo|Zawadi zilizotolewa kwa fedha na mtoto
+Value=151104;Cadeaux donnés en argent  par le frère ou  la sur|mabonza ya mbongo oyo opesi ndeko nayo |Zawadi zinazotolewa kwa fedha na ndugu au dada
+Value=151105;Cadeaux donnés en argent  par un autre parent|mabonza ya mbogo oyo opesi ndeko mosusu ya libota |Zawadi zinazotolewa kwa pesa na mzazi mwingine
+Value=151106;Cadeaux donnés en argent  par un membre non apparenté|mabonza ya mbongo oyo opesi moto azali ya oyo aza ya libota nayo te|Zawadi zinazotolewa kwa fedha na mwanachama asiye na uhusiano
+Value=151107;Cadeaux donnés en argent  par un club, une association, etc|mabonza ya mbongo oyo opesi  club to lisanga ya batu |Zawadi zilizotolewa kwa fedha kwa klabu, ushirika, nk.
+Value=152101;Cadeaux reçus en argent par  le père ou  la mère|mabonza ya mbongo oyo tata to mama nayo apesi yo|Zawadi zilizopokea pesa na baba au mama
+Value=152102;Cadeaux reçus en argent par  le  conjoint|mabonza ya mbongo oyo molongani nayo apesi yo|Zawadi zilizopatikana kwa fedha na mke
+Value=152103;Cadeaux reçus en argent par l'enfant|mabonza ya mbongo oyo muana nayo apesi yo|Zawadi zilizopokea pesa na mtoto
+Value=152104;Cadeaux reçus en argent par le frère ou  la sur|mabonza ya mbongo oyo ndeko nayo ya muasi to ya mobali apesi yo|Zawadi zilizopokelewa kwa fedha na ndugu au dada
+Value=152105;Cadeaux reçus en argent par  un autre parent|mabonza ya mbongo oyo ozui epayi ya ndeko moko ya libota|Zawadi zilizopatikana kwa fedha na mzazi mwingine
+Value=152106;Cadeaux reçus en argent par un membre non apparenté|mabonza ya mbongo oyo mutu moko ya libota nayo te apesi yo|Zawadi zilizopokelewa kwa fedha na mwanachama asiye na uhusiano
+Value=152107;Cadeaux reçus en argent par  un club, une association, etc|mabonza ya mbongo oyo club to lisanga ya batu epesi yo|Zawadi zilizopatikana kwa fedha kwa klabu, ushirika, nk.
+Value=153101;Remboursement d'emprunt|kozongisa mbongo odefa|Malipo ya kulipia
+Value=153102;Prêt d'argent,|kodefa mbongo|Mikopo ya fedha
+Value=153103;Cotisation tontine|kotia likelemba|Msaada wa Tontine
+Value=153104;Gain tontine|kosua mbongo ya likelemba|Faida ya Tontine
+Value=153105;Héritage|libula|urithi
+Value=153106;Autres transferts versés|ba mbongo misusu opesa|Uhamisho mwingine ulipwa
+Value=153107;Autres transferts reçus|ba mbongo misusu ozua|Uhamisho mwingine ulipokelewa
+Value=153108;Emprunt d'argent,|kodefa mbongo|Mikopo ya fedha
+Value=153109;Dimes et offrandes|moko na zomi na makabo|Dimes na sadaka
+Value=154101;Gains (jeux)|mileki|Mafanikio (michezo)
+
+[Item]
+Label=Montant total de cette dépense
+Name=CADEAUQ04
+Start=102
+Len=10
+ZeroFill=Yes
+
+[Item]
+Label=Raison principale des cadeaux
+Name=CADEAUQ05
+Start=112
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Raison principale des cadeaux
+Name=CADEAUQ05_VS1
+Value=1;Maladie|bokono|ugonjwa
+Image=..\..\..\travail expert info\dossier photo\photo ange\maladie.png
+Value=2;Décès, funérailles|ebembe|Kifo, mazishi
+Image=..\..\..\travail expert info\dossier photo\photo ange\funeraille3ans.JPG
+Value=3;Levée de deuil|ko panza matanga|Kulia
+Image=..\..\..\travail expert info\dossier photo\photo ange\leve de deuil.PNG
+Value=4;Naissance|mbotama|kuzaliwa
+Image=..\..\..\travail expert info\dossier photo\photo ange\naissance.png
+Value=5;Baptême, mariage ou autre cérémonie|libatisi, libala to feti mosusu|Ubatizo, ndoa au sherehe nyingine
+Image=..\..\..\travail expert info\dossier photo\photo ange\bapteme.png
+Value=6;Consommation courante|biloko to mesana ko somba mingi|Matumizi ya sasa
+Image=..\..\..\travail expert info\dossier photo\photo ange\consomation.jpg
+Value=7;Investissement|pona ko investir|uwekezaji
+Image=..\..\..\travail expert info\dossier photo\photo ange\investissement3ans.JPG
+Value=8;Autre|likambo mosusu|nyingine
+Image=..\..\..\travail expert info\dossier photo\photo ange\autre.PNG
+
+[Item]
+Label=Origine destination du cadeau
+Name=CADEAUQ06
+Start=113
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Origine destination du cadeau
+Name=CADEAUQ06_VS1
+Value=1;Ménage |ndaku moko|nyumbani
+Image=..\..\..\travail expert info\dossier photo\photo ange\menage rural3ans.jpg
+Value=2;particulier|epayi ya mutu moko|hasa
+Image=..\..\..\travail expert info\dossier photo\photo ange\particulier3ans.jpg
+Value=3;banque|banque|benki
+Image=..\..\..\travail expert info\dossier photo\photo ange\banque3ans.jpg
+Value=4;association |lisanga  ya batu|chama
+Image=..\..\..\travail expert info\dossier photo\photo ange\association3ans.jpg
+Value=5;association religieuse(église,mosquée,temple,etc)|essika ya kosambela(église,mosquée,temple,etc)|chama cha kidini (kanisa, msikiti, hekalu, nk)
+Image=..\..\..\travail expert info\dossier photo\photo ange\lieu de culte3ans.jpg
+Value=6;communauté|lisanga|jamii
+Image=..\..\..\travail expert info\dossier photo\photo ange\Communaute.jpg
+Value=7;autre|esika mosusu|nyingine
+Image=..\..\..\travail expert info\dossier photo\photo ange\autre.PNG
+
+[Item]
+Label=Autre dépense de cadeaux
+Name=CADEAUQAUTR
+Start=114
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autre dépense de cadeaux
+Name=CADEAUQAUTR_VS1
+Value=1;Oui|iyo|ndio
+Image=..\..\..\travail expert info\dossier photo\photo ange\Oui.PNG
+Value=2;Non|te|apana
+Image=..\..\..\travail expert info\dossier photo\photo ange\Non.png
