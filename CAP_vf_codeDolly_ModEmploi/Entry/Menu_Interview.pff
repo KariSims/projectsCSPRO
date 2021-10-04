@@ -1,0 +1,15 @@
+﻿[Run Information]
+Version=CSPro 7.4
+AppType=Entry
+
+[DataEntryInit]
+Lock=Delete
+
+[Files]
+Application=.\Menu_Interview.ent
+InputData=..\Data\Menu.csdb
+
+[ExternalFiles]
+DICT_DR_DICT=..\Reference\Identifiant.csdb
+QUESTIONNAIRE_INDIVIDU_DICT=..\Data\I.csdb
+QUESTIONNAIRE_MENAGE_DICT=..\Data\M .csdb

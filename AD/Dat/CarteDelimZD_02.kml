@@ -1,0 +1,3367 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : DIMAYI<br /> Quartier/Groupement : Q.82 MAYILAMENE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Vers le depôt de la SNCC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00812  ,-8.74028   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : DIMAYI<br /> Quartier/Groupement : Q.82 MAYILAMENE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Matongo<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00910  ,-8.73995   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : DIMAYI<br /> Quartier/Groupement : Q.82 MAYILAMENE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Rail /Barière de la SNCC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01003  ,-8.73911   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : DIMAYI<br /> Quartier/Groupement : Q.82 MAYILAMENE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Vers l'hopital Maloba<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01039  ,-8.73968   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : DIMAYI<br /> Quartier/Groupement : Q.82 MAYILAMENE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Route L'shi contre entrée marché vers depôt SNCC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00951  ,-8.74090   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : BEL AIR<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV KIMBANGU / AV STADE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98968  ,-8.72942   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : BEL AIR<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : ROUTE KANIAMA/ AV STADE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98901  ,-8.73137   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : BEL AIR<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20004<br /> Type de Point : Pt Référence<br /> Dénomination du repère : CHEZ LE CHEF DU QUARTIER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98287  ,-8.72903   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : BEL AIR<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL VERS KASAI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98247  ,-8.72987   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : INDUSTRIEL<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20005<br /> Type de Point : Pt Référence<br /> Dénomination du repère : GUEST HOUSE LA GRACE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01949  ,-8.73787   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : INDUSTRIEL<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20005<br /> Type de Point : Pt Référence<br /> Dénomination du repère : ABATTOIR<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01657  ,-8.74012   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KANZA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV. DE PILOTE / AEROPORT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99417  ,-8.72829   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KANZA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL KABONGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99957  ,-8.71434   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KANZA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV CIRCULAIRE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00173  ,-8.72694   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KANZA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20007<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MAIRIE DE KAMINA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00134  ,-8.72748   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KANZA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : EGLISE PIERRE VIVANTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99826  ,-8.72909   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KANZA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RONT POINT MZEE KABILA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00064  ,-8.73023   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KANZA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE L'EGLISE / AV DE POMPAGE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00539  ,-8.71618   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KANZA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE POMPAGE / RAIL KABONGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00306  ,-8.71215   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KASONGO NYEMBO<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE L'ECOLE / ENTREE DU CAMP TABORA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01847  ,-8.73140   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KASONGO NYEMBO<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : CAMP TABORA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02050  ,-8.72422   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KASONGO NYEMBO<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : CAMP TABORA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02175  ,-8.72285   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KASONGO NYEMBO<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV MALUNGA / ENTREE CAMP TABORA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01662  ,-8.73679   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KASONGO NYEMBO<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : VERS KINKUNKI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02090  ,-8.73819   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KASONGO NYEMBO<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : VERS KINKUNKI / Q. MABANGA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.03389  ,-8.73783   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KASONGO NYEMBO<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LIMITE KASONGO NYEMBO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.03449  ,-8.73319   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : KASONGO NYEMBO<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20009<br /> Type de Point : Pt Référence<br /> Dénomination du repère : ECOLE LE BERCEAU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02315  ,-8.73209   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LIMITE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00861  ,-8.72158   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LIMITE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00825  ,-8.72129   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LIMITE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00850  ,-8.72080   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LIMITE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00896  ,-8.72069   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LIMITE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00885  ,-8.72044   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LIMITE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00884  ,-8.72134   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE LA BASE / AV DE L'ECOLE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00648  ,-8.72737   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE L'ECOLE / AV DE METHODISTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01310  ,-8.72960   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Référence<br /> Dénomination du repère : ECOLE LUBIMBI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01138  ,-8.72806   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE L'ECOLE / ENTREE DU CAMP TABORA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01847  ,-8.73140   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : CAMP TABORA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02050  ,-8.72422   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : CAMP TABORA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02175  ,-8.72285   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : LUBIMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RIVIERE KAMINA LUYI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00899  ,-8.71968   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MABANGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20010<br /> Type de Point : Pt Référence<br /> Dénomination du repère : CHEZ NENE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02272  ,-8.73888   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE POMPAGE / RAIL KABONGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00307  ,-8.71216   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE LA BASE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01034  ,-8.71447   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Référence<br /> Dénomination du repère : HOTEL LE PARVIS<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01129  ,-8.71092   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL KABONGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01053  ,-8.70753   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE LA BASE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01359  ,-8.70878   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL KABONGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98205  ,-8.72697   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL KABONGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01242  ,-8.70572   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE LA BASE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02373  ,-8.69953   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL KABONGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01954  ,-8.69343   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DE LA BASE LIMITE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.03041  ,-8.69348   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : MAJIBA A MUKUMBI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20012<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RIVIERE KAMINA LUYI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00899  ,-8.71968   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : NOUVELLE VILLE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20011<br /> Type de Point : Pt Limite<br /> Dénomination du repère : ROUTE KAMINA 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02731  ,-8.71470   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : NOUVELLE VILLE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20011<br /> Type de Point : Pt Référence<br /> Dénomination du repère : ECOLE CINQUANTENAIRE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01958  ,-8.70442   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : NOUVELLE VILLE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20011<br /> Type de Point : Pt Limite<br /> Dénomination du repère : ROUTE KAMINA 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01226  ,-8.71046   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : NOUVELLE VILLE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20011<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RIVIERE KAMINA LUYI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00899  ,-8.71968   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : NOUVELLE VILLE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20011<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE LA BASE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01034  ,-8.71447   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : NOUVELLE VILLE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20011<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE LA BASE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01359  ,-8.70878   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : NOUVELLE VILLE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20011<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE LA BASE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02373  ,-8.69953   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : NOUVELLE VILLE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20011<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DE LA BASE LIMITE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.03041  ,-8.69348   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RUE 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99422  ,-8.72422   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RUE /COIN ECOLE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99385  ,-8.72493   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BUREAU DE L'ADMINISTRATEUR DU MARCHE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99350  ,-8.72425   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : COIN DU COTE TOILLETTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99347  ,-8.72382   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : COIN DU COTE CENTRE DE SANTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99309  ,-8.72458   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV. DE PILOTE / AEROPORT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99417  ,-8.72829   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL KABONGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99957  ,-8.71434   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Référence<br /> Dénomination du repère : AEROPORT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99282  ,-8.72808   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : ETANGS KYESA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98905  ,-8.72080   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : RVA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL LIMITE RVA/BEL AIR<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98205  ,-8.72697   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : UNIKAM<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20006<br /> Type de Point : Pt Référence<br /> Dénomination du repère : UNIVERSITE DE KAMINA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00335  ,-8.73239   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : MWILAMBWE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20013<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIPUKWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.16696  ,-8.10429   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : MWILAMBWE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20014<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAMPEMBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17326  ,-8.08897   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : MWILAMBWE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20015<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIPUKWE II<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.16836  ,-8.10356   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : MWILAMBWE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20016<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWILAMBWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00067  ,-8.10308   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : MWILAMBWE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20017<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE SONGA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02982  ,-8.10821   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : MWILAMBWE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20018<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NKOLOMONE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.01627  ,-8.11966   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : MWILAMBWE<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20019<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KYUMBO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.04935  ,-8.13802   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20020<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIMUNGU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.00683  ,-7.49134   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20021<br /> Type de Point : Pt Référence<br /> Dénomination du repère : SECTION MUNTOMBWE/GRELKA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.95277  ,-7.60801   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20022<br /> Type de Point : Pt Référence<br /> Dénomination du repère : SECTION LWANYA/GRELKA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.81376  ,-7.49856   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20023<br /> Type de Point : Pt Référence<br /> Dénomination du repère : SECTION LUTWAY/GRELKA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.79661  ,-7.37419   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20024<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KATOMBOLWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.75097  ,-7.31745   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20025<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE DE KATEBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.74883  ,-7.31768   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20026<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KYAMPONGOLO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.75672  ,-7.31955   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20027<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASANGAY<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.75538  ,-7.31560   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20028<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE TANGALA /KYANUMBI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.82853  ,-7.24953   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20029<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE YENGO/KABONZOY<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.93151  ,-7.18842   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20030<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE UMBONDWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.87736  ,-7.39903   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NGOY MWANA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20031<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NKALA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.69537  ,-7.64377   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NSUNGU<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20032<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NSUNGU MULUBA / MISSION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.39920  ,-8.58023   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NSUNGU<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20033<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NSUNGU MWANA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.42505  ,-8.57418   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NSUNGU<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20034<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NSUNGU KAZADI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.51148  ,-8.62297   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NSUNGU<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20035<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NSUNGU KATALA 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.28184  ,-8.57999   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NSUNGU<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20036<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NSUNGU LUKANDA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.34309  ,-8.70353   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NSUNGU<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20037<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NSUNGU KAMALENGE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.40431  ,-8.66195   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20038<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE BULUMBU BITAMBI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.55992  ,-8.33229   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20039<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NGOY-A-ILUNGA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.58969  ,-8.33994   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20040<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NEMENA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.68437  ,-8.25711   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20041<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KALAMBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.69507  ,-8.23584   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20042<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KALUNGA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.62072  ,-8.24198   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20043<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KELANDE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.61092  ,-8.23257   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20044<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE DIBANDA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.59671  ,-8.19442   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20045<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LWANYANYA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.61226  ,-8.17682   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20046<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE BULUMBU MISANZA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.53750  ,-8.26304   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20047<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KALOBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.70123  ,-8.24617   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20048<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KABANZE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.71444  ,-8.24336   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20049<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIOTO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.69871  ,-8.24130   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20050<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAKONDE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.68998  ,-8.26499   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20051<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAMUNDU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.69142  ,-8.26775   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20052<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KINUME<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.63380  ,-8.17587   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20053<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KOLE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.65401  ,-8.18111   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20054<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAVUKWA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66853  ,-8.21203   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20055<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIPEMBE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.64373  ,-8.15823   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NYANGA /NYONGA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20056<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANYEMBO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.65926  ,-8.15253   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20057<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LWEJI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.08651  ,-8.84064   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20058<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KISONGWEJI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.15772  ,-9.05904   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20059<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LWAKILE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.12460  ,-8.97523   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20060<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NKALA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.04494  ,-8.90630   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20061<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAUDI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.97503  ,-8.98178   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20062<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE ILUNGA NTANDA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.94651  ,-8.96079   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20063<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KOMBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.87548  ,-8.89617   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20064<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LWABO 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.79276  ,-9.05385   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20065<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LWABO 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.79128  ,-9.05202   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20066<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KADILA NSENGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.79167  ,-8.99540   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20067<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAPATA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.77727  ,-8.95682   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20068<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIBALA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.79464  ,-8.84684   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20069<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KITAPA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.74364  ,-8.84580   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20070<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIMABWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.74320  ,-8.84753   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20071<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LOVOI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.84285  ,-8.81285   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20072<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIABUKWA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.85967  ,-8.74461   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20073<br /> Type de Point : Pt Référence<br /> Dénomination du repère : PASTORAL KIABUKWA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.84080  ,-8.76072   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20074<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANKUNDWE/PHL<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.82419  ,-8.75891   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20075<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASHIPAY<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.72220  ,-8.76704   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20076<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANA MONGE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.61614  ,-8.79742   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20077<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LWEMBE KAMUNGA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.55827  ,-8.77326   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20078<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LWEMBE DINO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.53599  ,-8.78940   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20079<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAMWAY 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.53720  ,-8.79135   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20080<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAPENDE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.53723  ,-8.78995   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20081<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE DINO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.53577  ,-8.79033   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20082<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIMISOMBO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.53655  ,-8.79058   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20083<br /> Type de Point : Pt Référence<br /> Dénomination du repère : SECTION KITUMBA/PHL<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.78311  ,-8.69824   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20084<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KEYOWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.72452  ,-8.66867   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20085<br /> Type de Point : Pt Référence<br /> Dénomination du repère : SECTION KELAMBWE/PHL<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.69063  ,-8.58326   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20086<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANGI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.69245  ,-8.53379   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20087<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUKISHI 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.68909  ,-8.49196   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20088<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUKISHI 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.72791  ,-8.49276   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20089<br /> Type de Point : Pt Référence<br /> Dénomination du repère : SECTION MUKISHI KAMANGA/GRELKA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.71678  ,-8.44731   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20090<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LUMBA 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.78167  ,-8.44075   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20091<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LUMBA 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.79565  ,-8.44085   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20092<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWEYI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.84351  ,-8.55477   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20093<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASAHO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.84280  ,-8.59391   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20094<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIKOKO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.89160  ,-8.68056   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : NZOA/NEDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20095<br /> Type de Point : Pt Référence<br /> Dénomination du repère : GRAND CHEF KASONGO NYEMBO / KINKUNKI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.04338  ,-8.73750   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20100<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAMANYOKA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17990  ,-8.03732   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20101<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE SAMBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.22039  ,-7.91789   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20102<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIDYANGALA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.29407  ,-7.94703   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20103<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MPOYO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.24581  ,-7.86492   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20104<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KYESO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.19235  ,-7.85356   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20105<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NGOMBE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.16980  ,-7.83808   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20106<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KITO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.19365  ,-7.81859   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20107<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASOLO KANDE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17380  ,-7.75954   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20108<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASOLO KITWA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17359  ,-7.75837   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20109<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NKANSWA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17385  ,-7.75901   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20110<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUTAMBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.04966  ,-7.84334   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20111<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAHANDAULA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.02000  ,-7.87755   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20112<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KYAUMBILO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.07601  ,-7.93675   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20113<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KALA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.99304  ,-7.97016   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20114<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MATO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.92752  ,-8.01881   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20115<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGEE KALEMBWE/FERME<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.18413  ,-8.03648   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMBA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20116<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KALUNDWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26902  ,-8.05525   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20117<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KILUBI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.28172  ,-8.06422   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20118<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE BADYANAWENDA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.30229  ,-7.98831   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20119<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANSE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.32579  ,-7.94606   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20120<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANSENSE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.33916  ,-8.06087   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20121<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAPENVWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.31104  ,-8.10829   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20122<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NYANDWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.30910  ,-8.11097   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20123<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE DJESE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.30753  ,-8.11221   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20124<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE/GROUPEMENT MANDE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.35948  ,-8.09937   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20125<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NYEMBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.38141  ,-8.17109   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20126<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE BULUNDU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.44001  ,-8.15563   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20127<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KEYANDE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.44093  ,-8.15456   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20128<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAKWADI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.43923  ,-8.15478   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20129<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KITUMBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.44011  ,-8.07850   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20130<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE DIBADI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.48219  ,-8.15240   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20131<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIKADJE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.46334  ,-8.35504   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20132<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUSANDA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.52409  ,-8.24837   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20133<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIMEKINDA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.36389  ,-7.93502   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20134<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MATANDA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.39486  ,-7.95387   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20135<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KITALE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.39043  ,-8.01169   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20136<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KISANGA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.35089  ,-7.97376   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KASONGO NYEMBO<br /> Quartier/Groupement : SAMITANDA<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20137<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASANA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.55418  ,-8.11247   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20138<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KISHIKO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.25835  ,-8.87053   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20139<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LUBANGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.31051  ,-8.85872   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20140<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LUVUA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.30951  ,-8.80694   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20141<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KYEMBE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.38097  ,-8.86451   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20142<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE 9<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.35250  ,-8.83986   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20143<br /> Type de Point : Pt Référence<br /> Dénomination du repère : LOCALITE DE KIBULA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.45474  ,-8.88989   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20143<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BUREAU DE TERRITOIRE DE KAMINA<br /> Nombre d'Entreprises : 0001<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.45526  ,-8.89147   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20144<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUTAMBA/KIBULA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.44369  ,-8.88855   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20145<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE IMBA / KIBULA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.44770  ,-8.88952   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20146<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIMILUNDU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.45983  ,-8.88658   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20147<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE JIBA NGANDU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.46093  ,-8.88676   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20148<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWEPU / KIBULA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.45574  ,-8.88605   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20149<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KABEYA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.20231  ,-8.93585   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20150<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIBANSOLO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.20224  ,-8.94289   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20151<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KISUNUNU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.19637  ,-8.96846   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20152<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MPUMPA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.21592  ,-8.99802   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20153<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KATEKE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.19462  ,-9.03561   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20154<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KABANDA/LWABO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.16620  ,-9.06305   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20155<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KABUDI/LWABO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.16963  ,-9.06690   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20156<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIKOKO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17026  ,-9.06459   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20157<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KONDO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.16792  ,-9.06627   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20158<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAZAJI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.25136  ,-9.08374   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20159<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANGANDO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.24766  ,-9.08964   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20160<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASWASWA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.29480  ,-9.09899   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20161<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KILELE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.29522  ,-9.09810   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20162<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWIMBI 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.28997  ,-9.14221   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20163<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANKOLO 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26690  ,-9.17949   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20164<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWANE 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26828  ,-9.17898   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20165<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MULENGI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26930  ,-9.18024   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20166<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KYOVWE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26852  ,-9.18222   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20167<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWIMBI 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26757  ,-9.18283   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20168<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAMUTOLO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26509  ,-9.18319   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20169<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANKOLO 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26810  ,-9.18005   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20170<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWANE 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26807  ,-9.17879   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20171<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANKOLO / LOCALITE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.26690  ,-9.17949   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20172<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWENZE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.22466  ,-9.25298   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20173<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAKIJIBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.22593  ,-9.14245   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20174<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANKULU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.22203  ,-9.14018   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20175<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAMISHIPA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17317  ,-9.14299   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20176<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NGWELE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17235  ,-9.14417   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20177<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KALAMBA KA LUPOPO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17239  ,-9.14501   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20178<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE DILULU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17069  ,-9.14756   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KINDA<br /> Quartier/Groupement : BAS-LUBUDI<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20179<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANKULU 2<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.17377  ,-9.14441   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : SOBONGO<br /> Quartier/Groupement : 52<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Av KATUBA CONTRE KABALO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98134  ,-8.73305   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : SOBONGO<br /> Quartier/Groupement : 52<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Av TOMO CONTRE KABALO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98079  ,-8.73283   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : SOBONGO<br /> Quartier/Groupement : 52<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Av KATUBA CONTRE RUE 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98108  ,-8.73372   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : SOBONGO<br /> Quartier/Groupement : 52<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Av TOMO CONTRE RUE 1<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98054  ,-8.73357   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : SOBONGO<br /> Quartier/Groupement : 52<br /> Numéro de l'équipe : 02<br /> Numéro de la ZD : 20003<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BUREAU DE L'ADMINISTRATEUR DU MARCHE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98079  ,-8.73312   ,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,1845 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : DILULA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DILULA /EN FACE DE LA MAISON MPSA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85032  ,-9.20214   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : DILULA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DILULA/EN FACE D'UNE CABINE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.84579  ,-9.21042   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : DILULA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DILULA/EN FACE D'UN KIOSQUE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85455  ,-9.20431   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : DILULA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DILULA/EN FACE DE L'AVENUE KINKONDJA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85307  ,-9.20022   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : KABAMOMA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50002<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KABAMOMA/EN FACE D'UNE CABINE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85968  ,-9.20734   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : KABAMOMA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KABAMOMA/EN FACE D'UN ARBRE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.86040  ,-9.21050   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : KABAMOMA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KABAMOMA/EN FACE D'UN CENTRE DE SANTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85562  ,-9.21219   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : KABAMOMA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KABAMOMA/EN FACE D'UN ARBRE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85449  ,-9.20809   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : KATENTAMINE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KATENTAMINE /EN FACE DU BUREAU DE LA FEC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85315  ,-9.20014   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : KATENTAMINE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KATENTAMINE/ EN FACE DE LA CABINE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85391  ,-9.19955   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : KATENTAMINE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KATENTAMINE/EN FACE DU CHEMIN DE FER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85742  ,-9.19909   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : KATENTAMINE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KATENTAMINE/ EN FACE D'UNE MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85498  ,-9.20330   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : LUALABA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50004<br /> Type de Point : Pt Référence<br /> Dénomination du repère : LUALABA/BUREAU DES AFFAIRES ECONOMIQUES<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85085  ,-9.20140   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : LUALABA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LUALABA/CENTRE DE SANTE MEDICO SOCIAL<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.84994  ,-9.19794   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : LUALABA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LUALABA /EN FACE DU FLEUVE  CONGO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85708  ,-9.19626   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : LUALABA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : LUALABA/ EN FACE DE L'AVENUE DE LA GARE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85790  ,-9.19842   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : MOTOMOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50005<br /> Type de Point : Pt Limite<br /> Dénomination du repère : MOTOMOTO/EN FACE DE LA RADIO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.84934  ,-9.20117   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : MOTOMOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50005<br /> Type de Point : Pt Limite<br /> Dénomination du repère : MOTOMOTO/AU NIVEAU D'UN ROND POINT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.84970  ,-9.20071   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : MOTOMOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50005<br /> Type de Point : Pt Limite<br /> Dénomination du repère : MOTOMOTO/EN FACE DE LA TRIBUNE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85020  ,-9.20174   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : BUKAMA<br /> Quartier/Groupement : MOTOMOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50005<br /> Type de Point : Pt Limite<br /> Dénomination du repère : MOTOMOTO/EN FACE D'UN BATIMENT MPSA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.84980  ,-9.20193   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : BANZA KIZIBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50112<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BUREAU MARCHE KABONDO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66229  ,-8.90482   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : BASSIN<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50120<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BASSIN /ANCIEN BUREAU D'ADMINISTRATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67450  ,-8.91527   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : BEL'AIR<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50116<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BEL 'AIR<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67174  ,-8.90343   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : BENEBIZIMBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50143<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BENEBIZIMBA/CENTRE DE SANTE CPCO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.65962  ,-8.89699   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : BENEBWANA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50145<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BENEBWANA/MAISON CHEF DE Q<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66133  ,-8.89107   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : BENEKASONGO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50148<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BENEKASONGO/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66106  ,-8.89317   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : BENEKOLOMONE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50146<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BENEKOLOMONE/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66339  ,-8.88397   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : BENEMONGA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50142<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BENEMONGA/BUREAU SECOPE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66162  ,-8.90185   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : CONGO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50123<br /> Type de Point : Pt Référence<br /> Dénomination du repère : CONGO/CENTRE DE SANTE KARREL<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66795  ,-8.91822   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : DIKUBI<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50125<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DIKUBI/DEPOT BIMULASHI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66482  ,-8.91319   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : DYEMO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50115<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DYEMO/CABINE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67042  ,-8.90335   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : DYEMO 2<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50117<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DYEMO2/CABINE SHIKATA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67386  ,-8.90353   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : GOLF<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50137<br /> Type de Point : Pt Référence<br /> Dénomination du repère : GOLF/BUREAU CHEF DE CHEFFERIE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.65855  ,-8.91051   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KABWATA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50144<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KABWATA/MAISON CHEF DE QUARTIER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66114  ,-8.89550   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KAKOLE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50118<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAKOLE/EP.KATENDE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.68035  ,-8.90567   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KALAY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50141<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KALAY/EP. TUPWENE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.59858  ,-8.90279   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KALUBANGA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50119<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KALUBANGA/EGLISE CPCO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67749  ,-8.91371   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KAMASHI<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50121<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAMASHI/A COTE DU CHEMIN DE FER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67315  ,-8.91994   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KASENSE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50122<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KASENSE/MAISON CHEF DE QUARTIER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66879  ,-8.92674   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KASONGE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50140<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KASONGE/MAISON CHEF DE QUARTIER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.53894  ,-8.91625   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KELENGE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50139<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KELENGE/ROND POINT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66278  ,-8.90622   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KIBUBI<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50127<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KIBUBI/EGLISE CATHOLIQUE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.69793  ,-8.99225   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KIMBALEZA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50138<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KIMBALEZA/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.65836  ,-8.91069   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KINUKA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50147<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KINUKA/MAISON CHEF DE QUARTIER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67055  ,-8.85994   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : KYAMAKANGO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50113<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KYAMAKANGO/EGLISE METHODISTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66651  ,-8.90727   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : M.ZEE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50124<br /> Type de Point : Pt Référence<br /> Dénomination du repère : M.ZEE/POSTE DE SANTE BUYO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66629  ,-8.91625   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : MAKONGA UMBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50128<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KASHOLOLO/EP 4 NYOTA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.69566  ,-8.69166   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : MAKONGA UMBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50129<br /> Type de Point : Pt Référence<br /> Dénomination du repère : EP. MAKONGA ARNOLD<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.69433  ,-8.69905   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : MAKONGA UMBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50130<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KANKINDU/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.68250  ,-8.76767   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : MAKONGA UMBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50131<br /> Type de Point : Pt Référence<br /> Dénomination du repère : EGLISE CPCO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67976  ,-8.77172   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : MAKONGA UMBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50132<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KABINDA/EGLISE CATHOLIQUE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67567  ,-8.83302   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : MAKONGA UMBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50133<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAMATO/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.67287  ,-8.84956   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : Z114<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50114<br /> Type de Point : Pt Référence<br /> Dénomination du repère : Z114/CABINE GRAND Z<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66892  ,-8.90546   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KABONDO<br /> Quartier/Groupement : Z126<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50126<br /> Type de Point : Pt Référence<br /> Dénomination du repère : Z126/ECC 8 CEPAC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.66788  ,-8.91183   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : SOMBONGO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : S0MBONGO/EN FACE DE L'AVENUE  KATUBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98025  ,-8.73595   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : SOMBONGO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : S0MBONGO/EN FACE DE L'AVENUE  KATUBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.98050  ,-8.73520   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : SOMBONGO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : S0MBONGO/EN FACE DE L'AVENUE DOME<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.97968  ,-8.73592   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KAMINA<br /> Commune/Secteur : KAMINA<br /> Quartier/Groupement : SOMBONGO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : S0MBONGO/EN FACE DE L'AVENUE DOME<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.97996  ,-8.73502   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAPAMAY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50338<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAPAKO KITOLE/MAISON CHEF<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.76555  ,-8.61470   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAPAMAY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50339<br /> Type de Point : Pt Référence<br /> Dénomination du repère : SAMBI TSHIKALA/CENTRE DE SANTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.76765  ,-8.61117   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAPAMAY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50340<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MIYUMBU/BUREA CHEF DE CHEFFERIE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.81196  ,-8.54312   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAPAMAY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50341<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAMIYUNGA/ANCIEN TRIBUNAL<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.81423  ,-8.54067   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAPAMAY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50342<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MEPYA KAPAKO/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.76545  ,-8.61903   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAPAMAY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50343<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DILEMBELA/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.76794  ,-8.63850   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAPAMAY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50344<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KALUSHINGE/EP NDALA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.72975  ,-8.67362   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAPAMAY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50345<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KYUNGWA /MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.72483  ,-8.67489   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50348<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KABAMBA 2/EP. DJOLOKO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.94119  ,-8.65911   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50349<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KABAMBA 1/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.94536  ,-8.68283   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50350<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VUMBI KILWA/MAISON GRAND BAOBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.95656  ,-8.64116   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50351<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KATONTO/MAISON ROGER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.95959  ,-8.63711   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50352<br /> Type de Point : Pt Référence<br /> Dénomination du repère : NYENDA BULEMBE/CENTRE DE SANTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.96189  ,-8.63419   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50353<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KATUZEMBE/EGLISE CCA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.96350  ,-8.63269   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50354<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DILUNGU 1/COUVANT DE SŒURS<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.87698  ,-8.57537   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50355<br /> Type de Point : Pt Référence<br /> Dénomination du repère : LWABA MONGA /BUREAU PNC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.87391  ,-8.57611   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50356<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DILUNGU 2/EGLISE EVANGELIQUE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.87446  ,-8.57879   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KAYEYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50357<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAYEYE/MAISON CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.88173  ,-8.59063   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KILOMBOY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50359<br /> Type de Point : Pt Référence<br /> Dénomination du repère : NKISWI/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.97922  ,-8.59430   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KILOMBOY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50360<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KATOLOKELE 1/EGLISE CATHOLIQUE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.98290  ,-8.56909   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KILOMBOY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50361<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KATOLOKELE 2/ LAC UMBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.98479  ,-8.56328   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KILOMBOY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50362<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MAZELE/ EGLISE CATHOLIQUE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>26.00012  ,-8.52169   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KILOMBOY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50363<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KIMILUNDU/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.98188  ,-8.52600   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KILOMBOY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50364<br /> Type de Point : Pt Référence<br /> Dénomination du repère : NGABA/ EP. BEAU RICHARD<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.95521  ,-8.52482   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KILOMBOY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50365<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KILOMBOY/MUKULUI<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.92952  ,-8.55037   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KAPAMAY<br /> Quartier/Groupement : KILOMBOY<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50366<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MBALE/MAISON CHEF DU VILLAGE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.91199  ,-8.56139   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : ANTENNE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50211<br /> Type de Point : Pt Référence<br /> Dénomination du repère : ANTENNE/GUEST HOUSE ET RESTAURANT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.79194  ,-9.45362   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : LUALABA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50175<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BIOWA/INST. P. BANZE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80378  ,-9.28746   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : LUALABA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50176<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BIOWA/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80061  ,-9.29174   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : LUALABA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50177<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BIOWA 2/EP KYABUNTU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80105  ,-9.29079   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : FUNGWE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50206<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAFUTU/MAISON CHEF DU VILLAGE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.88519  ,-9.59899   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : PIYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50205<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KASOMBO/MAISON CHEF DU VILLAGE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.82087  ,-9.59927   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : KIBANDA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50200<br /> Type de Point : Pt Référence<br /> Dénomination du repère : Z200/BUREAU CHEFFERIE KIBANDA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80308  ,-9.54891   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : LUALABA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50173<br /> Type de Point : Pt Référence<br /> Dénomination du repère : ROND POINT/PEAGE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.81800  ,-9.23956   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : PIYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50207<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MAKANDA/MAISON CHEF DU VILLAGE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.92064  ,-9.61023   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : MISSION<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50208<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MISSION /INSTITUT PIYE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.81691  ,-9.53609   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : MISSION<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50209<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MISSION / COUVANT DE SŒUR<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.81757  ,-9.53069   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : MUDILA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50180<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MUDILA/MAISON CHEF DE QUARTIER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.76772  ,-9.36338   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : MUTAKUYA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50174<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MUTAKUYA/MAISON D'HABITATION<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80869  ,-9.26001   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : PIYE<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50210<br /> Type de Point : Pt Référence<br /> Dénomination du repère : PIYE/MAISON CHEF DU VILLAGE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.81781  ,-9.51633   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : PROJET<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50179<br /> Type de Point : Pt Référence<br /> Dénomination du repère : PROJET/MAISON CHEF DE QUARTIER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.77359  ,-9.32079   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : Z171<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50181<br /> Type de Point : Pt Référence<br /> Dénomination du repère : Z181/CNK<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80189  ,-9.29289   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : Z178<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50178<br /> Type de Point : Pt Référence<br /> Dénomination du repère : Z178/CENTRE DE SANTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80092  ,-9.29004   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : Z201<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50201<br /> Type de Point : Pt Référence<br /> Dénomination du repère : Z201/ANTENNE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80345  ,-9.54968   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : Z202<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50202<br /> Type de Point : Pt Référence<br /> Dénomination du repère : Z202/BUREAU SNCC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80515  ,-9.55142   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : Z203<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50203<br /> Type de Point : Pt Référence<br /> Dénomination du repère : Z203/PONT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.80607  ,-9.55338   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : KIBANDA<br /> Quartier/Groupement : Z204<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50204<br /> Type de Point : Pt Référence<br /> Dénomination du repère : Z204/R0ND POINT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.81002  ,-9.56432   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUALABA<br /> Quartier/Groupement : KATOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50433<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KATOTO /EN FACE D'UN POSTE DE SANTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.86461  ,-9.18819   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUALABA<br /> Quartier/Groupement : KATOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50433<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KATOTO/EN FACE D'UN ARBRE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.88608  ,-9.18585   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUALABA<br /> Quartier/Groupement : KATOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50433<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KATOTO /EN FACE D'UNE MONTAGNE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.87545  ,-9.17961   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUALABA<br /> Quartier/Groupement : KATOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50433<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KATOTO /EN FACE D'UN POTEAU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.86047  ,-9.18308   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUALABA<br /> Quartier/Groupement : KATOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50411<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KISANGA WA BIONI /COGELU EN FACE DU FLEUVE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.86114  ,-9.19358   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUALABA<br /> Quartier/Groupement : KATOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50411<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KISANGA WA BIONI / EN FACE DE LA PHARMACIE BARAKA YA MUNGU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.86162  ,-9.19434   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUALABA<br /> Quartier/Groupement : KATOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50411<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KISANGA WA BIONI / EN FACE D'UN BUREAU SOUS CIAT LA POLICE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85728  ,-9.19619   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUALABA<br /> Quartier/Groupement : KATOTO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50411<br /> Type de Point : Pt Limite<br /> Dénomination du repère : KISANGA WA BIONI /EN FACE DE LA GARE SNCC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85883  ,-9.20071   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : 17   M<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50008<br /> Type de Point : Pt Référence<br /> Dénomination du repère : 17 M/EP KAKOKO<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.79408  ,-9.43317   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : 5 ANS<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50009<br /> Type de Point : Pt Référence<br /> Dénomination du repère : 5 ANS/CABINE CHACUN POUR SOI DIEU POUR TOUS<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.79178  ,-9.42753   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : BANDAKA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50025<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BANDAKA/MAISON CHEF DE QUARTIER<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78470  ,-9.44473   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : CONGO<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50010<br /> Type de Point : Pt Référence<br /> Dénomination du repère : C0NGO/EN FACE DE L'ANCIEN BUREAU CLASSIC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78641  ,-9.44286   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : GCM(GECAMINE)<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50011<br /> Type de Point : Pt Référence<br /> Dénomination du repère : GCM(GECAMINE) /BUREAU CGM<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78071  ,-9.45100   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : KABYULA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50012<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KABYULA/CABINE EVANGILE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78656  ,-9.43180   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : KAMANDA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50013<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAMANDA/EGLISE 21ème CNK<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78883  ,-9.42439   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : KAYSALA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50014<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAYSALA/EGLISE CPNK<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.79334  ,-9.43643   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : LA MISSION<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50016<br /> Type de Point : Pt Référence<br /> Dénomination du repère : LA MISSION /EGLISE POWER DUNAMIS<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78674  ,-9.43560   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : LUMUMBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50017<br /> Type de Point : Pt Référence<br /> Dénomination du repère : LUMUMBA/INST  / BUPEMBA<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78835  ,-9.44011   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : MANGU<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50018<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MANGU/EGLISE METHODISTE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78827  ,-9.44111   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : MAYAKI<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50019<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MAYAKI/PHARMACIE BONSO I BANTU<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.79000  ,-9.43715   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : MBIDIKITU<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50020<br /> Type de Point : Pt Référence<br /> Dénomination du repère : MBIDIKITU/STADE SNCC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78632  ,-9.44593   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : NKIOBA<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50021<br /> Type de Point : Pt Référence<br /> Dénomination du repère : NKIOBA/BUREAU ECOLE SNCC<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78470  ,-9.44473   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : SNCC<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50023<br /> Type de Point : Pt Référence<br /> Dénomination du repère : SNCC/DISPENSAIRE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78470  ,-9.44473   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : LUENA<br /> Quartier/Groupement : URBAIN<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50024<br /> Type de Point : Pt Référence<br /> Dénomination du repère : URBAIN /PONT EN FACE DE ROND POINT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.78797  ,-9.44182   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : UMPUNGU<br /> Quartier/Groupement : UMPUNGU<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50324<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KAKOMA/MAISON CHEF DE CHEFFERIE<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.77637  ,-8.89476   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : BUKAMA<br /> Commune/Secteur : UMPUNGU<br /> Quartier/Groupement : UMPUNGU<br /> Numéro de l'équipe : 05<br /> Numéro de la ZD : 50325<br /> Type de Point : Pt Référence<br /> Dénomination du repère : NYEMBO/MAISON CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : 0000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.85795  ,-8.79710   ,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
+ark>
+</Folder>
+</Document>
+</kml>

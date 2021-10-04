@@ -1,0 +1,103 @@
+﻿Application     C:\CAP\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<Empty>> 
+<File>          FichSaPart=
+
+Date            Jul  4, 2020
+Start Time      01:07:32
+End Time        01:07:47
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+    505            1   File handler '%s' is not used in the application                                      
+  10102            1   Could not open the data source %s: %s                                                 
+  10106            1   Due to errors, the data source for %s is set to an empty data source                  
+  99990            5   Operator entered a value out of range                                                 
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<Empty>> 
+<File>          FichSaPart=
+
+Date            Jul  4, 2020
+Start Time      23:32:26
+End Time        23:35:08
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+    505            1   File handler '%s' is not used in the application                                      
+  10102            1   Could not open the data source %s: %s                                                 
+  10106            1   Due to errors, the data source for %s is set to an empty data source                  
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<Empty>> 
+<File>          FichSaPart=
+
+Date            Jul  4, 2020
+Start Time      23:46:27
+End Time        23:46:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+    505            1   File handler '%s' is not used in the application                                      
+  10102            1   Could not open the data source %s: %s                                                 
+  10106            1   Due to errors, the data source for %s is set to an empty data source                  
+  99990            1   Operator entered a value out of range                                                 
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<Empty>> 
+<File>          FichSaPart=
+
+Date            Jul  5, 2020
+Start Time      00:12:53
+End Time        00:13:27
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+    505            1   File handler '%s' is not used in the application                                      
+  10102            1   Could not open the data source %s: %s                                                 
+  10106            1   Due to errors, the data source for %s is set to an empty data source                  
+  99990            6   Operator entered a value out of range                                                 
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

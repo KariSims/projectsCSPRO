@@ -1,0 +1,16 @@
+﻿[Run Information]
+Version=CSPro 7.4
+AppType=Entry
+
+[DataEntryInit]
+StartMode=Add
+
+[Files]
+Application=.\CAPIND.ent
+InputData=..\Data\I.csdb
+
+[ExternalFiles]
+QUESTIONNAIRE_MENAGE_DICT=..\Data\M.csdb
+
+[UserFiles]
+FichSaPart=

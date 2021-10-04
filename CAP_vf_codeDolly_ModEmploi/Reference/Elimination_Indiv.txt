@@ -1,0 +1,37 @@
+PROC A0
+preproc
+clear_labels();
+
+Onfocus
+
+	t = 1;
+
+If special(A0) then	
+	do varying i=1 until i> ELG
+    numeric cl=0;
+		for j in SECTA000 do		 	      
+			if A0(j) = IND_NUM(i) then
+				cl=1 ;
+	        endif;
+	    enddo;
+	
+		if cl=0 & special(A0(j)) then
+			codes(t) = IND_NUM(i);
+			labels(t) = strip(IND_NOM(i));
+			t = t + 1; 
+		endif;
+		
+	enddo;
+else
+		noinput;
+endif;    
+    SetValueSet( @GetSymbol(),codes,labels);
+	setcapturetype(A0,3);
+	
+postproc
+	Do varying j = 0 until j >= i
+		if codes(j) = A0 then
+			A0N = labels(j);
+		endif;
+	enddo;
+	Advance to A1;

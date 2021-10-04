@@ -1,0 +1,32 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=MENU_INTERVIEW
+Name=MENU_INTERVIEW
+AppType=DataEntry
+OperatorID=No
+PartialSave=Yes
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+AutoAdvanceOnSelection=Yes
+DisplayCodesAlongsideLabels=Yes
+ComboBoxShowOnlyDiscreteValues=Yes
+[External Dictionaries]
+File=..\Dicts\questionnaire_menage.dcf
+File=..\Dicts\questionnaire_individu.dcf
+File=..\Dicts\Dict_DR.dcf
+[AppCode]
+File=.\Menu_Interview.ent.apc
+[Message]
+File=.\Menu_Interview.ent.mgf
+[Help]
+File=.\Menu_Interview.ent.qsf
+[Forms]
+File=.\Menu_Interview.fmf
+[Dictionary Types]
+Dict-Type=..\Dicts\Menu.dcf,Input,.\Menu_Interview.fmf
+Dict-Type=..\Dicts\questionnaire_menage.dcf,External
+Dict-Type=..\Dicts\questionnaire_individu.dcf,External
+Dict-Type=..\Dicts\Dict_DR.dcf,External

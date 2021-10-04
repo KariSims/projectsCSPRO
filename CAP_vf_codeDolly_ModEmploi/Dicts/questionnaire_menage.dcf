@@ -1,0 +1,970 @@
+﻿[Dictionary]
+Version=CSPro 7.4
+Label=questionnaire_menage
+Name=QUESTIONNAIRE_MENAGE_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=319ECC1AC8BD4FE2CD01927837FEC457D25132144F0DC7D67B879406BECA91B5819FD4EE235EA81A16D4A0E43CD0FB78
+
+[Level]
+Label=questionnaire_menage Level
+Name=QUESTIONNAIRE_MENAGE_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Region
+Name=REGION
+Start=2
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Region
+Name=REGION_VS2
+Value=1;LAGUNES
+Value=2;MONTAGNE
+Value=3;SAVANE
+
+[Item]
+Label=Departement
+Name=DEPARTEMENT
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Milieu de residence
+Name=MILIEU_DE_RESIDENCE
+Start=6
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu de residence
+Name=MILIEU_DE_RESIDENCE_VS1
+Value=1;Urbain
+Value=2;Rural
+
+[Item]
+Label=DR
+Name=DR
+Start=7
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Localitte
+Name=LOCALITTE
+Start=11
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Quartier
+Name=QUARTIER
+Start=15
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=N° de l'ILOT
+Name=N_DE_L_ILOT
+Start=19
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=N° de grappe
+Name=GRAPPE
+Start=23
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=N° de grappe
+Name=GRAPPE_VS1
+Value=1;Grappe _1
+Value=2;Grappe _2
+Value=3;Grappe _3
+Value=4;Grappe _4
+
+[Item]
+Label=N° du menage
+Name=MENAGE
+Start=27
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=N° du menage
+Name=MENAGE_VS1
+Value=1:5
+
+[Record]
+Label=CARACTERISTIQUES INIVIDUELLES
+Name=DEMO
+RecordTypeValue='A'
+MaxRecords=50
+RecordLen=77
+
+[Item]
+Label=Numero de ligne
+Name=MH1
+Start=29
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=nom
+Name=MH2
+Start=31
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Sexe
+Name=MH3
+Start=61
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Sexe
+Name=MH3_VS1
+Value=1;Mascculin
+Value=2;Féminin
+
+[Item]
+Label=Statut de reseidence
+Name=MH4
+Start=62
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Statut de reseidence
+Name=MH4_VS1
+Value=1;Résident présent
+Value=2;Résident absent
+Value=3;Visiteur (ayant passé la nuit)
+Value=4;Visiteur (pas passé la nuit)
+
+[Item]
+Label=Lien de parente
+Name=MH5
+Start=63
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Lien de parente
+Name=MH5_VS1
+Value=1;Chef
+Value=2;Epoux ou épouse
+Value=3;Fils/Fille
+Value=4;Père/Mère
+Value=5;Sœur/frère
+Value=6;Nièce/neveu
+Value=7;Beau frère / belle sœur
+Value=8;Autres parents
+Value=9;Domestique
+Value=10;Sans lien de parenté
+Value=98;Ne sait pas
+
+[Item]
+Label=Date de naissance
+Name=MH6
+Start=65
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de naissance
+Name=MH6J
+Start=65
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de naissance
+Name=MH6J_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+Value=98;Ne sait pas
+
+[Item]
+Label=Mois de naissance
+Name=MH6M
+Start=67
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de naissance
+Name=MH6M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+Value=98;Ne sait pas
+
+[Item]
+Label=Annee de naissances
+Name=MH6A
+Start=69
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Annee de naissances
+Name=MH6A_VS1
+Value=2020;2020
+Value=2019;2019
+Value=2018;2 018
+Value=2017;2 017
+Value=2016;2 016
+Value=2015;2 015
+Value=2014;2 014
+Value=2013;2 013
+Value=2012;2 012
+Value=2011;2 011
+Value=2010;2 010
+Value=2009;2 009
+Value=2008;2 008
+Value=2007;2 007
+Value=2006;2 006
+Value=2005;2 005
+Value=2004;2 004
+Value=2003;2 003
+Value=2002;2 002
+Value=2001;2 001
+Value=2000;2 000
+Value=1999;1 999
+Value=1998;1 998
+Value=1997;1 997
+Value=1996;1 996
+Value=1995;1 995
+Value=1994;1 994
+Value=1993;1 993
+Value=1992;1 992
+Value=1991;1 991
+Value=1990;1 990
+Value=1989;1 989
+Value=1988;1 988
+Value=1987;1 987
+Value=1986;1 986
+Value=1985;1 985
+Value=1984;1 984
+Value=1983;1 983
+Value=1982;1 982
+Value=1981;1 981
+Value=1980;1 980
+Value=1979;1 979
+Value=1978;1 978
+Value=1977;1 977
+Value=1976;1 976
+Value=1975;1 975
+Value=1974;1 974
+Value=1973;1 973
+Value=1972;1 972
+Value=1971;1 971
+Value=1970;1 970
+Value=1969;1 969
+Value=1968;1 968
+Value=1967;1 967
+Value=1966;1 966
+Value=1965;1 965
+Value=1964;1 964
+Value=1963;1 963
+Value=1962;1 962
+Value=1961;1 961
+Value=1960;1 960
+Value=1959;1 959
+Value=1958;1 958
+Value=1957;1 957
+Value=1956;1 956
+Value=1955;1 955
+Value=1954;1 954
+Value=1953;1 953
+Value=1952;1 952
+Value=1951;1 951
+Value=1950;1 950
+Value=1949;1 949
+Value=1948;1 948
+Value=1947;1 947
+Value=1946;1 946
+Value=1945;1 945
+Value=1944;1 944
+Value=1943;1 943
+Value=1942;1 942
+Value=1941;1 941
+Value=1940;1 940
+Value=1939;1 939
+Value=1938;1 938
+Value=1937;1 937
+Value=1936;1 936
+Value=1935;1 935
+Value=1934;1 934
+Value=1933;1 933
+Value=1932;1 932
+Value=1931;1 931
+Value=1930;1 930
+Value=1929;1 929
+Value=1928;1 928
+Value=1927;1 927
+Value=1926;1 926
+Value=1925;1 925
+Value=1924;1 924
+Value=1923;né en 1 923 ou avant
+
+[Item]
+Label=age
+Name=MH7
+Start=73
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=age
+Name=MH7_VS1
+Value=0;0 an
+Value=1;1 an
+Value=2;2 ans
+Value=3;3 ans
+Value=4;4 ans
+Value=5;5 ans
+Value=6;6 ans
+Value=7;7 ans
+Value=8;8 ans
+Value=9;9 ans
+Value=10;10 ans
+Value=11;11 ans
+Value=12;12 ans
+Value=13;13 ans
+Value=14;14 ans
+Value=15;15 ans
+Value=16;16 ans
+Value=17;17 ans
+Value=18;18 ans
+Value=19;19 ans
+Value=20;20 ans
+Value=21;21 ans
+Value=22;22 ans
+Value=23;23 ans
+Value=24;24 ans
+Value=25;25 ans
+Value=26;26 ans
+Value=27;27 ans
+Value=28;28 ans
+Value=29;29 ans
+Value=30;30 ans
+Value=31;31 ans
+Value=32;32 ans
+Value=33;33 ans
+Value=34;34 ans
+Value=35;35 ans
+Value=36;36 ans
+Value=37;37 ans
+Value=38;38 ans
+Value=39;39 ans
+Value=40;40 ans
+Value=41;41 ans
+Value=42;42 ans
+Value=43;43 ans
+Value=44;44 ans
+Value=45;45 ans
+Value=46;46 ans
+Value=47;47 ans
+Value=48;48 ans
+Value=49;49 ans
+Value=50;50 ans
+Value=51;51 ans
+Value=52;52 ans
+Value=53;53 ans
+Value=54;54 ans
+Value=55;55 ans
+Value=56;56 ans
+Value=57;57 ans
+Value=58;58 ans
+Value=59;59 ans
+Value=60;60 ans
+Value=61;61 ans
+Value=62;62 ans
+Value=63;63 ans
+Value=64;64 ans
+Value=65;65 ans
+Value=66;66 ans
+Value=67;67 ans
+Value=68;68 ans
+Value=69;69 ans
+Value=70;70 ans
+Value=71;71 ans
+Value=72;72 ans
+Value=73;73 ans
+Value=74;74 ans
+Value=75;75 ans
+Value=76;76 ans
+Value=77;77 ans
+Value=78;78 ans
+Value=79;79 ans
+Value=80;80 ans
+Value=81;81 ans
+Value=82;82 ans
+Value=83;83 ans
+Value=84;84 ans
+Value=85;85 ans
+Value=86;86 ans
+Value=87;87 ans
+Value=88;88 ans
+Value=89;89 ans
+Value=90;90 ans
+Value=91;91 ans
+Value=92;92 ans
+Value=93;93 ans
+Value=94;94 ans
+Value=95;95 ans & plus
+Value=98;NSP
+
+[Item]
+Label=religion
+Name=MH8
+Start=75
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=religion
+Name=MH8_VS1
+Value=0;Sans religion
+Value=1;Animiste
+Value=2;Musulman(e)
+Value=3;Chrétien(ne)
+Value=4;Autre religion
+
+[Item]
+Label=Elligibilite
+Name=MH9
+Start=76
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Elligibilite
+Name=MH9_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=personne ajouter
+Name=MH10
+Start=77
+Len=1
+
+[ValueSet]
+Label=personne ajouter
+Name=MH10_VS1
+Value=1;Oui
+Value=2;Non
+
+[Record]
+Label=COMMODITE DU MENAGE
+Name=HAB
+RecordTypeValue='B'
+RecordLen=318
+
+[Item]
+Label=type de construction
+Name=HAB1
+Start=29
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=type de construction
+Name=HAB1_VS1
+Value=1;Villa
+Value=2;Maison simple
+Value=3;logence en bande
+Value=4;Appartement dans un immeuble
+Value=5;concession
+Value=6;Case traditionnelle
+Value=7;Baraque
+Value=8;Autre à préciser
+
+[Item]
+Label=type_autre
+Name=HAB1_AUTRE
+Start=30
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Nombre total de piece
+Name=HAB2
+Start=55
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre total de piece
+Name=HAB2_VS1
+Value=1;1 pièce
+Value=2;2 pièce
+Value=3;3 pièces
+Value=4;4 pièces
+Value=5;5 pièces
+Value=6;6 pièces
+Value=7;7 pièces
+Value=8;8 pièces
+Value=9;9 pièces
+Value=10;10  pièces
+Value=11;11  pièces
+Value=12;12  pièces
+Value=13;13  pièces
+Value=14;14  pièces
+Value=15;15  pièces
+Value=16;16  pièces
+Value=17;17  pièces
+Value=18;18  pièces
+Value=19;19  pièces
+Value=20;20  pièces
+Value=21;21  pièces
+Value=22;22  pièces
+Value=23;23  pièces
+Value=24;24  pièces
+Value=25;25  pièces
+Value=26;26  pièces
+Value=27;27  pièces
+Value=28;28  pièces
+Value=29;29  pièces
+Value=30;30  pièces
+
+[Item]
+Label=Nature du mur
+Name=HAB3
+Start=57
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nature du mur
+Name=HAB3_VS1
+Value=1;Bois
+Value=2;Tôle
+Value=3;Banco ou terre battue
+Value=4;semi-dur
+Value=5;Géobéton
+Value=6;Dur
+Value=7;Autre à preciser
+
+[Item]
+Label=nature du mur_autre
+Name=HAB3_AUTRE
+Start=58
+Len=25
+DataType=Alpha
+
+[Item]
+Label=nature du toit
+Name=HABTOIT
+Start=83
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=nature du toit
+Name=HABTOIT_VS1
+Value=1;Fibre végétale
+Value=2;Tôle
+Value=3;Béton
+Value=4;Tuile/Everite
+Value=5;Toile en plastique
+Value=6;Autre à préciser
+
+[Item]
+Label=nature du toit_autre
+Name=HABTOIT_AUTRE
+Start=84
+Len=25
+DataType=Alpha
+
+[Item]
+Label=nature du sol
+Name=HAB4
+Start=109
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=nature du sol
+Name=HAB4_VS1
+Value=1;Fibre végétale
+Value=2;Tôle
+Value=3;Béton
+Value=4;Tuile/Everite
+Value=5;Toile en plastique
+Value=6;Autre à préciser
+
+[Item]
+Label=nature du sol_autre
+Name=HAB4_AUTRE
+Start=110
+Len=25
+DataType=Alpha
+
+[Item]
+Label=lieu d'aisance
+Name=HAB5
+Start=135
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=lieu d'aisance
+Name=HAB5_VS1
+Value=1;WC  à    l’intérieur
+Value=2;WC   à l’extérieur
+Value=3;Latrines dans la cour
+Value=4;Latrines hors de la cour
+Value=5;Dans la nature
+Value=6;Autre à préciser
+
+[Item]
+Label=lieu d'aisnce_autre
+Name=HAB5_AUTRE
+Start=136
+Len=25
+DataType=Alpha
+
+[Item]
+Label=alimenatation en eau
+Name=HAB6
+Start=161
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=alimenatation en eau
+Name=HAB6_VS1
+Value=1;Eau courante  dans le  logement
+Value=2;Eau courante dan la cour
+Value=3;Eau courante à l'extrerieur
+Value=4;Puits dans la cour
+Value=5;Puits public
+Value=6;Pompe villageoise
+Value=7;Eau de surface (marigot,rivière,etc.)
+Value=8;Autre à préciser
+
+[Item]
+Label=alimentation_autre
+Name=HAB6_AUTRE
+Start=162
+Len=25
+DataType=Alpha
+
+[Item]
+Label=mode d'eclairage
+Name=HAB7
+Start=187
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=mode d'eclairage
+Name=HAB7_VS1
+Value=1;Electrique
+Value=2;Lampe
+Value=3;Electricité + lampe
+Value=4;Autre à préciser
+
+[Item]
+Label=mode d'eclairage_autre
+Name=HAB7_AUTRE
+Start=188
+Len=25
+DataType=Alpha
+
+[Item]
+Label=mode de cuisson
+Name=HAB8
+Start=213
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=mode de cuisson
+Name=HAB8_VS1
+Value=1;Bois de chauffe
+Value=2;Charbon
+Value=3;Gaz
+Value=4;Bois+charbon
+Value=5;Gaz+charbon
+Value=7;Autre à préciser
+
+[Item]
+Label=mode de cuison_autre
+Name=HAB8_AUTRE
+Start=214
+Len=25
+DataType=Alpha
+
+[Item]
+Label=mode d'évacuation des ordures ménagères
+Name=HAB9
+Start=239
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=mode d'évacuation des ordures ménagères
+Name=HAB9_VS1
+Value=1;Ramassage par camion
+Value=2;Charrette
+Value=3;Dans la nature
+Value=4;Ordures brûlées
+Value=5;Ordures enterrées
+Value=6;Autres à préciser
+
+[Item]
+Label=evacuation_autre
+Name=HAB9_AUTRE
+Start=240
+Len=25
+DataType=Alpha
+
+[Item]
+Label=mode d'evacuation des eaux usees
+Name=HAB10
+Start=265
+Len=1
+
+[ValueSet]
+Label=mode d'evacuation des eaux usees
+Name=HAB10_VS1
+Value=1;Fosse septiuqe
+Value=2;Réseau d'égout
+Value=3;Dans la nature
+Value=4;Dans le caniveau
+Value=5;Dans la nature
+Value=6;Autre à préciset
+
+[Item]
+Label=evacuation_autre
+Name=HAB10_AUTRE
+Start=266
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Equipement audio visuel et NTIC
+Name=HAB11
+Start=291
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Equipement audio visuel et NTIC
+Name=HAB11_VS1
+Value=0;Aucun
+Value=1;Radio
+Value=2;Télévision
+Value=4;Téléphone céllulaire
+Value=8;Téléphone fixe
+Value=16;Ordinateur
+Value=32;Connexion internet
+Value=64;Chaîne HIFI
+Value=128;Autre à préciser
+
+[Item]
+Label=equipement_autre
+Name=HAB11_AUTRE
+Start=294
+Len=25
+DataType=Alpha
+
+[Record]
+Label=INFORMATION_SUPPLEMENTAIRE
+Name=SUP
+RecordTypeValue='C'
+RecordLen=73
+
+[Item]
+Label=nom du chef de menage
+Name=NOMCM
+Start=29
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Taille du menage
+Name=SUP1
+Start=54
+Len=2
+
+[Item]
+Label=nombre des personnes eligible
+Name=SUP2
+Start=56
+Len=2
+
+[Item]
+Label=Date d'interview
+Name=HH5
+Start=58
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour d'interview
+Name=HH5D
+Start=58
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour d'interview
+Name=HH5D_VS1
+Value=1:31
+
+[Item]
+Label=Mois d'interview
+Name=HH5M
+Start=60
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois d'interview
+Name=HH5M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année d'interview
+Name=HH5Y
+Start=62
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Temps début de l' interview
+Name=HH11
+Start=66
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l' interview - Heure
+Name=HH11H
+Start=66
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l' interview - Heure
+Name=HH11H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes
+Name=HH11M
+Start=68
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes
+Name=HH11M_VS1
+Value=0:59
+
+[Item]
+Label=Temps de fin de l'interview
+Name=HH13
+Start=70
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin  de l'interview - Heure
+Name=HH13H
+Start=70
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin  de l'interview - Heure
+Name=HH13H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'nterview - Minutes
+Name=HH13M
+Start=72
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'nterview - Minutes
+Name=HH13M_VS1
+Value=0:59

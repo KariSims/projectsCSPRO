@@ -1,0 +1,392 @@
+﻿Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      13:17:58
+End Time        13:18:47
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      13:23:39
+End Time        13:24:02
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      13:25:30
+End Time        13:25:58
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+  99990            1   Operator entered a value out of range                                                 
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      13:51:43
+End Time        13:55:06
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1010            1   Application error: protected field %n out of range - value is %f                      
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+  99990            2   Operator entered a value out of range                                                 
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                                                                Denom
+   ----    ----  ----  ------------                                                                                -----
+    497       1    -   Le chef de ménage (%s) a moins de 15 ans (%d ans)                                               -
+    520       2    -   L'âge calculé de %S est %02d, mais vous avez saisi %02d                                         -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      14:06:42
+End Time        14:08:02
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                                                                Denom
+   ----    ----  ----  ------------                                                                                -----
+    403       1    -    ETES-VOUS  VRAIMENT SÛR QUE CE MENAGE NE CONTIENT QU'UNE SEULE PERSONNE?                       -
+    520       1    -   L'âge calculé de %S est %02d, mais vous avez saisi %02d                                         -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      22:39:59
+End Time        22:43:58
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+  99990            3   Operator entered a value out of range                                                 
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                                                                Denom
+   ----    ----  ----  ------------                                                                                -----
+    497       2    -   Le chef de ménage (%s) a moins de 15 ans (%d ans)                                               -
+    520       2    -   L'âge calculé de %S est %02d, mais vous avez saisi %02d                                         -
+    589       1    -   les personnes de 10 ans et plus sont elligibles                                                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      23:11:54
+End Time        23:12:38
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+  99990            8   Operator entered a value out of range                                                 
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      23:13:01
+End Time        23:13:11
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+  99990            1   Operator entered a value out of range                                                 
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      23:13:13
+End Time        23:13:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+  99990            1   Operator entered a value out of range                                                 
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      23:13:40
+End Time        23:14:05
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+  99990            1   Operator entered a value out of range                                                 
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                                                                Denom
+   ----    ----  ----  ------------                                                                                -----
+    403       1    -    ETES-VOUS  VRAIMENT SÛR QUE CE MENAGE NE CONTIENT QU'UNE SEULE PERSONNE?                       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      23:32:42
+End Time        23:32:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+  99990            1   Operator entered a value out of range                                                 
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 21, 2020
+Start Time      23:32:52
+End Time        23:33:03
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  90004            1   Data type of '%' argument #%d (%s) does not match fill value (%s).                    
+  99990            1   Operator entered a value out of range                                                 
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                                                                Denom
+   ----    ----  ----  ------------                                                                                -----
+    404       1    -    ETES-VOUS  VRAIMENT SÛR QUE CE MENAGE NE CONTIENT QU'UNE SEULE PERSONNE?                       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf_codeDolly_ModEmploi\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf_codeDolly_ModEmploi\Data\M .csdb
+
+Date            Jul 26, 2020
+Start Time      16:14:29
+End Time        16:14:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range                                                 
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf_codeDolly_ModEmploi\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf_codeDolly_ModEmploi\Data\M .csdb
+
+Date            Jul 26, 2020
+Start Time      16:14:40
+End Time        16:14:56
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range                                                 
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf_codeDolly_ModEmploi\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf_codeDolly_ModEmploi\Data\M .csdb
+
+Date            Jul 26, 2020
+Start Time      16:14:57
+End Time        16:15:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range                                                 
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP_vf_codeDolly_ModEmploi\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP_vf_codeDolly_ModEmploi\Data\M .csdb
+
+Date            Jul 26, 2020
+Start Time      16:15:11
+End Time        16:15:31
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range                                                 
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

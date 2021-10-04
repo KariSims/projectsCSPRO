@@ -1,0 +1,160 @@
+set explicit
+numeric t,i,j,x,e,addmode;
+
+file FichSaPart;
+string strpart,ldep;
+array codes(50) ;
+array alpha(30) labels(50);
+alpha(900) strnotes; 
+
+
+function clear_labels();
+	do i = 1 while i <= 50
+	  codes(i) = notappl;
+	  labels(i) = "";
+	enddo;
+end;
+
+Function rech_departement()
+  t=0; i=1; 
+      setfile( FichSaPart,"C:\CAP\Reference\departement.txt") ;  
+	     if Filesize( FichSaPart ) > 0 then
+		     while FileRead( FichSaPart, strpart ) do
+		          if tonumber(strpart[1:2]) = REGION then  
+                  codes(i)=tonumber(strpart[3:2]);
+                  labels(i)=strip(strpart[5:20]);
+		               if DEPARTEMENT=tonumber(strpart[3:2]) then
+		               ldep=strip(strpart[5:20]);
+		               endif;
+                  i=i+1;
+		          endif ;
+		      enddo;
+          endif ;
+         close( FichSaPart );
+end;
+Function rech_DR()
+  t=0; i=1; 
+      setfile( FichSaPart,"C:\CAP\Reference\DR.txt") ;  
+	     if Filesize( FichSaPart ) > 0 then
+		     while FileRead( FichSaPart, strpart ) do
+		          if tonumber(strpart[1:2]) = REGION and tonumber(strpart[3:2]) = DEPARTEMENT then  
+                  codes(i)=tonumber(strpart[5:4]);
+                  labels(i)="DR"+" "+"N° "+strpart[5:4];
+		           i=i+1;
+		          endif ;
+		      enddo;
+          endif ;
+         close( FichSaPart );
+end;
+Function rech_localite()
+  t=0; i=1; 
+      setfile( FichSaPart,"C:\CAP\Reference\localite.txt") ;  
+	     if Filesize( FichSaPart ) > 0 then
+		     while FileRead( FichSaPart, strpart ) do
+		          if tonumber(strpart[1:2]) = REGION and tonumber(strpart[3:2]) = DEPARTEMENT and tonumber(strpart[5:4])=DR then  
+                  codes(i)=tonumber(strpart[8:4]);
+                  labels(i)="LOCALITE"+" "+"N° "+strpart[8:4];
+		           i=i+1;
+		          endif ;
+		      enddo;
+          endif ;
+         close( FichSaPart );
+end;
+Function rech_quartier()
+  t=0; i=1; 
+      setfile( FichSaPart,"C:\CAP\Reference\quartier.txt") ;  
+	     if Filesize( FichSaPart ) > 0 then
+		     while FileRead( FichSaPart, strpart ) do
+		          if tonumber(strpart[1:2]) = REGION and tonumber(strpart[3:2]) = DEPARTEMENT and tonumber(strpart[5:4])=DR and tonumber(strpart[8:4])=LOCALITTE then  
+                  codes(i)=tonumber(strpart[13:4]);
+                  labels(i)="QUARTIER"+" "+strpart[16:20];
+		           i=i+1;
+		          endif ;
+		      enddo;
+          endif ;
+         close( FichSaPart );
+end;
+Function rech_ilot()
+  t=0; i=1; 
+      setfile( FichSaPart,"C:\CAP\Reference\ilot.txt") ;  
+	     if Filesize( FichSaPart ) > 0 then
+		     while FileRead( FichSaPart, strpart ) do 
+			  if tonumber(strpart[1:4]) = QUARTIER then
+                  codes(i)=tonumber(strpart[5:4]);
+                  labels(i)="ILOT"+"N° "+strpart[5:4];
+		           i=i+1;
+				  endif;
+		      enddo;
+          endif ;
+         close( FichSaPart );
+end;
+Function rech_grappe()
+  t=0; i=1; 
+      setfile( FichSaPart,"C:\CAP\Reference\grappe.txt") ;  
+	     if Filesize( FichSaPart ) > 0 then
+		     while FileRead( FichSaPart, strpart ) do 
+                  codes(i)=tonumber(strpart[1:4]);
+                  labels(i)="GRAPPE"+" "+strpart[1:4];
+		           i=i+1;
+		      enddo;
+          endif ;
+         close( FichSaPart );
+end;
+
+PROC QUESTIONNAIRE_MENAGE_FF
+preproc
+setfont (valuesets, "Baskerville Old Face", 26,bold);
+{set attributes (QUESTIONNAIRE) assisted on;
+set attributes (QUESTIONNAIRE) assisted off (variable (title));}
+
+if demode()=add then addmode=1; endif;
+if demode()=modify then addmode=2; endif;
+
+PROC DEPARTEMENT
+preproc
+clear_labels();
+onfocus
+rech_departement();
+
+setvalueset(@getsymbol(),codes,labels);
+setcapturetype($,1);
+PROC DR
+preproc
+clear_labels();
+onfocus
+rech_DR();
+
+setvalueset(@getsymbol(),codes,labels);
+setcapturetype($,1);
+PROC LOCALITTE
+preproc
+clear_labels();
+onfocus
+rech_localite();
+
+setvalueset(@getsymbol(),codes,labels);
+setcapturetype($,1);
+PROC QUARTIER
+preproc
+clear_labels();
+onfocus
+rech_quartier();
+
+setvalueset(@getsymbol(),codes,labels);
+setcapturetype($,1);
+PROC N_DE_L_ILOT
+preproc
+clear_labels();
+onfocus
+rech_ilot();
+ 
+setvalueset(@getsymbol(),codes,labels);
+setcapturetype($,1);
+PROC GRAPPE
+preproc
+clear_labels();
+onfocus
+rech_grappe();
+
+setvalueset(@getsymbol(),codes,labels);
+setcapturetype($,1);

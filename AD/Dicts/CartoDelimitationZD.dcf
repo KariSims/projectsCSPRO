@@ -1,0 +1,123 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=Carto
+Name=CARTO_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Dénombrement  Carto
+Name=CARTO_QUEST
+
+[IdItems]
+
+[Item]
+Label=Numéro de l'équipe
+Name=NUM_EQUIPE
+Start=2
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de l'équipe
+Name=NUM_EQUIPE_VS1
+Value=1:7;Num équipe
+
+[Record]
+Label=Carto record
+Name=CARTO_REC
+RecordTypeValue='C'
+MaxRecords=9999
+RecordLen=297
+
+[Item]
+Label=Numéro de ZD
+Name=NUM_ZD
+Start=4
+Len=5
+ZeroFill=Yes
+
+[Item]
+Label=Province
+Name=PROVINCE
+Start=9
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Ville ou territoire
+Name=VILLE_TERRIT
+Start=34
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Commune ou Secteur
+Name=COMM_SECT
+Start=59
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Quartier/Groupement
+Name=QUART_GROUPT
+Start=84
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Nombre d'entreprise
+Name=NB_ESE
+Start=109
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre d'entreprise
+Name=NB_ESE_VS1
+Value=1:9999;Nombre d'Entreprises
+
+[Item]
+Label=Longitude1
+Name=LONGITUDE1
+Start=113
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=Longitude1
+Name=LONGITUDE1_VS1
+Value=',000000   ';Not included
+Value='1,000000  ';Included
+Value='          ';Not applicable
+
+[Item]
+Label=Latitude1
+Name=LATITUDE1
+Start=123
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=Latitude1
+Name=LATITUDE1_VS1
+Value='0         ';Not included
+Value='1         ';Included
+Value='          ';Not applicable
+
+[Item]
+Label=Point référence ou pas
+Name=REFERENCE
+Start=133
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Dénomination
+Name=DENOMINAT
+Start=148
+Len=150
+DataType=Alpha

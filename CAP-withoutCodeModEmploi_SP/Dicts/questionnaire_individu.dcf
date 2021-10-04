@@ -1,0 +1,2196 @@
+﻿[Dictionary]
+Version=CSPro 7.4
+Label=questionnaire_individu
+Name=QUESTIONNAIRE_INDIVIDU_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=9B960C31DCFED6D2809A06F8CCA93187AD84866A26D4A07B2B7BEB636975C5F51056A25500C69C3F4297ADB30542C3C8
+
+[Level]
+Label=questionnaire_individu Level
+Name=QUESTIONNAIRE_INDIVIDU_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Region
+Name=I01
+Start=2
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Region
+Name=I01_VS1
+Value=1;LAGUNES
+Value=2;MONTAGNE
+Value=3;SAVANE
+
+[Item]
+Label=Departement
+Name=I02
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Milieu de residence
+Name=I03
+Start=6
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu de residence
+Name=I03_VS1
+Value=1;Urbain
+Value=2;Rural
+
+[Item]
+Label=DR
+Name=I04
+Start=7
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Localite
+Name=I05
+Start=11
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Quartier
+Name=I06
+Start=15
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=N° de l'ILOT
+Name=I07
+Start=19
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=N° de grappe
+Name=I08
+Start=23
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=N° de grappe
+Name=I08_VS1
+Value=1;Gr_1
+Value=2;Gr_2
+Value=3;Gr_3
+Value=4;Gr_4
+
+[Item]
+Label=N° du menage
+Name=I09
+Start=27
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=N° du menage
+Name=I09_VS1
+Value=1:5
+
+[Item]
+Label=nom du chef de meange
+Name=I10
+Start=29
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Numéro de l'enquêté
+Name=I11
+Start=54
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Nom de l'enquêté
+Name=I12
+Start=56
+Len=25
+DataType=Alpha
+
+[Record]
+Label=VISITE
+Name=I_VISITE
+RecordTypeValue='1'
+RecordLen=88
+
+[Item]
+Label=Date du jour 1
+Name=QUOTQ01J1
+Start=81
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour 1 de collecte
+Name=QUOTQ01JJ1
+Start=81
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour 1 de collecte
+Name=QUOTQ01JJ1_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+
+[Item]
+Label=Mois 1 de collecte
+Name=QUOTQ01MJ1
+Start=83
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois 1 de collecte
+Name=QUOTQ01MJ1_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Decembre
+
+[Item]
+Label=Année 1 de collecte
+Name=QUOTQ01AJ1
+Start=85
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année 1 de collecte
+Name=QUOTQ01AJ1_VS1
+Value=2020;Année
+
+[Record]
+Label=PANNEAU
+Name=MOD_INDIVIDU
+RecordTypeValue='A'
+RecordLen=110
+
+[Item]
+Label=code de resultat
+Name=RES
+Start=81
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=code de resultat
+Name=RES_VS1
+Value=1;Rempli entièrement
+Value=2;Rempli partiellement
+Value=3;Differé
+Value=4;Refusé
+Value=5;Incapacité
+Value=8;Autres à préciser
+
+[Item]
+Label=Autre à  préciser
+Name=AUTRE
+Start=82
+Len=25
+DataType=Alpha
+
+[Item]
+Label=personne elligible
+Name=ELG
+Start=107
+Len=2
+
+[Item]
+Label=personne consentente
+Name=PERS_CONS
+Start=109
+Len=2
+
+[Record]
+Label=INFORMATIONS DES INDIVIDUS
+Name=INF_IND
+RecordTypeValue='B'
+MaxRecords=30
+RecordLen=107
+
+[Item]
+Label=numero de ligne de l'enqueté
+Name=IND_NUM
+Start=81
+Len=1
+
+[Item]
+Label=nom
+Name=IND_NOM
+Start=82
+Len=25
+DataType=Alpha
+
+[Item]
+Label=consentement
+Name=IND_CONSENTEMENT
+Start=107
+Len=1
+
+[Record]
+Label=CARACTERISTIQUES SOCIODEMOGRAPHIQUES
+Name=SECTA
+RecordTypeValue='C'
+MaxRecords=30
+RecordLen=131
+
+[Item]
+Label=numero de ligne
+Name=A0
+Start=81
+Len=2
+
+[Item]
+Label=Nom de l'enqueté
+Name=A0N
+Start=83
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Sexe
+Name=A1
+Start=108
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Sexe
+Name=A1_VS1
+Value=1;Masculin
+Value=2;Fémi nin
+
+[Item]
+Label=Lien de parenté
+Name=A2
+Start=109
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Lien de parenté
+Name=A2_VS1
+Value=1;Chef
+Value=2;Eoux ou épouse
+Value=3; Fils/Fille
+Value=4;Père/Mère
+Value=5;Sœur/frère
+Value=6;Nièce/neveu
+Value=7;Beau frère / belle sœur
+Value=8;Autres parents
+Value=9;Domestique
+Value=10;Sans lien de parenté
+Value=98;Ne sait pas
+
+[Item]
+Label=Date de naissance
+Name=A3
+Start=111
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de naissance
+Name=A3J
+Start=111
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de naissance
+Name=A3J_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+Value=98;Ne sait pas
+
+[Item]
+Label=Mois de naissance
+Name=A3M
+Start=113
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de naissance
+Name=A3M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+Value=98;Ne sait pas
+
+[Item]
+Label=Annee de naissances
+Name=A3A
+Start=115
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Annee de naissances
+Name=A3A_VS1
+Value=2020;2020
+Value=2019;2019
+Value=2018;2 018
+Value=2017;2 017
+Value=2016;2 016
+Value=2015;2 015
+Value=2014;2 014
+Value=2013;2 013
+Value=2012;2 012
+Value=2011;2 011
+Value=2010;2 010
+Value=2009;2 009
+Value=2008;2 008
+Value=2007;2 007
+Value=2006;2 006
+Value=2005;2 005
+Value=2004;2 004
+Value=2003;2 003
+Value=2002;2 002
+Value=2001;2 001
+Value=2000;2 000
+Value=1999;1 999
+Value=1998;1 998
+Value=1997;1 997
+Value=1996;1 996
+Value=1995;1 995
+Value=1994;1 994
+Value=1993;1 993
+Value=1992;1 992
+Value=1991;1 991
+Value=1990;1 990
+Value=1989;1 989
+Value=1988;1 988
+Value=1987;1 987
+Value=1986;1 986
+Value=1985;1 985
+Value=1984;1 984
+Value=1983;1 983
+Value=1982;1 982
+Value=1981;1 981
+Value=1980;1 980
+Value=1979;1 979
+Value=1978;1 978
+Value=1977;1 977
+Value=1976;1 976
+Value=1975;1 975
+Value=1974;1 974
+Value=1973;1 973
+Value=1972;1 972
+Value=1971;1 971
+Value=1970;1 970
+Value=1969;1 969
+Value=1968;1 968
+Value=1967;1 967
+Value=1966;1 966
+Value=1965;1 965
+Value=1964;1 964
+Value=1963;1 963
+Value=1962;1 962
+Value=1961;1 961
+Value=1960;1 960
+Value=1959;1 959
+Value=1958;1 958
+Value=1957;1 957
+Value=1956;1 956
+Value=1955;1 955
+Value=1954;1 954
+Value=1953;1 953
+Value=1952;1 952
+Value=1951;1 951
+Value=1950;1 950
+Value=1949;1 949
+Value=1948;1 948
+Value=1947;1 947
+Value=1946;1 946
+Value=1945;1 945
+Value=1944;1 944
+Value=1943;1 943
+Value=1942;1 942
+Value=1941;1 941
+Value=1940;1 940
+Value=1939;1 939
+Value=1938;1 938
+Value=1937;1 937
+Value=1936;1 936
+Value=1935;1 935
+Value=1934;1 934
+Value=1933;1 933
+Value=1932;1 932
+Value=1931;1 931
+Value=1930;1 930
+Value=1929;1 929
+Value=1928;1 928
+Value=1927;1 927
+Value=1926;1 926
+Value=1925;1 925
+Value=1924;1 924
+Value=1923;né en 1 923 ou avant
+
+[Item]
+Label=age
+Name=A3AGE
+Start=119
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=age
+Name=A3AGE_VS1
+Value=0;0 an
+Value=1;1 an
+Value=2;2 ans
+Value=3;3 ans
+Value=4;4 ans
+Value=5;5 ans
+Value=6;6 ans
+Value=7;7 ans
+Value=8;8 ans
+Value=9;9 ans
+Value=10;10 ans
+Value=11;11 ans
+Value=12;12 ans
+Value=13;13 ans
+Value=14;14 ans
+Value=15;15 ans
+Value=16;16 ans
+Value=17;17 ans
+Value=18;18 ans
+Value=19;19 ans
+Value=20;20 ans
+Value=21;21 ans
+Value=22;22 ans
+Value=23;23 ans
+Value=24;24 ans
+Value=25;25 ans
+Value=26;26 ans
+Value=27;27 ans
+Value=28;28 ans
+Value=29;29 ans
+Value=30;30 ans
+Value=31;31 ans
+Value=32;32 ans
+Value=33;33 ans
+Value=34;34 ans
+Value=35;35 ans
+Value=36;36 ans
+Value=37;37 ans
+Value=38;38 ans
+Value=39;39 ans
+Value=40;40 ans
+Value=41;41 ans
+Value=42;42 ans
+Value=43;43 ans
+Value=44;44 ans
+Value=45;45 ans
+Value=46;46 ans
+Value=47;47 ans
+Value=48;48 ans
+Value=49;49 ans
+Value=50;50 ans
+Value=51;51 ans
+Value=52;52 ans
+Value=53;53 ans
+Value=54;54 ans
+Value=55;55 ans
+Value=56;56 ans
+Value=57;57 ans
+Value=58;58 ans
+Value=59;59 ans
+Value=60;60 ans
+Value=61;61 ans
+Value=62;62 ans
+Value=63;63 ans
+Value=64;64 ans
+Value=65;65 ans
+Value=66;66 ans
+Value=67;67 ans
+Value=68;68 ans
+Value=69;69 ans
+Value=70;70 ans
+Value=71;71 ans
+Value=72;72 ans
+Value=73;73 ans
+Value=74;74 ans
+Value=75;75 ans
+Value=76;76 ans
+Value=77;77 ans
+Value=78;78 ans
+Value=79;79 ans
+Value=80;80 ans
+Value=81;81 ans
+Value=82;82 ans
+Value=83;83 ans
+Value=84;84 ans
+Value=85;85 ans
+Value=86;86 ans
+Value=87;87 ans
+Value=88;88 ans
+Value=89;89 ans
+Value=90;90 ans
+Value=91;91 ans
+Value=92;92 ans
+Value=93;93 ans
+Value=94;94 ans
+Value=95;95 ans & plus
+Value=98;NSP
+
+[Item]
+Label=Situation matrimoniale
+Name=A4
+Start=121
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Situation matrimoniale
+Name=A4_VS1
+Value=1; Jamais marié(e)
+Value=2;Union libre
+Value=3;Marié€
+Value=4; Divorcé(e)/séparé(e)
+Value=5;Veuf(ve)
+
+[Item]
+Label=Ethnie ou naationalite
+Name=A5
+Start=123
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Ethnie ou naationalite
+Name=A5_VS1
+Value=1;Akan
+Value=2;Krou
+Value=3;Mandé Nord
+Value=4;Mandé Sud
+Value=5;Voltaïque/Gur
+Value=6;Naturalisé/Autres ivoirien
+Value=7;Burkinabè
+Value=8;Malien
+Value=9;Ghanéen
+Value=10;Libérien
+Value=11;Guinéen
+Value=12;Autres ouest africains
+Value=13;Autres africains
+Value=14;Non africains
+Value=98;Ne sait pas
+
+[Item]
+Label=religion
+Name=A6
+Start=125
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=religion
+Name=A6_VS1
+Value=0;Sans religion
+Value=1;Animiste
+Value=2;Musulman(e)
+Value=3;Chrétien(ne)
+Value=4;Autre religion
+
+[Item]
+Label=Savoir lire
+Name=A7
+Start=126
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Savoir lire
+Name=A7_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=niveau instruction eleve
+Name=A8
+Start=127
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=niveau instruction eleve
+Name=A8_VS1
+Value=1;Jamais scolarisé
+Value=2;Préscolaire
+Value=3;Primaire
+Value=4;secondaire 1 er cycle
+Value=5;secondaire 2e cycle
+Value=6;Supérieur
+Value=7; Programme non formel
+Value=8;Ne sait pas
+
+[Item]
+Label=statut d'occupation
+Name=A9
+Start=128
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=statut d'occupation
+Name=A9_VS1
+Value=0;Sans occupation
+Value=1;Occupé
+Value=2;Au chômage
+Value=3; En quête de 1er emploi
+Value=4;Ménagère
+Value=5;Elève / Etudiant
+Value=6;Rentier
+Value=7;Invalide
+Value=8;Ne sait pas
+
+[Item]
+Label=secteur d'activité
+Name=A10
+Start=129
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=secteur d'activité
+Name=A10_VS1
+Value=1;Secteur public/parapublic
+Value=2;Secteur privé formel
+Value=3;Secteur agricole informel
+Value=4;Secteur Informel non  agricole
+Value=8;Ne sait pas
+
+[Item]
+Label=deplace de guerre
+Name=A11
+Start=130
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=deplace de guerre
+Name=A11_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=combien de temps
+Name=A12
+Start=131
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=combien de temps
+Name=A12_VS1
+Value=1;Moins d'un an
+Value=2;1 à 3 ans
+Value=3;4 à 6 ans
+Value=4;Jusqu’à présent
+Value=5;Ne sait pas
+
+[Record]
+Label=ACCES AUX MEDIAS
+Name=SECTB
+RecordTypeValue='D'
+MaxRecords=30
+RecordLen=304
+
+[Item]
+Label=numero de ligne
+Name=B0
+Start=81
+Len=2
+
+[Item]
+Label=Nom de l'enqueté
+Name=B0N
+Start=83
+Len=25
+DataType=Alpha
+
+[Item]
+Label=information reguliere
+Name=B1
+Start=108
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=information reguliere
+Name=B1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Ecoute la radio
+Name=B2
+Start=109
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Ecoute la radio
+Name=B2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=frequence semaine
+Name=B3
+Start=110
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=frequence semaine
+Name=B3_VS1
+Value=1;Chaque jour
+Value=2;Une fois
+Value=3;Deux fois
+Value=4;Plus de deux fois
+
+[Item]
+Label=moment ecoute radio
+Name=B4
+Start=111
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=moment ecoute radio
+Name=B4_VS1
+Value=1;6h-8h
+Value=2;9h-12h
+Value=3;13h-14h
+Value=4;15h-18h
+Value=5;19h-21h
+Value=6;22h-24h
+
+[Item]
+Label=type emission prefere
+Name=B5
+Start=112
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=type emission prefere
+Name=B5_VS1
+Value='A       ';Varieté musicale
+Value='B       ';Journal parlé
+Value='C       ';Débats
+Value='D       ';Emission sur la santé
+Value='E       ';Feuilletons/Long métrage
+Value='F       ';Emissions réligieux
+Value='G       ';Emissions sportives
+Value='X       ';Autre(à préciser)
+
+[Item]
+Label=emission_preciser
+Name=B5_AUTRE
+Start=120
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Parmi les chaines de radio, laquelle a le plus d’intérêt pour vous ?
+Name=B6
+Start=145
+Len=1
+
+[ValueSet]
+Label=Parmi les chaines de radio, laquelle a le plus d’intérêt pour vous ?
+Name=B6_VS1
+Value=1;Radio Nationale
+Value=2;Radio Fréquence 2
+Value=3;Radio de proximité
+Value=4;Radios étrangères
+
+[Item]
+Label=Pourquoi ?
+Name=B7
+Start=146
+Len=1
+
+[ValueSet]
+Label=Pourquoi ?
+Name=B7_VS1
+Value=1;Plus crédible
+Value=2;Plus accessible
+Value=3;Autre à préciser
+
+[Item]
+Label=Autres
+Name=B7_X
+Start=147
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Regardez vous la télé ?
+Name=B8
+Start=172
+Len=1
+
+[ValueSet]
+Label=Regardez vous la télé ?
+Name=B8_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Combien de fois regardez-vous la télé chaque semaine ?
+Name=B9
+Start=173
+Len=1
+
+[ValueSet]
+Label=Combien de fois regardez-vous la télé chaque semaine ?
+Name=B9_VS1
+Value=1;Chaque jour
+Value=2;Une fois
+Value=3;Deux fois
+Value=4;Plus de deux fois
+
+[Item]
+Label=A quel moment regardez-vous généralement la télé ?
+Name=B10
+Start=174
+Len=1
+
+[ValueSet]
+Label=A quel moment regardez-vous généralement la télé ?
+Name=B10_VS1
+Value=1
+Value=2;9h-12h
+Value=3;13h-14h
+Value=4;15h-18h
+Value=5;19h-21h
+Value=6;22h-24h
+
+[Item]
+Label=Quels sont les types d’émission que vous préférez regarder à la télévision ?
+Name=B11
+Start=175
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Quels sont les types d’émission que vous préférez regarder à la télévision ?
+Name=B11_VS1
+Value='A       ';Variétés musicales
+Value='B       ';Journal parlé
+Value='C       ';Débats
+Value='D       ';Emissions sur la santé
+Value='E       ';Feuilletons/long métrage
+Value='F       ';Emissions religieuses
+Value='G       ';Emissions sportives
+Value='X       ';Autre (à préciser)
+
+[Item]
+Label=Autres Types d'émissions préféré
+Name=B11_X
+Start=183
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Parmi les chaines de télé, laquelle regardez-vous régulièrement ?
+Name=B12
+Start=208
+Len=1
+
+[ValueSet]
+Label=Parmi les chaines de télé, laquelle regardez-vous régulièrement ?
+Name=B12_VS1
+Value=1;Première chaine
+Value=2;TV2
+Value=3;Canal Horizon
+Value=4;Autres (préciser)
+
+[Item]
+Label=Autres chaines de télé
+Name=B12_X
+Start=209
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Pourquoi ?
+Name=B13
+Start=234
+Len=1
+
+[ValueSet]
+Label=Pourquoi ?
+Name=B13_VS1
+Value=1;Plus crédible
+Value=2;Plus accessible
+Value=3;Autre à préciser
+
+[Item]
+Label=Autres
+Name=B13_X
+Start=235
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Lisez-vous les journaux ?
+Name=B14
+Start=260
+Len=1
+
+[ValueSet]
+Label=Lisez-vous les journaux ?
+Name=B14_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Combien de fois lisez-vous les journaux chaque semaine ?
+Name=B15
+Start=261
+Len=1
+
+[ValueSet]
+Label=Combien de fois lisez-vous les journaux chaque semaine ?
+Name=B15_VS1
+Value=1;Chaque jour
+Value=2;Une fois
+Value=3;Deux fois
+Value=4;Plus de deux fois
+
+[Item]
+Label=A quel moment lisez-vous généralement les journaux ?
+Name=B16
+Start=262
+Len=1
+
+[ValueSet]
+Label=A quel moment lisez-vous généralement les journaux ?
+Name=B16_VS1
+Value=1;6h-8h
+Value=2;9h-12h
+Value=3;13h-14h
+Value=4;15h-18h
+Value=5;19h-21h
+Value=6;22h-24h
+
+[Item]
+Label=Quel type d’article préférez vous lire dans les journaux ?
+Name=B17
+Start=263
+Len=8
+
+[ValueSet]
+Label=Quel type d’article préférez vous lire dans les journaux ?
+Name=B17_VS1
+Value=1;Politique
+Value=2;Société
+Value=3;Sport
+Value=4;Economie
+Value=5;Culture
+Value=6;Etranger
+Value=7;Faits divers
+Value=8;Autre (à préciser)
+
+[Item]
+Label=Autres
+Name=B17_AUTRES
+Start=271
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Pourquoi ?
+Name=B18
+Start=286
+Len=1
+
+[ValueSet]
+Label=Pourquoi ?
+Name=B18_VS1
+Value=1;Plus crédible
+Value=2;Plus accessible
+Value=3;Autre à préciser
+
+[Item]
+Label=Autres
+Name=B18_X
+Start=287
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Parmi ces sources d’informations, laquelle a le plus d’intérêt pour vous ?
+Name=B19
+Start=302
+Len=3
+
+[ValueSet]
+Label=Parmi ces sources d’informations, laquelle a le plus d’intérêt pour vous ?
+Name=B19_VS1
+Value=1;Radio
+Value=2;Télévision
+Value=3;Journal
+
+[Record]
+Label=CONNAISSANCE DES IST/VIH/SIDA
+Name=SECTC
+RecordTypeValue='E'
+MaxRecords=30
+RecordLen=496
+
+[Item]
+Label=numero de ligne
+Name=C0
+Start=81
+Len=2
+
+[Item]
+Label=Nom de l'enqueté
+Name=C0N
+Start=83
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Avez-vous déjà entendu parler des infections (maladies) qui peuvent être transmises en ayant des rapports sexuels ?
+Name=C1
+Start=108
+Len=1
+
+[ValueSet]
+Label=Avez-vous déjà entendu parler des infections (maladies) qui peuvent être transmises en ayant des rapports sexuels ?
+Name=C1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Pouvez-vous me citer ces maladies ?
+Name=C2
+Start=109
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Pouvez-vous me citer ces maladies ?
+Name=C2_VS1
+Value='A      ';Syphilis
+Value='B      ';Gonococcie
+Value='C      ';Tumeur génitale
+Value='D      ';Ecoulement
+Value='E      ';Blennoragie/chaude-pisse
+Value='F      ';Aucun
+Value='X      ';Autres(à preciser)
+
+[Item]
+Label=ces maladies_autres
+Name=C2_X
+Start=116
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Comment un homme peut-il savoir qu’il a cette maladie ?
+Name=C3
+Start=141
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Comment un homme peut-il savoir qu’il a cette maladie ?
+Name=C3_VS1
+Value='A      ';Ecoulement
+Value='B      ';Picotement/plaie/Ulcérations
+Value='C      ';Sang dans l'urine
+Value='D      ';Renflement des parties génitales
+Value='E      ';Difficultés d'uriner
+Value='Y      ';Ne sait pas
+Value='X      ';Autres (à préciser)
+
+[Item]
+Label=comment savoir cette maladie_autre
+Name=C3_X
+Start=148
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Comment une femme peut-elle savoir qu’elle a cette maladie ?
+Name=C4
+Start=173
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Comment une femme peut-elle savoir qu’elle a cette maladie ?
+Name=C4_VS1
+Value='A      ';Ecoulement
+Value='B      ';Picotement/plaie/Ulcérations
+Value='C      ';Sang dans l'urine
+Value='D      ';Renflement des parties génitales
+Value='E      ';Difficultés d'uriner
+Value='Y      ';Ne sait pas
+Value='X      ';Autres (à préciser)
+
+[Item]
+Label=autres à préciser
+Name=C4_X
+Start=180
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Avez-vous déjà entendu parler du sida ?
+Name=C5
+Start=205
+Len=1
+
+[ValueSet]
+Label=Avez-vous déjà entendu parler du sida ?
+Name=C5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Où (par qui) avez-vous entendu parler du sida pour la première fois ?
+Name=C6
+Start=206
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Où (par qui) avez-vous entendu parler du sida pour la première fois ?
+Name=C6_VS1
+Value=1;Centre de santé
+Value=2;Pharmacie
+Value=3;Pharmacopée
+Value=4;Pharmacie par terre
+Value=5;Nulle part
+Value=6;Campagne de sensibilisation
+Value=7;Médias
+Value=8;Ecole
+Value=9;Connaissance
+Value=10;Personnel médical
+Value=11;Proche
+Value=12;Autre (à préciser)
+
+[Item]
+Label=Autre
+Name=C6_X
+Start=208
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Discutez-vous souvent des IST et du SIDA avec vos proches ? (C7=2 allez à C9)
+Name=C7
+Start=223
+Len=1
+
+[ValueSet]
+Label=Discutez-vous souvent des IST et du SIDA avec vos proches ? (C7=2 allez à C9)
+Name=C7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Avec qui êtes-vous à l’aise quand vous devez discuter des sujets comme les IST et le sida ? (Allez à C10)
+Name=C8
+Start=224
+Len=1
+
+[ValueSet]
+Label=Avec qui êtes-vous à l’aise quand vous devez discuter des sujets comme les IST et le sida ? (Allez à C10)
+Name=C8_VS1
+Value=1;Père/mère
+Value=2;Frères/soeurs
+Value=3;Conjoint (e)
+Value=4;Petit(e) ami (e)
+Value=5;Ami/collègues
+Value=6;Oncle/Tante
+Value=7;Cousin (e)
+Value=8;Autres (à préciser)
+
+[Item]
+Label=Autre
+Name=C8_X
+Start=225
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Pourquoi ne discutez vous pas du SIDA ou des IST avec vos proches ? (Choisir une seule réponse)
+Name=C9
+Start=240
+Len=1
+
+[ValueSet]
+Label=Pourquoi ne discutez vous pas du SIDA ou des IST avec vos proches ? (Choisir une seule réponse)
+Name=C9_VS1
+Value=1;Ça ne m’intéresse pas
+Value=2;J’ai honte
+Value=3;Ça me fait peur
+Value=4;Ça porte malheur
+Value=5;Personne avec qui en parler
+Value=6;Autres (préciser)
+Value=8;NSP
+
+[Item]
+Label=Autres
+Name=C9_X
+Start=241
+Len=15
+
+[Item]
+Label=Selon vous, comment peut-on contracter le SIDA ?
+Name=C10
+Start=256
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Selon vous, comment peut-on contracter le SIDA ?
+Name=C10_VS1
+Value='A';Rapports non protégés
+Value='B';Infidélité
+Value='C';Rapports avec PS
+Value='D';Transfusion sanguine
+Value='E';Injection
+Value='F';Excisions
+Value='Y';NSP
+Value='X';Autre à préciser
+
+[Item]
+Label=Autre
+Name=C10_X
+Start=257
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Quel est, selon vous, le mode de transmission du SIDA le plus fréquent en CI ?
+Name=C11
+Start=272
+Len=1
+
+[ValueSet]
+Label=Quel est, selon vous, le mode de transmission du SIDA le plus fréquent en CI ?
+Name=C11_VS1
+Value=1;Rapport sexuel
+Value=2;Transfusion sanguine
+Value=3;Mère/enfant
+Value=4;Injection
+Value=5;Autres (à préciser)
+Value=8;NSP
+
+[Item]
+Label=Autres
+Name=C11_X
+Start=273
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Croyez-vous que le SIDA peut se transmettre par des piqûres de moustiques ?
+Name=C12
+Start=288
+Len=1
+
+[ValueSet]
+Label=Croyez-vous que le SIDA peut se transmettre par des piqûres de moustiques ?
+Name=C12_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Croyez-vous que le SIDA peut se transmettre par sorcellerie ou d’autres pratiques surnaturelles ?
+Name=C13
+Start=289
+Len=1
+
+[Item]
+Label=Selon vous, comment peut-on reconnaître quelqu’un qui a le SIDA ?
+Name=C14
+Start=290
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Selon vous, comment peut-on reconnaître quelqu’un qui a le SIDA ?
+Name=C14_VS1
+Value='A      ';Maigre
+Value='B      ';Diarrhée
+Value='C      ';Boutons sur la peau
+Value='D      ';Zona
+Value='E      ';Palu répété
+Value='Y      ';NSP
+Value='X      ';Autres (préciser)
+
+[Item]
+Label=Autres
+Name=C14_X
+Start=297
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Une personne qui a l’air en bonne santé peut-elle être porteuse du virus du SIDA ?
+Name=C15
+Start=312
+Len=1
+
+[ValueSet]
+Label=Une personne qui a l’air en bonne santé peut-elle être porteuse du virus du SIDA ?
+Name=C15_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Selon vous, comment peut-on savoir qu’une personne est porteuse du virus du SIDA ?
+Name=C16
+Start=313
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=Selon vous, comment peut-on savoir qu’une personne est porteuse du virus du SIDA ?
+Name=C16_VS1
+Value='A         ';Test
+Value='B         ';Palu/fièvre répété
+Value='C         ';Zona
+Value='D         ';Toux répété
+Value='E         ';Furonculose
+Value='F         ';Diarrhée chronique
+Value='G         ';Perte de cheveux
+Value='H         ';Perte de poids
+Value='Y         ';NSP
+Value='X         ';Autre à préciser
+
+[Item]
+Label=Autres
+Name=C16_X
+Start=323
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Une personne séropositive est-elle une personne : (Lire les réponses)
+Name=C17
+Start=338
+Len=1
+
+[ValueSet]
+Label=Une personne séropositive est-elle une personne : (Lire les réponses)
+Name=C17_VS1
+Value=1;Qui fait la maladie
+Value=2;Qui ne fait pas encore la maladie mais peut contaminer et aussi développer la maladie
+Value=3;Autre (à préciser)
+Value=4;NSP
+
+[Item]
+Label=Autres
+Name=C17_X
+Start=339
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Quels risques courent deux personnes séropositives qui ont des rapports sexuels non protégés ?
+Name=C18
+Start=354
+Len=1
+
+[ValueSet]
+Label=Quels risques courent deux personnes séropositives qui ont des rapports sexuels non protégés ?
+Name=C18_VS1
+Value=1;développer la maladie
+Value=2;Accélérer la réinfection
+Value=3;Aucun
+Value=8;NSP
+
+[Item]
+Label=Selon vous, une personne qui est sous traitement peut-elle transmettre le virus du SIDA ?
+Name=C19
+Start=355
+Len=1
+
+[ValueSet]
+Label=Selon vous, une personne qui est sous traitement peut-elle transmettre le virus du SIDA ?
+Name=C19_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Selon vous, peut-on partager le repas avec une personne porteuse du virus sans contracter le SIDA ?
+Name=C20
+Start=356
+Len=1
+
+[ValueSet]
+Label=Selon vous, peut-on partager le repas avec une personne porteuse du virus sans contracter le SIDA ?
+Name=C20_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Selon vous, une mère séropositive peut-elle donner naissance à un enfant sain ?
+Name=C21
+Start=357
+Len=1
+
+[ValueSet]
+Label=Selon vous, une mère séropositive peut-elle donner naissance à un enfant sain ?
+Name=C21_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Selon vous, une mère séropositive peut-elle transmettre le virus pendant l’allaitement de son bébé ?
+Name=C22
+Start=358
+Len=1
+
+[ValueSet]
+Label=Selon vous, une mère séropositive peut-elle transmettre le virus pendant l’allaitement de son bébé ?
+Name=C22_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Pouvez-vous me dire quelles sont toutes les précautions que l’on doit prendre pour éviter ou réduire le risque de contracter le SIDA ?
+Name=C23
+Start=359
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Pouvez-vous me dire quelles sont toutes les précautions que l’on doit prendre pour éviter ou réduire le risque de contracter le SIDA ?
+Name=C23_VS1
+Value='A       ';Abstinence
+Value='B       ';Rapports protégés/préservatif
+Value='C       ';Fidélité à son partenaire
+Value='D       ';Pas de partenaires occasionnels
+Value='E       ';Seringue à usage unique/stérilisée
+Value='F       ';Eviter d’utiliser des objets tranchants contaminés
+Value='Y       ';NSP
+Value='X       ';Autres (à préciser)
+
+[Item]
+Label=Autres
+Name=C23_X
+Start=367
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Parmi toutes ces précautions citées, quel est pour vous le moyen le plus sûr d’éviter ou de réduire le risque de contracter le SIDA ?
+Name=C24
+Start=382
+Len=1
+
+[ValueSet]
+Label=Parmi toutes ces précautions citées, quel est pour vous le moyen le plus sûr d’éviter ou de réduire le risque de contracter le SIDA ?
+Name=C24_VS1
+Value=1;Abstinence
+Value=2;Rapports protégés/préservatif
+Value=3;Fidélité à son partenaire
+Value=4;Pas de partenaires occasionnels
+Value=5;Seringue à usage unique/stérilisée
+Value=6;Eviter d’utiliser des objets tranchants contaminés
+Value=7;Autres
+Value=8;NSP
+
+[Item]
+Label=Autres
+Name=C24_X
+Start=383
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Existe-t-il à votre avis des médicaments spéciaux que les agents de santé peuvent prescrire pour prévenir la maladie du sida ?
+Name=C25
+Start=398
+Len=1
+
+[ValueSet]
+Label=Existe-t-il à votre avis des médicaments spéciaux que les agents de santé peuvent prescrire pour prévenir la maladie du sida ?
+Name=C25_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Existe-t-il à votre avis des médicaments spéciaux que les agents de santé peuvent prescrire pour guérir la maladie du sida ?
+Name=C26
+Start=399
+Len=1
+
+[ValueSet]
+Label=Existe-t-il à votre avis des médicaments spéciaux que les agents de santé peuvent prescrire pour guérir la maladie du sida ?
+Name=C26_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Existe-t-il à votre avis des médicaments spéciaux que les agents de santé peuvent prescrire pour retarder l’évolution de la maladie du sida ? (C27=2 ou 8 allez C29)
+Name=C27
+Start=400
+Len=1
+
+[ValueSet]
+Label=Existe-t-il à votre avis des médicaments spéciaux que les agents de santé peuvent prescrire pour retarder l’évolution de la maladie du sida ? (C27=2 ou 8 allez C29)
+Name=C27_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Comment appelle-t on le remède ?
+Name=C28
+Start=401
+Len=1
+
+[ValueSet]
+Label=Comment appelle-t on le remède ?
+Name=C28_VS1
+Value=1;ARV
+Value=2;Autres (à préciser)
+Value=8;NSP
+
+[Item]
+Label=Autres
+Name=C28_X
+Start=402
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Existe-t-il, à votre avis, des médicaments traditionnels pour guérir le sida ?
+Name=C29
+Start=417
+Len=1
+
+[ValueSet]
+Label=Existe-t-il, à votre avis, des médicaments traditionnels pour guérir le sida ?
+Name=C29_VS1
+Value=1;Oui
+Value=2;Nom
+Value=8;NSP
+
+[Item]
+Label=Que doit-on faire pour savoir qu’on est porteur du virus du SIDA ou non ?
+Name=C30
+Start=418
+Len=1
+
+[ValueSet]
+Label=Que doit-on faire pour savoir qu’on est porteur du virus du SIDA ou non ?
+Name=C30_VS1
+Value=1;Test de dépistage
+Value=2;Examen médical
+Value=3;Consultation tradipraticien
+Value=4;Autres
+Value=8;NSP
+
+[Item]
+Label=Autres
+Name=C30_X
+Start=419
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Quelles sont les précautions à prendre lorsqu’on vit avec une personne (parent) séropositive pour éviter de contracter le sida ?
+Name=C31
+Start=434
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Quelles sont les précautions à prendre lorsqu’on vit avec une personne (parent) séropositive pour éviter de contracter le sida ?
+Name=C31_VS1
+Value='A     ';Ne pas partager le lit avec la personne
+Value='B     ';Isoler la personne
+Value='C     ';Ne pas partager le repas avec la personne
+Value='D     ';Eviter de se blesser avec les objets tranchants
+Value='Y     ';NSP
+Value='X     ';Autres (à préciser)
+
+[Item]
+Label=Autres
+Name=C31_X
+Start=440
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Lorsqu’on est séropositive, quelles sont les précautions à prendre pour éviter de faire la maladie ?
+Name=C32
+Start=455
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Lorsqu’on est séropositive, quelles sont les précautions à prendre pour éviter de faire la maladie ?
+Name=C32_VS1
+Value='A     ';Eviter les rapports sexuels non protégés
+Value='B     ';Prendre ses remèdes
+Value='C     ';Eviter les maladies comme le zona
+Value='D     ';Eviter de se fatiguer
+Value='Y     ';NSP
+Value='X     ';Autres (à préciser)
+
+[Item]
+Label=Autres
+Name=C32_X
+Start=461
+Len=15
+DataType=Alpha
+
+[Item]
+Label=A quelles conditions une mère séropositive peut-elle donner naissance à un enfant sain ?
+Name=C33
+Start=476
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=A quelles conditions une mère séropositive peut-elle donner naissance à un enfant sain ?
+Name=C33_VS1
+Value='A     ';Bon suivi médical
+Value='B     ';Traitement ARV
+Value='C     ';Accouchement par césarienne
+Value='Y     ';NSP
+Value='X     ';Autres (à préciser)
+
+[Item]
+Label=Autres
+Name=C33_X
+Start=482
+Len=15
+DataType=Alpha
+
+[Record]
+Label=OPINION ET ATTITUDE VIS A VIS DU SIDA
+Name=SECTD
+RecordTypeValue='F'
+MaxRecords=30
+RecordLen=339
+
+[Item]
+Label=numero de ligne
+Name=D0
+Start=81
+Len=2
+
+[Item]
+Label=Nom de l'enqueté
+Name=D0N
+Start=83
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Pensez-vous que le SIDA existe vraiment ?
+Name=D1
+Start=108
+Len=1
+
+[ValueSet]
+Label=Pensez-vous que le SIDA existe vraiment ?
+Name=D1_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Pourquoi dites vous cela ? (choisir une seule réponse)
+Name=D2
+Start=109
+Len=1
+
+[ValueSet]
+Label=Pourquoi dites vous cela ? (choisir une seule réponse)
+Name=D2_VS1
+Value=1;Décès d’un parent
+Value=2;Décès d’un leader d’opinion
+Value=3;Parent malade
+Value=4;Sensibilisation
+Value=5;Maladie de la ville
+Value=6;Maladie inventée
+Value=7;Autre (à préciser)
+
+[Item]
+Label=Autres
+Name=D2_X
+Start=110
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Diriez-vous qu’en Côte d’Ivoire, le SIDA est : (lire les réponses)
+Name=D3
+Start=125
+Len=1
+
+[ValueSet]
+Label=Diriez-vous qu’en Côte d’Ivoire, le SIDA est : (lire les réponses)
+Name=D3_VS1
+Value=1;Très répandu
+Value=2;Peu répandu
+Value=3;Pas du tout répandu
+Value=8;NSP
+
+[Item]
+Label=Diriez-vous qu’en Côte d’Ivoire, le SIDA est répandu ( lire les réponses)
+Name=D4
+Start=126
+Len=1
+
+[ValueSet]
+Label=Diriez-vous qu’en Côte d’Ivoire, le SIDA est répandu ( lire les réponses)
+Name=D4_VS1
+Value=1;Beaucoup plus dans les villes
+Value=2;Beaucoup plus dans les villages
+Value=3;Autant dans les villes que dans les villages
+Value=8;NSP
+
+[Item]
+Label=Diriez-vous qu’en Côte d’Ivoire, le SIDA est répandu ( lire les réponses)
+Name=D5
+Start=127
+Len=1
+
+[ValueSet]
+Label=Diriez-vous qu’en Côte d’Ivoire, le SIDA est répandu ( lire les réponses)
+Name=D5_VS1
+Value=1;Beaucoup plus chez les hommes
+Value=2;Beaucoup plus chez les femmes
+Value=3;Autant chez les hommes que chez les femmes
+Value=8;NSP
+
+[Item]
+Label=parmi ces tranches d’âges, D’après vous, quelle est celle qui est la plus à risque ? ( lire les réponses)
+Name=D6
+Start=128
+Len=1
+
+[ValueSet]
+Label=parmi ces tranches d’âges, D’après vous, quelle est celle qui est la plus à risque ? ( lire les réponses)
+Name=D6_VS1
+Value=1;Moins de 18 ans
+Value=2;18 à 39 ans
+Value=3;18 à 39 ans
+Value=4;60 ans et plus
+Value=8;NSP
+
+[Item]
+Label=Quelles sont selon vous les personnes à risque dans la transmission du sida ?
+Name=D7
+Start=129
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=Quelles sont selon vous les personnes à risque dans la transmission du sida ?
+Name=D7_VS1
+Value='A         ';Professionnel du sexe
+Value='B         ';Corps habillés.
+Value='C         ';Enseignants
+Value='D         ';Routiers
+Value='E         ';Homo sexuel
+Value='F         ';Toxicomanes
+Value='G         ';Prisonniers
+Value='H         ';Commerçants
+Value='I         ';Artisans
+Value='X         ';Autre à précise
+
+[Item]
+Label=Autres
+Name=D7_X
+Start=139
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Quel serait votre comportement vis-à-vis d’un proche si vous venez d’apprendre qu’il est porteur du virus du SIDA ?
+Name=D8
+Start=164
+Len=1
+
+[ValueSet]
+Label=Quel serait votre comportement vis-à-vis d’un proche si vous venez d’apprendre qu’il est porteur du virus du SIDA ?
+Name=D8_VS1
+Value=1;L’éviter
+Value=2;Se méfier
+Value=3;L’isoler
+Value=4;Le rejeter
+Value=5;L’accepte
+Value=6;Être indifférent
+Value=7;Autre à préciser
+
+[Item]
+Label=Autres
+Name=D8_X
+Start=165
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Quel serait votre comportement envers votre conjoint (partenaire sexuel) si vous venez d’apprendre qu’il (elle) est porteur du virus du SIDA ?
+Name=D9
+Start=180
+Len=1
+
+[ValueSet]
+Label=Quel serait votre comportement envers votre conjoint (partenaire sexuel) si vous venez d’apprendre qu’il (elle) est porteur du virus du SIDA ?
+Name=D9_VS1
+Value=1;Séparation / divorce
+Value=2; Assistance / soutien
+Value=3;Autre à préciser
+
+[Item]
+Label=Autres
+Name=D9_X
+Start=181
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Seriez-vous prêt à accueillir dans votre ménage (famille) un membre de votre famille porteur du virus du SIDA et à prendre soin de lui dans votre propre maison ?
+Name=D10
+Start=196
+Len=1
+
+[ValueSet]
+Label=Seriez-vous prêt à accueillir dans votre ménage (famille) un membre de votre famille porteur du virus du SIDA et à prendre soin de lui dans votre propre maison ?
+Name=D10_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=quels sentiments éprouvez-vous devant une personne qui est atteint de la maladie du sida ?
+Name=D11
+Start=197
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=quels sentiments éprouvez-vous devant une personne qui est atteint de la maladie du sida ?
+Name=D11_VS1
+Value='A      ';Pitié
+Value='B      ';Affection / amour
+Value='C      ';Peur
+Value='D      ';Dédain
+Value='E      ';Indifférence
+Value='F      ';Méfiance
+Value='X      ';Autre à préciser
+
+[Item]
+Label=Autres
+Name=D11_X
+Start=204
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Connaissez-vous personnellement quelqu'un(e) à qui on a refusé la participation à des manifestations au cours des 12 derniers mois parce qu'on le / la suspecte d'avoir le VIH sida ou parce qu'il / elle a le VIH/sida?
+Name=D12
+Start=229
+Len=1
+
+[ValueSet]
+Label=Connaissez-vous personnellement quelqu'un(e) à qui on a refusé la participation à des manifestations au cours des 12 derniers mois parce qu'on le / la suspecte d'avoir le VIH sida ou parce qu'il / elle a le VIH/sida?
+Name=D12_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Connaissez-vous personnellement quelqu'un(e) qui a été insulté au cours des 12 derniers mois parce qu'on le / la suspecte d'avoir le VIH/sida ou parce qu'il / elle a le VIH/sida?
+Name=D13
+Start=230
+Len=1
+
+[ValueSet]
+Label=Connaissez-vous personnellement quelqu'un(e) qui a été insulté au cours des 12 derniers mois parce qu'on le / la suspecte d'avoir le VIH/sida ou parce qu'il / elle a le VIH/sida?
+Name=D13_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Etes-vous prêt à accepter qu’une personne atteinte du sida puisse enseigner votre enfant ?
+Name=D14
+Start=231
+Len=1
+
+[ValueSet]
+Label=Etes-vous prêt à accepter qu’une personne atteinte du sida puisse enseigner votre enfant ?
+Name=D14_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Connaissez vous (avez-vous déjà connu) un malade de sida dans votre entourage ? (D15=2 allez à D19)
+Name=D15
+Start=232
+Len=1
+
+[ValueSet]
+Label=Connaissez vous (avez-vous déjà connu) un malade de sida dans votre entourage ? (D15=2 allez à D19)
+Name=D15_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Quelle relation vous lie à cette personne ?
+Name=D16
+Start=233
+Len=1
+
+[ValueSet]
+Label=Quelle relation vous lie à cette personne ?
+Name=D16_VS1
+Value=1;Parent
+Value=2;Ami / Collègue
+Value=3;Petit (e) ami(e)
+Value=4;Partenaire / Conjoint (e)
+Value=5;Voisin (e)
+Value=6;Aucun
+Value=7;Autre à préciser
+
+[Item]
+Label=Autres
+Name=D16_X
+Start=234
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Comment trouvez-vous (avez-vous trouvé) le comportement de votre entourage vis-à- vis de cette personne malade du SIDA ?
+Name=D17
+Start=259
+Len=1
+
+[ValueSet]
+Label=Comment trouvez-vous (avez-vous trouvé) le comportement de votre entourage vis-à- vis de cette personne malade du SIDA ?
+Name=D17_VS1
+Value=1;Bon
+Value=2;Mauvais
+
+[Item]
+Label=Pourquoi dites-vous cela ?
+Name=D18
+Start=260
+Len=1
+
+[ValueSet]
+Label=Pourquoi dites-vous cela ?
+Name=D18_VS1
+Value=1;Elle est évitée
+Value=2;Elle est acceptée
+Value=3;Elle est rejetée
+Value=4;Elle est isolée
+Value=5;On se méfie d’elle
+Value=6;Autre à préciser
+
+[Item]
+Label=Autres
+Name=D18_X
+Start=261
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Pour vous, le SIDA est-il une maladie honteuse qu’on doit cacher ?
+Name=D19
+Start=286
+Len=1
+
+[ValueSet]
+Label=Pour vous, le SIDA est-il une maladie honteuse qu’on doit cacher ?
+Name=D19_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Pourquoi dites-vous cela ?
+Name=D20
+Start=287
+Len=1
+
+[ValueSet]
+Label=Pourquoi dites-vous cela ?
+Name=D20_VS1
+Value=1;Moquerie de l’entourage
+Value=2;Commérage
+Value=3;Injure
+Value=4;Maladie comme tout autre
+Value=5;On peut vivre avec
+Value=6;Vagabondage sexuel
+Value=7;Autre à préciser
+Value=8;NSP
+
+[Item]
+Label=Autres
+Name=D20_X
+Start=288
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Si un de vos parents contractait le virus du SIDA, souhaiteriez-vous que son état reste secret ?
+Name=D21
+Start=313
+Len=1
+
+[ValueSet]
+Label=Si un de vos parents contractait le virus du SIDA, souhaiteriez-vous que son état reste secret ?
+Name=D21_VS1
+Value=1;Oui
+Value=2;Non
+Value=8;NSP
+
+[Item]
+Label=Pourquoi ?
+Name=D22
+Start=314
+Len=1
+
+[ValueSet]
+Label=Pourquoi ?
+Name=D22_VS1
+Value=1;On peut vivre avec
+Value=2;Maladie comme tout autre
+Value=3;Déshonneur pour la famille
+Value=4;Moquerie de l’entourage
+Value=5;Ne pas qu’on frustre le malade
+Value=6;Ne pas qu’on rejette le malade
+Value=7;Entretenir le doute sur l’origine du mal du sujet
+Value=8;Autre à préciser
+Value=9;NSP
+
+[Item]
+Label=Autres
+Name=D22_X
+Start=315
+Len=25
+DataType=Alpha

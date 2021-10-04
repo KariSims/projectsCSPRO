@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.4
+Label=CARTOZDRGE
+Name=CARTOZDRGE
+AppType=Batch
+[AppCode]
+File=.\CartoZDRGE.bch.apc
+[Message]
+File=.\CartoZDRGE.bch.mgf
+[Order]
+File=.\CartoZDRGE.ord
+[Dictionary Types]
+Dict-Type=..\Dicts\CartoDelimitationZD.dcf,Input,.\CartoZDRGE.ord

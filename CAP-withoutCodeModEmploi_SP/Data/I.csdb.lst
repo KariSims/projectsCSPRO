@@ -1,0 +1,97 @@
+﻿Application     C:\CAP-Android\Entry\CAPIND.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP-Android\Data\I.csdb
+External        QUESTIONNAIRE_MENAGE_DICT=<<CSPro DB>> C:\CAP-Android\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 20, 2020
+Start Time      17:40:52
+End Time        17:40:58
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP-Android\Entry\CAPIND.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP-Android\Data\I.csdb
+External        QUESTIONNAIRE_MENAGE_DICT=<<CSPro DB>> C:\CAP-Android\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 20, 2020
+Start Time      17:41:18
+End Time        17:41:31
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                                                                Denom
+   ----    ----  ----  ------------                                                                                -----
+    158       1    -   Selectionnez le ménage                                                                          -
+    179       1    -   le numero des menages vont de 1 à 5                                                             -
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP-Android\Entry\CAPIND.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP-Android\Data\I.csdb
+External        QUESTIONNAIRE_MENAGE_DICT=<<CSPro DB>> C:\CAP-Android\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 20, 2020
+Start Time      17:46:55
+End Time        17:47:16
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                                                                Denom
+   ----    ----  ----  ------------                                                                                -----
+    158       1    -   Selectionnez le ménage                                                                          -
+    179       1    -   le numero des menages vont de 1 à 5                                                             -
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP-Android\Entry\CAPIND.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP-Android\Data\I.csdb
+External        QUESTIONNAIRE_MENAGE_DICT=<<CSPro DB>> C:\CAP-Android\Data\M .csdb
+<File>          FichSaPart=
+
+Date            Jul 20, 2020
+Start Time      17:53:29
+End Time        17:53:41
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                                                                Denom
+   ----    ----  ----  ------------                                                                                -----
+    158       1    -   Selectionnez le ménage                                                                          -
+    179       1    -   le numero des menages vont de 1 à 5                                                             -
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP-Android\Entry\CAPIND.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP-Android\Data\I.csdb
+External        QUESTIONNAIRE_MENAGE_DICT=<<CSPro DB>> C:\CAP-Android\Data\M.csdb
+<File>          FichSaPart=
+
+Date            Jul 20, 2020
+Start Time      17:57:57
+End Time        17:58:42
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                                                                Denom
+   ----    ----  ----  ------------                                                                                -----
+    158       1    -   Selectionnez le ménage                                                                          -
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

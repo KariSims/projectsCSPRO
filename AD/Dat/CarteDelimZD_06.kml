@@ -1,0 +1,1883 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Référence<br /> Dénomination du repère : ROND POINT COMMERCIAL/EN FACE DE L'EGLISE CATHOLIQUE ST JOSEPH<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18027  ,-7.51597   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AVENUE KONGOLO/PONT KASHABASOLA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17570  ,-7.51388   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement AV DU 24 NOVEMBRE ET AV KONGOLOE/EN FACE DE L'ETAT MAJOR PNC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17649  ,-7.51954   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisemnet AV DU 24 NOVEMBRE ET AV KALUNDWE/ EN FACE DU PARQUET<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17689  ,-7.51967   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : ROND POIND COMMERCIAL/AV DU 30 JUIN VERS LA GARE SNCC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18034  ,-7.51621   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : ECOLE PRIMAIRE EDINE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18111  ,-7.51684   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL GARE SNCC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18478  ,-7.51298   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement RAIL/RIVIERE KASHABASOLA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18062  ,-7.51009   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DEVANT LE MARCHE COMMERCIAL/ EN FACE DE L'ETS YA BISO ET FILS<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17980  ,-7.51461   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement AV KALUNDWE/AV DU TERRITOIRE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17985  ,-7.51494   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AVENUE KALUNDWE/VERS LE PONT KASHABASOLA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17973  ,-7.51459   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AVENUE DU TERRITOIRE VERS LE TERRITOIRE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17952  ,-7.51505   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : COMMERCIAL<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60001<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DERRIERE LE MARCHE/A COTE DE LA PARCELLE DE MONSIEUR KAFLO<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17952  ,-7.51469   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KABILA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60002<br /> Type de Point : Pt Référence<br /> Dénomination du repère : BUREAU DE L'ADMINISTRATEUR DU MARCHE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17451  ,-7.50870   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KABILA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AVENUE KANIAMA/RAIL SNCC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18008  ,-7.50806   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KABILA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement AVENUE KANIAMA ET KONGOLO/VERS LA CARRIERE SNCC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17368  ,-7.50978   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KABILA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : PONT JETTE SUR LA RIVIERE TSHIJANDAYI<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17147  ,-7.50978   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KABILA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : A COTE DU RAIL SNCC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17243  ,-7.50339   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KABILA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AVENUE KANIAMA/DEVANT LE MARCHE CENTRAL/A GAUCHE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17425  ,-7.50964   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KABILA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement AV KANIAMA ET BUKAMA/ DEVANT LE MARCHE CENTRAGAUCHE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17498  ,-7.50944   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KABILA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DERIERE LE MARCHE CENTRAL/ AV BUKAMA A DROITE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17466  ,-7.50849   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KABILA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60002<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DERRIERE LE MARCHE CENTRAL/COTE DEPOT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17419  ,-7.50882   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KADIA BIBANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60003<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DERRIERE L'EP LANGUKAYI/EP MWENGE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16515  ,-7.52013   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KADIA BIBANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : SOURCE RUISSEAU KADIA BIBANGA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16483  ,-7.51416   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KADIA BIBANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : EN FACE DU CHÂTEAU D'EAU/AVENUE DU 24 NOVEMBRE/VERS LES CIMETIERES<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16542  ,-7.51175   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KADIA BIBANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : EGLISE ANGLICANE SUR L'AVENUE DU 24 NOVEMBRE EN FACE DES CIMETIERES<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.15478  ,-7.51021   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KADIA BIBANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60003<br /> Type de Point : Pt Limite<br /> Dénomination du repère : APRES LE CAMP BRANHAM<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.15633  ,-7.51657   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KASUYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60009<br /> Type de Point : Pt Référence<br /> Dénomination du repère : STUDIO PHOTO MOISE/BAR SEBA/AVENUE CLINIQUE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates> 24.17100 ,-7.51597   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KASUYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AVENUE DU 24 NOVEMBRE/ANTENNE CENI<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16894  ,-7.51455   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KASUYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement AVENUE DU 24 NOVEMBRE/AVENUE KONGOLO/ EN FACE DE L'ETAT MAJOR PNC/ A COTE DU STADE MUTOMBO MUKULU<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17643  ,-7.51947   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KASUYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DERRIERE TERRITOIRE SUR L'AVENUE KONGOLO<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17571  ,-7.51413   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KASUYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RIVIERE SHABASOLA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17528  ,-7.51378   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KASUYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : SOURCE RIVIERE SHABASOLA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17128  ,-7.51336   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KASUYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60009<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DERRIERE LE BUREAU DE ZONE DE SANTE/AVENUE CLINIQUE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16958  ,-7.51226   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KONGOLO MWANA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60004<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DEVANT LE COMPLEXE SCOLAIRE DJUBA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17132  ,-7.51861   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KONGOLO MWANA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisemnet AV DU 24 NOV ET AV KALUNDWE/AU NIVEAU DE L'ETAT MAJOR PNC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17666  ,-7.51975   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KONGOLO MWANA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : PONT JETTE SUR LA RIVIERE LWASHI<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17281  ,-7.52537   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KONGOLO MWANA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : ROND POIND CATHOLIQUE SAINT ISIDORE/AV DU 24 NOV VERS LES CIMETIERES<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16658  ,-7.51193   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KONGOLO MWANA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : DERRIERE L'EP LANGUKAYI/EP MWENGE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16546  ,-7.51178   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : KONGOLO MWANA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60004<br /> Type de Point : Pt Limite<br /> Dénomination du repère : SOURCE RUISSEAU KADIA BIBANGA (A PLUS OU MOINS 100m)<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16484  ,-7.51419   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : LUBILANJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60005<br /> Type de Point : Pt Référence<br /> Dénomination du repère : STADE KALOMBO/AVENUE KANIAMA EN FACE DE L'AGENCE LA COLOMBE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17005  ,-7.51078   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : LUBILANJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60005<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement AV KANIAMA ET AV DE LA MISSION<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17361  ,-7.50980   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : LUBILANJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60005<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement AV KANIAMA ET AV KONGOLO<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16855  ,-7.51126   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : LUBILANJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60005<br /> Type de Point : Pt Limite<br /> Dénomination du repère : PONT JETTE SUR LA RIVIERE TSHIJANDAYI/AV KONGOLO<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17144  ,-7.50344   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : LUBILANJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60005<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AV DE LA MISSION/RIVIERE TSHIJANDAYI<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16794  ,-7.50434   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MISSION<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60010<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DEVANT LA PAROISSE ST ISIDORE/COUVENT DES PRETRES<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16656  ,-7.51173   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MISSION<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60010<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement AVENUE DE LA MISSION/AVENUE KANIAMA/EN DIAGONALE DE L'EGLISE FEPACO ZAMBE MALAMU<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16847  ,-7.51127   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MISSION<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60010<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AVENUE DE LA MISSION/RIVIERE TSHIJANDAYI<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16796  ,-7.50432   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MISSION<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60010<br /> Type de Point : Pt Limite<br /> Dénomination du repère : CIMETIERES KANIAMA/DERRIERE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16270  ,-7.50897   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MISSION<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60010<br /> Type de Point : Pt Limite<br /> Dénomination du repère : CENTRE DE SANTE 3 D'ETAT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16260  ,-7.51129   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MUTOMBO MUKUKLU<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60006<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DEVANT LE PARQUET SUR L'AVENUE KALUNDWE, A COTE DE L'ETAT MAJOR PNC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17670  ,-7.52013   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MUTOMBO MUKUKLU<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60006<br /> Type de Point : Pt Limite<br /> Dénomination du repère : PONT LWASHI/AVENUE KALUNDWE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17289  ,-7.52561   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MUTOMBO MUKUKLU<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60006<br /> Type de Point : Pt Limite<br /> Dénomination du repère : ROND POINT COMMERCIAL/EGLISE CATHOLIQUE ST JOSEPH<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18030  ,-7.51630   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MUTOMBO MUKUKLU<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60006<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RESIDENCE DE L'ANCIEN COLONNEL/A COTE DE L'EP EDINE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18113  ,-7.51686   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MUTOMBO MUKUKLU<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60006<br /> Type de Point : Pt Limite<br /> Dénomination du repère : PONT RAIL<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17975  ,-7.52563   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : MUTOMBO MUKUKLU<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60006<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RAIL GARE SNCC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18481  ,-7.51302   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : SHABASOLA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60007<br /> Type de Point : Pt Référence<br /> Dénomination du repère : DEVANT LE BUREAU PNC CITE/AVENUE KANIAMA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17466  ,-7.50960   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : SHABASOLA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : HOPITAL GENERAL DE REFERENCE DE KANIAMA/AV DU 24 NOVEMBRE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16882  ,-7.51446   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : SHABASOLA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement AV DU 24 NOVEMBRE ET AV KANIAMA/ROND POINT CATHOLIQUE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16680  ,-7.51187   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : SHABASOLA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : Croisement RAIL SNCC/AV KANIAMA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18011  ,-7.50809   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : SHABASOLA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : SOURCE RIVIERE SHABASOLA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17133  ,-7.51333   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : SHABASOLA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60007<br /> Type de Point : Pt Limite<br /> Dénomination du repère : RIVIERE SHABASOLA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17566  ,-7.51375   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : TSHIJANDAYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60008<br /> Type de Point : Pt Référence<br /> Dénomination du repère : ABBATOIRE/KANIAMA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18198  ,-7.51063   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : TSHIJANDAYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : BLOC CAMPRINGA/RAIL SNCC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18674  ,-7.51756   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : TSHIJANDAYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : BLOC CAMPRINGA/SOURCE D'EAU SEMAFORE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18765  ,-7.51778   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : TSHIJANDAYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : BLOC TSHITAMBO/PONT JETTE SUR LA RIVIERE LUBA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18316  ,-7.50690   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : TSHIJANDAYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : BLOC TSHITAMBO/ROUTE CARRIERE SNCC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.18081  ,-7.50497   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : TSHIJANDAYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : BLOC BRAZZA/VERS LA RIVIERE MUNVU AVANT LE RAIL SNCC VERS LA CARRIERE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16694  ,-7.49906   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : TSHIJANDAYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : BLOC BRAZZA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16657  ,-7.50039   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\Gflag.png </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Kaniama<br /> Quartier/Groupement : TSHIJANDAYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60008<br /> Type de Point : Pt Limite<br /> Dénomination du repère : AVENUE DE LA MISSION/RIVIERE TSHIJANDAYI<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16792  ,-7.50424   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60010<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUSAKA/DEVANT BUREAU PNC/ROUTE N°1<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.22610  ,-7.62158   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60011<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MPANDA/CENTRE DE SANTE D'ETAT/ ROUTE KALUNDWE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16795  ,-7.70560   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60012<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAVIMBA/POSTE DE PEAGE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17950  ,-7.58413   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60013<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASONGO/ROUTE KALUNDWE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17178  ,-7.63377   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60014<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUTUYI/ROUTE KALUNDWE/DEVANT UNE MAISON<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16251  ,-7.74313   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60015<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MULAMBA/ROUTE KALUNDWE/DEVANT UNE EGLISE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17735  ,-7.60560   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60016<br /> Type de Point : Pt Référence<br /> Dénomination du repère : KANIAMA VILLAGE/ROUTE NATIONALE N°1/DEVANT UN ARBRE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17799  ,-7.57433   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60017<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE DIJULA/ROUTE KALUNDWE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.12717  ,-7.84840   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60018<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIBATA/ROUTE KALUNDWE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.11624  ,-7.87486   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60019<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LUJIBA/ROUTE KALUNDWE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16704  ,-7.71230   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : ILUNGA MBIYA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60020<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAMITATU/ROUTE KALUNDWE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16627  ,-7.67614   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KALULWA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60026<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE BITUHI/RESIDENCE CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.09410  ,-7.90751   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KALULWA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60027<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MAYI YA KASENGAYI/ROUTE KALUNDWE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.06100  ,-7.91956   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KALULWA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60028<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASENGAYI/DEVANT OCEAN PHARMA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.01835  ,-7.82644   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KALULWA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60029<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE PLAINE EN FACE DE LA PISTE D'ATTERRISSAGE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.15830  ,-7.59739   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KALULWA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60030<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAYINGIDI/DEVANT UNE ECOLE PUBLIQUE/ROUTE KAYINGIDI<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.14814  ,-7.61128   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KALULWA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60031<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MAMBWA/ROUTE KAYINGIDI/DEVANT UN ARBRE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.11854  ,-7.60752   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KALULWA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60032<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE STANI/ROUTE KAYINGIDI/DEVANT UN ARBRE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.12204  ,-7.61291   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KALUNDWE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60055<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KALUNDWE/DEVANT LE BUREAU ADMINISTRATIF DU GRAND CHEF<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.99710  ,-8.01179   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KALUNDWE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60056<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MAFUMBE/ROUTE KALUNDWE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.00464  ,-7.97057   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KAMWANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60059<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MULEBA/DEVANT LA RESIDENCE DU CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.90657  ,-8.58195   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KAMWANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60060<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MULEBA1/DEVANT LA MAISON DU CHEF DE LOCALITE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.79951  ,-8.55759   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KAMWANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60061<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE SAIKULU/DEVANT LA MAISON DU CHEF DE LOCALITE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.73405  ,-8.49024   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KAMWANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60062<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE SAFUZA/DEVANT LA MAISON DU CHEF DE LOCALITE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.73656  ,-8.46667   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KAMWANGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60063<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUTOYO/CENTRE DE SANTE D'ETAT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.73554  ,-8.44251   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KANSENJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60078<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANSENJI/DEVANT LE CENTRE DE SANTE D'ETAT/ROUTE KANSENJI<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.15676  ,-7.42876   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KANSENJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60079<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANGULUNGU/DEVANT L'EGLISE CATHOLIQUE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16199  ,-7.47102   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KANSENJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60080<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LWASHI/ROUTE NATIONALE N°1<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17144  ,-7.53172   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KANSENJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60081<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NGOYA KAMWANYA/EGLISE LUTTHERIENNE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16750  ,-7.55738   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KANSENJI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60082<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWADI KAYEMBE/ROUTE NATIONALE N°1/RAIL SNCC/ROUTE KANIAMA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.10575  ,-7.44379   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KIMPANGA(TSHIANGA)<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60099<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIMPANGA/RESIDENCE CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.36937  ,-7.91374   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KIMPANGA(TSHIANGA)<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60100<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KISHINDE/BUREAU PNC<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.32559  ,-7.80626   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : KIMPANGA(TSHIANGA)<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60101<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KIMANDA/DEVANT L'ETS ILUNGA MATABA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.28587  ,-7.72901   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE HAHA(KAYEYE)<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60118<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KAYEYE/CENTRE DE SANTE D'ETAT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.72981  ,-8.12118   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE HAHA(KAYEYE)<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60119<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KONGOLO<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.72989  ,-8.37587   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE HAHA(KAYEYE)<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60120<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE SAHUBITE/DEVANT L'EP SAHUBITE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.73317  ,-8.20859   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE LUHATA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60147<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MWADI KAYEMBE/DEVANT LE BUREAU DU PRESIDNT DU MARCHE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.10386  ,-7.44491   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE LUHATA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60148<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE LUPATA/MOULIN FILS KAM KASULU<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.04045  ,-7.44340   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE SUNGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60155<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE SUNGA/RESIDENCE CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.93869  ,-7.93074   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE SUNGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60156<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE TSHABWENI/CHEF DU VILLAGE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.85116  ,-7.96274   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE SUNGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60157<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE TSHITABANGA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.93036  ,-7.97364   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE SUNGA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60158<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUNGA/EP MUNGA 30 CPCO<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.83864  ,-8.04027   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE TSHIYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60168<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE TSHIKUNDA/RESIDENCE CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.94643  ,-8.13323   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : MWINE TSHIYI<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60169<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KALONGWANA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>23.96176  ,-8.02270   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : NGOMBE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60181<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE NGOMBE/RESIDENCE CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.11936  ,-8.19979   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : NGOMBE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60182<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KALENGA TANDA/ROUTE NGOMBE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.14671  ,-8.08944   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : NGOMBE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60183<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANONGA1/ROUTE NGOMBE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.12404  ,-7.95534   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : NGOMBE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60184<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANONGA2/ROUTE NGOMBE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.12254  ,-7.97317   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : NGOMBE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60185<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MPOYO MUBANGE/ROUTE NGOMBE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.15442  ,-8.02756   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : NGOMBE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60186<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE TANGWA/ROUTE NGOMBE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.15592  ,-8.06163   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : NGOMBE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60187<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KATOLOKWA/ROUTE NGOMBE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.16393  ,-8.10748   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : NGOMBE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60188<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE TSHAMIONJI/ROUTE NGOMBE<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.17232  ,-8.13450   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : SAKADI KISENGE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60192<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KISAMBA/CENTRE DE SANTE D'ETAT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.02572  ,-7.34743   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : SAKADI KISENGE<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60193<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE SAKADI/RESIDENCE CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.23369  ,-7.38766   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : TSHAHONA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60204<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE TSHAHONA/DEVANT L'ETS DIEU EST BON<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.35295  ,-7.36054   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : TSHAHONA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60205<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASAMBA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.54305  ,-7.25218   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : TSHIBAMBA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60220<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE TSHIBAMBA/DEVANT LE CENTRE DE SANTE D'ETAT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.35441  ,-8.20111   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : TSHIBAMBA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60221<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MPIANA BONDO/DEVANT LA MAISON DU PASTEUR CHEZ MAMAN DIKA 30 CPECO<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.41870  ,-8.10350   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : TSHIBAMBA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60222<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MASOMBO/EP MASOMBO<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.29931  ,-8.47524   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : TSHIBAMBA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60223<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KANSANJI/ARRET DE MOTOCYCLISTE ET VELO<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.31677  ,-8.37131   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : YAMBA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60230<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE YAMBA/RESIDENCE CHEF DE GROUPEMENT<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.46219  ,-7.45121   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : YAMBA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60231<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE TSHIBALANYI<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.37768  ,-7.36895   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : YAMBA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60232<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE KASHILU<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.43276  ,-7.40192   ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+<href>C:\AD\Icons\slg.jpg </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+<description><![CDATA[ Province : HAUT-LOMAMI<br /> Ville/Territoire : KANIAMA<br /> Commune/Secteur : Mutombo Mukulu<br /> Quartier/Groupement : YAMBA<br /> Numéro de l'équipe : 06<br /> Numéro de la ZD : 60233<br /> Type de Point : Pt Référence<br /> Dénomination du repère : VILLAGE MUKUNDA<br /> Nombre d'Entreprises : NOTA<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.30183  ,-7.36359   ,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

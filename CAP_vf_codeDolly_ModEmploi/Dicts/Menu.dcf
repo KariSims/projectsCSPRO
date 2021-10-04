@@ -1,0 +1,133 @@
+﻿[Dictionary]
+Version=CSPro 7.4
+Label=questionnaire_Interviewer
+Name=MENU_DICT
+RecordTypeStart=15
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=999D42D7897BED5F009565546D99F7D44DF25E48BCA7DB388B81F5D2D8353AF3
+
+[Level]
+Label=questionnaire_Menu Level
+Name=QUESTIONNAIRE_MENU_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Region
+Name=REGION_M
+Start=1
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Region
+Name=REGION_M_VS1
+Value=1;LAGUNES
+Value=2;MONTAGNE
+Value=3;SAVANE
+
+[Item]
+Label=Departement
+Name=DEPART_M
+Start=3
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Localitte
+Name=LOCALIT_M
+Start=5
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=N° de l'ILOT
+Name=ILOT_M
+Start=9
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=N° du menage
+Name=MENAGE_M
+Start=13
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=N° du menage
+Name=MENAGE_M_VS1
+Value=1:5
+
+[Record]
+Label=CARACTERISTIQUES INIVIDUELLES
+Name=DEMO
+RecordTypeValue='A'
+RecordLen=56
+
+[Item]
+Label=Milieu de residence
+Name=MILIEU_DE_RESID_M
+Start=16
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu de residence
+Name=MILIEU_DE_RESID_M_VS1
+Value=1;Urbain
+Value=2;Rural
+
+[Item]
+Label=DR
+Name=DR_M
+Start=17
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Quartier
+Name=QUART_M
+Start=21
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=N° de grappe
+Name=GRAP_M
+Start=25
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=N° de grappe
+Name=GRAP_M_VS1
+Value=1;Grappe_1
+Value=2;Grappe_2
+Value=3;Grappe_3
+Value=4;Grappe_4
+
+[Item]
+Label=CHOIX du ménage
+Name=IM01
+Start=29
+Len=27
+DataType=Alpha
+
+[Item]
+Label=Action
+Name=IM02
+Start=56
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Action
+Name=IM02_VS1
+Value=1;Lancer un Questionnaire Ménage
+Value=2;Lancer un Questionnaire Individu
+Value=3;Envoyer les Données
+Value=4;Quitter

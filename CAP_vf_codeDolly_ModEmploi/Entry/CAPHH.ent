@@ -1,0 +1,27 @@
+﻿[CSPro Application]
+Version=CSPro 7.4
+Label=CAPHH
+Name=CAPHH
+AppType=DataEntry
+OperatorID=No
+PartialSave=Yes
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+CenterForms=Yes
+ShowErrorMessageNumbers=No
+[AppCode]
+File=.\CAPHH.ent.apc
+[Message]
+File=.\CAPHH.ent.mgf
+[Help]
+File=.\CAPHH.ent.qsf
+[Forms]
+File=.\CAPHH.fmf
+[Dictionary Types]
+Dict-Type=..\Dicts\questionnaire_menage.dcf,Input,.\CAPHH.fmf
+[Sync]
+Server=Dropbox
+Direction=Put

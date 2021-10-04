@@ -1,0 +1,39 @@
+﻿Application     C:\CAP-Android\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP-Android\Data\M.csdb
+External        DICT_DR_DICT=<<CSPro DB>> C:\CAP-Android\Reference\Identifiant.csdb
+
+Date            Jul 20, 2020
+Start Time      17:42:53
+End Time        17:46:11
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP-Android\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP-Android\Data\M.csdb
+External        DICT_DR_DICT=<<CSPro DB>> C:\CAP-Android\Reference\Identifiant.csdb
+
+Date            Jul 20, 2020
+Start Time      17:48:16
+End Time        17:48:20
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\CAP-Android\Entry\CAPHH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\CAP-Android\Data\M.csdb
+External        DICT_DR_DICT=<<CSPro DB>> C:\CAP-Android\Reference\Identifiant.csdb
+
+Date            Jul 20, 2020
+Start Time      17:48:22
+End Time        17:53:10
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

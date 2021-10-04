@@ -1,0 +1,59 @@
+﻿[FormFile]
+Version=CSPro 7.3
+Name=APLICARTE_FF
+Label=ApliCarte
+DefaultTextFont=-013 0000 0000 0000 0700 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+FieldEntryFont=0018 0000 0000 0000 0600 0000 0000 0000 0000 0000 0000 0000 0000 Courier New
+Type=SystemControlled
+  
+[Dictionaries]
+File=.\ApliCarte.dcf
+  
+[Form]
+Name=FORM000
+Label=ApliCarte Level
+Level=1
+Size=631,320
+  
+Item=APLICARTE_ID
+Item=CARTE
+  
+[EndForm]
+  
+[Level]
+Name=APLICARTE_LEVEL
+Label=ApliCarte Level
+  
+[Group]
+Required=Yes
+Name=APLICARTE_LEVEL_FORM
+Label=ApliCarte Level
+Form=1
+LogicControl=No
+Max=1
+  
+[Field]
+Name=APLICARTE_ID
+Position=577,148,592,168
+Item=APLICARTE_ID,APLICARTE_DICT
+FieldLabelType=DictionaryLabel
+Form=1
+  
+[Text]
+Position=369,151,515,167
+Text=ApliCarte Identification
+ 
+  
+[Field]
+Name=CARTE
+Position=591,275,606,295
+Item=CARTE,APLICARTE_DICT
+FieldLabelType=DictionaryLabel
+Form=1
+  
+[Text]
+Position=410,278,442,294
+Text=carte
+ 
+[EndGroup]
+  
