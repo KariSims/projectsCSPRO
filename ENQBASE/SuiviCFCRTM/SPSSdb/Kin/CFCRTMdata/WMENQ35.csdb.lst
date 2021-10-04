@@ -1,0 +1,133 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ35.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ35.csdb
+
+Date            Mar 18, 2019
+Start Time      19:05:11
+End Time        19:05:12
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ35.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ35.csdb
+
+Date            Mar 19, 2019
+Start Time      09:53:48
+End Time        10:21:03
+
+CSPRO Process Summary
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   9998       1    -   D Code donné pour la variable alpha non acceptabl       -
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3334       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ35.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ35.csdb
+
+Date            Mar 19, 2019
+Start Time      11:52:31
+End Time        11:54:16
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3334       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ35.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ35.csdb
+
+Date            Mar 19, 2019
+Start Time      18:12:09
+End Time        18:53:25
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   1907       1    -   W Le bilan de santé postnatal (PN13U =%s et PN13N       -
+   9992       1    -   D Unité et nombre incohérents; vérifier les instr       -
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3334       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ35.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ35.csdb
+
+Date            Mar 19, 2019
+Start Time      19:09:53
+End Time        19:12:11
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3334       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ35.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ35.csdb
+
+Date            Mar 20, 2019
+Start Time      08:02:49
+End Time        08:36:36
+
+CSPRO Process Summary
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   9992       1    -   D Unité et nombre incohérents; vérifier les instr       -
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3334       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

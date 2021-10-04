@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MARCEL</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : AV SN   N°SN1<br /> longitude : 25.348460<br /> Lattitude : -06.468620<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.348460,-06.468620,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : EP. KALULU</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : AV SN   N°SN2<br /> longitude : 25.347880<br /> Lattitude : -06.468110<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.347880,-06.468110,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE KASONGO</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : AV SN   N°SN3<br /> longitude : 25.347290<br /> Lattitude : -06.470610<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.347290,-06.470610,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE MARCEL</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : ROUTE FWILA   N°SN01<br /> longitude : 25.348450<br /> Lattitude : -06.468866<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.348450,-06.468866,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE MARTIN</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : ROUTE FWILA   N°SN02<br /> longitude : 25.347590<br /> Lattitude : -06.470110<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.347590,-06.470110,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE KIONI</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : ROUTE FWILA   N°SN03<br /> longitude : 25.346590<br /> Lattitude : -06.472720<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.346590,-06.472720,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN TCHINKALA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : ROUTE FWILA   N°SN04<br /> longitude : 25.347720<br /> Lattitude : -06.469780<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.347720,-06.469780,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE MUTAMBA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : ROUTE FWILA   N°SN05<br /> longitude : 25.348390<br /> Lattitude : -06.471050<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.348390,-06.471050,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN KYUNGU</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN1<br /> longitude : 25.347090<br /> Lattitude : -06.472140<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.347090,-06.472140,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE KYUNGU</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN2<br /> longitude : 25.347110<br /> Lattitude : -06.472290<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.347110,-06.472290,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE KYUNGU</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN3<br /> longitude : 25.346600<br /> Lattitude : -06.472710<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.346600,-06.472710,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE KALALA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : FWILA   N°SN1<br /> longitude : 25.345110<br /> Lattitude : -06.472080<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.345110,-06.472080,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE SIMON</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 142<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN1<br /> longitude : 25.343590<br /> Lattitude : -06.472360<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.343590,-06.472360,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : RESTAURANT HENRIETTE</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 143<br /> Statut : Recensée<br /> Adresse : AV SN   N°SN1<br /> longitude : 25.357460<br /> Lattitude : -06.417840<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>25.357460,-06.417840,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE PAULIN</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : AV SN   N°SN1<br /> longitude : 24.749170<br /> Lattitude : -07.000640<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.749170,-07.000640,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE SEFUKA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : AV SN   N°SN2<br /> longitude : 24.750150<br /> Lattitude : -06.997430<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.750150,-06.997430,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN ILUNGA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : ROUTE MUNDIDWA   N°SN01<br /> longitude : 24.752250<br /> Lattitude : -06.998430<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.752250,-06.998430,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN MBAYO</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : ROUTE MUNDIDWA   N°SN02<br /> longitude : 24.752970<br /> Lattitude : -06.999140<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.752970,-06.999140,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : CABINE BANZA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : ROUTE MUNDIDWA   N°SN03<br /> longitude : 24.750740<br /> Lattitude : -06.998340<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.750740,-06.998340,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MOLOKE</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : ROUTE MUNDIDWA   N°SN04<br /> longitude : 24.751040<br /> Lattitude : -06.997210<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.751040,-06.997210,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN MOLOKE</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : ROUTE MUNDIDWA   N°SN05<br /> longitude : 24.750980<br /> Lattitude : -06.997200<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.750980,-06.997200,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : ATELIER DE COUTURE DOYEN</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : ROUTE MUNDIDWA   N°SN06<br /> longitude : 24.750020<br /> Lattitude : -06.996770<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.750020,-06.996770,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN NDALA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : ROUTE MUNDIDWA   N°SN07<br /> longitude : 24.751610<br /> Lattitude : -06.998890<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.751610,-06.998890,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN NYERISE</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN1<br /> longitude : 24.752210<br /> Lattitude : -06.998630<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.752210,-06.998630,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN NGOY</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN2<br /> longitude : 24.754110<br /> Lattitude : -06.998970<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.754110,-06.998970,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN NGOY NUMBI</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN3<br /> longitude : 24.750090<br /> Lattitude : -06.998530<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.750090,-06.998530,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE KAZADI</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN4<br /> longitude : 24.750650<br /> Lattitude : -06.997730<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.750650,-06.997730,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN BENOIN MBAYO</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN1<br /> longitude : 24.750030<br /> Lattitude : -06.996280<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.750030,-06.996280,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE BENOIN</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN2<br /> longitude : 24.749940<br /> Lattitude : -06.996110<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.749940,-06.996110,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MBUYU</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN3<br /> longitude : 24.749900<br /> Lattitude : -06.995760<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.749900,-06.995760,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN NGOY</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : <br /> ZD : 155<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN4<br /> longitude : 24.750700<br /> Lattitude : -06.999070<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.750700,-06.999070,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN NSHIMBA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : AV SN   N°SN1<br /> longitude : 24.961240<br /> Lattitude : -06.711080<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.961240,-06.711080,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE WILY</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : AV SN   N°SN2<br /> longitude : 24.959520<br /> Lattitude : -06.711840<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.959520,-06.711840,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE NUMBI</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : ROUTE KISAHO   N°SN01<br /> longitude : 24.961220<br /> Lattitude : -06.709850<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.961220,-06.709850,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN MWENZE</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : ROUTE KISAHO   N°SN02<br /> longitude : 24.904100<br /> Lattitude : -06.711870<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.904100,-06.711870,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE KAS</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : ROUTE KISAHO   N°SN03<br /> longitude : 24.961040<br /> Lattitude : -06.711110<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.961040,-06.711110,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : ALIMENTATION ILUNGA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : ROUTE KISAHO   N°SN04<br /> longitude : 24.963030<br /> Lattitude : -06.711330<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.963030,-06.711330,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN NGONGO</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN1<br /> longitude : 24.960600<br /> Lattitude : -06.708980<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.960600,-06.708980,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE BANZA ANTENE</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN2<br /> longitude : 24.959990<br /> Lattitude : -06.709420<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.959990,-06.709420,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN BANZA ANTENE</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN3<br /> longitude : 24.959810<br /> Lattitude : -06.709540<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.959810,-06.709540,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE KABILA</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN1<br /> longitude : 24.960030<br /> Lattitude : -06.709620<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.960030,-06.709620,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\magasin.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MUTOMBO</name>
+<description><![CDATA[Province : HAUT-LOMAMI<br /> Ville : KABONGO<br /> Commune : KAYAMBA<br />Quartier : KISAHO<br /> ZD : 506<br /> Statut : Recensée<br /> Adresse : SANS NOM   N°SN2<br /> longitude : 24.959940<br /> Lattitude : -06.711530<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>24.959940,-06.711530,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

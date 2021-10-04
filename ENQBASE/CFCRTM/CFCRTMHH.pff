@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Entry
+
+[DataEntryInit]
+Interactive=Ask
+
+[Files]
+Application=.\CFCRTMHH.ent
+InputData=..\SuiviCFCRTM\Alldata\HHENQ51.csdb|CSPRODB
+
+
+[UserFiles]
+FICHSAPART=
+
+[Parameters]
+

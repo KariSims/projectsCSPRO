@@ -1,0 +1,277 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 18, 2019
+Start Time      19:01:41
+End Time        19:01:42
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      15:19:11
+End Time        15:22:11
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3334       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      16:33:24
+End Time        16:33:59
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      16:34:07
+End Time        16:53:03
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3334       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      16:53:21
+End Time        16:54:04
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      16:54:11
+End Time        16:54:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  92101            1   Case ids '%s' duplicate an existing case! Case id
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      16:54:57
+End Time        16:55:46
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      16:56:46
+End Time        16:56:46
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Mar 22, 2019
+Start Time      16:56:46
+End Time        16:56:46
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      16:56:54
+End Time        16:58:15
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3334       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      17:06:17
+End Time        17:09:32
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3334       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Mar 22, 2019
+Start Time      20:36:43
+End Time        20:37:04
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Apr  9, 2019
+Start Time      17:44:13
+End Time        17:44:25
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Apr  9, 2019
+Start Time      17:44:25
+End Time        17:44:25
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Apr  9, 2019
+Start Time      17:44:35
+End Time        17:44:39
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Apr  9, 2019
+Start Time      17:44:39
+End Time        17:44:39
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\WMENQ21.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ21.csdb
+
+Date            Apr  9, 2019
+Start Time      17:44:47
+End Time        17:47:04
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3336       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

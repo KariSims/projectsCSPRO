@@ -1,0 +1,1585 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.2
+
+[LANGUAGES]
+EN=English
+
+[QUESTION]
+Field=RGE_DICT.AP1A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Activit\'e9 principale de l'entreprise\cf2\i\fs36\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP1ANAEMA
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\i\f0\fs56\lang9228 S\'e9lectionner le code de l'activit\'e9\par
+EN=\par
+EN=Recherchez le nom de l'activit\'e9 de l'entreprise sur cette liste\par
+EN=\cf2\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP1AS
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est l'activit\'e9 principale de l'unit\'e9 \'e9conomique ?\fs32\par
+EN=\cf2\b0\i\fs53 Saisissez l'activit\'e9 declar\'e9e par votre enqu\'eat\'e9 \b\fs36\par
+EN=\cf1\i0\fs44\lang1036\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP1BA
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre h\'f4tel a combien de chambres ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP1BB
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre h\'f4tel est-il c\'f4t\'e9 par le Minist\'e8re du Tourisme ?\par
+EN=Si oui, combien d'\'e9toiles ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP1F
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\f0\fs60\lang9228 Agent recenseur, ceci vous concerne :\cf2\b\par
+EN=Indiquez le groupe d'activit\'e9 (section) de la nomenclature dans lequel l'entreprise ( ou \'e9tablissement) \cf3\b0 (%RG1%)\cf2\b  exerce ses activit\'e9s .\cf3\b0\par
+EN=\cf4\i\fs53 Choisissez la section conforme \'e0 l'activit\'e9 declar\'e9e par le r\'e9pondant .\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2A1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Premi\'e8re activit\'e9 secondaire\cf2\i\fs36\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2A1NAEMA
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\i\f0\fs56\lang9228 S\'e9lectionner le code de l'activit\'e9 secondaire\par
+EN=\par
+EN=Recherchez le nom de cette l'activit\'e9 de sur la liste\par
+EN=\cf2\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2A2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Deuxi\'e8me activit\'e9 secondaire\cf2\i\fs36\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2A2NAEMA
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\i\f0\fs56\lang9228 S\'e9lectionner le code de la seconde activit\'e9 (Recherchez le nom de cette activit\'e9 sur la liste)\par
+EN=\cf2\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2AS1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est l'activit\'e9 secondaire de l'unit\'e9 \'e9conomique ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2AS2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 A part cette activit\'e9, votre unit\'e9 \'e9conomique (entreprise) exerce-t-elle une deuxi\'e8me activit\'e9 ?\par
+EN=\cf2\b0\i\fs53 Si oui, renseignez le nom de cette activit\'e9.\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2BA1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre h\'f4tel a combien de chambres ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2BA2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre h\'f4tel a combien de chambres ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2BB1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre h\'f4tel est-il c\'f4t\'e9 par le Minist\'e8re du Tourisme ?\par
+EN=Si oui, combien d'\'e9toiles ?\fs44\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP2BB2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre h\'f4tel est-il c\'f4t\'e9 par le Minist\'e8re du Tourisme ?\par
+EN=Si oui, combien d'\'e9toiles ?\fs44\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Travaillez-vous combien de jours par semaine ?\cf2\i\fs36\par
+EN=\b0\fs53 L'on veut savoir le nombre de jour ouvrable de l'entreprise par semaine\fs56\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre entreprise travaille-t-elle combien d'heures par jour ?\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le nombre total du personnel masculin permanent\b0\fs64  \cf2\i\fs53 (y compris les ind\'e9pendants)\fs56  \cf1\i0\fs64  \b\fs60 de l'unit\'e9 \'e9conomique recens\'e9e au 31 d\'e9cembre 2018 ?\par
+EN=\fs36\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total d'hommes qui travaillent au sein de  l'unit\'e9 \'e9conomique %RG1%\cf1\i0\fs64\par
+EN=\cf2\i\fs56\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le nombre total du personnel feminin permanent\b0\fs64  \cf2\i\fs53 (y compris les ind\'e9pendants) \cf1\b\i0\fs44  \fs60 de l'unit\'e9 \'e9conomique recens\'e9e au 31 d\'e9cembre 2018 ?\par
+EN=\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total de femmes qui travaillent au sein de  l'unit\'e9 \'e9conomique %RG1%\fs56\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif total du personnel permanent de votre unit\'e9 \'e9conomique recens\'e9e au 31 d\'e9cembre 2018\cf2\b0\i\fs53  (y compris les ind\'e9pendants): \par
+EN=\fs36\par
+EN=\fs53 Le nombre total d'hommes et de femmes qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1%\par
+EN=\fs56\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif du personnel \cf2\b0\i\fs53 (y compris les propri\'e8taires) \cf1\b\i0\fs60 congolais (RDC) qui travaillent en permanence au sein de votre unit\'e9 \'e9conomique \cf3\b0 (%RG1%) \cf1\b ?\par
+EN=\fs32\par
+EN=\cf2\b0\i\fs53 Il s'agit de l'effectif recens\'e9 au 31 d\'e9cembre 2018\par
+EN=L'on veut savoir le nombre de personnes originaire de la RDC qui travaillent au sein de l'entreprise %RG1%\cf1\b\i0\fs32\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_4A1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Parmi le personnel congolais travaillant au sein de l'unit\'e9 \'e9conomique \cf2\b0 (%RG1%)\cf1\b , combien d'hommes ?\fs32\par
+EN=\par
+EN=\cf3\b0\i\fs53 L'on veut savoir le nombre d'hommes originaire de la RDC qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1%\b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_4B1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Parmi le personnel congolais travaillant au sein de l'unit\'e9 \'e9conomique \cf2\b0 (%RG1%)\cf1\b , combien de femmes ?\fs44\par
+EN=\fs32\par
+EN=\cf3\b0\i\fs53 L'on veut savoir le nombre de femmes originaires de la RDC qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1%\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_5
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif du personnel \cf2\b0\i\fs53 (y compris les propri\'e8taires) \cf1\b\i0\fs60 provenant des Pays limitrophes ?\cf2\b0\i\fs28\par
+EN=\fs53 Il s'agit de l'effectif recens\'e9 au 31 d\'e9cembre 2018\fs56\par
+EN=\fs53 L'on veut savoir le nombre de personnes non congolais qui travaillent au sein de l'entreprise %RG1% en provenance de pays limitrophes\fs56\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_5A1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Parmi le personnel en provenance de pays limitrophes travaillant au sein de l'unit\'e9 \'e9conomique, combien d'hommes ?\fs44\par
+EN=\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre d'hommes non congolais qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1% en provenance de pays limitrophes\b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_5B1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Parmi le personnel en provenance de pays limitrophes travaillant au sein de l'unit\'e9 \'e9conomique, combien de femmes ?\fs44\par
+EN=\cf2\b0\i\fs56\par
+EN=\fs53 L'on veut savoir le nombre de femmes non congolais qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1% en provenance de pays limitrophes\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_6
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif du personnel permanent \cf2\b0\i\fs53 (y compris les propri\'e9taires)\cf1\b\i0\fs60  provenant d'autres pays Africains travaillant au sein de votre unit\'e9 \'e9conomique \cf3\b0 (%RG1%)\cf1\b  ?\par
+EN=\cf2\b0\i\fs53 Il s'agit de l'effectif recens\'e9 au 31 d\'e9cembre 2018\cf1\b\i0\fs40\par
+EN=\cf4\i ATTENTION: Autres pays africains hormis les pays limitrophes de la RDC!!!\cf1\i0\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre de personnes non congolais qui travaillent au sein de l'entreprise %RG1% en provenance d'autres pays Africains hormis les pays limitrophes\b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_6A1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Parmi le personnel en provenance d'autres pays africains travaillant au sein de l'unit\'e9 \'e9conomique, combien d'hommes ?\fs44\par
+EN=\cf2\b0\i\fs29\par
+EN=\cf3\fs53 L'on veut savoir le nombre d'hommes non congolais qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1% en provenance d'autres pays africains horsmis les pays limitrophes de la RDC\b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_6B1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Parmi le personnel en provenance d'autres pays africains travaillant au sein de l'unit\'e9 \'e9conomique, combien de femmes ?\par
+EN=\cf2\b0\i\fs29\par
+EN=\cf3\fs53 L'on veut savoir le nombre de femmes non congolais qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1% en provenance d'autres pays africains horsmis les pays limitrophes de la RDC\b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_7
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif du personnel permanent \cf2\b0\i\fs53 (y compris les propri\'e9taires)\cf1\b\i0\fs60  provenant d'autres Continent travaillant au sein de votre unit\'e9 \'e9conomique \cf3\b0 (%RG1%)\cf1\b  ?\par
+EN=\fs32\par
+EN=\cf4\b0\i\fs36 ATTENTION:\fs40  Autres nationalit\'e9s non africaines\cf1\b\i0\par
+EN=\cf2\b0\i\fs53 Il s'agit de l'effectif recens\'e9 au 31 d\'e9cembre 2018\cf1\b\i0\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre de personnes non congolais qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1% en provenance d'autres continents hormis l'Afrique \b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_7A1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Parmi le personnel en provenance d'autres continents travaillant au sein de l'unit\'e9 \'e9conomique, combien d'hommes ?\fs32\par
+EN=\cf2\b0\i\fs29\par
+EN=\cf3\fs53 L'on veut savoir le nombre d'hommes non africain qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1% \b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_7B1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Parmi le personnel en provenance d'autres continents travaillant au sein de l'unit\'e9 \'e9conomique, combien de femmes ?\fs44\par
+EN=\cf2\b0\i\fs29\par
+EN=\cf3\fs53 L'on veut savoir le nombre de femmes non africain qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1% \b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP5_8
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Enfin, pouvez-vous confirmer l'effectif total d\'e9clar\'e9 ?\par
+EN=\par
+EN=\cf2\b0\i\fs53 Il s'agit de l'effectif total du personnel permanent (y compris les propri\'e9taires) de l'unit\'e9 recens\'e9e au 31 d\'e9cembre 2018\cf1\b\i0\fs60\par
+EN=\fs44\par
+EN=\cf2\b0\i\fs56\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AP6
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 Quel est le statut (la situation particuli\'e8re telle qu'elle existe de fait) de votre entreprise ?\par
+EN=\cf2\b0\i\fs53 Il s'agit de savoir si votre entreprise est :\par
+EN=1. Etablissement unique  \par
+EN=2. Etablissement principal (si\'e8ge)    \par
+EN=3. Etablissement secondaire \par
+EN=\cf1\b\i0\fs44\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AS1F
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\f0\fs60\lang9228 Agent recenseur, ceci vous concerne :\cf2\b\par
+EN=Indiquez le groupe d'activit\'e9 (section) de la nomenclature dans lequel l'entreprise ( ou \'e9tablissement) \cf3\b0 (%RG1%)\cf2\b  exerce ses activit\'e9s .\cf3\b0\par
+EN=\cf4\i\fs53 Choisissez la section conforme \'e0 l'activit\'e9 declar\'e9e par le r\'e9pondant .\par
+EN=\cf2\b\i0\fs60\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.AS2F
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\f0\fs60\lang9228 Agent recenseur, ceci vous concerne :\cf2\b\par
+EN=Indiquez le groupe d'activit\'e9 (section) de la nomenclature dans lequel l'entreprise ( ou \'e9tablissement) \cf3\b0 (%RG1%)\cf2\b  exerce ses activit\'e9s .\cf4\b0\i\fs53 Choisissez la section conforme \'e0 l'activit\'e9 declar\'e9e par le r\'e9pondant .\par
+EN=\par
+EN=\cf2\b\i0\fs60\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Comment votre entreprise tient-elle ses comptes ?\par
+EN=\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir ici le mode de tenue des comptes de l'entreprise.\b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel chiffre d'affaires hors taxes avez-vous r\'e9alis\'e9 en 2018 ?\par
+EN=\cf2 En francs congolais (CDF)\par
+EN=\cf3\b0\i\fs53\lang1036 Le chiffre d'affaire est la somme des produits (\cf4 des ventes de biens \cf3 )et des prestations des services r\'e9alis\'e9es par une entreprise sur un exercice comptable donn\'e9.\par
+EN=\fs28\par
+EN=\fs40 Pour calculer son chiffre d'affaire, il faut prendre la somme de l'ensemble des factures de ventes de biens et services, ainsi que les avoirs, hors taxes \'e9mis au cours d'un exercice comptable. La formule correspond ainsi \'e0 : CA = prix de vente x quantit\'e9s vendues.\cf1\b\i0\fs60\lang9228\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA2A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 Chiffre d'affaire\par
+EN=Demandez \'e0 votre r\'e9pondant si le chiffre d'affaire est \'e9valu\'e9 en Dollar ou en Franc congolais.\par
+EN=\cf2\b0\i\fs53 Le chiffre d'affaire est la somme des produits (\cf3 des ventes de biens \cf2 )et des prestations des services r\'e9alis\'e9es par une entreprise sur un exercice comptable donn\'e9.\par
+EN=\fs28\par
+EN=\fs40 Pour calculer son chiffre d'affaire, il faut prendre la somme de l'ensemble des factures de ventes de biens et services, ainsi que les avoirs, hors taxes \'e9mis au cours d'un exercice comptable. La formule correspond ainsi \'e0 : CA = prix de vente x quantit\'e9s vendues.\cf1\b\i0\fs60\lang1033\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA2B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel chiffre d'affaires hors taxes avez-vous r\'e9alis\'e9 en 2018 ?\par
+EN=\cf2 En dollars (USD)\par
+EN=\cf3\b0\i\fs53\lang1036 Le chiffre d'affaire est la somme des produits (\cf4 des ventes de biens \cf3 )et des prestations des services r\'e9alis\'e9es par une entreprise sur un exercice comptable donn\'e9.\par
+EN=\fs28\par
+EN=\fs40 Pour calculer son chiffre d'affaire, il faut prendre la somme de l'ensemble des factures de ventes de biens et services, ainsi que les avoirs, hors taxes \'e9mis au cours d'un exercice comptable. La formule correspond ainsi \'e0 : CA = prix de vente x quantit\'e9s vendues.\cf1\b\i0\fs60\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN= Janvier\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Octobre\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_11
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Novembre\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_12
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Decembre\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Fevrier\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Mars\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Avril\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_5
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Mai\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_6
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Juin\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_7
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Juillet\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_8
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Ao\'fbt\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA3_9
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel a \'e9t\'e9 le rythme de vos activit\'e9s au cours des 12 mois de l'ann\'e9e 2018\par
+EN=Septembre\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est votre recette mensuelle minimale \par
+EN=\fs44\par
+EN=\cf2\fs60 En francs congolais (CDF)\cf3\i\fs36\par
+EN=
+EN=\pard\widctlpar\sa160\sl252\slmult1\highlight4\b0\fs53\lang1036 La\~recette, en comptabilit\'e9, est la somme d'argent encaiss\'e9e (re\'e7ue) \'e0 la suite d'une op\'e9ration le plus souvent commerciale. \par
+EN=\lang1033 Par extension, le terme d\'e9signe les mouvements financiers entrant\cf0\highlight0\i0\f1\fs22\par
+EN=
+EN=\pard\cf1\b\f0\fs44\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA4A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 Recettes minimales\par
+EN=Demandez \'e0 votre r\'e9pondant si les recettes minimales sont \'e9valu\'e9es en Dollar ou en Franc congolais.\par
+EN=
+EN=\pard\widctlpar\sa160\sl252\slmult1\cf2\highlight3\b0\i\fs53 La\~recette, en comptabilit\'e9, est la somme d'argent encaiss\'e9e (re\'e7ue) \'e0 la suite d'une op\'e9ration le plus souvent commerciale. \par
+EN=\lang1033 Par extension, le terme d\'e9signe les mouvements financiers entrant\cf0\highlight0\i0\f1\fs22\par
+EN=\par
+EN=
+EN=\pard\cf2\i\f0\fs53\lang1036\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA4B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est votre recette mensuelle minimale \par
+EN=\fs44\par
+EN=\cf2\fs60 En dollars (USD)\cf3\i\fs36\par
+EN=
+EN=\pard\widctlpar\sa160\sl252\slmult1\highlight4\b0\fs53\lang1036 La\~recette, en comptabilit\'e9, est la somme d'argent encaiss\'e9e (re\'e7ue) \'e0 la suite d'une op\'e9ration le plus souvent commerciale. \par
+EN=\lang1033 Par extension, le terme d\'e9signe les mouvements financiers entrant\cf0\highlight0\i0\f1\fs22\par
+EN=
+EN=\pard\cf1\b\f0\fs60\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA5
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est votre recette mensuelle moyenne \par
+EN=\fs44\par
+EN=\cf2\fs60 En francs congolais (CDF)\cf3\i\fs36\par
+EN=
+EN=\pard\widctlpar\sa160\sl252\slmult1\highlight4\b0\fs53\lang1036 La\~recette, en comptabilit\'e9, est la somme d'argent encaiss\'e9e (re\'e7ue) \'e0 la suite d'une op\'e9ration le plus souvent commerciale. \par
+EN=\lang1033 Par extension, le terme d\'e9signe les mouvements financiers entrant\cf0\highlight0\i0\f1\fs22\par
+EN=
+EN=\pard\cf1\b\f0\fs44\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA5A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 Recettes moyennes\par
+EN=Demandez \'e0 votre r\'e9pondant si les recettes moyennes sont \'e9valu\'e9es Dollar ou en Franc congolais.\par
+EN=
+EN=\pard\widctlpar\sa160\sl252\slmult1\cf2\highlight3\b0\i\fs53 La\~recette, en comptabilit\'e9, est la somme d'argent encaiss\'e9e (re\'e7ue) \'e0 la suite d'une op\'e9ration le plus souvent commerciale. \par
+EN=\lang1033 Par extension, le terme d\'e9signe les mouvements financiers entrant\cf0\highlight0\i0\f1\fs22\par
+EN=
+EN=\pard\cf1\b\f0\fs60\lang1036\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA5B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est votre recette mensuelle moyenne \par
+EN=\fs44\par
+EN=\cf2\fs60 En dollars (USD)\cf3\i\fs36\par
+EN=
+EN=\pard\widctlpar\sa160\sl252\slmult1\highlight4\b0\fs53\lang1036 La\~recette, en comptabilit\'e9, est la somme d'argent encaiss\'e9e (re\'e7ue) \'e0 la suite d'une op\'e9ration le plus souvent commerciale. \par
+EN=\lang1033 Par extension, le terme d\'e9signe les mouvements financiers entrant\cf0\highlight0\i0\f1\fs22\par
+EN=
+EN=\pard\cf1\b\f0\fs60\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA6
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est votre recette mensuelle maximale \par
+EN=\fs44\par
+EN=\cf2\fs60 En francs congolais (CDF)\par
+EN=
+EN=\pard\widctlpar\sa160\sl252\slmult1\cf3\highlight4\b0\i\fs53\lang1036 La\~recette, en comptabilit\'e9, est la somme d'argent encaiss\'e9e (re\'e7ue) \'e0 la suite d'une op\'e9ration le plus souvent commerciale. \par
+EN=\lang1033 Par extension, le terme d\'e9signe les mouvements financiers entrant\cf0\highlight0\i0\f1\fs22\par
+EN=
+EN=\pard\cf3\b\i\f0\fs36\lang9228\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA6A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 Recettes maximales\par
+EN=Demandez \'e0 votre r\'e9pondant si les recettes maximales sont \'e9valu\'e9es en Dollar ou en Franc congolais.\fs28\par
+EN=
+EN=\pard\widctlpar\sa160\sl252\slmult1\cf2\highlight3\b0\i\fs53 La\~recette, en comptabilit\'e9, est la somme d'argent encaiss\'e9e (re\'e7ue) \'e0 la suite d'une op\'e9ration le plus souvent commerciale. \par
+EN=\lang1033 Par extension, le terme d\'e9signe les mouvements financiers entrant\cf0\highlight0\i0\f1\fs22\par
+EN=
+EN=\pard\cf1\b\f0\fs60\lang1036\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CA6B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green255\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est votre recette mensuelle maximale \par
+EN=\fs44\par
+EN=\cf2\fs60 En dollars (USD)\par
+EN=
+EN=\pard\widctlpar\sa160\sl252\slmult1\cf3\highlight4\b0\i\fs53\lang1036 La\~recette, en comptabilit\'e9, est la somme d'argent encaiss\'e9e (re\'e7ue) \'e0 la suite d'une op\'e9ration le plus souvent commerciale. \par
+EN=\lang1033 Par extension, le terme d\'e9signe les mouvements financiers entrant\cf0\highlight0\i0\f1\fs22\par
+EN=
+EN=\pard\cf1\b\f0\fs60\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CD1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Le dirigeant de l'\'e9tablissement est un homme ou une femme ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CD2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'\'e2ge du dirigeant de l'\'e9tablissement ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CD3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est la nationalit\'e9 du dirigeant de l'\'e9tablissement ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CD4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le niveau d'\'e9tudes ou d'instruction du dirigeant de l'\'e9tablissement ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CD5
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le nom et le pr\'e9nom \cf2\b0 du dirigeant de l'\'e9tablissement \cf1\b\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CD6
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le nom et le pr\'e9nom\cf2\b0  du r\'e9pondant\cf1\b  ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CG1HE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 L'h\'e9misph\'e8re dans lequel se trouve l'unit\'e9 \'e9conomique \cf2\b0 (%nomUE%)\fs64\par
+EN=\cf3\i\fs53 L'h\'e9misph\'e8re est indiqu\'e9 dans le GPS\cf2\i0\fs64\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CG2LO
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\f0\fs64\lang9228 Longitude d'un point de la parcelle o\'f9 se trouve l'unit\'e9 \'e9conomique\b\fs44\par
+EN=\par
+EN=\cf2\b0\i\fs56 Et la longitude par 15. - - -\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CG3LAT
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Latitude d'un point de la parcelle o\'f9 se trouve l'unit\'e9 \'e9conomique\b0\fs64\par
+EN=\par
+EN=\cf2\i\fs53 La latitude commence par 4. - - -\fs56\par
+EN=\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.CG4AL
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Renseignez l'altitude du lieu o\'f9 se trouve l'unit\'e9 \'e9conomique \cf2\b0 (%nomUE%)\cf1\b\fs64\par
+EN=\par
+EN=\cf3\b0\i\fs53 L'altitude est indiqu\'e9 dans le GPS lorsque vous pr\'e9levez les coordonn\'e9es du point de l'entreprise.\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP1A1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre entreprise poss\'e8de-t-elle un num\'e9ro de registre de commerce ?\par
+EN=\cf2\b0 RCCM\cf1\b\fs44\lang1036\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP1A2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Pouvez-vous nous montr\'e9 votre num\'e9ro de registre de commerce ?\par
+EN=\fs32\par
+EN=\cf2\b0\i\fs53 Renseignez le num\'e9ro que l'enqu\'eat\'e9 vous donnera ici\cf1\b\i0\fs32\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP1B1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre entreprise poss\'e8de-t-elle un num\'e9ro d'identification nationale \cf2\b0 (IDNAT)\cf1\b  ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP1B2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Inscrivez le num\'e9ro d'identification nationale de l'entreprise (IDNAT) \fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP1C1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre entreprise poss\'e8de-t-elle un Num\'e9ro d'Identification Fiscal \cf2\b0 (NIF)\cf1\b ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP1C2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Inscrivez le num\'e9ro d'identification fiscale de l'entreprise\fs44  \cf2\b0\fs60 %RG1%\cf1\b\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP1D1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre entreprise poss\'e8de-t-elle un num\'e9ro de la Caisse Nationale de S\'e9curit\'e9 Sociale \cf2\b0 (CNSS)\cf1\b  ex \cf2\b0 INSS\cf1\b  ?\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP1D2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Renseignez le num\'e9ro de la Caisse Nationale de S\'e9curit\'e9 Sociale (\cf2\b0 CNSS\cf1\b )\par
+EN=ex \cf2\b0 INSS\cf1\b\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Sur base de quel r\'e9gime fiscal votre entreprise paye-t-elle ses imp\'f4ts ?\par
+EN=                                                                                \par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quelle est la forme juridique de votre unit\'e9 \'e9conomique ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le nombre total du personnel masculin permanent \cf2\b0\i\fs53 (y compris les ind\'e9pendants)  \cf1\b\i0\fs60 de toute l'entreprise (\cf2\i %RG1%\cf1\i0 ) \cf3 si\'e8ge et agences\cf1  recens\'e9e au 31 d\'e9cembre 2018 ?\par
+EN=\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total d'hommes qui travaillent au sein de  l''entreprise %RG1%\cf1\b\i0\fs32\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le nombre total du personnel feminin permanent \cf2\i\fs36 (\b0\fs53 y compris les ind\'e9pendants)  \cf1\b\i0\fs60 de toute l'entreprise (\cf2\i %RG1%\cf1\i0 ), \cf3 si\'e8ge et agences\cf1\fs44  \fs60 recens\'e9e au 31 d\'e9cembre 2018 ?\fs44\par
+EN=\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total de femmes qui travaillent dans toute l'entreprise %RG1%\b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif total du personnel permanent de l'entreprise\b0\fs64  \b (\cf2\i %RG1%\cf1\i0 )\fs44  \cf3\fs64 si\'e8ge et agences\cf1\fs44  \fs60 recens\'e9e au 31 d\'e9cembre 2018 ?\cf2\i\fs36\par
+EN=\b0\fs53 (y compris les ind\'e9pendants): \par
+EN=\par
+EN=Le nombre total d'hommes et de femmes qui travaillent au sein de l'unit\'e9 \'e9conomique %RG1%\b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;\red255\green0\blue128;\red0\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif total du personnel \cf2\b0 congolais \cf3 (RDC)\cf1\b  qui travaillent en permanence au sein de \cf4\b0 (%RG1%) \cf5 dans l'ensemble\cf4  \cf1\b ?\fs14\par
+EN=\fs16\par
+EN=\fs60 C'est \'e0 dire, dans le si\'e8ge et les agences de \cf4\b0 (%RG1%)\cf1\b\par
+EN=\cf3\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf4\b0\fs20  \cf2\i\fs53 Il s'agit de l'effectif recens\'e9 au 31 d\'e9cembre 2018\cf1\b\i0\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total de personnes originaire de la RDC qui travaillent au sein de l'unit\'e9 \'e9conomique \cf3 %RG1%\cf2\par
+EN=\cf1\b\i0\fs32\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_4A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 De l'effectif du personnel congolais (RDC) travaillant en permanence au sein de \cf2\b0 (%RG1%) \cf3 dans son ensemble\cf1\b , \cf4\b0 combien d'hommes\cf1\b  ?\fs44\par
+EN=\fs60 Dans le si\'e8ge et les agences de \cf2\b0 (%RG1%)\cf1\b\par
+EN=\cf4\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf5\b0\i\fs40\par
+EN=\fs53 L'on veut savoir le nombre total d'hommes originaire de la RDC qui travaillent au sein de l'unit\'e9 \'e9conomique \cf4 %RG1%\cf5\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_4B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 De cet effectif du personnel congolais (RDC) travaillant en permanence au sein de \cf2\b0 (%RG1%) \cf3 dans l'ensemble\cf1\b , \cf4\b0 combien sont femmes\cf1\b  ?\fs44\par
+EN=\fs60 Dans le si\'e8ge et les agences de \cf2\b0 (%RG1%)\cf1\b\par
+EN=\cf4\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf5\b0\i\fs40\par
+EN=\fs53 L'on veut savoir le nombre total de femmes originaire de la RDC qui travaillent au sein de l'unit\'e9 \'e9conomique \cf4 %RG1%\cf5\par
+EN=\cf1\b\i0\fs16\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_5
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;\red128\green64\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif total du personnel provenant \cf2\b0 des Pays limitrophes\cf1\b  qui travaillent en permanence au sein de \cf3\b0 (%RG1%) \cf4 dans l'ensemble\cf3  \cf1\b ?\fs14\par
+EN=\fs16\par
+EN=\fs60 C'est \'e0 dire, dans le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf5\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf3\b0\fs20  \cf2\i\fs53 Il s'agit de l'effectif recens\'e9 au 31 d\'e9cembre 2018\cf1\b\i0\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total de personnes en provenance de pays limitrophes qui travaillent au sein de l'unit\'e9 \'e9conomique \cf5 %RG1%\cf2\par
+EN=\cf6\fs53 Pays limitrophes : Angola, Burundi, Congo-Brazzaville, Centrafrique, Rwanda, Ouganda, Tanzanie, Soudan et Zambie.\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_5A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;\red0\green0\blue43;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 De l'effectif du personnel provenant \cf2\b0 des Pays limitrophes\cf1\b  travaillant en permanence au sein de \cf3\b0 (%RG1%) \cf4 dans son ensemble\cf1\b , \cf5\b0 combien d'hommes\cf6  \cf1\b ?\fs44\par
+EN=\fs60 Dans le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf5\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf2\b0\i\fs40\par
+EN=\fs53 L'on veut savoir le nombre total d'hommes en provenance de pays limitrophes qui travaillent au sein de l'unit\'e9 \'e9conomique \cf5 %RG1%\cf2\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_5B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 De cet effectif du personnel provenant \cf2\b0 des Pays limitrophes\cf1\b  travaillant en permanence au sein de \cf3\b0 (%RG1%) \cf4 dans l'ensemble\cf1\b , \cf5\b0 combien sont femmes\cf1\b  ?\fs44\par
+EN=\fs60 Dans le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf5\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf2\b0\i\fs40\par
+EN=\fs53 L'on veut savoir le nombre total de femmes en provenance de pays limitrophes qui travaillent au sein de l'unit\'e9 \'e9conomique \cf5 %RG1%\cf2\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_6
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif total du personnel provenant \cf2\b0 d'autres pays Africains\cf1\b  qui travaillent en permanence au sein de \cf3\b0 (%RG1%) \cf4 dans l'ensemble\cf3  \cf1\b ?\fs14\par
+EN=\fs16\par
+EN=\fs60 C'est \'e0 dire, dans le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf5\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf2\b0\i\fs53 Il s'agit de l'effectif recens\'e9 au 31 d\'e9cembre 2018\cf1\b\i0\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total de personnes en provenance d'autres pays Africains qui travaillent au sein de l'unit\'e9 \'e9conomique \cf5 %RG1%\cf2\par
+EN=\cf3\i0\fs20  \cf5\i\fs52 ATTENTION: Autres pays africains hormis les pays limitrophes de la RDC!!!\cf1\b\i0\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_6A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;\red0\green0\blue43;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 De l'effectif du personnel provenant \cf2\b0 d'autres pays Africains\cf1\b  travaillant en permanence au sein de \cf3\b0 (%RG1%) \cf4 dans son ensemble\cf1\b , \cf5\b0 combien d'hommes\cf6  \cf1\b ?\fs44\par
+EN=\fs60 Dans le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf5\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total d'hommes en provenance d'autres pays Africains horsmis les pays limitrophes de la RDC qui travaillent au sein de l'unit\'e9 \'e9conomique \cf5 %RG1%\cf2\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_6B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 De cet effectif du personnel provenant \cf2\b0 d'autres pays Africains\cf1\b  travaillant en permanence au sein de \cf3\b0 (%RG1%) \cf4 dans l'ensemble\cf1\b , \cf5\b0 combien sont femmes\cf1\b  ?\fs44\par
+EN=\fs60 Dans le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf5\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf2\b0\i\fs40\par
+EN=\fs53 L'on veut savoir le nombre total de femmes en provenance d'autres pays Africains qui travaillent au sein de l'unit\'e9 \'e9conomique \cf5 %RG1%\cf2\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_7
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est l'effectif total du personnel provenant \cf2\b0 d'autres\cf1\b  \cf2\b0 Continent\cf1\b  qui travaillent en permanence au sein de \cf3\b0 (%RG1%) \cf4 dans l'ensemble\cf3  \cf1\b ?\fs14\par
+EN=\fs16\par
+EN=\fs60 C'est \'e0 dire, dans le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf5\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf2\b0\i\fs53 Il s'agit de l'effectif recens\'e9 au 31 d\'e9cembre 2018\par
+EN=\cf1\b\i0\fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total de personnes en provenance d'autres continents hormis l'Afrique qui travaillent au sein de l'unit\'e9 \'e9conomique \cf5 %RG1%\cf2\par
+EN=\cf5\fs48 ATTENTION: \b Autres nationalit\'e9s non africaines\cf2\b0\fs53\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_7A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;\red0\green0\blue43;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 De l'effectif du personnel provenant \cf2\b0 d'autres\cf1\b  \cf2\b0 Continent\cf1\b  travaillant en permanence au sein de \cf3\b0 (%RG1%) \cf4 dans son ensemble\cf1\b , \cf5\b0 combien d'hommes\cf6  \cf1\b ?\fs44\par
+EN=\fs60 Dans le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf5\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le nombre total d'hommes en provenance d'autres continents hormis l'Afrique horsmis les pays limitrophes de la RDC qui travaillent au sein de l'unit\'e9 \'e9conomique \cf5 %RG1%\cf2\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_7B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;\red0\green0\blue128;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 De cet effectif du personnel provenant \cf2\b0 d'autres\cf1\b  \cf2\b0 Continent\cf1\b  travaillant en permanence au sein de \cf3\b0 (%RG1%) \cf4 dans l'ensemble\cf1\b , \cf5\b0 combien sont femmes\cf1\b  ?\fs44\par
+EN=\fs60 Dans le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf5\b0\i\fs53 L'effectif comprends les salari\'e9s et les non salaries (les propri\'e8taires)\cf1\b\i0\fs60\par
+EN=\cf2\b0\i\fs40\par
+EN=\fs53 L'on veut savoir le nombre total de femmes en provenance d'autres continents hormis l'Afrique  qui travaillent au sein de l'unit\'e9 \'e9conomique \cf5 %RG1%\cf2\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP4_8
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Enfin, pouvez-vous confirmer l'effectif total d\'e9clar\'e9 ?\par
+EN=(Dans\cf2  \cf1 le si\'e8ge et les agences de \cf3\b0 (%RG1%)\cf1\b\par
+EN=\cf4\b0\i\fs53 Il s'agit de l'effectif total du personnel permanent (y compris les propri\'e9taires) de l'unit\'e9 recens\'e9e au 31 d\'e9cembre 2018\cf1\b\i0\fs60\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP5
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le capital actuel de votre l'entreprise\fs44\par
+EN=\cf2\fs60 En francs congolais (CDF)\cf3\i\fs36\par
+EN=\b0\fs53\par
+EN=Le capital actuel correspond \'e0 la valeur totale des biens et d'argents que poss\'e8de une entreprise. (valeurs mobiliees, patrimoine foncier ou immobilier, argent liquide, vehicules , etc.)\cf1\b\i0\fs60\lang1033\par
+EN=\fs44\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP5A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 Capital de l'unit\'e9 \'e9conomique \cf2\b0\lang9228 (%RG1%)\cf1\b\lang1036\par
+EN=Demandez \'e0 votre r\'e9pondant si le capital de l'entreprise est \'e9valu\'e9 Dollars ou en Fancs congolais.\cf3\b0\i\fs53\par
+EN=\lang9228 Le capital actuel correspond \'e0 la valeur totale des biens et d'argents que poss\'e8de une entreprise. (valeurs mobiliees, patrimoine foncier ou immobilier, argent liquide, vehicules , etc.)\cf1\b\i0\fs60\lang1033\par
+EN=\cf3\b0\i\fs32\lang1036\par
+EN=\fs53 Choisir 1 si l'on vous donne le capital en dollars et 2 s'il est donn\'e9 en francs congolais.\cf1\b\i0\fs60\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP5B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le capital actuel de votre l'entreprise\par
+EN=\fs44\par
+EN=\cf2\fs60 En dollars (USD)\cf1\par
+EN=\cf3\b0\i\fs53 Le capital actuel correspond \'e0 la valeur totale des biens et d'argents que poss\'e8de une entreprise. (valeurs mobiliees, patrimoine foncier ou immobilier, argent liquide, vehicules , etc.)\cf1\b\i0\fs60\lang1033\par
+EN=\lang1036\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP6_1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 R\'e9partition du capital selon l'origine (pour les entreprises detenues par les personnes physiques).\par
+EN=Parts (%) du capital d\'e9tenues par les priv\'e9s congolais \par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP6_2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 R\'e9partition du capital selon l'origine (pour les entreprises detenues par les personnes physiques).\par
+EN=Parts (%) du capital d\'e9tenues  les priv\'e9s \'e9trangers \par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP6_3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 R\'e9partition du capital selon l'origine (pour les entreprises detenues par les personnes physiques).\par
+EN=Parts  (%) du capital d\'e9tenues par l'Etat congolais \par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP6_4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 R\'e9partition du capital selon l'origine (pour les entreprises detenues par les personnes physiques).\par
+EN=Parts (%) du capital d\'e9tenues par les Etats Etrangers \par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP7_1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 R\'e9partition du capital suivant le sexe.\par
+EN=Parts (%) du capital d\'e9tenues par les hommes \par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.EP7_2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 R\'e9partition du capital suivant le sexe.\par
+EN=Parts (%) du capital d\'e9tenues par les femmes \par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.ID1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Renseignez la province \b0\f1\fs24\lang1033\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.ID2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Ville ou territoire \fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.ID3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Secteur/Chefferie/Commune rurale/Commune urbaine\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.ID4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Groupement/Quartier/Groupement incorpor\'e9\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.ID6
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Renseignez la zone de d\'e9nombrement de l'unit\'e9 \'e9conomique\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.ID7
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Num\'e9ro d'ordre de l'unit\'e9 \'e9conomique dans la zone de d\'e9nombrement\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.IDAR
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 IDAR\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 R\'e9ference pour mieux retrouver l'unit\'e9 \'e9conomique \cf2\b0 (%nomUE%)\cf1\b\fs64\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU11
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Sur quelle Rue se situe l'unit\'e9 \'e9conomique \cf2\b0 (%nomUE%) ?\cf1\b\fs32\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU11A
+Condition=LU8=1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 L'unit\'e9 \'e9conomique \cf2\b0 (%nomUE%)\cf1\b  se trouve sur une Rue ou une Avenue ou une Route ou encore sur un Boulevard ?\b0\fs64\par
+EN=\cf3\i\fs53 Si la subdivision de votre ZD s'arr\'eate au niveau du quartier, choisissez le quartier \cf1\i0\fs64\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU11A
+Condition=LU8=2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\f0\fs64\lang9228 L'unit\'e9 \'e9conomique \b (\cf2\b0 %nomUE%\cf1\b )\b0  se trouve dans quel village?\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU11B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Num\'e9ro de parcelle dans laquelle se trouve l'unit\'e9 \'e9conomique\cf2\b0  (%nomUE%) \cf1\b ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU12
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 Dans quel type de local l'unit\'e9 \'e9conomique est install\'e9e ?\fs44\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU5
+Condition=LU11A=1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Rue\fs44\par
+EN=\cf2\b0\i\fs53 Validez le champ pour passer \par
+EN=(Appuyez sur le bouton enter)\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU5
+Condition=LU11A=2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Avenue\fs44\par
+EN=\cf2\b0\i\fs53 Validez le champ pour passer \par
+EN=(Appuyez sur le bouton enter)\par
+EN=\cf1\i0\fs64\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU5
+Condition=LU11A=3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Route\fs44\par
+EN=\cf2\b0\i\fs53 Validez le champ pour passer \par
+EN=(Appuyez sur le bouton enter)\par
+EN=\cf1\b\i0\fs44\par
+EN=\b0\fs64\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU5
+Condition=LU11A=4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Boulevard\fs44\par
+EN=\cf2\b0\i\fs53 Validez le champ pour passer \par
+EN=(Appuyez sur le bouton enter)\par
+EN=\cf1\i0\fs64\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU5
+Condition=LU11A=5
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quartier\par
+EN=\cf2\b0\i\fs53 Validez le champ pour passer \par
+EN=(Appuyez sur le bouton enter)\par
+EN=\cf1\i0\fs64\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU8
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 L'unit\'e9 \'e9conomique \cf2\b0 (%nomUE%)\cf1\b  est implant\'e9e dans quel milieu de residence\b0\fs64\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU9
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 L'unit\'e9 \'e9conomique \cf2\b0 (%nomUE%) \cf1\b est-elle implant\'e9e dans un march\'e9 ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.LU9A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Dans quel march\'e9 cette unit\'e9 \'e9conomique est-elle implant\'e9e ? \fs32\par
+EN=\cf2\b0\i\fs56\par
+EN=\fs53 L'on cherche \'e0 savoir le nom du march\'e9 dans lequel se trouve l'unit\'e9 \'e9conomique\fs56\par
+EN=\cf1\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Quel est le nom ou la raison sociale de l'unit\'e9 \'e9conomique ? \par
+EN=\par
+EN=\cf2\b0\i\fs53 Pour une entreprise individuelle, demandez le nom du proprietaire.\par
+EN=Si non, donnez la raison sociale de l'entreprise\par
+EN=Exemple: Brasserie limonaderie et malterie\cf1\b\i0\fs60   \fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Renseignez le sigle de l'unit\'e9 \'e9conomique\par
+EN=\par
+EN=Exemple: BRALIMA (\cf2\b0\i\fs53 Brasserie limonaderie et malterie\cf1\b\i0\fs60  )\fs32\par
+EN=\par
+EN=\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG2A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\i\f0\fs53\lang9228 Renseignez le num\'e9ro de t\'e9l\'e9phone de l'unit\'e9 \'e9conomique\b\fs29\par
+EN=\cf2\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG2A1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre unit\'e9 \'e9conomique a-t-il un num\'e9ro  de t\'e9l\'e9phone par lequel l'on peut vous  joindre s'il vous plait ?\fs44\par
+EN=\cf2\i\fs29\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG2B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\i\f0\fs53\lang9228 Renseignez le num\'e9ro de t\'e9l\'e9phone de l'unit\'e9 \'e9conomique\cf2\b\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG2B1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Avez-vous un autre num\'e9ro de t\'e9l\'e9phone par lequel l'on peut vous  joindre s'il vous plait ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG3A
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\i\f0\fs53\lang9228 Renseignez le num\'e9ro de la boite postale de l'unit\'e9 \'e9conomique\cf2\b\i0\fs32\par
+EN=\cf1\i\fs36\par
+EN=\cf2\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG3A1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Votre unit\'e9 \'e9conomique poss\'e8de-t-elle une boite postale ?\fs32\par
+EN=\par
+EN=\cf2\i\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG3B
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Lieu de la boite postale\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Renseignez l'adresse mail de l'entreprise \b0\fs64\par
+EN=\b\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG5
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Site web de l'unit\'e9 \'e9conomique\cf2\i\fs36\par
+EN=\b0\fs53 Demandez d'abord si l'unit\'e9 \'e9conomique poss\'e8de un site web , si oui renseignez-le !\b\fs36\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG6
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 En quelle ann\'e9e votre unit\'e9 \'e9conomique a-t-elle \'e9t\'e9 cr\'e9\'e9e ? \fs44\lang9228\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG7
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 En quelle ann\'e9e votre unit\'e9 \'e9conomique a-t-elle d\'e9marr\'e9e ses activit\'e9s ?\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RG8
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 Quelle est la qualit\'e9 du r\'e9pondant (Qui \'eates-vous dans cette unit\'e9 ?) \fs32\par
+EN=\cf2\b0\i\fs53 L'on veut savoir le statut de la personne qui r\'e9pond dans l'entreprise.\b\fs29\par
+EN=\cf1\i0\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.RGFIN
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Fin \fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.SI1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Resultat de l'interview\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.SI2D
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Jour de l'interview\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.SI2HD
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Heure du debut de l'interview\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.SI2HF
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Heure de fin de l'interview\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.SI2M
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Mois de l'interview\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.SI2MD
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Minutes\par
+EN=\fs44\par
+EN=\cf2\b0\fs60 Cliquez sur "enter" pour commencer\cf1\b\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.SI2MF
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Minutes\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.SI2Y
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang9228 Ann\'e9e de l'interview\fs44\par
+EN=}
+
+[QUESTION]
+Field=RGE_DICT.SICONS
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+EN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green0\blue128;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs60\lang1036 Je travaille pour le compte de \cf2\b0 l\rquote Institut National de la Statistique\cf1\b  (INS) dans le cadre du Recensement \cf3\b0 G\'e9n\'e9ral des Entreprises (RGE)\cf1\b . Je voudrai m'entretenir avec vous sur tout ce qui concerne votre entreprise, par exemple l'activit\'e9 principale de l'entreprise, l'effectif du personnel, et autre.\par
+EN=\cf4\i\fs53 Toutes les r\'e9ponses que vous nous donnerez ici, resteront strictement confidentielles et anonymes.\cf1\i0\fs60\par
+EN=\fs44\par
+EN=}
+

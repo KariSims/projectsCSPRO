@@ -1,0 +1,46 @@
+﻿[FormFile]
+Version=CSPro 7.5
+Name=RGA02_FF
+Label=RGA02_OP
+DefaultTextFont=-013 0000 0000 0000 0700 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+FieldEntryFont=0018 0000 0000 0000 0600 0000 0000 0000 0000 0000 0000 0000 0000 Courier New
+Type=SystemControlled
+  
+[Dictionaries]
+File=..\Dict\RGA02_OP.dcf
+  
+[Form]
+Name=FORM000
+Label=(Id Items)
+Level=1
+Size=1381,300
+  
+Item=RGA02_ID
+  
+[EndForm]
+  
+[Level]
+Name=RGA02_LEVEL
+Label=RGA02_OP Level
+  
+[Group]
+Required=Yes
+Name=IDS0_FORM
+Label=(Id Items)
+Form=1
+LogicControl=No
+Max=1
+  
+[Field]
+Name=RGA02_ID
+Position=201,27,216,47
+Item=RGA02_ID,RGA02_DICT
+FieldLabelType=DictionaryLabel
+Form=1
+  
+[Text]
+Position=50,30,179,46
+Text=RGA02_OP Identification
+ 
+[EndGroup]
+  

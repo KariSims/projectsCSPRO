@@ -1,0 +1,46 @@
+﻿[FormFile]
+Version=CSPro 7.5
+Name=MENU_FF
+Label=MENU_CTRL
+DefaultTextFont=-013 0000 0000 0000 0700 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+FieldEntryFont=0018 0000 0000 0000 0600 0000 0000 0000 0000 0000 0000 0000 0000 Courier New
+Type=OperatorControlled
+  
+[Dictionaries]
+File=..\Dict\MENU.dcf
+  
+[Form]
+Name=FORM000
+Label=(Id Items)
+QuestionTextHeight=183
+Level=1
+Size=1464,300
+  
+Item=MENU_ID
+  
+[EndForm]
+  
+[Level]
+Name=MENU_LEVEL
+Label=MENU_FF Level
+  
+[Group]
+Required=Yes
+Name=IDS0_FORM
+Label=(Id Items)
+Form=1
+LogicControl=No
+Max=1
+  
+[Field]
+Name=MENU_ID
+Position=134,27,177,47
+Item=MENU_ID,MENU_DICT
+Form=1
+  
+[Text]
+Position=50,30,107,46
+Text=MENU_ID
+ 
+[EndGroup]
+  

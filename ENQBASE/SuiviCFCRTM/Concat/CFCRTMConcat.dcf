@@ -1,0 +1,27 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=CFCRTMConcat
+Name=CFCRTMCONCAT_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=CFCRTMConcat Level
+Name=CFCRTMCONCAT_LEVEL
+
+[IdItems]
+
+[Item]
+Label=CFCRTMConcat Identification
+Name=CFCRTMCONCAT_ID
+Start=2
+Len=1
+
+[Record]
+Label=CFCRTMConcat Record
+Name=CFCRTMCONCAT_REC
+RecordTypeValue='1'
+RecordLen=2

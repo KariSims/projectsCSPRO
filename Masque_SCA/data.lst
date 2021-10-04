@@ -1,0 +1,660 @@
+﻿Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 11, 2016
+Start Time      02:31:33
+End Time        02:37:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+      8       2    -   Verifier la valeur saisie                               -
+     13       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 11, 2016
+Start Time      23:05:52
+End Time        23:06:28
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 11, 2016
+Start Time      23:06:44
+End Time        23:20:32
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+      8       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 11, 2016
+Start Time      23:23:42
+End Time        23:25:24
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 11, 2016
+Start Time      23:34:34
+End Time        23:35:29
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 11, 2016
+Start Time      23:45:29
+End Time        00:03:02
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    254       3    -   Verifier la valeur saisie                               -
+    260       1    -   Verifier la valeur saisie                               -
+    266       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 12, 2016
+Start Time      00:03:24
+End Time        00:27:24
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     36       1    -    Valeur saisie non valide                               -
+     60       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     78       1    -   Verifier la valeur saisie                               -
+     84       1    -   Verifier la valeur saisie                               -
+    100       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 12, 2016
+Start Time      00:28:25
+End Time        00:41:35
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            4   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     64       2    -   Verifier la valeur saisie                               -
+     75       1    -   Verifier la valeur saisie                               -
+     81       1    -   Verifier la valeur saisie                               -
+     97       1    -   Verifier la valeur saisie                               -
+    171       1    -   Verifier la valeur saisie                               -
+    257       1    -   Verifier la valeur saisie                               -
+    269       2    -   Verifier la valeur saisie                               -
+    336       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 12, 2016
+Start Time      00:41:46
+End Time        00:43:09
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     64       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 12, 2016
+Start Time      00:43:21
+End Time        00:47:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            7   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     64       1    -   Verifier la valeur saisie                               -
+    269       1    -   Verifier la valeur saisie                               -
+    275       1    -   Verifier la valeur saisie                               -
+    392       1    -   Verifier la valeur saisie                               -
+    439       1    -   Verifier la valeur saisie                               -
+    465       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      04:13:51
+End Time        04:21:41
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            4   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    371       1    -   Verifier la valeur saisie                               -
+    895       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      04:21:51
+End Time        04:32:20
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     43       1    -    Valeur saisie non valide                               -
+    686       1    -   Verifier la valeur saisie                               -
+    793       3    -   Verifier la valeur saisie                               -
+    898       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      14:15:24
+End Time        15:21:37
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    793       3    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\Satisfaction\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      E:\Satisfaction\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      15:21:55
+End Time        15:23:35
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            5   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      14:49:42
+End Time        15:39:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     87       1    -   Verifier la valeur saisie                               -
+   2182       5    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      15:40:00
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      19:02:25
+End Time        22:03:56
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           41   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       2    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      22:05:18
+End Time        22:05:22
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           41   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       2    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      22:05:22
+End Time        22:05:26
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           41   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       2    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      22:05:26
+End Time        22:05:26
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           41   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       2    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      22:05:26
+End Time        22:05:26
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           41   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       2    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      22:05:26
+End Time        22:32:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           41   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       3    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      22:32:01
+End Time        22:36:56
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           45   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       3    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      22:37:10
+End Time        22:39:25
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           57   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       3    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      22:40:24
+End Time        22:40:56
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           57   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       3    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\L16\Documents\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      C:\Users\L16\Documents\Masque_SCA\data
+
+Date            Aug 15, 2016
+Start Time      22:41:23
+End Time        22:42:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990           65   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     33       1    -    Valeur saisie non valide                               -
+     57       1    -   Si les heures sont les mêmes, la minute de fin do       -
+     75       3    -   Verifier la valeur saisie                               -
+    898       3    -   Verifier la valeur saisie                               -
+   1254       1    -   Verifier la valeur saisie                               -
+   2182      13    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     D:\WHOLE_CSAD_CSPRO\Masque_SCA\sca_app.ent
+Type            ENTRY
+Input Data      <<Text File>> D:\WHOLE_CSAD_CSPRO\Masque_SCA\data
+
+Date            Jul 12, 2017
+Start Time      22:51:57
+End Time        22:57:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            5   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+     57       2    -   Si les heures sont les mêmes, la minute de fin do       -
+    371       1    -   Verifier la valeur saisie                               -
+    476       2    -   Verifier la valeur saisie                               -
+    581       2    -   Verifier la valeur saisie                               -
+   2182       1    -   Verifier la valeur saisie                               -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

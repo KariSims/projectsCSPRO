@@ -1,0 +1,22 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Batch
+
+[Files]
+Application=.\ControleNote.bch
+InputData=..\..\..\..\Users\nn\Pictures\MALUKU.csdb|CSPRODB
+OutputData=.\cdx.csdb|CSPRODB
+Listing=.\ControleNote.lst
+
+
+[UserFiles]
+HTMLTEMP=
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential
+

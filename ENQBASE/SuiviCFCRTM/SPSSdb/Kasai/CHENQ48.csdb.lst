@@ -1,0 +1,6024 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      07:59:38
+End Time        08:20:18
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      08:20:44
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      08:20:59
+End Time        08:28:29
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   2001       1    -   W Enfant trop jeune ou trop vieux pour être inter       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      08:32:40
+End Time        08:35:33
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   2001       1    -   W Enfant trop jeune ou trop vieux pour être inter       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      08:38:29
+End Time        08:38:45
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      08:39:00
+End Time        08:40:04
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      08:43:41
+End Time        08:47:43
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      08:59:31
+End Time        09:04:07
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 11, 2019
+Start Time      09:04:13
+End Time        09:06:46
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      09:58:12
+End Time        10:03:30
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            2   Operator entered a value out of range            
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      11:22:38
+End Time        11:35:25
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      11:35:36
+End Time        11:39:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      12:35:23
+End Time        12:39:34
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 11, 2019
+Start Time      12:39:45
+End Time        12:39:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 11, 2019
+Start Time      12:39:54
+End Time        12:41:16
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  48000            1   Invalid expression (%s) in CAPI text             
+  92102            2   New case ids '%s' duplicate an existing case! Cas
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      12:41:32
+End Time        12:43:57
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      13:00:29
+End Time        13:02:30
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 11, 2019
+Start Time      13:02:36
+End Time        13:03:38
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 11, 2019
+Start Time      13:03:42
+End Time        13:03:57
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 11, 2019
+Start Time      13:03:57
+End Time        13:05:50
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 11, 2019
+Start Time      13:05:55
+End Time        13:06:49
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       4    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 11, 2019
+Start Time      13:37:52
+End Time        13:40:28
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      09:28:10
+End Time        09:38:50
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      09:39:51
+End Time        09:43:48
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      09:55:59
+End Time        09:59:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      10:01:56
+End Time        10:03:03
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 12, 2019
+Start Time      10:03:10
+End Time        10:03:19
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 12, 2019
+Start Time      10:03:19
+End Time        10:05:02
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  48000            1   Invalid expression (%s) in CAPI text             
+  92102            4   New case ids '%s' duplicate an existing case! Cas
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      10:05:11
+End Time        10:07:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      10:08:06
+End Time        10:10:24
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      11:26:39
+End Time        11:32:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      11:33:03
+End Time        11:45:28
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      11:54:38
+End Time        11:57:18
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 12, 2019
+Start Time      11:57:28
+End Time        11:59:32
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 13, 2019
+Start Time      07:48:26
+End Time        07:52:23
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 13, 2019
+Start Time      07:52:40
+End Time        08:01:04
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            2   Operator entered a value out of range            
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 13, 2019
+Start Time      09:16:45
+End Time        09:21:52
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 13, 2019
+Start Time      09:22:03
+End Time        09:29:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 13, 2019
+Start Time      11:09:06
+End Time        11:14:26
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   2001       1    -   W Enfant trop jeune ou trop vieux pour être inter       -
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 13, 2019
+Start Time      11:14:37
+End Time        11:26:44
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   2001       1    -   W Enfant trop jeune ou trop vieux pour être inter       -
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 13, 2019
+Start Time      11:56:49
+End Time        11:59:30
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 13, 2019
+Start Time      11:59:35
+End Time        12:01:34
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 13, 2019
+Start Time      12:01:38
+End Time        12:03:36
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 13, 2019
+Start Time      12:03:40
+End Time        12:06:03
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       4    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:15:17
+End Time        07:22:47
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:22:53
+End Time        07:29:35
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:42:27
+End Time        07:42:27
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:45:01
+End Time        07:45:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:45:10
+End Time        07:45:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:45:24
+End Time        07:45:24
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:45:38
+End Time        07:45:38
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:46:04
+End Time        07:46:05
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:46:11
+End Time        07:46:11
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:46:25
+End Time        07:46:25
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:46:33
+End Time        07:46:33
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:46:40
+End Time        07:46:40
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:47:00
+End Time        07:47:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:47:15
+End Time        07:47:15
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:47:30
+End Time        07:47:30
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:47:51
+End Time        07:47:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:48:05
+End Time        07:48:20
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:48:20
+End Time        07:48:20
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:48:31
+End Time        07:48:31
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:49:33
+End Time        07:49:33
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:49:59
+End Time        07:49:59
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:50:11
+End Time        07:50:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 14, 2019
+Start Time      07:51:08
+End Time        07:51:09
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:51:34
+End Time        07:51:40
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:52:15
+End Time        07:52:15
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:52:58
+End Time        07:52:58
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      07:53:10
+End Time        07:53:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      08:02:43
+End Time        08:02:43
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      08:49:58
+End Time        08:53:34
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1117       1    -   Vous avez saisi un numéro d'agent différent de ce       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      08:55:34
+End Time        09:02:32
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       1    -   Mère choisie n'est la gardienne de l'enfant dans        -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      09:02:39
+End Time        09:12:18
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       1    -   Mère choisie n'est la gardienne de l'enfant dans        -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      09:12:29
+End Time        09:13:05
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      09:13:20
+End Time        09:13:24
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      10:18:22
+End Time        10:30:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      11:38:31
+End Time        11:41:21
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 14, 2019
+Start Time      11:41:32
+End Time        11:43:22
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 14, 2019
+Start Time      11:43:28
+End Time        11:51:04
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       6    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      11:53:45
+End Time        11:59:32
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       1    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      11:59:49
+End Time        12:03:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      12:10:52
+End Time        12:11:40
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  92103            2   New case ids '%s'. Old ids were '%s'.            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      12:11:52
+End Time        12:12:46
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  92103            2   New case ids '%s'. Old ids were '%s'.            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      12:15:37
+End Time        12:16:19
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  92103            2   New case ids '%s'. Old ids were '%s'.            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       1    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      12:16:27
+End Time        12:17:19
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  92103            2   New case ids '%s'. Old ids were '%s'.            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       1    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 14, 2019
+Start Time      12:20:09
+End Time        12:20:40
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  92103            2   New case ids '%s'. Old ids were '%s'.            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 14, 2019
+Start Time      12:20:46
+End Time        12:21:22
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  92103            4   New case ids '%s'. Old ids were '%s'.            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 15, 2019
+Start Time      08:57:13
+End Time        09:04:03
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 15, 2019
+Start Time      09:04:11
+End Time        09:12:59
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 15, 2019
+Start Time      10:52:30
+End Time        10:56:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 15, 2019
+Start Time      10:57:01
+End Time        11:03:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   2001       1    -   W Enfant trop jeune ou trop vieux pour être inter       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 15, 2019
+Start Time      11:03:07
+End Time        11:10:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 15, 2019
+Start Time      11:47:50
+End Time        11:50:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 15, 2019
+Start Time      11:50:17
+End Time        11:52:53
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 15, 2019
+Start Time      11:52:57
+End Time        11:54:49
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 15, 2019
+Start Time      11:54:56
+End Time        11:56:41
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       4    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 15, 2019
+Start Time      11:56:44
+End Time        11:58:58
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       5    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 16, 2019
+Start Time      08:07:40
+End Time        08:11:19
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 16, 2019
+Start Time      08:11:30
+End Time        08:22:22
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 16, 2019
+Start Time      09:24:18
+End Time        09:31:08
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 16, 2019
+Start Time      11:35:28
+End Time        11:39:50
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 16, 2019
+Start Time      11:39:59
+End Time        11:55:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 16, 2019
+Start Time      11:55:45
+End Time        12:00:58
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 16, 2019
+Start Time      12:10:37
+End Time        12:11:15
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 16, 2019
+Start Time      12:54:17
+End Time        12:57:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 16, 2019
+Start Time      12:57:44
+End Time        13:00:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 16, 2019
+Start Time      13:00:16
+End Time        13:02:38
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 16, 2019
+Start Time      13:02:47
+End Time        13:05:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       4    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 16, 2019
+Start Time      13:05:04
+End Time        13:07:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       5    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 16, 2019
+Start Time      13:07:54
+End Time        13:09:26
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       6    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      07:48:33
+End Time        07:51:36
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      07:56:53
+End Time        07:58:36
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      09:01:28
+End Time        09:13:22
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   9998       1    -   D Code donné pour la variable alpha non acceptabl       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      09:13:35
+End Time        09:18:46
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   9998       1    -   D Code donné pour la variable alpha non acceptabl       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      09:26:23
+End Time        09:28:12
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 17, 2019
+Start Time      09:28:19
+End Time        09:30:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      10:29:04
+End Time        10:32:32
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      10:32:41
+End Time        10:34:30
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      10:34:47
+End Time        10:35:04
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      10:35:22
+End Time        10:38:43
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   2001       1    -   W Enfant trop jeune ou trop vieux pour être inter       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      10:38:59
+End Time        10:47:33
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      10:47:43
+End Time        10:51:31
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      14:29:11
+End Time        14:32:07
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 17, 2019
+Start Time      16:08:10
+End Time        16:11:05
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  48000            1   Invalid expression (%s) in CAPI text             
+  92102            7   New case ids '%s' duplicate an existing case! Cas
+  92103            1   New case ids '%s'. Old ids were '%s'.            
+  99990            5   Operator entered a value out of range            
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 18, 2019
+Start Time      07:55:40
+End Time        08:04:27
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 18, 2019
+Start Time      08:16:13
+End Time        08:19:21
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       2    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 18, 2019
+Start Time      08:19:25
+End Time        08:21:11
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       3    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 18, 2019
+Start Time      08:21:21
+End Time        08:24:49
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       3    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 18, 2019
+Start Time      08:24:54
+End Time        08:27:20
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       3    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       4    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 18, 2019
+Start Time      08:27:27
+End Time        08:29:11
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       3    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       5    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 18, 2019
+Start Time      10:58:54
+End Time        11:01:03
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 18, 2019
+Start Time      11:01:11
+End Time        11:07:30
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 18, 2019
+Start Time      11:20:59
+End Time        11:24:53
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 18, 2019
+Start Time      11:25:02
+End Time        11:26:48
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 19, 2019
+Start Time      11:05:57
+End Time        11:14:04
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       2    -   Mère choisie n'est la gardienne de l'enfant dans        -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 19, 2019
+Start Time      11:21:55
+End Time        11:24:40
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 19, 2019
+Start Time      12:11:11
+End Time        12:16:33
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 19, 2019
+Start Time      12:16:43
+End Time        12:28:46
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   2702       2    -   W Date de %s de vaccination (%02d /%02d /%04d) ap       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 19, 2019
+Start Time      12:40:34
+End Time        12:42:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 19, 2019
+Start Time      12:42:09
+End Time        12:44:07
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 19, 2019
+Start Time      12:44:12
+End Time        12:45:59
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 19, 2019
+Start Time      16:01:04
+End Time        16:01:20
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1048       1    -   Aucun enfant de 0 à 5 ans dans le Ménage                -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 19, 2019
+Start Time      16:01:28
+End Time        16:10:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 19, 2019
+Start Time      16:10:18
+End Time        16:14:41
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 19, 2019
+Start Time      17:30:53
+End Time        17:38:07
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 19, 2019
+Start Time      17:38:24
+End Time        17:41:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      07:41:06
+End Time        07:49:28
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      07:49:46
+End Time        07:53:59
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       1    -   Mère choisie n'est la gardienne de l'enfant dans        -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      09:17:56
+End Time        09:35:15
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      09:35:23
+End Time        09:39:16
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      09:59:37
+End Time        10:03:52
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      10:03:58
+End Time        10:09:08
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1117       1    -   Vous avez saisi un numéro d'agent différent de ce       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 20, 2019
+Start Time      10:09:15
+End Time        10:11:11
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  92101            4   Case ids '%s' duplicate an existing case! Case id
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1117       1    -   Vous avez saisi un numéro d'agent différent de ce       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      10:11:36
+End Time        10:12:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 20, 2019
+Start Time      10:12:18
+End Time        10:14:19
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 20, 2019
+Start Time      10:14:24
+End Time        10:14:53
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      10:15:06
+End Time        10:16:53
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 20, 2019
+Start Time      10:17:02
+End Time        10:19:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 20, 2019
+Start Time      10:20:04
+End Time        10:21:58
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      11:04:34
+End Time        11:06:23
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 20, 2019
+Start Time      11:06:44
+End Time        11:07:25
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 20, 2019
+Start Time      11:07:30
+End Time        11:08:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      15:57:45
+End Time        16:05:34
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 20, 2019
+Start Time      16:05:46
+End Time        16:13:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 21, 2019
+Start Time      09:29:03
+End Time        09:33:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 21, 2019
+Start Time      09:33:54
+End Time        09:36:37
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 21, 2019
+Start Time      09:36:48
+End Time        09:38:38
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 21, 2019
+Start Time      09:45:59
+End Time        09:48:03
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 21, 2019
+Start Time      09:48:13
+End Time        09:50:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 21, 2019
+Start Time      09:50:21
+End Time        09:52:08
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 21, 2019
+Start Time      14:25:28
+End Time        14:33:04
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 21, 2019
+Start Time      14:33:19
+End Time        14:36:52
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 21, 2019
+Start Time      15:15:47
+End Time        15:18:07
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       1    -   Mère choisie n'est la gardienne de l'enfant dans        -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 21, 2019
+Start Time      16:17:13
+End Time        16:19:18
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1105       1    -   Mère choisie n'est la gardienne de l'enfant dans        -
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 22, 2019
+Start Time      10:57:50
+End Time        10:58:48
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:00:19
+End Time        11:01:05
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 22, 2019
+Start Time      11:18:32
+End Time        11:19:46
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:19:54
+End Time        11:20:56
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:21:17
+End Time        11:22:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:22:08
+End Time        11:22:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       4    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:23:10
+End Time        11:23:49
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       5    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:24:12
+End Time        11:24:48
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       6    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:24:54
+End Time        11:26:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       7    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:26:15
+End Time        11:27:32
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       8    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:27:39
+End Time        11:29:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       9    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:29:22
+End Time        11:29:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      10    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:30:08
+End Time        11:30:49
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      11    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:31:55
+End Time        11:32:25
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      12    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:32:51
+End Time        11:33:17
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      13    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:33:28
+End Time        11:33:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      14    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:34:05
+End Time        11:34:47
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      15    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:35:02
+End Time        11:35:47
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       3    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      16    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:35:54
+End Time        11:36:18
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       3    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      17    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:36:27
+End Time        11:36:59
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       3    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      18    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:37:08
+End Time        11:37:31
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       3    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      19    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:37:39
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 22, 2019
+Start Time      11:39:45
+End Time        11:40:23
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:40:33
+End Time        11:41:17
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       2    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:41:23
+End Time        11:41:45
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       3    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:41:51
+End Time        11:42:22
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       4    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:42:29
+End Time        11:43:15
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       1    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       5    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:43:27
+End Time        11:44:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       6    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:44:21
+End Time        11:44:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       2    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       7    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:44:57
+End Time        11:45:47
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       3    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       8    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:45:56
+End Time        11:46:32
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       3    -   Préciser tous les les aliments solides, semi-soli       -
+   2522       9    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:46:44
+End Time        11:47:14
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       3    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      10    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:47:21
+End Time        11:47:48
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       3    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      11    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:48:09
+End Time        11:48:58
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       4    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      12    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:49:10
+End Time        11:49:45
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       4    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      13    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:49:49
+End Time        11:50:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       4    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      14    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:50:18
+End Time        11:50:49
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       4    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      15    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:50:58
+End Time        11:51:34
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       5    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      16    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<Empty>>
+
+Date            Apr 22, 2019
+Start Time      11:51:48
+End Time        11:52:19
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1390       5    -   Préciser tous les les aliments solides, semi-soli       -
+   2522      17    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 23, 2019
+Start Time      08:57:12
+End Time        09:00:12
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\CHENQ48.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ48.csdb
+
+Date            Apr 23, 2019
+Start Time      09:07:47
+End Time        09:12:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in CAPI text             
+  99990            1   Operator entered a value out of range            
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   2001       2    -   W Enfant trop jeune ou trop vieux pour être inter       -
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   2522       1    -   Avez-vous une observation à renseigner?                 -
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

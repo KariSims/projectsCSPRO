@@ -1,0 +1,13 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Entry
+
+[DataEntryInit]
+StartMode=Add
+
+[Files]
+Application=.\MENU.ent
+InputData=..\..\tmp\Menu.csdb
+
+[ExternalFiles]
+EQUIPE_DICT=..\Fext\teams.csdb

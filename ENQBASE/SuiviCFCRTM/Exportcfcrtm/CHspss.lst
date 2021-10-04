@@ -1,0 +1,28 @@
+﻿Application     C:\ENQBASE\SuiviCFCRTM\Exportcfcrtm\CHspss.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\OutputMod\ModuleCH.csdb                                                                                                                                                                                                                                                 
+<Output>        <<Empty>>                                                                                                                                                                                                                                                                                                   
+<File>          CHDB=C:\ENQBASE\SuiviCFCRTM\dbconcat\CHdb
+
+Date            May 29, 2019
+Start Time      00:58:42
+End Time        00:58:44
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |   11844 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |       1801   |          0   |       1801  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

@@ -1,0 +1,107 @@
+﻿[Dictionary]
+Version=CSPro 7.4
+Label=Feuil1 Dictionary
+Name=FEUIL1_DICT
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+SecurityOptions=1F5D6F36616D0F92095498D3847578454C1D91FB64F23BD0EC587F454D936FAE
+
+[Level]
+Label=Feuil1 Level
+Name=FEUIL1_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Nordr
+Name=NORDR
+Start=1
+Len=2
+ZeroFill=Yes
+
+[Record]
+Label=Feuil1 Record
+Name=FEUIL1_REC
+RecordTypeValue=''
+MaxRecords=9999
+RecordLen=117
+
+[Item]
+Label=Codag
+Name=CODAG
+Start=3
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Namag
+Name=NAMAG
+Start=7
+Len=17
+DataType=Alpha
+
+[Item]
+Label=Codepc
+Name=CODEPC
+Start=24
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Nompc
+Name=NOMPC
+Start=26
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Id Prov
+Name=ID_PROV
+Start=46
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Prov
+Name=PROV
+Start=49
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Idvill Territ
+Name=IDVILL_TERRIT
+Start=69
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nom Vill Territ
+Name=NOM_VILL_TERRIT
+Start=72
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Id Comm Sec
+Name=ID_COMM_SEC
+Start=92
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nom Comm Sec
+Name=NOM_COMM_SEC
+Start=95
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Nombre d'emplacement par Marché
+Name=NB_EMPL
+Start=115
+Len=3
+ZeroFill=Yes

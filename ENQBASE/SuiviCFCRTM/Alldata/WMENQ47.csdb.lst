@@ -1,0 +1,19 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\WMENQ47.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\HHENQ47.csdb
+
+Date            Apr 21, 2019
+Start Time      16:18:05
+End Time        10:51:01
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3336       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

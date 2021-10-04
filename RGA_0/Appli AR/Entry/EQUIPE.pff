@@ -1,0 +1,10 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Entry
+
+[Files]
+Application=.\EQUIPE.ent
+InputData=..\Fext\teams.csdb
+
+[ExternalFiles]
+CARTOGRAPHIE_DICT=|type=None

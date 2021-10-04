@@ -1,0 +1,60 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=AIT
+Name=AIT_DICT
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=LISTE DES AIT
+Name=AIT
+
+[IdItems]
+
+[Item]
+Label=User identification (Bluetooth MAC address)
+Name=UID
+Start=1
+Len=12
+DataType=Alpha
+
+[Record]
+Label=Users record
+Name=AIT_REC
+RecordTypeValue=''
+RecordLen=58
+
+[Item]
+Label=Numéro de la province
+Name=NUMPROV
+Start=13
+Len=2
+
+[Item]
+Label=Numero Utilisateur
+Name=UNUMBER
+Start=15
+Len=3
+
+[Item]
+Label=Name
+Name=UNAME
+Start=18
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Gender
+Name=UGENDER
+Start=58
+Len=1
+
+[ValueSet]
+Label=Gender
+Name=UGENDER_VS1
+Value=1;Male
+Value=2;Female
+Value=9;Undefined

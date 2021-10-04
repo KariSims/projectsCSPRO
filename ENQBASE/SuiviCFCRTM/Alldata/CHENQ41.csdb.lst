@@ -1,0 +1,23 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\CHENQ41.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\HHENQ41.csdb
+
+Date            Apr 13, 2019
+Start Time      10:41:24
+End Time        18:58:53
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   expression non valide (% s) dans le texte CAPI   
+
+
+A compilation error file (.err) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

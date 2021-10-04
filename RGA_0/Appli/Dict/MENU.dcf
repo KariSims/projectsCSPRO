@@ -1,0 +1,35 @@
+﻿[Dictionary]
+Version=CSPro 7.5
+Label=MENU
+Name=MENU_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=067F73DD16819176E306844F92207E4C4DF25E48BCA7DB388B81F5D2D8353AF3
+
+[Level]
+Label=MENU Level
+Name=MENU_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Identification
+Name=MENU_ID
+Start=2
+Len=4
+
+[Record]
+Label=MENU Record
+Name=MENU_REC
+RecordTypeValue='1'
+Required=No
+RecordLen=6
+
+[Item]
+Label=debut
+Name=DEBUT
+Start=6
+Len=1

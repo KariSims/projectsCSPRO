@@ -1,0 +1,16 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=MODULE16
+Name=MODULE16
+AppType=Batch
+[External Dictionaries]
+File=..\..\Dicts\EPMU1HH.dcf
+[AppCode]
+File=.\Module16.bch.apc
+[Message]
+File=.\Module16.bch.mgf
+[Order]
+File=.\Module16.ord
+[Dictionary Types]
+Dict-Type=..\..\Dicts\EPMU1M16.dcf,Input,.\Module16.ord
+Dict-Type=..\..\Dicts\EPMU1HH.dcf,External

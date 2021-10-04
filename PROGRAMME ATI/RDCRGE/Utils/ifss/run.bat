@@ -1,0 +1,1 @@
+IfssClientPC.exe  "log=log.txt" resetcookie

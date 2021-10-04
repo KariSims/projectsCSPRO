@@ -1,0 +1,3612 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=MODULE 10 : AGRICULTURE URBAINE
+Name=EPMU1M10
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=Français
+LIN=Lingala
+SWA=Swahili
+
+[Level]
+Label=MODULE 10 : AGRICULTURE URBAINE  questionnaire
+Name=M10
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=M101
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=M102
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro enquêteur
+Name=M10INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M103
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M103_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS DU MODULE 10
+Name=MODM10
+RecordTypeValue='M10'
+RecordLen=129
+
+[Item]
+Label=Code Enquêteur|Numéro Enquêteur
+Name=M10HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur|Numéro Superviseur
+Name=M105
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview|Date d'interview
+Name=M106
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview|Jour d'interview
+Name=M106J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Mois de l'interview|Mois d'interview
+Name=M106M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=M106M_VS1
+Value=1;Janvier
+Value=2;Fevrier
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Aout
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Decembre
+
+[Item]
+Label=Année de l'interview|Année d'interview
+Name=M106A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview|Année d'interview
+Name=M106A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu|Milieu de résidence
+Name=M107
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu|Milieu de résidence
+Name=M107_VS1
+Value=1;URBAIN
+
+[Item]
+Label=Province|Province
+Name=M108
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province|Province
+Name=M108_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps dudébut de l'interview|Temps début de l' interview
+Name=M109
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M109H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M109H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M109M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M109M_VS1
+Value=0:59
+
+[Item]
+Label=L'heure de la fin de l'interview|Temps de fin de l'interview
+Name=M1010
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M1010H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M1010H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M1010M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M1010M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement |Consentement
+Name=M1011
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement
+Name=M1011_VS1
+Value=1;OUI, PERMISSION DONNEE|Iyo, Andimi|Ndio, DATA YA MAFUNZO
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;NON, PERMISSION PAS DONNEE |Te, Aboyi|HASI, UFUNZO HUWEZI
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M1017
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Resultat d'interview
+Name=M1017_VS1
+Value=1;COMPLETE|Esili|Kamili
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|Mutu aza te|Muntu Ayiko ku nyumba
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|Ata mutu moko te ya ndaku|Familia nzima haipatikani kwa muda mrefu
+Value=4;REFUS|Baboyi|Bana katala
+Value=5;LOGEMENT VIDE|Mutu afandaka te|Muntu ayika
+Value=6;LOGEMENT DETRUIT|Esika ebeba|Nyumba inaribika
+Value=7;LOGEMENT PAS TROUVE|Esika emonani te|Nyumba ayone kane
+Value=96;AUTRE|Mosusu|Nyingine
+
+[ValueSet]
+Label=Résultat2
+Name=M1017_VS2
+Value=1;COMPLETE
+
+[Item]
+Label=Nom du chef de ménage|Nom du chef de ménage
+Name=M10NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M10ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M10FIN
+Start=122
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Finish
+Name=M10FIN_VS1
+Value=1;Revisiter le questionnaire|Kozongela mituna|Rejea Hoja ya
+Image=..\..\Reference\icons\revisiter.png
+Value=2;Ajouter les  notes|Kotia makomi|Ongeza maelezo
+Image=..\..\Reference\icons\notes.png
+Value=3;Sauvegarder questionnaire et terminer|ko enregistrer|Hifadhi dodoso na kumaliza
+Image=..\..\Reference\icons\sauvegarder.png
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer|Kokoba|Kuendelea
+
+[Item]
+Label=Nombre de champs
+Name=AU48
+Start=124
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=REPONDANT PARTIE 1
+Name=RESP_P1
+Start=126
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=REPONDANT PARTIE 2
+Name=REPS_P2
+Start=128
+Len=2
+ZeroFill=Yes
+
+[Record]
+Label=Agriculture urbaine
+Name=AGRICULTURE
+RecordTypeValue='AUR'
+RecordLen=18
+
+[Item]
+Label=votre ménage a-t-il pratiqué le jardinage ou l'agriculture sur une parcelle
+Name=AU1
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=votre ménage a-t-il pratiqué le jardinage ou l'agriculture sur une parcelle
+Name=AU1_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Type : Cultures vivirières à plusieurs récoltes
+Name=AU2A
+Start=15
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Type : Cultures vivirières à plusieurs récoltes
+Name=AU2A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Type : Cultures vivrières à une seule récoltes par saison
+Name=AU2B
+Start=16
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Type : Cultures vivrières à une seule récoltes par saison
+Name=AU2B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Type : Cultures maraichères
+Name=AU2C
+Start=17
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Type : Cultures maraichères
+Name=AU2C_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=un membre de votre ménage pratique l'élevage
+Name=AU31
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=un membre de votre ménage pratique l'élevage
+Name=AU31_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Record]
+Label=Cultures vivrières à plusieurs recoltes
+Name=VIVRIERES1
+RecordTypeValue='CVP'
+Required=No
+MaxRecords=6
+RecordLen=128
+
+[Item]
+Label=Numero de ligne de la culture
+Name=AU3
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numero de ligne de la culture
+Name=AU3_VS1
+Value=1:6
+
+[Item]
+Label=Nom de la culture
+Name=AU3A
+Start=15
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Production réalisée
+Name=AU3B
+Start=65
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Production réalisée
+Name=AU3B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Code du produit
+Name=AU4
+Start=66
+Len=7
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de recolte au cours des 7 derniers jours
+Name=AU5
+Start=73
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de recolte au cours des 7 derniers jours
+Name=AU5_VS1
+Value=0:100;Nombre de recolte
+
+[Item]
+Label=Unité locale
+Name=AU6U
+Start=77
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Unité locale
+Name=AU6U_VS1
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale
+Name=AU6U_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale
+Name=AU6U_VS3
+Value=7;Régime
+Image=..\..\Reference\icons\regime_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale
+Name=AU6U_VS4
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité recoltée en unité locale
+Name=AU6Q
+Start=79
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité recoltée en unité locale
+Name=AU6Q_VS1
+Value=0:999;Quantité
+
+[Item]
+Label=Poids moyen de l'unité en Kg
+Name=AU6
+Start=83
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Poids moyen de l'unité en Kg
+Name=AU6_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Fréquence de la production au cours de la saison A
+Name=AU7A
+Start=90
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fréquence de la production au cours de la saison A
+Name=AU7A_VS1
+Value=1;Semaine|Na Poso
+Value=2;Mois|Na sanza
+Value=3;Trimestre|Na sima ya sanza misato
+
+[Item]
+Label=Durée de la recolte au cours de la saison A
+Name=AU7B
+Start=91
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Durée de la recolte au cours de la saison A
+Name=AU7B_VS1
+Value=0:999;Durée de la recolte
+
+[Item]
+Label=Nombre d'unités locales par fréquence
+Name=AU7C
+Start=95
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre d'unités locales par fréquence
+Name=AU7C_VS1
+Value=0:9999;Nombre d'unité locale
+
+[Item]
+Label=Code de l'unité locale
+Name=AU7D
+Start=99
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code de l'unité locale
+Name=AU7D_VS1
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale
+Name=AU7D_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale
+Name=AU7D_VS3
+Value=7;Régime
+Image=..\..\Reference\icons\regime_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale
+Name=AU7D_VS4
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU7F
+Start=101
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU7F_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Pourcentage de production consommée
+Name=AU8A
+Start=108
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pourcentage de production consommée
+Name=AU8A_VS1
+Value=0:100;Pourcentage
+
+[Item]
+Label=Pourcentage de production donnée
+Name=AU8B
+Start=111
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pourcentage de production donnée
+Name=AU8B_VS1
+Value=0:100;Pourcentage
+
+[Item]
+Label=Pourcentage de production vendue
+Name=AU8C
+Start=114
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pourcentage de production vendue
+Name=AU8C_VS1
+Value=0:100;Pourcentage
+
+[Item]
+Label=La valeur de la production vendue
+Name=AU8C1
+Start=117
+Len=12
+ZeroFill=Yes
+
+[ValueSet]
+Label=La valeur de la production vendue
+Name=AU8C1_VS1
+Value=0:9999999999;Valeur
+
+[Record]
+Label=Cultures vivrières à une seule recolte
+Name=VIVRIERES2
+RecordTypeValue='CVS'
+Required=No
+MaxRecords=10
+RecordLen=281
+
+[Item]
+Label=Numero de ligne de la culture
+Name=AU9
+Start=14
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numero de ligne de la culture
+Name=AU9_VS1
+Value=1:10
+
+[Item]
+Label=Nom de la culture
+Name=AU9A
+Start=16
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Production réalisée saison A
+Name=AU9B
+Start=66
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Production réalisée saison A
+Name=AU9B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Code du produit
+Name=AU10
+Start=67
+Len=10
+ZeroFill=Yes
+
+[Item]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU11A
+Start=77
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU11A_VS1
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU11A_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Nombre total d'unités
+Name=AU11B
+Start=79
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre total d'unités
+Name=AU11B_VS1
+Value=0:9999;Nombre
+
+[Item]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU11C
+Start=83
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU11C_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Code de l'unité locale de la production totale saison B
+Name=AU12A
+Start=90
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison B
+Name=AU12A_VS1
+Value=0;Aucune production
+Image=..\..\Reference\icons\Non.png
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\filet_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison B
+Name=AU12A_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Nombre total d'unités
+Name=AU12B
+Start=92
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre total d'unités
+Name=AU12B_VS1
+Value=0:9999;Nombre
+
+[Item]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU12C
+Start=96
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU12C_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=L'unité locale vendue au cours de la saison A
+Name=AU13A1
+Start=103
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale vendue au cours de la saison A
+Name=AU13A1_VS1
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU13A1_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité vendue au cours de la saisie A
+Name=AU13A
+Start=105
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité vendue au cours de la saisie A
+Name=AU13A_VS1
+Value=0:9999;Quanté
+
+[Item]
+Label=Le poid moyen vendue au cours de la saison A
+Name=AU13A2
+Start=109
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poid moyen vendue au cours de la saison A
+Name=AU13A2_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale (en Fc)
+Name=AU13B
+Start=116
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale (en Fc)
+Name=AU13B_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=L'unité locale donnée au cours de la saion A
+Name=AU13C1
+Start=126
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale donnée au cours de la saion A
+Name=AU13C1_VS1
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU13C1_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité donnée au cours de la saisie A
+Name=AU13C
+Start=128
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité donnée au cours de la saisie A
+Name=AU13C_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poids moyen donnée au cours de la saion A
+Name=AU13C2
+Start=132
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen donnée au cours de la saion A
+Name=AU13C2_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale (en Fc)
+Name=AU13D
+Start=139
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale (en Fc)
+Name=AU13D_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=Lunité locale consommée au cours de la saison A
+Name=AU13E1
+Start=149
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Lunité locale consommée au cours de la saison A
+Name=AU13E1_VS1
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU13E1_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité consommée au cours de la saisie A
+Name=AU13E
+Start=151
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité consommée au cours de la saisie A
+Name=AU13E_VS1
+Value=0:999;Quantité
+
+[Item]
+Label=Le poids moyen consommé au cours de la saison A
+Name=AU13E2
+Start=155
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen consommé au cours de la saison A
+Name=AU13E2_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale (en Fc)
+Name=AU13F
+Start=162
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale (en Fc)
+Name=AU13F_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=L'unité locale vendue au cours de la saison B
+Name=AU14A1
+Start=172
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale vendue au cours de la saison B
+Name=AU14A1_VS1
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU14A1_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité vendue au cours de la saisie B
+Name=AU14A
+Start=174
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité vendue au cours de la saisie B
+Name=AU14A_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poid moyen vendue au cours de la saison B
+Name=AU14A2
+Start=178
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poid moyen vendue au cours de la saison B
+Name=AU14A2_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale (en Fc)
+Name=AU14B
+Start=185
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale (en Fc)
+Name=AU14B_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=L'unité locale donnée au cours de la saion B
+Name=AU14C1
+Start=195
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale donnée au cours de la saion B
+Name=AU14C1_VS1
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU14C1_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité donnée au cours de la saisie B
+Name=AU14C
+Start=197
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité donnée au cours de la saisie B
+Name=AU14C_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poids moyen donnée au cours de la saion B
+Name=AU14C2
+Start=201
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen donnée au cours de la saion B
+Name=AU14C2_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale (en Fc)
+Name=AU14D
+Start=208
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale (en Fc)
+Name=AU14D_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=Lunité locale consommée au cours de la saison B
+Name=AU14E1
+Start=218
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Lunité locale consommée au cours de la saison B
+Name=AU14E1_VS1
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU14E1_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité consommée au cours de la saisie B
+Name=AU14E
+Start=220
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité consommée au cours de la saisie B
+Name=AU14E_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poids moyen consommé au cours de la saison B
+Name=AU14E2
+Start=224
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen consommé au cours de la saison B
+Name=AU14E2_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale (en Fc)
+Name=AU14F
+Start=231
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale (en Fc)
+Name=AU14F_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=Production réalisé à la saison B
+Name=AU9B1
+Start=241
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Production réalisé à la saison B
+Name=AU9B1_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Nom de la culture saison B
+Name=AU9A2
+Start=242
+Len=40
+DataType=Alpha
+
+[Record]
+Label=Cultures maraichères
+Name=LEGUMES
+RecordTypeValue='CMA'
+Required=No
+MaxRecords=7
+RecordLen=280
+
+[Item]
+Label=Numero de ligne de la culture
+Name=AU15
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numero de ligne de la culture
+Name=AU15_VS1
+Value=1:7
+
+[Item]
+Label=Nom de la culture
+Name=AU15A
+Start=15
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Réalisation de la production
+Name=AU15B
+Start=65
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Réalisation de la production
+Name=AU15B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Code du produit
+Name=AU16
+Start=66
+Len=10
+ZeroFill=Yes
+
+[Item]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU17A
+Start=76
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU17A_VS1
+Value=0;Aucune production
+Image=..\..\Reference\icons\Non.png
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU17A_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU17A_VS3
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU17A_VS4
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU17A_VS5
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Nombre total d'unités
+Name=AU17B
+Start=78
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre total d'unités
+Name=AU17B_VS1
+Value=0:9999;Nombre
+
+[Item]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU17C
+Start=82
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU17C_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Code de l'unité locale de la production totale saison B
+Name=AU18A
+Start=89
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison B
+Name=AU18A_VS1
+Value=0;Aucune production
+Image=..\..\Reference\icons\Non.png
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU18A_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU18A_VS3
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU18A_VS4
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU18A_VS5
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Nombre total d'unités
+Name=AU18B
+Start=91
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre total d'unités
+Name=AU18B_VS1
+Value=0:9999;Nombre
+
+[Item]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU18C
+Start=95
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Poids moyen de l'unité (en Kg)
+Name=AU18C_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=L'unité locale vendue de la production au cours de la saison A
+Name=AU19A11
+Start=102
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale vendue de la production au cours de la saison A
+Name=AU19A11_VS1
+Value=0;Aucune production
+Image=..\..\Reference\icons\Non.png
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19A11_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19A11_VS3
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19A11_VS4
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19A11_VS5
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité vendue de la production au cours de la saison  A
+Name=AU19A1
+Start=104
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité vendue de la production au cours de la saison  A
+Name=AU19A1_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poids moyen de l'unité locale au cours de la saison A
+Name=AU19A12
+Start=108
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen de l'unité locale au cours de la saison A
+Name=AU19A12_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale de la production vendue au cours de la saison A (en Fc)
+Name=AU19A2
+Start=115
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale de la production vendue au cours de la saison A (en Fc)
+Name=AU19A2_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=L'unité locale de la production consommée au cours de la saison A
+Name=AU19B11
+Start=125
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale de la production consommée au cours de la saison A
+Name=AU19B11_VS1
+Value=0;Aucune production
+Image=..\..\Reference\icons\Non.png
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19B11_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19B11_VS3
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19B11_VS4
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19B11_VS5
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité consommée de la production au cours de la saison A
+Name=AU19B1
+Start=127
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité consommée de la production au cours de la saison A
+Name=AU19B1_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poids moyen de l'unité locale au cours de la saison A
+Name=AU19B12
+Start=131
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen de l'unité locale au cours de la saison A
+Name=AU19B12_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale de la production consommée au cours de la saison A (en Fc)
+Name=AU19B2
+Start=138
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale de la production consommée au cours de la saison A (en Fc)
+Name=AU19B2_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=L'unité locale de la production offerte au cours de la saison A
+Name=AU19C11
+Start=148
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale de la production offerte au cours de la saison A
+Name=AU19C11_VS1
+Value=0;Aucune production
+Image=..\..\Reference\icons\Non.png
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19C11_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19C11_VS3
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19C11_VS4
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU19C11_VS5
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité offerte à un autre ménage au cours de la saison  A
+Name=AU19C1
+Start=150
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité offerte à un autre ménage au cours de la saison  A
+Name=AU19C1_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poids moyen de l'unité locale au cours de la saison A
+Name=AU19C12
+Start=154
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen de l'unité locale au cours de la saison A
+Name=AU19C12_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale offerte à un autre ménage au cours de la saison  A(en Fc)
+Name=AU19C2
+Start=161
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale offerte à un autre ménage au cours de la saison  A(en Fc)
+Name=AU19C2_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=L'unité locale vendue de la production au cours de la saison B
+Name=AU20A11
+Start=171
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale vendue de la production au cours de la saison B
+Name=AU20A11_VS1
+Value=0;Aucune production
+Image=..\..\Reference\icons\Non.png
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20A11_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20A11_VS3
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20A11_VS4
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20A11_VS5
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité vendue de la production au cours de la saison  B
+Name=AU20A1
+Start=173
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité vendue de la production au cours de la saison  B
+Name=AU20A1_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poids moyen de l'unité locale au cours de la saison B
+Name=AU20A12
+Start=177
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen de l'unité locale au cours de la saison B
+Name=AU20A12_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale de la production vendue au cours de la saison B (en Fc)
+Name=AU20A2
+Start=184
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale de la production vendue au cours de la saison B (en Fc)
+Name=AU20A2_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=L'unité locale de la production consommée au cours de la saison B
+Name=AU20B11
+Start=194
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale de la production consommée au cours de la saison B
+Name=AU20B11_VS1
+Value=0;Aucune production
+Image=..\..\Reference\icons\Non.png
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20B11_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20B11_VS3
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20B11_VS4
+Value=1;Bassin
+Image=..\..\..\Users\UTILIS~1\AppData\Reference\icons\bassin_sp.PNG
+Value=4;Filet
+Image=..\..\..\Users\UTILIS~1\AppData\Reference\icons\filet_sp.png
+Value=6;Panier
+Image=..\..\..\Users\UTILIS~1\AppData\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\..\Users\UTILIS~1\AppData\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\..\Users\UTILIS~1\AppData\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\..\Users\UTILIS~1\AppData\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20B11_VS5
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité consommée de la production au cours de la saison B
+Name=AU20B1
+Start=196
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité consommée de la production au cours de la saison B
+Name=AU20B1_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poids moyen de l'unité locale au cours de la saison B
+Name=AU20B12
+Start=200
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen de l'unité locale au cours de la saison B
+Name=AU20B12_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale de la production consommée au cours de la saison B (en Fc)
+Name=AU20B2
+Start=207
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale de la production consommée au cours de la saison B (en Fc)
+Name=AU20B2_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=L'unité locale de la production offerte au cours de la saison B
+Name=AU20C11
+Start=217
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'unité locale de la production offerte au cours de la saison B
+Name=AU20C11_VS1
+Value=0;Aucune production
+Image=..\..\Reference\icons\Non.png
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=3;Bidon
+Image=..\..\Reference\icons\bidon_sp.png
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=5;Gîte
+Image=..\..\Reference\icons\gîte_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=7;Regime
+Image=..\..\Reference\icons\regime_sp.png
+Value=8;Malette
+Image=..\..\Reference\icons\mallette_sp.png
+Value=9;Sac bande verte/noire
+Image=..\..\Reference\icons\SacbandeVert_sp.png
+Value=10;Sac sucrier(mbadi)
+Image=..\..\Reference\icons\mbadi.png
+Value=11;Sac midema
+Image=..\..\Reference\icons\midema_sp.png
+Value=12;Valise
+Image=..\..\Reference\icons\valise_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20C11_VS2
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=2;Caisse
+Image=..\..\Reference\icons\caisse_sp.png
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;Seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20C11_VS3
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20C11_VS4
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=4;Filet
+Image=..\..\Reference\icons\filet_sp.png
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=14;Botte
+Image=..\..\Reference\icons\botte.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[ValueSet]
+Label=Code de l'unité locale de la production totale saison A
+Name=AU20C11_VS5
+Value=1;Bassin
+Image=..\..\Reference\icons\bassin_sp.PNG
+Value=6;Panier
+Image=..\..\Reference\icons\panier_sp.png
+Value=13;seau
+Image=..\..\Reference\icons\seau_sp.png
+Value=99;Autre à préciser
+Image=..\..\Reference\icons\autre_sp.png
+
+[Item]
+Label=Quantité offerte de la production au cours de la saison  B
+Name=AU20C1
+Start=219
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité offerte de la production au cours de la saison  B
+Name=AU20C1_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Le poids moyen de l'unité locale au cours de la saison B
+Name=AU20C12
+Start=223
+Len=7
+Decimal=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le poids moyen de l'unité locale au cours de la saison B
+Name=AU20C12_VS1
+Value=0,000:9999,000;Poids moyen
+
+[Item]
+Label=Valeur totale de la production offerte au cours de la saison B (en Fc)
+Name=AU20C2
+Start=230
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale de la production offerte au cours de la saison B (en Fc)
+Name=AU20C2_VS1
+Value=0:9999999999;Valeur
+
+[Item]
+Label=Production réalisée saison B
+Name=AU15B1
+Start=240
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Production réalisée saison B
+Name=AU15B1_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Nom de la culture saison B
+Name=AU15A2
+Start=241
+Len=40
+DataType=Alpha
+
+[Record]
+Label=Main d'oeuvre
+Name=MAIN_OEUVRE
+RecordTypeValue='MOE'
+RecordLen=125
+
+[Item]
+Label=Membre de ménage Homme
+Name=AU21MH
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Membre de ménage Homme
+Name=AU21MH_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Membre de ménage Femme
+Name=AU21MF
+Start=15
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Membre de ménage Femme
+Name=AU21MF_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Entraide familiale et villageoise Homme
+Name=AU21EH
+Start=16
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Entraide familiale et villageoise Homme
+Name=AU21EH_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Entraide familiale et villageoise Femme
+Name=AU21EF
+Start=17
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Entraide familiale et villageoise Femme
+Name=AU21EF_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Salariés Homme
+Name=AU21SH
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Salariés Homme
+Name=AU21SH_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Salariés Femme
+Name=AU21SF
+Start=19
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Salariés Femme
+Name=AU21SF_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Salariés Enfant
+Name=AU21SE
+Start=20
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Salariés Enfant
+Name=AU21SE_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Effectif des Hommes Membres du ménage
+Name=AU22EHM
+Start=21
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Effectif des Hommes Membres du ménage
+Name=AU22EHM_VS1
+Value=0:50;Effectif
+
+[Item]
+Label=Effectif des Femmes Membres du ménage
+Name=AU22EFM
+Start=24
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Effectif des Femmes Membres du ménage
+Name=AU22EFM_VS1
+Value=0:50;Effectif
+
+[Item]
+Label=Effectif des Hommes Entraide familiale et villageoise
+Name=AU22EHE
+Start=27
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Effectif des Hommes Entraide familiale et villageoise
+Name=AU22EHE_VS1
+Value=0:500;Effectif
+
+[Item]
+Label=Effectif des Femmes Entraide familiale et villageoise
+Name=AU22EFE
+Start=30
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Effectif des Femmes Entraide familiale et villageoise
+Name=AU22EFE_VS1
+Value=0:500;Effectif
+
+[Item]
+Label=Effectif des Hommes Salaries
+Name=AU22EHS
+Start=33
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Effectif des Hommes Salaries
+Name=AU22EHS_VS1
+Value=0:300;Effectif
+
+[Item]
+Label=Effectif des Femmes Salariées
+Name=AU22EFS
+Start=36
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Effectif des Femmes Salariées
+Name=AU22EFS_VS1
+Value=0:300;Effectif
+
+[Item]
+Label=Effectif des Enfants Salariés
+Name=AU22EES
+Start=39
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Effectif des Enfants Salariés
+Name=AU22EES_VS1
+Value=0:300;Effectif
+
+[Item]
+Label=Nombre de jours prestés pour Homme membre du ménage
+Name=AU23PHM
+Start=42
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de jours prestés pour Homme membre du ménage
+Name=AU23PHM_VS1
+Value=0:365;Nombre de jours
+
+[Item]
+Label=Nombre de jours prestés pour Femme membre du ménage
+Name=AU23PFM
+Start=45
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de jours prestés pour Femme membre du ménage
+Name=AU23PFM_VS1
+Value=0:365;Nombre de jours
+
+[Item]
+Label=Nombre de jours prestés pour Homme entraide villageoise
+Name=AU23PHE
+Start=48
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de jours prestés pour Homme entraide villageoise
+Name=AU23PHE_VS1
+Value=0:365;Nombre de jours
+
+[Item]
+Label=Nombre de jours prestés pour Femme entraide villageoise
+Name=AU23PFE
+Start=51
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de jours prestés pour Femme entraide villageoise
+Name=AU23PFE_VS1
+Value=0:365;Nombre de jours
+
+[Item]
+Label=Nombre de jours prestés pour Homme salarié
+Name=AU23PHS
+Start=54
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de jours prestés pour Homme salarié
+Name=AU23PHS_VS1
+Value=0:365;Nombre de jours
+
+[Item]
+Label=Nombre de jours prestés pour Femme salariée
+Name=AU23PFS
+Start=57
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de jours prestés pour Femme salariée
+Name=AU23PFS_VS1
+Value=0:365;Nombre de jours
+
+[Item]
+Label=Nombre de jours prestés pour Enfant salarié
+Name=AU23PES
+Start=60
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de jours prestés pour Enfant salarié
+Name=AU23PES_VS1
+Value=0:365;Nombre de jours
+
+[Item]
+Label=Coût total en Fc pour Homme membres du ménage
+Name=AU24HM
+Start=63
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Coût total en Fc pour Homme membres du ménage
+Name=AU24HM_VS1
+Value=0:999999999;Cout moyen
+
+[Item]
+Label=Coût total en Fc pour Femme membres du ménage
+Name=AU24FM
+Start=72
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Coût total en Fc pour Femme membres du ménage
+Name=AU24FM_VS1
+Value=0:999999999;Cout moyen
+
+[Item]
+Label=Coût total en Fc pour Homme entraide familiale et villageoise
+Name=AU24HE
+Start=81
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Coût total en Fc pour Homme entraide familiale et villageoise
+Name=AU24HE_VS1
+Value=0:999999999;Cout moyen
+
+[Item]
+Label=Coût total en Fc pour Femme entraide familiale et villageoise
+Name=AU24FE
+Start=90
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Coût total en Fc pour Femme entraide familiale et villageoise
+Name=AU24FE_VS1
+Value=0:999999999;Cout moyen
+
+[Item]
+Label=Coût total en Fc pour Homme salarié
+Name=AU24HS
+Start=99
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Coût total en Fc pour Homme salarié
+Name=AU24HS_VS1
+Value=0:999999999;Cout moyen
+
+[Item]
+Label=Coût total en Fc pour Femme salariée
+Name=AU24FS
+Start=108
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Coût total en Fc pour Femme salariée
+Name=AU24FS_VS1
+Value=0:999999999;Cout moyen
+
+[Item]
+Label=Coût total en Fc pour Enfant salarié
+Name=AU24ES
+Start=117
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Coût total en Fc pour Enfant salarié
+Name=AU24ES_VS1
+Value=0:999999999;Cout moyen
+
+[Record]
+Label=Semences, fertilisant
+Name=SEMENCES
+RecordTypeValue='SEM'
+Required=No
+MaxRecords=9
+RecordLen=80
+
+[Item]
+Label=Numero de ligne
+Name=AU25
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numero de ligne
+Name=AU25_VS1
+Value=1:9
+
+[Item]
+Label=Nom de l'intrant
+Name=AU25A
+Start=15
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Le menage a utilisé l'intrant
+Name=AU25B
+Start=65
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le menage a utilisé l'intrant
+Name=AU25B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Unité de mesure locale
+Name=AU26
+Start=66
+Len=2
+
+[ValueSet]
+Label=Unité de mesure locale
+Name=AU26_VS1
+Value=15;Verre
+Value=16;Boîte
+Value=20;Flacon d'insecticide
+Value=21;Sachet
+Value=99;Autre à préciser
+
+[Item]
+Label=Quantité
+Name=AU27
+Start=68
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité
+Name=AU27_VS1
+Value=0:9999;Qunatité
+
+[Item]
+Label=Coût en Fc
+Name=AU28
+Start=72
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Coût en Fc
+Name=AU28_VS1
+Value=0:999999999;Cout moyen
+
+[Record]
+Label=Services
+Name=SERVICE
+RecordTypeValue='SER'
+Required=No
+MaxRecords=7
+RecordLen=59
+
+[Item]
+Label=Numero de ligne
+Name=AU29
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numero de ligne
+Name=AU29_VS1
+Value=1:7
+
+[Item]
+Label=Nom du service
+Name=AU29A
+Start=15
+Len=35
+DataType=Alpha
+
+[Item]
+Label=Le menage a utilisé le service
+Name=AU29B
+Start=50
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le menage a utilisé le service
+Name=AU29B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Coût en Fc
+Name=AU30
+Start=51
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Coût en Fc
+Name=AU30_VS1
+Value=0:999999999;Cout moyen
+
+[Record]
+Label=Produits de l'élévage
+Name=ELEVAGE
+RecordTypeValue='PDE'
+Required=No
+MaxRecords=8
+RecordLen=85
+
+[Item]
+Label=Numero de ligne
+Name=AU32
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numero de ligne
+Name=AU32_VS1
+Value=1:8
+
+[Item]
+Label=Nom de l'espèce
+Name=AU32A
+Start=15
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Ménage pratique ce type d'élèvage
+Name=AU32B
+Start=45
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Ménage pratique ce type d'élèvage
+Name=AU32B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Nombre de têtes possédés actuellement
+Name=AU33
+Start=46
+Len=5
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de têtes possédés actuellement
+Name=AU33_VS1
+Value=0:99999;Nombre
+
+[Item]
+Label=Nombre de têtes possédés il y a 12 mois
+Name=AU34
+Start=51
+Len=5
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de têtes possédés il y a 12 mois
+Name=AU34_VS1
+Value=0:99999;Nombre
+
+[Item]
+Label=Nombre de naissances au cours des 12 derniers mois
+Name=AU35
+Start=56
+Len=5
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de naissances au cours des 12 derniers mois
+Name=AU35_VS1
+Value=0:99999;Nombre
+
+[Item]
+Label=Nombre de pertes dues au décès, au vol ou à la disparition
+Name=AU36
+Start=61
+Len=5
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de pertes dues au décès, au vol ou à la disparition
+Name=AU36_VS1
+Value=0:99999;Nombre
+
+[Item]
+Label=Nombre de têtes consommés par le ménage
+Name=AU37
+Start=66
+Len=5
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de têtes consommés par le ménage
+Name=AU37_VS1
+Value=0:99999;Nombre
+
+[Item]
+Label=Nombre de têtes vendus par le ménage
+Name=AU38
+Start=71
+Len=5
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de têtes vendus par le ménage
+Name=AU38_VS1
+Value=0:99999;Nombre
+
+[Item]
+Label=Valeur des ventes au cours des 12 derniers mois
+Name=AU39
+Start=76
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur des ventes au cours des 12 derniers mois
+Name=AU39_VS1
+Value=0:9999999999;Valeur
+
+[Record]
+Label=Autres produits de l'élevage
+Name=AUTRE_ELE
+RecordTypeValue='APE'
+Required=No
+MaxRecords=6
+RecordLen=72
+
+[Item]
+Label=Numero de ligne du produit
+Name=AU40
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numero de ligne du produit
+Name=AU40_VS1
+Value=1:6
+
+[Item]
+Label=Nom du produit
+Name=AU40A
+Start=15
+Len=30
+DataType=Alpha
+
+[Item]
+Label=A produit au cours des 12 derniers mois
+Name=AU40B
+Start=45
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A produit au cours des 12 derniers mois
+Name=AU40B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Code du produit
+Name=AU41
+Start=46
+Len=7
+ZeroFill=Yes
+
+[Item]
+Label=Unité de la quantité produite
+Name=AU42A
+Start=53
+Len=2
+
+[ValueSet]
+Label=Unité de la quantité produite
+Name=AU42A_VS1
+Value=3;Bidon
+Value=17;Litre
+Value=18;Oeufs
+Value=19;Peaux
+Value=99;Autre à préciser
+
+[Item]
+Label=Quantité produite
+Name=AU42B
+Start=55
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité produite
+Name=AU42B_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Quantité vendue
+Name=AU43
+Start=59
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité vendue
+Name=AU43_VS1
+Value=0:9999;Quantité
+
+[Item]
+Label=Valeur de la vente au cours des 12 derniers mois
+Name=AU44
+Start=63
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur de la vente au cours des 12 derniers mois
+Name=AU44_VS1
+Value=0:9999999999;Valeur
+
+[Record]
+Label=Intrants de l'élevage
+Name=INTRANT_E
+RecordTypeValue='IDE'
+Required=No
+MaxRecords=4
+RecordLen=69
+
+[Item]
+Label=Numero de ligne
+Name=AU45
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numero de ligne
+Name=AU45_VS1
+Value=1:4
+
+[Item]
+Label=Catégorie
+Name=AU45A
+Start=15
+Len=30
+DataType=Alpha
+
+[Item]
+Label=A utilisé l'intrant d'élevage
+Name=AU45B
+Start=45
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A utilisé l'intrant d'élevage
+Name=AU45B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Quantité
+Name=AU46A
+Start=46
+Len=5
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quantité
+Name=AU46A_VS1
+Value=0:99999;Quantité
+
+[Item]
+Label=Unité
+Name=AU46B
+Start=51
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Unité
+Name=AU46B_VS1
+Value=1;Nombre de fois
+Value=2;Kg
+Value=3;Litre
+Value=4;Unité locale
+
+[Item]
+Label=Valeur unitaire
+Name=AU47A
+Start=52
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur unitaire
+Name=AU47A_VS1
+Value=0:999999999;Valeur
+
+[Item]
+Label=Valeur totale
+Name=AU47B
+Start=61
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Valeur totale
+Name=AU47B_VS1
+Value=0:999999999;Valeur
+
+[Record]
+Label=DROITS DE PROPRIETE DES TERRES AGRICOLES
+Name=DROITS_PROPRIETE_TERRES_AG
+RecordTypeValue='MP9'
+Required=No
+MaxRecords=10
+RecordLen=27
+
+[Item]
+Label=Numero de ligne de droits
+Name=AU49A
+Start=14
+Len=1
+ZeroFill=Yes
+
+[Item]
+Label=Quel genre de droits votre ménage a -t-il sur ce champ?
+Name=AU49
+Start=15
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quel genre de droits votre ménage a -t-il sur ce champ?
+Name=AU49_VS1
+Value=1;Concession temporaire droits concédés par l'état
+Value=2;Concession perpetuelle droits concédés par l'état
+Value=3;Propriété du ménage avec droit de succession reconnus par le village / le chef coutumier
+Value=4;Droits de propriété avec héritage du clan à la mort de l'utilisateur
+Value=5;Usufruit attribué par le chef coutumier
+Value=6;Squater= Occupation illégale de la terre année où ces droits sont acquis
+Value=9;Autre forme de droit
+
+[Item]
+Label=Quel genre de droits votre ménage a-t-il sur ce champs? : ANNEE
+Name=AU49D
+Start=16
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quel genre de droits votre ménage a-t-il sur ce champs? : ANNEE
+Name=AU49D_VS1
+Value=1930:2018;Année
+
+[Item]
+Label=Quels documents avez-vous qui attestent les droits de votre ménage sur ce champ?
+Name=AU50
+Start=20
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quels documents avez-vous qui attestent les droits de votre ménage sur ce champ?
+Name=AU50_VS1
+Value=1;Aucun
+Value=2;Lettre de vente
+Value=3;La bonne fois
+Value=4;L'accord de concession
+Value=5;Lettre du chef coutumier
+Value=6;Lettre d'autorisation de l'administration locale
+Value=7;Contrat de location
+Value=9;Autre
+
+[Item]
+Label=Dans votre ménage qui va hériter de ce champ?: Code
+Name=AU51A
+Start=21
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Dans votre ménage qui va hériter de ce champ: Année
+Name=AU51B
+Start=23
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Est-il possible que quelqu'un conteste vos droits de propriété ou d'utilisation de ce champ?
+Name=AU52
+Start=25
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-il possible que quelqu'un conteste vos droits de propriété ou d'utilisation de ce champ?
+Name=AU52_VS1
+Value=1;Toujours possible
+Value=2;Très possible
+Value=3;Quelque fois possible
+Value=4;Peu possible
+Value=5;Rarement possible
+Value=6;Pas du tout possible
+
+[Item]
+Label=Quelles sont les deux personnes ou institutions les plus capables de contester vos droits sur ce champ?: Code 1
+Name=AU53A
+Start=26
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quelles sont les deux personnes ou institutions les plus capables de contester vos droits sur ce champ?: Code 1
+Name=AU53A_VS1
+Value=1;L'Etat à travers l'expropriation
+Image=..\..\Reference\icons\expropriation_sp.png
+Value=2;Un membre de famille après héritage
+Image=..\..\Reference\icons\heritier_sp.png
+Value=3;Un voisin
+Image=..\..\Reference\icons\Voisin_sp.png
+Value=4;Le chef coutumier
+Image=..\..\Reference\icons\coutumier_sp.png
+Value=5;Un membre du même clan/groupe
+Image=..\..\Reference\icons\clan_sp.png
+Value=6;Un étranger (autre clan)/migrant
+Image=..\..\Reference\icons\migrant_sp.png
+Value=7;Un retourné
+Image=..\..\Reference\icons\retourné_sp.png
+Value=8;Un homme d'affaire
+Image=..\..\Reference\icons\d affaire_sp.png
+Value=9;Un militaire/milicien
+Image=..\..\Reference\icons\militaire_sp.png
+
+[Item]
+Label=Quelles sont les deux personnes ou institutions les plus capables de contester vos droits sur ce champ?: Code 2
+Name=AU53B
+Start=27
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quelles sont les deux personnes ou institutions les plus capables de contester vos droits sur ce champ?: Code 2
+Name=AU53B_VS1
+Value=1;L'Etat à travers l'expropriation
+Image=..\..\Reference\icons\expropriation_sp.png
+Value=2;Un membre de famille après héritage
+Image=..\..\Reference\icons\heritier_sp.png
+Value=3;Un voisin
+Image=..\..\Reference\icons\Voisin_sp.png
+Value=4;Le chef coutumier
+Image=..\..\Reference\icons\coutumier_sp.png
+Value=5;Un membre du même clan/groupe
+Image=..\..\Reference\icons\clan_sp.png
+Value=6;Un étranger (autre clan)/migrant
+Image=..\..\Reference\icons\migrant_sp.png
+Value=7;Un retourné
+Image=..\..\Reference\icons\retourné_sp.png
+Value=8;Un homme d'affaire
+Image=..\..\Reference\icons\d affaire_sp.png
+Value=9;Un militaire/milicien
+Image=..\..\Reference\icons\militaire_sp.png

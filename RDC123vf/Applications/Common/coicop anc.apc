@@ -1,0 +1,1023 @@
+
+array codes(50);                  
+array alpha(50) labels(50);  
+
+function fin(f);
+numeric p;
+	do p=f while p <=50 by 1
+	  codes(p)=notappl;
+	  labels(p)="";
+	enddo;
+end;
+
+function clear_labels();
+numeric i;
+	do i=1 while i <=50 by 1
+	  codes(i)=notappl;
+	  labels(i)="";
+	enddo;
+end;
+
+
+function rempli(j);
+//if codes(j)=999 then labels(j)="SELECTIONEZ"; endif ;
+if codes(j)=00 then labels(j)="Sans unité"; endif ;
+if codes(j)=01 then labels(j)="Piece"; endif ;
+if codes(j)=02 then labels(j)="Feuille"; endif ;
+if codes(j)=03 then labels(j)="Unité"; endif ;
+if codes(j)=04 then labels(j)="Tarif"; endif ;
+if codes(j)=05 then labels(j)="Nombre de fois"; endif ;
+if codes(j)=06 then labels(j)="Paquet manufacture"; endif ;
+if codes(j)=07 then labels(j)="Boite manufacture"; endif ;
+if codes(j)=08 then labels(j)="Sachet manufacture"; endif ;
+if codes(j)=09 then labels(j)="Paquet non manufacture"; endif ;
+if codes(j)=10 then labels(j)="Boite non manufacture"; endif ;
+if codes(j)=11 then labels(j)="Sachet non manufacture"; endif ;
+if codes(j)=12 then labels(j)="Demie boite"; endif ;
+if codes(j)=13 then labels(j)="Tas"; endif ;
+if codes(j)=14 then labels(j)="Botte"; endif ;
+if codes(j)=15 then labels(j)="Morceau"; endif ;
+if codes(j)=16 then labels(j)="Assiette"; endif ;
+if codes(j)=17 then labels(j)="Bol"; endif ;
+if codes(j)=18 then labels(j)="Plat"; endif ;
+if codes(j)=19 then labels(j)="Sakombi"; endif ;
+if codes(j)=20 then labels(j)="Ebundeli"; endif ;
+if codes(j)=21 then labels(j)="Ekolo"; endif ;
+if codes(j)=22 then labels(j)="Main"; endif ;
+if codes(j)=23 then labels(j)="Regime"; endif ;
+if codes(j)=24 then labels(j)="Milligramme"; endif ;
+if codes(j)=25 then labels(j)="Gramme"; endif ;
+if codes(j)=26 then labels(j)="Kilogramme"; endif ;
+if codes(j)=27 then labels(j)="Millilitre"; endif ;
+if codes(j)=28 then labels(j)="Litre"; endif ;
+if codes(j)=29 then labels(j)="Millimetre"; endif ;
+if codes(j)=30 then labels(j)="Centimetre"; endif ;
+if codes(j)=31 then labels(j)="Mètre"; endif ;
+if codes(j)=32 then labels(j)="Bouteille de 30 cl (coca)"; endif ;
+if codes(j)=33 then labels(j)="Bouteille de 33 cl"; endif ;
+if codes(j)=34 then labels(j)="Bouteille de 60 cl"; endif ;
+if codes(j)=35 then labels(j)="Bouteille de 72 cl (biere)"; endif ;
+if codes(j)=36 then labels(j)="Bouteille de 75 cl"; endif ;
+if codes(j)=37 then labels(j)="Bouteille de 1 litre"; endif ;
+if codes(j)=38 then labels(j)="Bouteille de 1,5 litre"; endif ;
+if codes(j)=39 then labels(j)="Bouteille de 2 litres"; endif ;
+if codes(j)=40 then labels(j)="Casier 12 bouteilles"; endif ;
+if codes(j)=41 then labels(j)="Casier 24 bouteilles"; endif ;
+if codes(j)=42 then labels(j)="Bidon de 5l"; endif ;
+if codes(j)=43 then labels(j)="Bidon de 10l"; endif ;
+if codes(j)=44 then labels(j)="Verre bambou"; endif ;
+if codes(j)=45 then labels(j)="Demi verre"; endif ;
+if codes(j)=46 then labels(j)="Tasse"; endif ;
+if codes(j)=47 then labels(j)="Libanga"; endif ;
+if codes(j)=48 then labels(j)="Bassin (gros ou brazza)"; endif ;
+if codes(j)=49 then labels(j)="Bassin (moyen)"; endif ;
+if codes(j)=50 then labels(j)="Panier"; endif ;
+if codes(j)=51 then labels(j)="Sceau (katini)"; endif ;
+if codes(j)=52 then labels(j)="Cueillere à cafe"; endif ;
+if codes(j)=53 then labels(j)="Cuilleree à soupe"; endif ;
+if codes(j)=54 then labels(j)="Boule"; endif ;
+if codes(j)=55 then labels(j)="Tête"; endif ;
+if codes(j)=56 then labels(j)="Quartier"; endif ;
+if codes(j)=57 then labels(j)="Demi quartier"; endif ;
+if codes(j)=58 then labels(j)="Cuisse"; endif ;
+if codes(j)=59 then labels(j)="Carton (poisson poulet viande ... )"; endif ;
+if codes(j)=60 then labels(j)="Carton (cigarettes)"; endif ;
+if codes(j)=61 then labels(j)="Rame  (poisson )"; endif ;
+if codes(j)=62 then labels(j)="Mois"; endif ;
+if codes(j)=63 then labels(j)="Trimestre"; endif ;
+if codes(j)=64 then labels(j)="Semestre"; endif ;
+if codes(j)=65 then labels(j)="An"; endif ;
+if codes(j)=66 then labels(j)="Heure"; endif ;
+if codes(j)=67 then labels(j)="Jours"; endif ;
+if codes(j)=68 then labels(j)="Nuits"; endif ;
+if codes(j)=69 then labels(j)="Yard"; endif ;
+if codes(j)=70 then labels(j)="Pantalon (tissu"; endif ;
+if codes(j)=71 then labels(j)="Piece de tissu"; endif ;
+if codes(j)=72 then labels(j)="Demi-piece de"; endif ;
+if codes(j)=73 then labels(j)="Pagne (2 metre"; endif ;
+if codes(j)=74 then labels(j)="Kilowattheure"; endif ;
+if codes(j)=75 then labels(j)="Metre cube"; endif ;
+if codes(j)=76 then labels(j)="Sac"; endif ;
+if codes(j)=77 then labels(j)="Caisse"; endif ;
+if codes(j)=78 then labels(j)="Fagots"; endif ;
+if codes(j)=79 then labels(j)="Metre carre"; endif ;
+if codes(j)=80 then labels(j)="Are"; endif ;
+if codes(j)=81 then labels(j)="Centiare"; endif ;
+if codes(j)=82 then labels(j)="Hectare"; endif ;
+if codes(j)=83 then labels(j)="Tonne"; endif ;
+if codes(j)=84 then labels(j)="Douzaine"; endif ;
+if codes(j)=85 then labels(j)="Demi-douzaine"; endif ;
+if codes(j)=86 then labels(j)="Ampoule tube"; endif ;
+if codes(j)=87 then labels(j)="Paire"; endif ;
+if codes(j)=88 then labels(j)="Course"; endif ;
+if codes(j)=89 then labels(j)="Voyage"; endif ;
+if codes(j)=90 then labels(j)="Salon"; endif ;
+if codes(j)=91 then labels(j)="Place"; endif ;
+if codes(j)=92 then labels(j)="Cure"; endif ;
+if codes(j)=93 then labels(j)="Flacon"; endif ;
+if codes(j)=94 then labels(j)="Comprimé"; endif ;
+if codes(j)=95 then labels(j)="Taxi taxi-bus"; endif ;
+if codes(j)=96 then labels(j)="Mesure"; endif ;
+if codes(j)=97 then labels(j)="Tige"; endif ;
+if codes(j)=98 then labels(j)="Service"; endif ;
+if codes(j)=99 then labels(j)="Tonne"; endif ;
+if codes(j)=100 then labels(j)="demi boutelle de ccoca 30 cl"; endif ;
+if codes(j)=101 then labels(j)="Boite de tomate"; endif ;
+if codes(j)=102 then labels(j)="Carton"; endif ;
+if codes(j)=103 then labels(j)="Demi Carton"; endif ;
+if codes(j)=104 then labels(j)="Filet"; endif ;
+if codes(j)=105 then labels(j)="cornet"; endif ;
+if codes(j)=106 then labels(j)="pot"; endif ;
+if codes(j)=107 then labels(j)="Demi sac"; endif ;
+if codes(j)=108 then labels(j)="un quart de sac"; endif ;
+if codes(j)=109 then labels(j)="Demi litre"; endif ;
+if codes(j)=110 then labels(j)="Méga"; endif ;
+if codes(j)=666 then labels(j)="Autre "; endif ;
+
+end;
+//------------------------------------------------
+function UniteProduit(xprod);
+
+clear_labels();
+numeric w ;
+w=1;
+
+if xprod=11111 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif; {Maïs secs décortiqués}
+if xprod=11112 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Riz importé}
+if xprod=11113 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Riz local}
+if xprod=11114 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Mil}
+if xprod=11115 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Sorgho}
+if xprod=11116 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Autres céréales non transformées n.d.a}
+if xprod=11121 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Farine de froment}
+if xprod=11122 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Farine de maïs}
+if xprod=11123 then codes(w)=06; w=w+1; codes(w)=07; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Flocon d'avoine}
+if xprod=11124 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Farine de sorgho}
+if xprod=11125 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {farine de mil}
+if xprod=11126 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=104; endif;  {Semoule}
+if xprod=11127 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Farines; semoules et gruaux n.d.a}
+if xprod=11131 then codes(w)=08; endif;  {Macaroni}
+if xprod=11132 then codes(w)=08; endif;  {Spaghetti}
+if xprod=11133 then codes(w)=08; endif;  {Pâtes alimentaires n.d.a}
+if xprod=11141 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Pain baguette}
+if xprod=11142 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Pain carré artisanal}
+if xprod=11143 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Pain carré industriel}
+if xprod=11144 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Pain rond artisanal}
+if xprod=11145 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Pain rond industriel}
+if xprod=11146 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Pistolet}
+if xprod=11147 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Pains n.d.a}
+if xprod=11151 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Beignets}
+if xprod=11152 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Beignets à base de maïs}
+if xprod=11153 then codes(w)=06; w=w+1; codes(w)=08; endif;  {Biscuits locaux}
+if xprod=11154 then codes(w)=06; w=w+1; codes(w)=08; endif;  {Biscuits locaux fourrés}
+if xprod=11155 then codes(w)=06; w=w+1; codes(w)=08; endif;  {Biscuits importés}
+if xprod=11156 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Croissant}
+if xprod=11157 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Cake}
+if xprod=11158 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Pâtisseries; w=w+1; codes(w)=gâteaux; w=w+1; codes(w)=biscuits n.d.a}
+if xprod=11211 then codes(w)=55; endif;  {Bœuf sur pied (vivant )}
+if xprod=11212 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Bouilli, Viande avec os}
+if xprod=11213 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Carbonade; w=w+1; codes(w)=Viande sans os}
+if xprod=11214 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Tripes de bœuf}
+if xprod=11215 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Viande de bœuf séché ou fumé}
+if xprod=11216 then codes(w)=55; w=w+1; codes(w)=56; w=w+1; codes(w)=57; w=w+1; codes(w)=58; endif;  {Vache sur pied}
+if xprod=11217 then codes(w)=55; w=w+1; codes(w)=56; w=w+1; codes(w)=57; w=w+1; codes(w)=58; endif;  {Vaux sur pied}
+if xprod=11218 then codes(w)=55; w=w+1; codes(w)=56; w=w+1; codes(w)=57; w=w+1; codes(w)=58; endif; {Taureaux sur pied}
+if xprod=11219 then codes(w)=55; w=w+1; codes(w)=56; w=w+1; codes(w)=57; w=w+1; codes(w)=58; endif; {Génisse sur pied}
+if xprod=11220 then codes(w)=55; w=w+1; codes(w)=56; w=w+1; codes(w)=57; w=w+1; codes(w)=58; endif;  {Taurillon sur pied}
+if xprod=11221 then codes(w)=55; w=w+1; codes(w)=56; w=w+1; codes(w)=57; w=w+1; codes(w)=58; endif;  {Chèvre sur pieds(vivant)}
+if xprod=11222 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Viande de Chèvre}
+if xprod=11223 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Viande de Chèvre séchée}
+if xprod=11224 then codes(w)=55; endif;  {Mouton sur pieds(vivant)}
+if xprod=11225 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Viande de Mouton}
+if xprod=11226 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Viande de Mouton séché ou fumé}
+if xprod=11227 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Abats de chèvre ou de mouton}
+if xprod=11231 then codes(w)=55; endif;  {Porc sur pieds(vivant)}
+if xprod=11232 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Rôti de porc}
+if xprod=11233 then codes(w)=55; endif;  {Truie}
+if xprod=11234 then codes(w)=55; endif;  {Verrat}
+if xprod=11235 then codes(w)=55; endif;  {Porcelet}
+if xprod=11236 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {cottelletes de porc}
+if xprod=11237 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Autres viandes de Porc n.d.a}
+if xprod=11241 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Poulets frais congelés}
+if xprod=11242 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Cuisse de poulet}
+if xprod=11243 then codes(w)=01; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Croupions de dinde}
+if xprod=11244 then codes(w)=55; endif;  {poulets vifs de ferme}
+if xprod=11245 then codes(w)=55; endif;  {Canard vif}
+if xprod=11246 then codes(w)=55; endif;  {Dindes}
+if xprod=11247 then codes(w)=55; endif;  {Cailles}
+if xprod=11248 then codes(w)=55; endif;  {Pigeons}
+if xprod=11249 then codes(w)=55; endif;  {Pintade}
+if xprod=11250 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Autres volailles n.d.a}
+if xprod=11251 then codes(w)=01; w=w+1; codes(w)=25; endif;  {Boudin noir}
+if xprod=11252 then codes(w)=01; w=w+1; codes(w)=25; endif;  {Cervelas}
+if xprod=11253 then codes(w)=01; w=w+1; codes(w)=25 ; endif;  {Saucisson}
+if xprod=11254 then codes(w)=25; endif;  {Jambon; w=w+1; codes(w)=lard}
+if xprod=11255 then codes(w)=25; endif;  {Salami}
+if xprod=11256 then codes(w)=25; endif;  {Pâtée de foie}
+if xprod=11257 then codes(w)=01; w=w+1; codes(w)=25 ; endif;  {Autres Charcuteries n.d.a}
+if xprod=11261 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=55; endif;  {Singe frais}
+if xprod=11262 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=55;endif;  {Singe fumé}
+if xprod=11263 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Buffle fumé}
+if xprod=11264 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=55;endif;  {Sanglier fumé}
+if xprod=11265 then codes(w)=13; w=w+1; codes(w)=19; w=w+1; codes(w)=20; endif;  {Chenilles fraîches; w=w+1; codes(w)=sauterelles; w=w+1; codes(w)=fourmis}
+if xprod=11266 then codes(w)=13; w=w+1; codes(w)=19; w=w+1; codes(w)=20; endif;  {Chenilles séchées; w=w+1; codes(w)=sauterelles; w=w+1; codes(w)=fourmis}
+if xprod=11267 then codes(w)=13; w=w+1; codes(w)=19; w=w+1; codes(w)=20; endif;  {Sauterelles}
+if xprod=11268 then codes(w)=13; w=w+1; codes(w)=19; w=w+1; codes(w)=20; endif;  {Fourmis}
+if xprod=11269 then codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Autres viandes n.d.a.}
+if xprod=11270 then codes(w)=03; w=w+1; codes(w)=07; w=w+1; codes(w)=102; w=w+1; codes(w)=103;  endif;  {Viandes en conserve}
+if xprod=11271 then codes(w)=03; w=w+1; codes(w)=15; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=55; endif;  {Autre viandes nda}
+if xprod=11272 then codes(w)=55; w=w+1; codes(w)=56; w=w+1; codes(w)=57; w=w+1; codes(w)=58; endif;  {Lapins}
+if xprod=11273 then codes(w)=55; w=w+1; codes(w)=56; w=w+1; codes(w)=57; w=w+1; codes(w)=58; endif;  {Cobayes}
+if xprod=11311 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=59; w=w+1; codes(w)=61; w=w+1; codes(w)=103; w=w+1; codes(w)=104; endif;  {Mpiodi}
+if xprod=11312 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=59; w=w+1; codes(w)=61; w=w+1; codes(w)=103; w=w+1; codes(w)=104; endif;  {Tilapia}
+if xprod=11313 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=59; w=w+1; codes(w)=61; w=w+1; codes(w)=103; w=w+1; codes(w)=104; endif;  {Malwa}
+if xprod=11314 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=59; w=w+1; codes(w)=61; w=w+1; codes(w)=103; w=w+1; codes(w)=104; endif;  {Malangwa}
+if xprod=11315 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=59; w=w+1; codes(w)=61; w=w+1; codes(w)=103; w=w+1; codes(w)=104; endif;  {Capitaine ( Mompongo)}
+if xprod=11316 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=59; w=w+1; codes(w)=61; w=w+1; codes(w)=103; w=w+1; codes(w)=104; endif;  {Mboto}
+if xprod=11317 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=59; w=w+1; codes(w)=61; w=w+1; codes(w)=103; w=w+1; codes(w)=104; endif;  {Mongusu}
+if xprod=11318 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=59; w=w+1; codes(w)=61; w=w+1; codes(w)=103; w=w+1; codes(w)=104; endif;  {Silures ( Ngolo)}
+if xprod=11319 then codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Crevette, autres crustacés}
+if xprod=11320 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=59; w=w+1; codes(w)=61; w=w+1; codes(w)=103; endif; w=w+1; codes(w)=104;  {Poissons et autres produits frais de la pêche}
+if xprod=11321 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=104; w=w+1; codes(w)=107; endif;  {Silure (Ngolo) fumé}
+if xprod=11322 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=104; w=w+1; codes(w)=107; endif;   {Mongusu fumés}
+if xprod=11323 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=107; endif;  {Fretins (Ndakala) séchés}
+if xprod=11324 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=104; w=w+1; codes(w)=107; endif;  {Poissons salés Bitoyo}
+if xprod=11325 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=102; w=w+1; codes(w)=103; w=w+1; codes(w)=104; w=w+1; codes(w)=107;endif;  {Poissons salés Morues}
+if xprod=11326 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=102; w=w+1; codes(w)=103; w=w+1; codes(w)=104; w=w+1; codes(w)=107;endif; {Hareng (Mpiodi) fumé}
+if xprod=11327 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=104; w=w+1; codes(w)=107; endif;  {Congo ya sika salé}
+if xprod=11328 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=104; w=w+1; codes(w)=107; endif;   {Nzombo fumé}
+if xprod=11329 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=26 ; w=w+1; codes(w)=50; w=w+1; codes(w)=76; w=w+1; codes(w)=104; w=w+1; codes(w)=107; endif;   {Autres poissons  séchés ou fumés, conserves de poissons}
+if xprod=11330 then codes(w)=07; w=w+1; codes(w)=102; w=w+1; codes(w)=103;  endif;  {Sardine à l'huile}
+if xprod=11331 then codes(w)=07; w=w+1; codes(w)=102; w=w+1; codes(w)=103;  endif;   {Pilchards}
+if xprod=11411 then codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; endif;  {Lait condensé sucré}
+if xprod=11412 then codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; endif;  {Lait frais}
+if xprod=11413 then codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; endif;  {Lait non concentré}
+if xprod=11414 then codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; endif;  {Lait en poudre NIDO}
+if xprod=11415 then codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; endif;  {Lait en poudre COWBELL}
+if xprod=11416 then codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; endif;  {Lait en poudre KERRYGOLD}
+if xprod=11417 then codes(w)=07; endif;  {Lait pour bébé}
+if xprod=11418 then codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; endif; {Autres laits n.d.a}
+if xprod=11421 then codes(w)=07; w=w+1; codes(w)=08; endif;  {Crème de lait; w=w+1; codes(w)=boissons lactées}
+if xprod=11422 then codes(w)=25; w=w+1; codes(w)=26; endif;  {Fromage}
+if xprod=11423 then codes(w)=07; endif;  {Lait caillé}
+if xprod=11424 then codes(w)=07; endif;  {Yaourt}
+if xprod=11425 then codes(w)=07; endif;  {Lait de soja}
+if xprod=11426 then codes(w)=07; endif;  {Autres produit laitiers n.d.a}
+if xprod=11431 then codes(w)=01; w=w+1; codes(w)=84; w=w+1; codes(w)=85; endif;  {œufs locaux}
+if xprod=11432 then codes(w)=01; w=w+1; codes(w)=84; w=w+1; codes(w)=85; endif;  {Autres œufs n.d.a}
+if xprod=11511 then codes(w)=06; endif;  {Beurre frais}
+if xprod=11512 then codes(w)=07; endif;  {Margarine; w=w+1; codes(w)=pot}
+if xprod=11513 then codes(w)=08; endif;  {Margarine; w=w+1; codes(w)=sachet}
+if xprod=11521 then codes(w)=12; w=w+1;codes(w)=28; w=w+1; codes(w)=32; w=w+1; codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=35; w=w+1; codes(w)=36; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=42; w=w+1; codes(w)=43; w=w+1; codes(w)=100; w=w+1; codes(w)=101; w=w+1; codes(w)=109; endif;  {Huile végétale importée}
+if xprod=11522 then codes(w)=12; w=w+1;codes(w)=28; w=w+1; codes(w)=32; w=w+1; codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=35; w=w+1; codes(w)=36; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=42; w=w+1; codes(w)=43; w=w+1; codes(w)=100; w=w+1; codes(w)=101; w=w+1; codes(w)=109; endif;  {Huile de palme}
+if xprod=11523 then codes(w)=12; w=w+1;codes(w)=28; w=w+1; codes(w)=32; w=w+1; codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=35; w=w+1; codes(w)=36; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=42; w=w+1; codes(w)=43; w=w+1; codes(w)=100; w=w+1; codes(w)=101; w=w+1; codes(w)=109; endif;  {Huile Végétale locale}
+if xprod=11524 then codes(w)=37; w=w+1; codes(w)=42; w=w+1; codes(w)=43; endif;  {Graisses animales alimentaires (saindoux; w=w+1; codes(w)=etc)}
+if xprod=11525 then codes(w)=37; w=w+1; codes(w)=42; w=w+1; codes(w)=43; endif;  {Autres Huiles et graisses n.d.a}
+if xprod=11531 then codes(w)=13; endif;  {Pâte d'arachide}
+if xprod=11532 then codes(w)=26; endif;  {Bona}
+if xprod=11533 then codes(w)=26; endif;  {Autres matières grasses n.d.a}
+if xprod=11611 then codes(w)=01; endif;  {Ananas}
+if xprod=11612 then codes(w)=01; endif;  {Avocats}
+if xprod=11613 then codes(w)=22; w=w+1; codes(w)=23; endif;  {Bananes douces}
+if xprod=11614 then codes(w)=01; endif;  {Citrons}
+if xprod=11615 then codes(w)=01; endif;  {Mangues}
+if xprod=11616 then codes(w)=01; endif;  {Oranges locales}
+if xprod=11617 then codes(w)=01; endif;  {Mandarines}
+if xprod=11618 then codes(w)=01; endif;  {Pamplemousses}
+if xprod=11619 then codes(w)=01; endif;  {Papayes}
+if xprod=11620 then codes(w)=01; endif;  {Maracouja}
+if xprod=11621 then codes(w)=01; endif;  {Pomme et autre fruit importé}
+if xprod=11622 then codes(w)=01; endif;  {Noix de coco et autres fruits n.d;a}
+if xprod=11711 then codes(w)=14; endif;  {Biteku-teku(amarantes)}
+if xprod=11712 then codes(w)=14; endif;  {Pondu (Feuilles de manioc)}
+if xprod=11713 then codes(w)=14; endif;  {Matembele}
+if xprod=11714 then codes(w)=14; endif;  {Epinard}
+if xprod=11715 then codes(w)=14; endif;  {Bilolo}
+if xprod=11716 then codes(w)=14; endif;  {Ngai-ngai(Oseille)}
+if xprod=11717 then codes(w)=13; w=w+1; codes(w)=14; w=w+1; codes(w)=25; endif;  {Mfumbwa}
+if xprod=11718 then codes(w)=01; w=w+1; codes(w)=13; endif;  {Choux blanc}
+if xprod=11719 then codes(w)=01; w=w+1; codes(w)=14; endif;  {Pointe-noires}
+if xprod=11720 then codes(w)=01; w=w+1; codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=12; w=w+1; codes(w)=13; w=w+1; codes(w)=16; w=w+1; codes(w)=24; w=w+1; codes(w)=25; w=w+1; codes(w)=48; w=w+1; codes(w)=49;w=w+1; codes(w)=50;w=w+1; codes(w)=51; w=w+1; codes(w)=77; w=w+1; codes(w)=102; w=w+1; codes(w)=103; endif;  {Tomate} 
+if xprod=11721 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Haricots verts}
+if xprod=11722 then codes(w)=14; endif;  {Poireaux}
+if xprod=11723 then codes(w)=14; endif;  {Ndembi}
+if xprod=11724 then codes(w)=14; endif;  {Céleri}
+if xprod=11725 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=16; w=w+1; codes(w)=24; w=w+1; codes(w)=25;w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49;w=w+1; codes(w)=50;w=w+1; codes(w)=51; w=w+1; codes(w)=77; w=w+1; codes(w)=104; endif;  {Oignons}
+if xprod=11726 then codes(w)=13; w=w+1; codes(w)=16; w=w+1; codes(w)=17; w=w+1; codes(w)=25; w=w+1; codes(w)=26; endif;  {Poivron vert}
+if xprod=11727 then codes(w)=13; endif;  {Carottes}
+if xprod=11728 then codes(w)=13; endif;  {Aubergines}
+if xprod=11729 then codes(w)=13; endif;  {Concombre}
+if xprod=11730 then codes(w)=13; endif;  {Safou}
+if xprod=11731 then codes(w)=01; w=w+1; codes(w)=13; endif;  {Maïs doux en épis ou en grains}
+if xprod=11732 then codes(w)=07; endif;  {Légumes en conserve}
+if xprod=11733 then codes(w)=13; endif;  {Gombo}
+if xprod=11734 then codes(w)=13; w=w+1; codes(w)=14; endif;  {Autres légumes frais n.d.a. (Champignons …)}
+if xprod=11735 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=44; endif;  {Arachides décortiqués}
+if xprod=11736 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=44; w=w+1; codes(w)=47; endif;  {Arachides décortiqués grillées}
+if xprod=11737 then codes(w)=13; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=44; endif;  {Arachides en coque}
+if xprod=11738 then codes(w)=13; endif;  {Noix de palme}
+if xprod=11739 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Graines de courge (mbika)}
+if xprod=11740 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Haricots blancs}
+if xprod=11741 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Haricots multicolores}
+if xprod=11742 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Autres oléagineux n.d.a.}
+if xprod=11743 then codes(w)=22; w=w+1; codes(w)=23; endif;  {Bananes plantains fraîches}
+if xprod=11744 then codes(w)=09; w=w+1; codes(w)=13; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=50; endif;  {Ignames}
+if xprod=11745 then codes(w)=09; w=w+1; codes(w)=13; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=50; w=w+1; codes(w)=76;w=w+1; codes(w)=107; endif;  {Manioc en tubercule}
+if xprod=11746 then codes(w)=09; w=w+1; codes(w)=13; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=50; endif;  {Patate douce}
+if xprod=11747 then codes(w)=09; w=w+1; codes(w)=13; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=50; w=w+1; codes(w)=104;  endif;  {Pomme de terre}
+if xprod=11748 then codes(w)=09; w=w+1; codes(w)=13; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=50; endif;  {Taro}
+if xprod=11749 then codes(w)=09; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=50; endif;  {Autres tubercules n.d.a}
+if xprod=11751 then codes(w)=01; w=w+1; codes(w)=14; endif;  {Chikwangues petites}
+if xprod=11752 then codes(w)=01; endif;  {Chikwangues grosses}
+if xprod=11753 then codes(w)=13; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Cossettes de manioc}
+if xprod=11754 then codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=48; w=w+1; codes(w)=49; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Farine de manioc}
+if xprod=11799 then codes(w)=01; w=w+1; codes(w)=14; endif;  {Feuilles d'emballage de Chikwangue}
+if xprod=11811 then codes(w)=06; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Sucre cristallisé}
+if xprod=11812 then codes(w)=01; w=w+1; codes(w)=13; endif;  {Canne à sucre}
+if xprod=11813 then codes(w)=06; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Sucre n.d.a}
+if xprod=11821 then codes(w)=07; endif;  {Confiture}
+if xprod=11822 then codes(w)=07; endif;  {Miel importé}
+if xprod=11823 then codes(w)=07; endif;  {Miel local}
+if xprod=11824 then codes(w)=07; endif;  {Chocolat}
+if xprod=11825 then codes(w)=07; endif;  {Produit à base de Cacao}
+if xprod=11826 then codes(w)=01; w=w+1; codes(w)=06; w=w+1; codes(w)=07; endif;  {Bonbon; w=w+1; codes(w)=pastilles}
+if xprod=11827 then codes(w)=27; w=w+1; codes(w)=28; endif;  {Glace; w=w+1; codes(w)=crème glacée et sorbet}
+if xprod=11828 then codes(w)=06; w=w+1; codes(w)=07; endif;  {Autres Confiseries n.d.a}
+if xprod=11911 then codes(w)=13; w=w+1; codes(w)=16; w=w+1; codes(w)=17; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=51; endif;  {Ails}
+if xprod=11912 then codes(w)=13; w=w+1; codes(w)=16; w=w+1; codes(w)=17; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=51; endif;  {feuilles de laurier}
+if xprod=11913 then codes(w)=13; w=w+1; codes(w)=16; w=w+1; codes(w)=17; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=51; endif;  {Gingembre}
+if xprod=11914 then codes(w)=13; w=w+1; codes(w)=16; w=w+1; codes(w)=17; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=51; endif;  {persil}
+if xprod=11915 then codes(w)=01; w=w+1; codes(w)=13; w=w+1; codes(w)=16; w=w+1; codes(w)=17; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=51; endif;  {Pili-pili frais}
+if xprod=11916 then codes(w)=16; w=w+1; codes(w)=17; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=21; w=w+1; codes(w)=51; endif;  {Pili-pili séchés}
+if xprod=11917 then codes(w)=06; w=w+1; codes(w)=08; w=w+1; codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=25; w=w+1; codes(w)=26; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Sel de cuisine; w=w+1; codes(w)=sel de table}
+if xprod=11918 then codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=09; endif;  {Levure; w=w+1; codes(w)=soupes; w=w+1; codes(w)=potages; w=w+1; codes(w)=autres poudre à levez préparées}
+if xprod=11919 then codes(w)=01; w=w+1; codes(w)=06; w=w+1; codes(w)=07; endif;  {Muscade; w=w+1; codes(w)=Cube maggi; w=w+1; codes(w)=Gout (aromate)}
+if xprod=11920 then codes(w)=07; w=w+1; codes(w)=08; endif;  {Mayonnaise; w=w+1; codes(w)=moutarde; w=w+1; codes(w)=ketchup; w=w+1; codes(w)=…}
+if xprod=11921 then codes(w)=06; w=w+1; codes(w)=07; endif;  {Aliments homogénéisés pour nourrisson et préparations diététiques quelle qu’elle soit la composition}
+if xprod=11922 then codes(w)=06; w=w+1; codes(w)=07; endif;  {Autres épices et condiments n.d.a}
+if xprod=11923 then codes(w)=00; endif;  {Alimentation à l'occasion des fêtes ou cérémonie}
+if xprod=12111 then codes(w)=06; w=w+1; codes(w)=08; endif;  {Thé en paquet}
+if xprod=12112 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=44; w=w+1; codes(w)=47; w=w+1; codes(w)=54; endif;  {Thé en vrac}
+if xprod=12113 then codes(w)=06; w=w+1; codes(w)=08; endif;  {Café en paquet}
+if xprod=12114 then codes(w)=19; w=w+1; codes(w)=20; w=w+1; codes(w)=44; w=w+1; codes(w)=47; w=w+1; codes(w)=54; endif;  {Café en vrac}
+if xprod=12115 then codes(w)=07; w=w+1; codes(w)=08; endif;  {Nescafé}
+if xprod=12116 then codes(w)=07; w=w+1; codes(w)=08; endif;  {Nesquik}
+if xprod=12117 then codes(w)=13; w=w+1; codes(w)=14; endif;  {Bulukutu}
+if xprod=12118 then codes(w)=06; w=w+1; codes(w)=07; endif;  {Café; w=w+1; codes(w)=thé; w=w+1; codes(w)=cacao et autres végétaux pour tisanes n.d;a}
+if xprod=12211 then codes(w)=32; w=w+1; codes(w)=38; endif;  {Jus de gingembre}
+if xprod=12212 then codes(w)=38; endif;  {Boissons non alcoolisées artisanales n.d.a  (eau en sachet; w=w+1; codes(w)=jus en sachet; w=w+1; codes(w)=…)}
+if xprod=12221 then codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; endif;  {Eau minérale; w=w+1; codes(w)=soda}
+if xprod=12222 then codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=38; endif;  {Boissons sucrées(Coca; w=w+1; codes(w)=Fanta; w=w+1; codes(w)=Limonades)}
+if xprod=12223 then codes(w)=32; endif;  {Maltina}
+if xprod=12224 then codes(w)=32; w=w+1; codes(w)=38; endif;  {Djino}
+if xprod=12225 then codes(w)=38; endif;  {Sirop de grenadine et autres sirops}
+if xprod=12226 then codes(w)=37; endif;  {Jus de fruits et de légumes}
+if xprod=12227 then codes(w)=32; w=w+1; codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; endif;  {Boissons non alcoolisées industrielles n.d.a}
+if xprod=21111 then codes(w)=11; w=w+1; codes(w)=32; w=w+1; codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=37; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47;endif;  {Whisky}
+if xprod=21112 then codes(w)=11; w=w+1; codes(w)=32; w=w+1; codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=37; w=w+1; codes(w)=44; w=w+1; codes(w)=45; w=w+1; codes(w)=47;endif; {Alcool de maïs}
+if xprod=21113 then codes(w)=36; endif;  {Eau de vie et autres spiritueux}
+if xprod=21211 then codes(w)=36; endif;  {Vin cidre}
+if xprod=21212 then codes(w)=36; endif;  {apéritif}
+if xprod=21213 then codes(w)=36; endif;  {Champagne}
+if xprod=21214 then codes(w)=32; w=w+1; codes(w)=33; endif;  {Vin de palme}
+if xprod=21215 then codes(w)=32; w=w+1; codes(w)=37; endif;  {Vin de canne à sucre}
+if xprod=21216 then codes(w)=32; w=w+1; codes(w)=37; endif;  {Autres vins et boissons fermentées n.d.a.}
+if xprod=21311 then codes(w)=35; w=w+1; codes(w)=36; endif;  {Bière blonde locale}
+if xprod=21312 then codes(w)=33; endif;  {Bière blonde importée}
+if xprod=21313 then codes(w)=35; w=w+1; codes(w)=36; endif;  {Brière brune locale}
+if xprod=21314 then codes(w)=35; w=w+1; codes(w)=36; endif;  {Brière brune importée}
+if xprod=21315 then codes(w)=35; w=w+1; codes(w)=36; endif;  {Autres bières n.d.a}
+if xprod=22011 then codes(w)=06; w=w+1; codes(w)=60; w=w+1; codes(w)=97; endif;  {Ambassades rouges}
+if xprod=22012 then codes(w)=06; w=w+1; codes(w)=60; w=w+1; codes(w)=97; endif;  {Okapi}
+if xprod=22013 then codes(w)=06; w=w+1; codes(w)=60; w=w+1; codes(w)=97; endif;  {Tumbaco}
+if xprod=22014 then codes(w)=06; w=w+1; codes(w)=60; w=w+1; codes(w)=97; endif;  {Stella}
+if xprod=22015 then codes(w)=13; endif;  {Tabacs pour pipe}
+if xprod=22021 then codes(w)=97; endif;  {Marlboro}
+if xprod=22022 then codes(w)=97; endif;  {Cigarettes importées n.d.a}
+if xprod=23011 then codes(w)=11; endif;  {Tabacs à priser}
+if xprod=23012 then codes(w)=13; endif;  {Noix de cola}
+if xprod=23013 then codes(w)=13; endif;  {Ngadiadia}
+if xprod=23014 then codes(w)=11; w=w+1; codes(w)=13; w=w+1; codes(w)=97 ; endif;  {Autres excitants n.d.a}
+if xprod=23020 then codes(w)=32; w=w+1; codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=35; w=w+1; codes(w)=36; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=40; w=w+1; codes(w)=41; endif;  {Boissons à l'occasion des fêtes ou cérémonie}
+if xprod=31111 then codes(w)=69; w=w+1; codes(w)=72; w=w+1; codes(w)=73; endif;  {Wax Anglais; w=w+1; codes(w)=Wax Hollandais; w=w+1; codes(w)=Super Wax}
+if xprod=31112 then codes(w)=69; w=w+1; codes(w)=72; w=w+1; codes(w)=73; endif;  {Wax CHINOIS}
+if xprod=31113 then codes(w)=69; w=w+1; codes(w)=72; w=w+1; codes(w)=73; endif;  {Wax UTEXAFRICA; w=w+1; codes(w)=Wax SINTEXKIN}
+if xprod=31114 then codes(w)=69; w=w+1; codes(w)=72; w=w+1; codes(w)=73; endif;  {Wax Super SOSO}
+if xprod=31115 then codes(w)=31; w=w+1; codes(w)=71; w=w+1; codes(w)=72; endif;  {Tergal importé}
+if xprod=31116 then codes(w)=31; w=w+1; codes(w)=71; w=w+1; codes(w)=72; endif;  {Tergal Local}
+if xprod=31117 then codes(w)=31; endif;  {Popeline}
+if xprod=31118 then codes(w)=31; endif;  {Autres tissus d’habillement n.d.a}
+if xprod=31211 then codes(w)=01; endif;  {Veste avec doublure}
+if xprod=31212 then codes(w)=01; endif;  {Complet Type SAFARI (manche courte)}
+if xprod=31213 then codes(w)=01; endif;  {Costume en tergal et autres complets}
+if xprod=31214 then codes(w)=01; endif;  {Capitula (ou culotte)}
+if xprod=31215 then codes(w)=01; w=w+1; codes(w)=70; endif;  {Pantalon importé}
+if xprod=31216 then codes(w)=01; w=w+1; codes(w)=70; endif;  {Pantalon local}
+if xprod=31217 then codes(w)=01; endif;  {Tailleur pour homme}
+if xprod=31218 then codes(w)=01; endif;  {Chemise de ville pour homme}
+if xprod=31219 then codes(w)=01; endif;  {Autres vêtements de dessus hommes n.d.a}
+if xprod=31221 then codes(w)=01; w=w+1; codes(w)=84; w=w+1; codes(w)=85; endif;  {Slip HOMME en coton}
+if xprod=31222 then codes(w)=01; endif;  {Maillot de corps; w=w+1; codes(w)=pyjamas; w=w+1; codes(w)=peignoirs}
+if xprod=31223 then codes(w)=87; endif;  {Chaussettes}
+if xprod=31224 then codes(w)=01; endif;  {Polo blanc; w=w+1; codes(w)=singlet}
+if xprod=31225 then codes(w)=01; endif;  {Autres sous-vêtements hommes n. d. a}
+if xprod=31231 then codes(w)=01; endif;  {Blouse de fabrication locale}
+if xprod=31232 then codes(w)=01; endif;  {Blouse importée}
+if xprod=31233 then codes(w)=01; endif;  {Robe; w=w+1; codes(w)=jupe}
+if xprod=31234 then codes(w)=01; endif;  {Pantalon femme}
+if xprod=31235 then codes(w)=01; endif;  {Ensemble femme}
+if xprod=31236 then codes(w)=01; endif;  {Tailleur pour femme}
+if xprod=31237 then codes(w)=01; endif;  {Autres vêtements de dessus femmes n.d.a}
+if xprod=31241 then codes(w)=01; w=w+1; codes(w)=84; w=w+1; codes(w)=85; endif;  {Slip DAME; w=w+1; codes(w)=}
+if xprod=31242 then codes(w)=01; endif;  {Robe de chambre; w=w+1; codes(w)=Robe d’intérieur}
+if xprod=31243 then codes(w)=01; endif;  {Soutien -gorge ordinaire}
+if xprod=31244 then codes(w)=01; endif;  {Collants; w=w+1; codes(w)=gaines}
+if xprod=31245 then codes(w)=01; endif;  {Jupon}
+if xprod=31246 then codes(w)=01; endif;  {Tee shirt femme}
+if xprod=31247 then codes(w)=01; endif;  {Autres sous-vêtements femmes n.d.a}
+if xprod=31251 then codes(w)=01; endif;  {Chemise; w=w+1; codes(w)=culotte; w=w+1; codes(w)=garçon}
+if xprod=31252 then codes(w)=01; endif;  {Blouse; w=w+1; codes(w)=jupe; w=w+1; codes(w)=fille}
+if xprod=31253 then codes(w)=01; endif;  {Uniforme scolaire garçon}
+if xprod=31254 then codes(w)=01; endif;  {Uniforme scolaire fille}
+if xprod=31255 then codes(w)=01; endif;  {Tailleur pour enfant (non compris uniforme)}
+if xprod=31256 then codes(w)=01; w=w+1; codes(w)=84; w=w+1; codes(w)=85; endif;  {Slip; w=w+1; codes(w)=Maillot de corps enfant; w=w+1; codes(w)=chaussettes enfants}
+if xprod=31257 then codes(w)=01; endif;  {Vêtements et chaussons de bébé en textiles}
+if xprod=31258 then codes(w)=01; endif;  {Robe fillette}
+if xprod=31259 then codes(w)=01; endif;  {Autres vêtements enfants n.d.a}
+if xprod=31311 then codes(w)=01; endif;  {Aiguille à coudre (paire)}
+if xprod=31312 then codes(w)=01; endif;  {Fil à coudre; w=w+1; codes(w)=fils à tricoter et accessoires de couture (boucles; w=w+1; codes(w)=boutons-pressions; w=w+1; codes(w)=fermetures; w=w+1; codes(w)=éclair; w=w+1; codes(w)=rubans; w=w+1; codes(w)=dentelles; w=w+1; codes(w)=etc…)}
+if xprod=31313 then codes(w)=01; endif;  {Mouchoirs de poche pour hommes}
+if xprod=31314 then codes(w)=01; endif;  {Mouchoirs de tête pour femmes; w=w+1; codes(w)=foulards}
+if xprod=31315 then codes(w)=01; endif;  {Bavoirs; w=w+1; codes(w)=tabliers; w=w+1; codes(w)=blouses; w=w+1; codes(w)=protège-mouches}
+if xprod=31316 then codes(w)=01; endif;  {Ceinture; w=w+1; codes(w)=bretelles}
+if xprod=31317 then codes(w)=01; endif;  {Cravates; w=w+1; codes(w)=écharpes}
+if xprod=31318 then codes(w)=01; endif;  {Chapeaux; w=w+1; codes(w)=Casquettes; w=w+1; codes(w)=Bérets; w=w+1; codes(w)=Bonnets}
+if xprod=31319 then codes(w)=01; endif;  {Autres articles vestimentaires n.d.a}
+if xprod=31411 then codes(w)=98; endif;  {Frais de reprisage; w=w+1; codes(w)=raccommodage et retouche d’un ensemble Veste}
+if xprod=31412 then codes(w)=98; endif;  {Frais de reprisage; w=w+1; codes(w)=raccommodage et de retouche d’un ensemble SAFARY}
+if xprod=31413 then codes(w)=98; endif;  {Frais de raccommodage d'un pantalon; w=w+1; codes(w)=frais de modification d’un pantalon}
+if xprod=31414 then codes(w)=98; endif;  {Frais de reprisage; w=w+1; codes(w)=de raccommodage et retouche d’un chemise-Wax}
+if xprod=31415 then codes(w)=98; endif;  {Nettoyage à sec; w=w+1; codes(w)=blanchissage et teinture de vêtements homme}
+if xprod=31416 then codes(w)=98; endif;  {Location de vêtements}
+if xprod=31417 then codes(w)=98; endif;  {Autres réparations vêtements hommes n.d.a}
+if xprod=31421 then codes(w)=98; endif;  {Frais de reprise; w=w+1; codes(w)=de raccommodage et de retouche d'un corsage LIBAYA}
+if xprod=31422 then codes(w)=98; endif;  {Frais de reprisage; w=w+1; codes(w)=raccommodage et retouche d’une robe; w=w+1; codes(w)=d’un ensemble femme}
+if xprod=31423 then codes(w)=98; endif;  {Location de vêtement femme}
+if xprod=31424 then codes(w)=98; endif;  {Nettoyage à sec; w=w+1; codes(w)=blanchissage et teinture de vêtements femme}
+if xprod=31425 then codes(w)=98; endif;  {Autres et réparations vêtements femmes n.d.a}
+if xprod=32111 then codes(w)=87; endif;  {Chaussures en cuir}
+if xprod=32112 then codes(w)=87; endif;  {Chaussures LIPAPA}
+if xprod=32113 then codes(w)=87; endif;  {Sandales en plastic}
+if xprod=32114 then codes(w)=87; endif;  {Chaussure synthétique homme}
+if xprod=32115 then codes(w)=87; endif;  {Autres chaussures hommes n.d.a}
+if xprod=32121 then codes(w)=87; endif;  {Chaussures en cuir}
+if xprod=32122 then codes(w)=87; endif;  {Lipapa en liège}
+if xprod=32123 then codes(w)=87; endif;  {Chaussure synthétique femme}
+if xprod=32124 then codes(w)=87; endif;  {Sandale pour femme}
+if xprod=32125 then codes(w)=87; endif;  {Autres chaussures femmes n.d.a}
+if xprod=32131 then codes(w)=87; endif;  {Ketch et autres chaussures pour écolier}
+if xprod=32132 then codes(w)=87; endif;  {Sandales en plastic}
+if xprod=32133 then codes(w)=87; endif;  {Chaussures en cuir enfant}
+if xprod=32134 then codes(w)=87; endif;  {Chaussure synthétique enfant}
+if xprod=32135 then codes(w)=87; endif;  {Autres chaussures enfants n.d.a}
+if xprod=32211 then codes(w)=98; endif;  {Semelle+talon}
+if xprod=32212 then codes(w)=98; endif;  {Ressemelage complet}
+if xprod=32213 then codes(w)=98; endif;  {Cirage de chaussure; w=w+1; codes(w)=services de nettoyage}
+if xprod=32214 then codes(w)=98; endif;  {Location de chaussures}
+if xprod=32215 then codes(w)=98; endif;  {Autres réparations de chaussures n.d.a}
+if xprod=32220 then codes(w)=98; endif;  {Vêtemnts à l'occasion des fêtes ou cérémonie}
+if xprod=41101 then codes(w)=04; endif;  {Loyer effectivement payé par le locataire ou le sous-locataire occupant un local non meublé ou meuble en tant que résidence principale.}
+if xprod=41201 then codes(w)=04; endif;  {Loyers effectifs de résidences secondaires}
+if xprod=42111 then codes(w)=04; endif;  {Loyers fictifs des propriétaires-occupants leur résidence principale}
+if xprod=42211 then codes(w)=04; endif;  {Loyers fictifs des ménages logés gratuitement ou qui paient loyers réduit; w=w+1; codes(w)=loyers fictifs des résidences secondaires}
+if xprod=43111 then codes(w)=76; w=w+1; codes(w)=107;endif;  {Ciment local}
+if xprod=43112 then codes(w)=01; endif;  {Tôle ondulée zinguée}
+if xprod=43113 then codes(w)=01; endif;  {Chevron; w=w+1; codes(w)=lattes de plancher}
+if xprod=43114 then codes(w)=07; w=w+1; codes(w)=10; endif;  {Peintures; w=w+1; codes(w)=Chaux; w=w+1; codes(w)=Mastic; w=w+1; codes(w)=vernis; w=w+1; codes(w)=enduits; w=w+1; codes(w)=papier peint; w=w+1; codes(w)=pinceaux; w=w+1; codes(w)=brosse et grattoirs à peinture}
+if xprod=43115 then codes(w)=04; w=w+1; codes(w)=83; w=w+1; codes(w)=88; endif;  {Sable; w=w+1; codes(w)=Caillasse}
+if xprod=43116 then codes(w)=01; endif;  {Tuyau; w=w+1; codes(w)=Robinet; w=w+1; codes(w)=joints}
+if xprod=43117 then codes(w)=01; endif;  {Plaque plane; w=w+1; codes(w)=Vitre}
+if xprod=43118 then codes(w)=01; endif;  {Fer à béton}
+if xprod=43119 then codes(w)=01; endif;  {Autres produits pour l’entretien et les réparations courantes du logement}
+if xprod=43211 then codes(w)=98; endif;  {Service Maçonnerie}
+if xprod=43212 then codes(w)=98; endif;  {Service Peintre; w=w+1; codes(w)=Décorateur}
+if xprod=43213 then codes(w)=98; endif;  {Service Plomberie; w=w+1; codes(w)=Service de vitrier}
+if xprod=43214 then codes(w)=98; endif;  {Service Charpentier; w=w+1; codes(w)=Menuisier}
+if xprod=43215 then codes(w)=98; endif;  {Service d’électricien}
+if xprod=43216 then codes(w)=98; endif;  {Autres services d'entretien du logement n.d.a}
+if xprod=43300 then codes(w)=98; endif;  {Caution}
+if xprod=44111 then codes(w)=04; endif;  {Tarif EAU Régideso}
+if xprod=44112 then codes(w)=04; endif;  {Tarif EAU de puits}
+if xprod=44113 then codes(w)=98; endif;  {Autres services de distribution d’eau (sous-location d’eau)}
+if xprod=44201 then codes(w)=98; endif;  {Enlèvement et traitement des ordures ménagères}
+if xprod=45111 then codes(w)=04; endif;  {Tarif Electricité Snel}
+if xprod=45112 then codes(w)=98; endif;  {Autres services de distribution d’électricité}
+if xprod=45211 then codes(w)=25; w=w+1; codes(w)=26; endif;  {Gaz}
+if xprod=45311 then codes(w)=28; endif;  {Pétrole}
+if xprod=45312 then codes(w)=28; endif;  {Autres combustibles liquides n.d.a}
+if xprod=45411 then codes(w)=13; endif;  {Bois de chauffage}
+if xprod=45412 then codes(w)=13; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Charbon de bois}
+if xprod=45413 then codes(w)=76; w=w+1; codes(w)=107;endif;  {Autres combustibles solides n.d.a (charbon industriel; w=w+1; codes(w)=coke; w=w+1; codes(w)=tourbe; w=w+1; codes(w)=etc.)}
+if xprod=45501 then codes(w)=04; endif;  {Eau chaude ou vapeur provenant d’une centrale de chauffage urbain}
+if xprod=45502 then codes(w)=03; endif;  {Glace utilisée pour rafraîchir ou réfrigérer}
+if xprod=51101 then codes(w)=03; endif;  {Armoire; w=w+1; codes(w)=buffet; w=w+1; codes(w)=commode; w=w+1; codes(w)=étagères}
+if xprod=51102 then codes(w)=03; endif;  {Chaise en plastique}
+if xprod=51103 then codes(w)=03; endif;  {Salle à manger ( tables; w=w+1; codes(w)=chaises)}
+if xprod=51104 then codes(w)=03; endif;  {Salon (Canapés; w=w+1; codes(w)=Divans}
+if xprod=51105 then codes(w)=03; endif;  {Appareils d’éclairage (lampes; w=w+1; codes(w)=Lampadaires; w=w+1; codes(w)=Plafonniers)}
+if xprod=51106 then codes(w)=03; endif;  {Lit en bois; w=w+1; codes(w)=lits métallique; w=w+1; codes(w)=sommiers; w=w+1; codes(w)=matelas}
+if xprod=51107 then codes(w)=03; endif;  {Objets de décoration (Tableaux; w=w+1; codes(w)=Sculptures; w=w+1; codes(w)=Gravures et autres articles d’arts; w=w+1; codes(w)=et décoratifs}
+if xprod=51108 then codes(w)=03; endif;  {Autres meubles : meubles de salle de bains; w=w+1; codes(w)=mobilier pour bébé (berceau; w=w+1; codes(w)=parc; w=w+1; codes(w)=chaise haute; w=w+1; codes(w)=meubles de camping et de jardin)}
+if xprod=51109 then codes(w)=03; endif;  {Paravents; w=w+1; codes(w)=cloisons et autres meubles et appareils n.d.a (miroirs; w=w+1; codes(w)=chandeliers; w=w+1; codes(w)=etc...)}
+if xprod=51201 then codes(w)=03; endif;  {Tapis}
+if xprod=51202 then codes(w)=03; endif;  {Moquette et autre revêtement de sol analogues}
+if xprod=51301 then codes(w)=98; endif;  {Réparation de meubles articles d’ameublement et revêtements souples pour le sol}
+if xprod=52001 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Tissus d’ameublement; w=w+1; codes(w)=tissus pour rideaux; w=w+1; codes(w)=doubles rideaux; w=w+1; codes(w)=rideaux de porte}
+if xprod=52002 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Draps; w=w+1; codes(w)=taies d’oreiller; w=w+1; codes(w)=couvertures; w=w+1; codes(w)=couvre-lits}
+if xprod=52003 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Linge de table (nappes; w=w+1; codes(w)=serviettes de table)}
+if xprod=52004 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Linge de toilette (serviettes et gants de toilette)}
+if xprod=52005 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres articles de ménage en textiles (serviettes pour vaisselle sacs à linge; w=w+1; codes(w)=drapeaux; w=w+1; codes(w)=parasols; w=w+1; codes(w)=etc…)}
+if xprod=52006 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Moustiquaire}
+if xprod=52007 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Literie (futor; w=w+1; codes(w)=oreiller; w=w+1; codes(w)=traversin; w=w+1; codes(w)=hamac; w=w+1; codes(w)=etc...}
+if xprod=52008 then codes(w)=98; endif;  {Réparation d'articles de ménage en textile}
+if xprod=52009 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres articles de ménage en textiles n.d.a} //
+if xprod=53101 then codes(w)=03; endif;  {Cuisinière électrique}
+if xprod=53102 then codes(w)=03; endif;  {Réfrigérateur}
+if xprod=53103 then codes(w)=03; endif;  {Congélateur}
+if xprod=53104 then codes(w)=03; endif;  {Réchaud électrique; w=w+1; codes(w)=rôtissoires; w=w+1; codes(w)=fours électriques}
+if xprod=53105 then codes(w)=03; endif;  {Appareils de chauffage; w=w+1; codes(w)=chauffe-eau}
+if xprod=53106 then codes(w)=03; endif;  {Machine à coudre électrique; w=w+1; codes(w)=Machines à tricoter}
+if xprod=53107 then codes(w)=03; endif;  {Ventilateur; w=w+1; codes(w)=Climatiseur}
+if xprod=53108 then codes(w)=03; endif;  {Aspirateurs; w=w+1; codes(w)=coffres-forts}
+if xprod=53109 then codes(w)=03; endif;  {Machine à laver électrique et autres gros appareils ménagers n.d.a}
+if xprod=53211 then codes(w)=03; endif;  {Cafetières électriques; w=w+1; codes(w)=moulin à café}
+if xprod=53212 then codes(w)=03; endif;  {Friteuses}
+if xprod=53213 then codes(w)=03; endif;  {Fers à repasser}
+if xprod=53214 then codes(w)=03; endif;  {Bouilloires}
+if xprod=53215 then codes(w)=03; endif;  {Ventilateurs mobiles}
+if xprod=53216 then codes(w)=01; endif;  {Couteaux; w=w+1; codes(w)=ouvre-boites}
+if xprod=53217 then codes(w)=03; endif;  {Grils; w=w+1; codes(w)=grille-pain}
+if xprod=53218 then codes(w)=03; endif;  {Plaques chauffantes}
+if xprod=53219 then codes(w)=03; endif;  {Autres petits appareils ménagers électriques n.d.a}
+if xprod=53311 then codes(w)=98; endif;  {Réparation d’appareils ménagers}
+if xprod=54111 then codes(w)=01; endif;  {Couteaux pour ménage}
+if xprod=54112 then codes(w)=01; endif;  {Couverts 3 pièces et argenterie}
+if xprod=54113 then codes(w)=01; endif;  {Assiette creuse en faïence}
+if xprod=54114 then codes(w)=01; endif;  {Verre Bambou; w=w+1; codes(w)=Verrerie}
+if xprod=54115 then codes(w)=01; endif;  {Gobelet en aluminium}
+if xprod=54116 then codes(w)=01; endif;  {Gobelet en plastique}
+if xprod=54117 then codes(w)=98; endif;  {Réparation de vaisselle}
+if xprod=54118 then codes(w)=01; endif;  {Autre vaisselle n.d.a (Cristallerie; w=w+1; codes(w)=Céramique et porcelaine pour la table; w=w+1; codes(w)=la cuisine; w=w+1; codes(w)=la salle de bains; w=w+1; codes(w)=bureau; w=w+1; codes(w)=décoration)}
+if xprod=54121 then codes(w)=01; endif;  {Casseroles}
+if xprod=54122 then codes(w)=01; endif;  {Mortier (Liboka)+Pilon}
+if xprod=54123 then codes(w)=01; endif;  {Marmite}
+if xprod=54124 then codes(w)=01; endif;  {Poêles; w=w+1; codes(w)=Moulin à café; w=w+1; codes(w)=balance de ménage; w=w+1; codes(w)=hachoirs et autres ustensiles mécaniques analogues}
+if xprod=54125 then codes(w)=01; endif;  {Cassettes; w=w+1; codes(w)=coffre-fort portatif; w=w+1; codes(w)=}
+if xprod=54126 then codes(w)=01; endif;  {Bouteille thermos; w=w+1; codes(w)=glacières}
+if xprod=54127 then codes(w)=01; endif;  {Fers à repasser non électriques}
+if xprod=54128 then codes(w)=01; endif;  {Réparation de ces articles}
+if xprod=54131 then codes(w)=01; endif;  {Bassin en émail blanc; w=w+1; codes(w)=seau}
+if xprod=54132 then codes(w)=01; endif;  {Bassin plastique; w=w+1; codes(w)=seau en plastique}
+if xprod=54133 then codes(w)=01; endif;  {Cuvette en plastique}
+if xprod=54134 then codes(w)=01; endif;  {Tamis (Kiyungulu)}
+if xprod=54135 then codes(w)=01; endif;  {Bassin pour bébé; w=w+1; codes(w)=biberon}
+if xprod=54136 then codes(w)=01; endif;  {Pot de nuit}
+if xprod=54137 then codes(w)=01; endif;  {Poubelle; w=w+1; codes(w)=Corbeille à papier; w=w+1; codes(w)=panier à linge casiers à bouteille}
+if xprod=54138 then codes(w)=01; endif;  {Autres ustensiles de ménage n.d.a}
+if xprod=55102 then codes(w)=01; endif;  {Tronçonneuse}
+if xprod=55103 then codes(w)=01; endif;  {Pompe à eau}
+if xprod=55104 then codes(w)=01; endif;  {Tracteur de jardin}
+if xprod=55105 then codes(w)=01; endif;  {Motoculteurs; w=w+1; codes(w)=pompe à eau}
+if xprod=55106 then codes(w)=01; endif;  {Autre outillage n.d.a (perceuses; w=w+1; codes(w)=scies; w=w+1; codes(w)=ponceuses; w=w+1; codes(w)=taille haie électrique}
+if xprod=55107 then codes(w)=01; endif;  {Groupe électrogène}
+if xprod=55108 then codes(w)=01; endif;  {Réparation de ces articles}
+if xprod=55111 then codes(w)=01; endif;  {Tondeuse à gazon}
+if xprod=55211 then codes(w)=01; endif;  {Ampoule à incandescence}
+if xprod=55212 then codes(w)=01; endif;  {Tube à florescence}
+if xprod=55213 then codes(w)=01; endif;  {Piles torche}
+if xprod=55214 then codes(w)=01; endif;  {Lampe tempête moyenne}
+if xprod=55215 then codes(w)=01; endif;  {Torche}
+if xprod=55216 then codes(w)=01; endif;  {Pile électrique; w=w+1; codes(w)=petits accessoires électriques (prises de courant; w=w+1; codes(w)=interrupteurs; w=w+1; codes(w)=fils électriques; w=w+1; codes(w)=etc…)}
+if xprod=55217 then codes(w)=01; endif;  {Outils de bricolage (Scies; w=w+1; codes(w)=Marteaux; w=w+1; codes(w)=tournevis; w=w+1; codes(w)=Clef; w=w+1; codes(w)=Pinces; w=w+1; codes(w)=…)}
+if xprod=55218 then codes(w)=01; endif;  {Outils de jardin (Brouettes; w=w+1; codes(w)=Arrosoirs; w=w+1; codes(w)=Tuyau d’arrosage; w=w+1; codes(w)=Râteaux; w=w+1; codes(w)=…)}
+if xprod=55219 then codes(w)=01; endif;  {Autres outillages pour la maison et le jardin n.d.a (Accessoires de porte; w=w+1; codes(w)=Autres articles)}
+if xprod=56111 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Allumettes locales}
+if xprod=56112 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Bougie}
+if xprod=56113 then codes(w)=01; endif;  {Balais à tige de palmier}
+if xprod=56114 then codes(w)=01; endif;  {Brosse pour entretien maison; w=w+1; codes(w)=torchons}
+if xprod=56115 then codes(w)=01; endif;  {Cirage; w=w+1; codes(w)=Crèmes et autres articles d’entretien des chaussures}
+if xprod=56116 then codes(w)=37; w=w+1; codes(w)=42; endif;  {Eau de Javel locale; w=w+1; codes(w)=Créoline}
+if xprod=56117 then codes(w)=01; w=w+1; codes(w)=37; w=w+1; codes(w)=42; endif;  {Savons de ménage; w=w+1; codes(w)=Ajax liquide}
+if xprod=56118 then codes(w)=08; endif;  {Savons en poudre}
+if xprod=56119 then codes(w)=01; endif;  {Autres articles de ménage non durables n.d.a (serviettes; w=w+1; codes(w)=épingles; w=w+1; codes(w)=aiguilles à coudre et à tricoter; w=w+1; codes(w)=etc…)}
+if xprod=56211 then codes(w)=98; endif;  {Salaire personnel domestique (Cuisinier; w=w+1; codes(w)=Jardinier)}
+if xprod=56212 then codes(w)=98; endif;  {Boy; w=w+1; codes(w)=Bonne}
+if xprod=56213 then codes(w)=98; endif;  {Gardien}
+if xprod=56214 then codes(w)=98; endif;  {Salaire d’un chauffeur; w=w+1; codes(w)=secrétaire; w=w+1; codes(w)=précepteur; w=w+1; codes(w)=etc…}
+if xprod=56215 then codes(w)=98; endif;  {Autres services domestiques n.d.a}
+if xprod=56221 then codes(w)=98; endif;  {Services ménagers (nettoyage des vitres; w=w+1; codes(w)=désinfection; w=w+1; codes(w)=fumigation; w=w+1; codes(w)=désinsectisation et dératisation etc…)}
+if xprod=56222 then codes(w)=98; endif;  {Nettoyage à sec; w=w+1; codes(w)=blanchissage et teinture de linge de maison; w=w+1; codes(w)=d’articles de ménage en textile et de tapis}
+if xprod=56224 then codes(w)=98; endif;  {Location de meubles et d'articles de ménage; w=w+1; codes(w)=de tapis; w=w+1; codes(w)=d’appareils ménagers; w=w+1; codes(w)=de linge de maison}
+if xprod=56225 then codes(w)=98; endif;  {Autres services pour habitation n.d.a.}
+if xprod=56300 then codes(w)=98; endif;  {Location de tables; w=w+1; codes(w)=chaises et tentures à l'occasion des fêtes}
+if xprod=61111 then codes(w)=92; w=w+1; codes(w)=94; endif;  {Aspirines; w=w+1; codes(w)=Novalgine}
+if xprod=61112 then codes(w)=92; w=w+1; codes(w)=93; w=w+1; codes(w)=94; endif;  {Vermox; w=w+1; codes(w)=Mebox en sirop}
+if xprod=61113 then codes(w)=92; w=w+1; codes(w)=94; endif;  {Vitamine C; w=w+1; codes(w)=Vitamines B12 et Autres vitamines}
+if xprod=61114 then codes(w)=93; endif;  {Mercurochrome; w=w+1; codes(w)=alcool iodé; w=w+1; codes(w)=…}
+if xprod=61115 then codes(w)=92; w=w+1; codes(w)=94; endif;  {Quinine; w=w+1; codes(w)=Malaxin et autres antipaludéenne}
+if xprod=61116 then codes(w)=93; w=w+1; codes(w)=94; endif;  {Pénicilline; w=w+1; codes(w)=Ampicilline; w=w+1; codes(w)=Aminophylline et Autres antibiotiques}
+if xprod=61117 then codes(w)=93; endif;  {Pulmine en sirop; w=w+1; codes(w)=Sirop hémoglobine}
+if xprod=61118 then codes(w)=13; endif;  {Kongo bololo; w=w+1; codes(w)=Feuille de citronnelle et autres traditionnelles}
+if xprod=61119 then codes(w)=92; w=w+1; codes(w)=93; w=w+1; codes(w)=94; endif;  {Autres médicaments modernes n.d;a}
+if xprod=61211 then codes(w)=01; endif;  {Coton hydrophile}
+if xprod=61212 then codes(w)=01; endif;  {Mamie Extra}
+if xprod=61213 then codes(w)=01; endif;  {Seringue 5cc; w=w+1; codes(w)=autres seringues hypodermiques}
+if xprod=61214 then codes(w)=01; endif;  {Bande ordinaire en coton; w=w+1; codes(w)=pansement adhésif et non adhésifs}
+if xprod=61215 then codes(w)=06; endif;  {Capote anglaise et autres préservatifs et contraceptifs mécaniques; w=w+1; codes(w)=tests de grossesse}
+if xprod=61216 then codes(w)=01; endif;  {Thermomètre médical; w=w+1; codes(w)=bouillotte}
+if xprod=61217 then codes(w)=93; w=w+1; codes(w)=94; endif;  {Autres produits pharmaceutiques n.d.a (trousses de premier secours; w=w+1; codes(w)=poches de glace; w=w+1; codes(w)=…}
+if xprod=61220 then codes(w)=01; endif;  {Coton hydrophile}
+if xprod=61310 then codes(w)=01; endif;  {Verres standard blancs (2 dioptries); w=w+1; codes(w)=lunettes de vue et lentilles de contact.}
+if xprod=61320 then codes(w)=01; endif;  {Monture de lunette}
+if xprod=61330 then codes(w)=03; endif;  {Prothèses diverses}
+if xprod=61340 then codes(w)=03; endif;  {Chaise roulante; w=w+1; codes(w)=fauteuil roulant; w=w+1; codes(w)=voiture d’invalide; w=w+1; codes(w)=béquilles}
+if xprod=61350 then codes(w)=87; endif;  {Chaussures et ceintures orthopédiques; w=w+1; codes(w)=matériel de massage et lampes thérapeutiques; w=w+1; codes(w)=etc…}
+if xprod=61360 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Appareil pour tension artérielle}
+if xprod=61370 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres appareils et matériel thérapeutique n.d.a}
+if xprod=61380 then codes(w)=98; endif;  {Réparation de ces appareils.}
+if xprod=62101 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Consultation Généraliste en milieu public} //
+if xprod=62102 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Consultation Généraliste en milieu privé} //
+if xprod=62103 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Consultation Spécialiste en milieu public} //
+if xprod=62104 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Consultation Spécialiste en milieu privé} //
+if xprod=62105 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services des médecins n.d.a} //
+if xprod=62201 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Consultation du dentiste} //
+if xprod=62202 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Extraction d'une dent chez le médecin public} //
+if xprod=62203 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Extraction d'une dent chez le médecin privé}
+if xprod=62311 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Examen d'urine hôpital privé}
+if xprod=62312 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Examen d'urine; w=w+1; codes(w)=hôpital privé}
+if xprod=62313 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Examen de selle(hôpital public)}
+if xprod=62314 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Examen de selle (hôpital privé)}
+if xprod=62315 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Examen de sang (hôpital public)}
+if xprod=62316 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Examen de sang (hôpital privé)}
+if xprod=62317 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Radiographie d’un thorax; w=w+1; codes(w)=Echographie (hôpital public)}
+if xprod=62318 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Radiographie d’un thorax; w=w+1; codes(w)=Echographie (hôpital privé)}
+if xprod=62319 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres analyses médicales n.d;a}
+if xprod=62321 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service d'infirmier indépendant}
+if xprod=62322 then codes(w)=04; endif;  {Etablissement d'une fiche(hôpital public)}
+if xprod=62323 then codes(w)=04; endif;  {Etablissement d'une fiche(hôpital privé)}
+if xprod=62324 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de sage-femme indépendant}
+if xprod=62325 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services des auxiliaires médicaux indépendants (acupuncteur; w=w+1; codes(w)=physiothérapeutes; w=w+1; codes(w)=d’optométristes; w=w+1; codes(w)=d’orthophonistes; w=w+1; codes(w)=de chiropracteurs et d’ostéopathes)}
+if xprod=62326 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Kinésithérapie}
+if xprod=62327 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service d’un praticien traditionnel}
+if xprod=62328 then codes(w)=98; endif;  {Location des matériels thérapeutiques}
+if xprod=62401 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Plombage d'une dent chez le médecin privé}
+if xprod=62402 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autre service des dentistes n.d.a}
+if xprod=62403 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Services paramédicaux}
+if xprod=63001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais journaliers ( Chambre collective ); w=w+1; codes(w)=hôpital public ou Centres de soins médicaux publics)}
+if xprod=63002 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais journaliers (Chambre collective); w=w+1; codes(w)=hôpital privé ou Centres de soins médicaux privés)}
+if xprod=63003 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais journaliers ( Chambre individuelle); w=w+1; codes(w)=hôpital d'Etat (ou Centres de soins médicaux Etat)}
+if xprod=63004 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais journalier (Chambre individuelle); w=w+1; codes(w)=hôpital privé ou Centres de soins médicaux privés)}
+if xprod=63005 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services des hôpitaux n.d.a}
+if xprod=71101 then codes(w)=03; endif;  {Voiture automobiles de tourisme à deux ou quatre roues motrices}
+if xprod=71102 then codes(w)=03; endif;  {Autres automobiles n.d.a}
+if xprod=71201 then codes(w)=03; endif;  {Moto YAMAHA}
+if xprod=71202 then codes(w)=03; endif;  {Autres motocycles de tous types; w=w+1; codes(w)=scooters et cyclomoteurs n.d.a.}
+if xprod=71301 then codes(w)=03; endif;  {Vélo KINGA}
+if xprod=71302 then codes(w)=03; endif;  {Atres bicyclettes et tricycles en tous genres}
+if xprod=71303 then codes(w)=03; endif;  {Cyclopousses (pousse-pousse)}
+if xprod=71401 then codes(w)=03; endif;  {Charrue pour traction animale}
+if xprod=71402 then codes(w)=03; endif;  {Charrette}
+if xprod=71403 then codes(w)=03; endif;  {Herse tirée par animal}
+if xprod=72101 then codes(w)=03; endif;  {Pneus pour automobile}
+if xprod=72102 then codes(w)=03; endif;  {Chambre à air}
+if xprod=72103 then codes(w)=03; endif;  {Batterie pour automobile}
+if xprod=72104 then codes(w)=01; w=w+1; codes(w)=6; endif;  {Bougie d’allumage pour automobile}
+if xprod=72105 then codes(w)=03; endif;  {Pneu; w=w+1; codes(w)=chambre à air pour vélo ou moto}
+if xprod=72106 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Filtre; w=w+1; codes(w)=Pompes}
+if xprod=72107 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Bandes freins; w=w+1; codes(w)=amortisseurs}
+if xprod=72108 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Bougie pour moto}
+if xprod=72109 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres pièces détachées et accessoires n.d.a}
+if xprod=72201 then codes(w)=28; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=42; w=w+1; codes(w)=43; endif;  {Essence}
+if xprod=72202 then codes(w)=28; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=42; w=w+1; codes(w)=43; endif;  {Gas-oil}
+if xprod=72203 then codes(w)=28; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=42; w=w+1; codes(w)=43; endif;  {Essence mélange}
+if xprod=72204 then codes(w)=28; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=42; w=w+1; codes(w)=43; endif;  {Huile moteur}
+if xprod=72205 then codes(w)=28; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=42; w=w+1; codes(w)=43; endif;  {Huile de frein}
+if xprod=72206 then codes(w)=28; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=42; w=w+1; codes(w)=43; endif;  {Autres carburants et lubrifiants n.d.a}
+if xprod=72301 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Pose d'un complet plaquette}
+if xprod=72302 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Graissage}
+if xprod=72303 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Vidange}
+if xprod=72304 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Réparations moto; w=w+1; codes(w)=dépannage}
+if xprod=72305 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Lavage voiture; w=w+1; codes(w)=équilibrage des roues}
+if xprod=72306 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres entretiens et réparations n.d.a}
+if xprod=72307 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Réparations voiture; w=w+1; codes(w)=dépannage}
+if xprod=72401 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Location de voiture sans chauffeur}
+if xprod=72402 then codes(w)=04; endif;  {Frais de parking}
+if xprod=72403 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Leçon de conduite}
+if xprod=72404 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services relatifs aux véhicules personnels n.d.a (péage; w=w+1; codes(w)=contrôle technique; w=w+1; codes(w)=…)}
+if xprod=73101 then codes(w)=88; w=w+1; codes(w)=98; endif;  {Transport des personnes par train}
+if xprod=73102 then codes(w)=88; w=w+1; codes(w)=98; endif;  {Transport de bagages par train}
+if xprod=73201 then codes(w)=88; w=w+1; codes(w)=98; endif;  {Bus (compagnie d'ETAT )}
+if xprod=73202 then codes(w)=04; w=w+1; codes(w)=88; w=w+1; codes(w)=98; endif;  {Taxi-bus privé}
+if xprod=73203 then codes(w)=04; w=w+1; codes(w)=88; w=w+1; codes(w)=98; endif;  {Taxi-Voiture}
+if xprod=73204 then codes(w)=04; w=w+1; codes(w)=88; w=w+1; codes(w)=98; endif;  {Train urbain}
+if xprod=73205 then codes(w)=04; w=w+1; codes(w)=88; w=w+1; codes(w)=98; endif;  {Taxi-moto}
+if xprod=73206 then codes(w)=04; w=w+1; codes(w)=88; w=w+1; codes(w)=98; endif;  {Taxi - vélo}
+if xprod=73207 then codes(w)=04; w=w+1; codes(w)=88; w=w+1; codes(w)=98; endif;  {Autres transports locaux n.d.a}
+if xprod=73311 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Lignes aériennes intérieures KIN- LSHI}
+if xprod=73312 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Lignes aériennes intérieures KIN-TSHIKAPA}
+if xprod=73313 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Lignes aériennes intérieures KIN - KISANGANI}
+if xprod=73314 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Lignes internationales.}
+if xprod=73315 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres transports aériens intérieurs n.d.a}
+if xprod=73401 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Transport de personnes et de bagages par navire}
+if xprod=73402 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Transport de personnes et de bagages par bateau fluvial}
+if xprod=73403 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Transport de personnes et de bagages par baleinière}
+if xprod=73404 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Transport de personnes et de bagages par pirogue ou bac}
+if xprod=73600 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Location de moyens de transport à l'occasion des fêtes}
+if xprod=73601 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de porteur}
+if xprod=73602 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de consigne et d’expédition de bagages}
+if xprod=73603 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de déménagement et de garde-meuble}
+if xprod=73604 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Commission d’agents de voyage (facturées séparément)}
+if xprod=81010 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais d'affranchissement lettre; w=w+1; codes(w)=cartes postales et colis international}
+if xprod=81020 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais d'affranchissement lettre; w=w+1; codes(w)=cartes postales et colis national}
+if xprod=81030 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services postaux n.d.a}
+if xprod=82001 then codes(w)=01; endif;  {Achat de postes téléphoniques; w=w+1; codes(w)=radiotéléphones; w=w+1; codes(w)=télécopieurs; w=w+1; codes(w)=répondeurs et haut-parleurs téléphoniques}
+if xprod=82002 then codes(w)=01; endif;  {Achat de téléphone portable}
+if xprod=82003 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais de réparation du matériel de téléphonie et de télécopie}
+if xprod=83001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Appel téléphonique local par minute (poste privé ou public)}
+if xprod=83002 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Appel téléphonique international par minute (poste privé ou public)}
+if xprod=83003 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de télégraphie; w=w+1; codes(w)=télex et télécopie}
+if xprod=83004 then codes(w)=03; w=w+1; codes(w)=04; endif;  {Achat cartes prépayées pour la communication; w=w+1; codes(w)=frais d’installation et abonnement relatifs ou matériel téléphonique personnel}
+if xprod=83005 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services téléphones et télégraphes n.d.a}
+if xprod=83006 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Location de postes téléphoniques; w=w+1; codes(w)=télécopieurs; w=w+1; codes(w)=répondeurs et haut-parleurs téléphoniques}
+if xprod=83007 then codes(w)=110; w=w+1; endif;  {Achat de la connexion internet}
+if xprod=91101 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Radio cassettes; w=w+1; codes(w)=Magnétophone à bandes et à cassettes; w=w+1; codes(w)=électrophones}
+if xprod=91102 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Téléviseur tous les types}
+if xprod=91103 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Compact disque ou lecteurs de disques compacts; w=w+1; codes(w)=chaines stéréo}
+if xprod=91104 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Radio; w=w+1; codes(w)=radio-reveilles}
+if xprod=91105 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Vidéo}
+if xprod=91106 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Magnétoscope}
+if xprod=91107 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autoradio}
+if xprod=91108 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Accessoires audio-vidéo et autres équipements audio-vidéo n.d.a}
+if xprod=91109 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Réparation du matériel audio-vidéo}
+if xprod=91201 then codes(w)=03; endif;  {Appareils photo}
+if xprod=91202 then codes(w)=03; endif;  {Cameras; w=w+1; codes(w)=caméras vidéo et caméscopes}
+if xprod=91203 then codes(w)=01; endif;  {Jumelles}
+if xprod=91204 then codes(w)=03; endif;  {Microscopes; w=w+1; codes(w)=télescopes et boussoles}
+if xprod=91205 then codes(w)=03; endif;  {Projecteurs de films et de diapositives; w=w+1; codes(w)=agrandisseurs et matériel de développement et accessoires}
+if xprod=91206 then codes(w)=03; endif;  {Autre équipement photographique et cinématographique n.d.a.}
+if xprod=91301 then codes(w)=03; endif;  {Ordinateur individuel; w=w+1; codes(w)=écran de visualisation; w=w+1; codes(w)=imprimantes et accessoires connexes divers}
+if xprod=91302 then codes(w)=01; endif;  {Calculatrices; w=w+1; codes(w)=Calculettes}
+if xprod=91303 then codes(w)=03; endif;  {Machines à écrire; w=w+1; codes(w)=machine de traitement de texte}
+if xprod=91304 then codes(w)=03; endif;  {Autres équipement de traitement de l’information}
+if xprod=91401 then codes(w)=01; endif;  {Bandes et cassettes audio; w=w+1; codes(w)=cassettes vidéo (vierges)}
+if xprod=91402 then codes(w)=01; endif;  {Bandes vidéo}
+if xprod=91403 then codes(w)=01; endif;  {Bandes et cassettes audio enregistrées; w=w+1; codes(w)=Cassettes vidéo enregistrées; w=w+1; codes(w)=disquettes et CD-ROM enregistrées}
+if xprod=91404 then codes(w)=01; endif;  {Disques et Disque compact; w=w+1; codes(w)=Disquettes et CD-ROM pour magnétophones à bandes et à cassettes; w=w+1; codes(w)=magnétoscopes et ordinateurs individuels}
+if xprod=91405 then codes(w)=01; endif;  {Pellicule; w=w+1; codes(w)=chargeur et disque photographiques et cinématographique (vierges)}
+if xprod=91406 then codes(w)=01; endif;  {Autres supports d'enregistrement pour l'image et le son n.d.a}
+if xprod=91501 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Réparation du matériel audiovisuel}
+if xprod=91502 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Réparation du matériel photographique}
+if xprod=91503 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Réparation de matériel de traitement de l’information}
+if xprod=92101 then codes(w)=03; endif;  {Avions; w=w+1; codes(w)=planeurs; w=w+1; codes(w)=…}
+if xprod=92102 then codes(w)=03; endif;  {Bateaux}
+if xprod=92103 then codes(w)=03; endif;  {Moteurs hors bord}
+if xprod=92104 then codes(w)=03; endif;  {Chevaux et poneys; w=w+1; codes(w)=véhicules hippomobiles et accessoires connexes}
+if xprod=92105 then codes(w)=03; endif;  {Autres gros matériel récréatif et sportif n.d.a.}
+if xprod=92201 then codes(w)=03; endif;  {Instrument de musique de tous types et de toutes tailles}
+if xprod=92202 then codes(w)=03; endif;  {Tables de billard; w=w+1; codes(w)=de ping-pong}
+if xprod=92203 then codes(w)=03; endif;  {Table de kikeur}
+if xprod=92301 then codes(w)=03; endif;  {Entretien et réparation des autres biens durables à fonction récréative et culturelle}
+if xprod=92302 then codes(w)=04; endif;  {Stationnement de bateau en port de plaisance; w=w+1; codes(w)=services de hangar pour avions privés}
+if xprod=93101 then codes(w)=01; endif;  {Ballon}
+if xprod=93102 then codes(w)=06; endif;  {Jeux de cartes; w=w+1; codes(w)=jeux de société; w=w+1; codes(w)=jeux d’échecs; w=w+1; codes(w)=jeux vidéo}
+if xprod=93103 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Balles de Tennis}
+if xprod=93104 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Jouets de tous types (poupées; w=w+1; codes(w)=bibelots; w=w+1; codes(w)=voitures; w=w+1; codes(w)=train; w=w+1; codes(w)=masques; w=w+1; codes(w)=…)}
+if xprod=93105 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Articles de philatélie (timbres) et autres articles de collection}
+if xprod=93106 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Réparation des jeux et jouets}
+if xprod=93107 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres jeux et jouets; w=w+1; codes(w)=articles de sport n.d.a (logiciel de jeu vidéo; w=w+1; codes(w)=cassettes et CD-ROM de jeux vidéo}
+if xprod=93201 then codes(w)=01; w=w+1; codes(w)=03; w=w+1; codes(w)=06; endif;  {Balles; w=w+1; codes(w)=volants; w=w+1; codes(w)=filets; w=w+1; codes(w)=raquettes; w=w+1; codes(w)=clubs de golf; w=w+1; codes(w)=perches; w=w+1; codes(w)=poids; w=w+1; codes(w)=disques javelots; w=w+1; codes(w)=…}
+if xprod=93202 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Parachutes et équipements connexes}
+if xprod=93203 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Armes à feu et munitions pour la chasse; w=w+1; codes(w)=le sport et l’autodéfense}
+if xprod=93204 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Cannes à pêche et autres articles de pêche}
+if xprod=93205 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Matériel de camping : sacs de couchage; w=w+1; codes(w)=matelas pneumatiques; w=w+1; codes(w)=réchaud de camping; w=w+1; codes(w)=tentes; w=w+1; codes(w)=etc …}
+if xprod=93206 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres articles de sport n.d.a.}
+if xprod=93301 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Plantes; w=w+1; codes(w)=arbustes et arbrisseau; w=w+1; codes(w)=bulbes; w=w+1; codes(w)=tubercules; w=w+1; codes(w)=graines; w=w+1; codes(w)=gazon en plaques}
+if xprod=93302 then codes(w)=76; w=w+1; codes(w)=107;endif;  {Engrais; w=w+1; codes(w)=compost; w=w+1; codes(w)=tourbes; w=w+1; codes(w)=terreaux et terres horticoles}
+if xprod=93303 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Pots; w=w+1; codes(w)=bacs}//
+if xprod=93304 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Arbres de Noël naturels et artificiels} //
+if xprod=93401 then codes(w)=03; endif;  {Animaux de compagnie} //
+if xprod=93402 then codes(w)=06; w=w+1; codes(w)=07; w=w+1; codes(w)=08; w=w+1; codes(w)=09; w=w+1; codes(w)=10; w=w+1; codes(w)=11; w=w+1; codes(w)=76; w=w+1; codes(w)=107;endif;  {Produits vétérinaires et aliments pour animaux de compagnie}
+if xprod=93403 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Articles pour animaux (colliers; w=w+1; codes(w)=laisses; w=w+1; codes(w)=niches; w=w+1; codes(w)=cages à oiseaux; w=w+1; codes(w)=aquarium; w=w+1; codes(w)=litière pour chats; w=w+1; codes(w)=etc…}
+if xprod=93501 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Services vétérinaires}
+if xprod=93502 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services pour animaux de compagnie; w=w+1; codes(w)=toilettage; w=w+1; codes(w)=garde; w=w+1; codes(w)=tatouage et dressage}
+if xprod=94101 then codes(w)=04; endif;  {Stade de football}
+if xprod=94102 then codes(w)=04; endif;  {Piscines; w=w+1; codes(w)=terrains de golf; w=w+1; codes(w)=Gymnases et autres centres de culture physique}
+if xprod=94103 then codes(w)=04; endif;  {Match de basket-ball}
+if xprod=94104 then codes(w)=04; endif;  {Fêtes foraines et parcs d’attraction}
+if xprod=94105 then codes(w)=04; endif;  {Manèges; w=w+1; codes(w)=balançoires et autres équipements de terrain de jeux pour enfants}
+if xprod=94106 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Location de matériel et accessoires de sport et de loisirs (avions; w=w+1; codes(w)=Bâteaux; w=w+1; codes(w)=chevaux; w=w+1; codes(w)=etc…)}
+if xprod=94107 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Cours particuliers et collectifs de danse; w=w+1; codes(w)=de musique; w=w+1; codes(w)=natation; w=w+1; codes(w)=échecs; w=w+1; codes(w)=dans cadre extrascolaire}
+if xprod=94211 then codes(w)=04; endif;  {Cinéma}
+if xprod=94212 then codes(w)=04; endif;  {Concert; w=w+1; codes(w)=music-halls; w=w+1; codes(w)=opéras; w=w+1; codes(w)=cirques; w=w+1; codes(w)=spectacles de sons et lumière}
+if xprod=94213 then codes(w)=04; endif;  {Théâtre}
+if xprod=94214 then codes(w)=04; endif;  {Bibliothèque; w=w+1; codes(w)=musée; w=w+1; codes(w)=galerie d’art; w=w+1; codes(w)=salles d’exposition}
+if xprod=94215 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services de cinéma; w=w+1; codes(w)=théâtre et concert n.d.a}
+if xprod=94221 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Jardin zoologique; w=w+1; codes(w)=parcs nationaux; w=w+1; codes(w)=jardins botaniques monuments historiques; w=w+1; codes(w)=aquariums}
+if xprod=94222 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de photographe (développement de pellicules tirage et agrandissement de photographies; w=w+1; codes(w)=réalisation de portraits et photographies de mariage; w=w+1; codes(w)=etc.}
+if xprod=94223 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Location de cassettes; w=w+1; codes(w)=cassettes vidéo; w=w+1; codes(w)=chaînes musicales; w=w+1; codes(w)=télévision}
+if xprod=94224 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Abonnement à des chaînes de télévision et radio}
+if xprod=94225 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services récréatifs et culturels n.d.a}
+if xprod=94300 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Location pour animation à l'occasion des fêtes}
+if xprod=94301 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Billet de PMU}
+if xprod=94302 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Loteries par grattage et tirage; w=w+1; codes(w)=tombolas; w=w+1; codes(w)=etc…}
+if xprod=94303 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services de jeux de hasard (Casinos; w=w+1; codes(w)=…)}
+if xprod=95101 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Livres et manuels scolaires}
+if xprod=95102 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Atlas; w=w+1; codes(w)=dictionnaires; w=w+1; codes(w)=encyclopédies; w=w+1; codes(w)=guides et partitions}
+if xprod=95103 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Albums de découpage et albums pour enfants}
+if xprod=95104 then codes(w)=01; w=w+1; codes(w)=03; endif;  {La reliure d’ouvrages}
+if xprod=95105 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres livres n.d.a}
+if xprod=95201 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Journaux locaux}
+if xprod=95202 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Journal hebdomadaire}
+if xprod=95203 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Jeune Afrique intelligent}
+if xprod=95204 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Journaux mensuels}
+if xprod=95205 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres presse et périodiques n.d.a}
+if xprod=95301 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Catalogues et imprimés publicitaires}
+if xprod=95302 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Affiches; w=w+1; codes(w)=cartes postales; w=w+1; codes(w)=calendriers}
+if xprod=95303 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Cartes de visite et de vœux; w=w+1; codes(w)=faire-part et autres cartes pré imprimés}
+if xprod=95304 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Cartes et globes}
+if xprod=95411 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Cahiers; w=w+1; codes(w)=blocs notes; w=w+1; codes(w)=carnets de notes; w=w+1; codes(w)=livre comptable }
+if xprod=95412 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Perforateur a papier; w=w+1; codes(w)=ciseaux à papier; w=w+1; codes(w)=agrafeuses; w=w+1; codes(w)=colles; w=w+1; codes(w)=agrafes; w=w+1; codes(w)=trombones; w=w+1; codes(w)=punaises}
+if xprod=95413 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Bic bleu (fabrication locale); w=w+1; codes(w)=stylos}
+if xprod=95414 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Crayon à gomme; w=w+1; codes(w)=autres crayons; w=w+1; codes(w)=gommes; w=w+1; codes(w)=taille-crayons}
+if xprod=95415 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Lattes; w=w+1; codes(w)=Equerres; w=w+1; codes(w)=compas}
+if xprod=95416 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Rames de papier duplicateur A4}
+if xprod=95417 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Enveloppes}
+if xprod=95418 then codes(w)=01; w=w+1; codes(w)=03; w=w+1; codes(w)=06; endif;  {Articles de dessin (papier; w=w+1; codes(w)=carton; w=w+1; codes(w)=peinture; w=w+1; codes(w)=crayons à dessin; w=w+1; codes(w)=pinceaux)}
+if xprod=95419 then codes(w)=01; w=w+1; codes(w)=03; w=w+1; codes(w)=06; endif;  {Autres articles de papeterie et de dessin n.d.a (Cartouches d’encre pour photocopieuses et imprimantes; w=w+1; codes(w)=stencils; w=w+1; codes(w)=papier carbone; w=w+1; codes(w)=ruban; w=w+1; codes(w)=…)}
+if xprod=95421 then codes(w)=01; w=w+1; codes(w)=06; w=w+1; codes(w)=07; endif;  {Bics; w=w+1; codes(w)=stylos Crayons; w=w+1; codes(w)=Crayons à gomme; w=w+1; codes(w)=Gommes}
+if xprod=95422 then codes(w)=01; w=w+1; codes(w)=06; w=w+1; codes(w)=07; endif;  {Taille-crayons}
+if xprod=95423 then codes(w)=01; endif;  {Lattes; w=w+1; codes(w)=équerres}
+if xprod=95424 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Cahiers quadrillés et lignés cahier de dessin}
+if xprod=95425 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Journal de classe; w=w+1; codes(w)=Cahier de communication}
+if xprod=95426 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Cartable}
+if xprod=95427 then codes(w)=01; w=w+1; codes(w)=06; endif;  {Autres fournitures scolaires n.d.a (Ardoise; w=w+1; codes(w)=touche; w=w+1; codes(w)=craie; w=w+1; codes(w)=règles à calcul; w=w+1; codes(w)=instruments de géométrie}
+if xprod=96001 then codes(w)=98; endif;  {Tous les frais touristiques (transport; w=w+1; codes(w)=nourriture; w=w+1; codes(w)=hébergement guide; w=w+1; codes(w)=et.)}
+if xprod=101001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaires; w=w+1; codes(w)=Ecole publique}
+if xprod=101002 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaires; w=w+1; codes(w)=Ecole privée}
+if xprod=102001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaires; w=w+1; codes(w)=Ecole publique}
+if xprod=102002 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaires; w=w+1; codes(w)=Ecole privée}
+if xprod=104001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais académiques; w=w+1; codes(w)=Institut supérieur ou université publiques}
+if xprod=104002 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais académiques; w=w+1; codes(w)=Institut supérieur ou université privés}
+if xprod=105001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaire Ecole publique du niveau primaire}
+if xprod=105002 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaire Ecole privée du niveau primaire}
+if xprod=105003 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaire Ecole publique du niveau secondaire ou post secondaire}
+if xprod=105004 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaire Ecole privée du niveau secondaire ou post secondaire}
+if xprod=105005 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaire du niveau supérieur public}
+if xprod=105006 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais scolaire du niveau supérieur privé}
+if xprod=105007 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Formation professionnelle}
+if xprod=105008 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Cours particuliers}
+if xprod=105009 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services d'enseignement n.d.a}
+if xprod=111101 then codes(w)=18; endif;  {Poissons fumés/ fufu}
+if xprod=111102 then codes(w)=18; endif;  {Poulet/ fufu ou riz}
+if xprod=111103 then codes(w)=18; endif;  {Haricot/riz; w=w+1; codes(w)=pondu / riz}
+if xprod=111104 then codes(w)=18; endif;  {Mfumbwa/Fufu; w=w+1; codes(w)=pondu / fufu}
+if xprod=111105 then codes(w)=18; endif;  {Ngombe/Fufu; w=w+1; codes(w)=Cabri / Chikuangue}
+if xprod=111106 then codes(w)=18; endif;  {Déjeuner simple ou complet}
+if xprod=111107 then codes(w)=03; w=w+1; codes(w)=32; w=w+1; codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=35; w=w+1; codes(w)=36; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=40; w=w+1; codes(w)=41; endif;  {Bière; w=w+1; codes(w)=alcool dans un bar; w=w+1; codes(w)=kiosque; w=w+1; codes(w)=café; w=w+1; codes(w)=lieu de divertissement; w=w+1; codes(w)=}
+if xprod=111108 then codes(w)=03; w=w+1; codes(w)=32; w=w+1; codes(w)=33; w=w+1; codes(w)=34; w=w+1; codes(w)=35; w=w+1; codes(w)=36; w=w+1; codes(w)=37; w=w+1; codes(w)=38; w=w+1; codes(w)=39; w=w+1; codes(w)=40; w=w+1; codes(w)=41; endif;  {Sucrerie dans un bar; w=w+1; codes(w)=kiosque; w=w+1; codes(w)=café; w=w+1; codes(w)=lieu de divertissement; w=w+1; codes(w)=}
+if xprod=111109 then codes(w)=03; endif;  {Autres consommations à l'extérieur n.d.a}
+if xprod=111201 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Services de restauration des cantines de chantier et d’entreprise; w=w+1; codes(w)=les mess d’officiers}
+if xprod=111202 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Services de restauration des cantines de chantier; w=w+1; codes(w)=d’entreprise; w=w+1; codes(w)=d’établissement scolaire; w=w+1; codes(w)=Universitaire et autre}
+if xprod=112001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Chambre d'hôtel à la cité ou un centre d’hébergement}
+if xprod=112002 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Chambre d'hôtel haut standing}
+if xprod=112003 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Appartement dans les hôtels ou un centre d’hébergement}
+if xprod=112004 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Pensionnats; w=w+1; codes(w)=résidences universitaires et autres}
+if xprod=112005 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services d'hébergement n.d.a}
+if xprod=121101 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Coupe cheveux pour hommes; w=w+1; codes(w)=Salon de Coiffure de la cité}
+if xprod=121102 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Coupe cheveux pour hommes; w=w+1; codes(w)=Salon de Coiffure de haut standing}
+if xprod=121103 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Défrisage cheveux pour dames}
+if xprod=121104 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Plante cheveux dame}
+if xprod=121105 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Tresse cheveux}
+if xprod=121106 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres salons de coiffure et esthétique corporelle n.d.a (soins corporels; w=w+1; codes(w)=épilation; w=w+1; codes(w)=instituts de beauté; w=w+1; codes(w)=…)}
+if xprod=121201 then codes(w)=03; endif;  {Rasoirs et tondeuses électriques}
+if xprod=121202 then codes(w)=03; endif;  {Sèche cheveux à main et casques}
+if xprod=121203 then codes(w)=03; endif;  {Fers à friser et peignes soufflants}
+if xprod=121204 then codes(w)=03; endif;  {Autres appareils électriques pour soins corporels n.d.a.}
+if xprod=121205 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Réparation de ces articles}
+if xprod=121301 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Fils à cheveux; w=w+1; codes(w)=brosses à cheveux; w=w+1; codes(w)=épingles à cheveux; w=w+1; codes(w)=bigoudis}
+if xprod=121302 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Tondeuses; w=w+1; codes(w)=Ciseaux; w=w+1; codes(w)=Peignes}
+if xprod=121303 then codes(w)=01; w=w+1; codes(w)=03; w=w+1; codes(w)=06; endif;  {Rasoir; w=w+1; codes(w)=lames de rasoir; w=w+1; codes(w)=blaireaux; w=w+1; codes(w)=miroir}
+if xprod=121304 then codes(w)=01; w=w+1; codes(w)=03; w=w+1; codes(w)=06; endif;  {Savons de toilettes locales et importées; w=w+1; codes(w)=savon médical} //
+if xprod=121305 then codes(w)=01; w=w+1; codes(w)=03; w=w+1; codes(w)=06; endif;  {Crème de beauté; w=w+1; codes(w)=laits et huile de toilette; w=w+1; codes(w)=pommade; w=w+1; codes(w)=parfums}
+if xprod=121306 then codes(w)=01; w=w+1; codes(w)=03; w=w+1; codes(w)=06; endif;  {Poudre pour bébé; w=w+1; codes(w)=lait de beauté pour enfant}
+if xprod=121307 then codes(w)=01; w=w+1; codes(w)=03; w=w+1; codes(w)=06; endif;  {Bosse à dents; w=w+1; codes(w)=pâte dentifrice}
+if xprod=121308 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Pèse personnes; w=w+1; codes(w)=pèse-bébés et autres articles n.d.a.}
+if xprod=121309 then codes(w)=01; w=w+1; codes(w)=03; w=w+1; codes(w)=06; endif;  {Autres produits pour les soins personnels n.d.a (papier de toilette; w=w+1; codes(w)=mouchoir en papier; w=w+1; codes(w)=serviettes hygiéniques; w=w+1; codes(w)=Ouate; w=w+1; codes(w)=cotons de tige; w=w+1; codes(w)=couches pour bébé; w=w+1; codes(w)=éponges de toilette; w=w+1; codes(w)=etc…)}
+if xprod=122001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais pour les services fournis par les prostituées}
+if xprod=123101 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Montres digitales pour hommes}
+if xprod=123102 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Montres digitales pour femme}
+if xprod=123103 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Boucles d'oreille}
+if xprod=123104 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Réveil; w=w+1; codes(w)=horloges; w=w+1; codes(w)=chronomètres}
+if xprod=123105 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Colliers; w=w+1; codes(w)=boutons de manchettes; w=w+1; codes(w)=épingles de cravates}
+if xprod=123106 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autre bijouterie et horlogerie n.d.a (pierres et métaux précieux)}
+if xprod=123107 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Réparation de ces articles} //
+if xprod=123201 then codes(w)=03; endif;  {Parapluies et ombrelles; w=w+1; codes(w)=éventails}
+if xprod=123202 then codes(w)=03; endif;  {Sac de voyage; w=w+1; codes(w)=malles}
+if xprod=123203 then codes(w)=03; w=w+1; codes(w)=87; endif;  {Paire de lunette anti-solaire; w=w+1; codes(w)=cannes; w=w+1; codes(w)=porte-clefs; w=w+1; codes(w)=etc…}
+if xprod=123204 then codes(w)=03; endif;  {Valise; w=w+1; codes(w)=mallettes}
+if xprod=123205 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Sac à main; w=w+1; codes(w)=sacoches; w=w+1; codes(w)=porte feuilles; w=w+1; codes(w)=porte-monnaie}
+if xprod=123206 then codes(w)=03; endif;  {Articles pour fumeurs (pipes; w=w+1; codes(w)=briquets; w=w+1; codes(w)=étuis à cigarettes; w=w+1; codes(w)=etc…)}
+if xprod=123207 then codes(w)=03; endif;  {Articles pour bébé (poussettes; w=w+1; codes(w)=porte-bébés; w=w+1; codes(w)=landaus; w=w+1; codes(w)=lits et sièges auto; w=w+1; codes(w)=etc…)}
+if xprod=123208 then codes(w)=03; endif;  {Articles funéraires (cercueils; w=w+1; codes(w)=pierres tombales; w=w+1; codes(w)=croix; w=w+1; codes(w)=urnes funéraires; w=w+1; codes(w)=etc…)}
+if xprod=123209 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Réparation de ces articles}
+if xprod=124001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Montants versés par les ménages (pour séjour et assistance) à des maisons au services de retraite; w=w+1; codes(w)=résidence pour handicapés; w=w+1; codes(w)=personnes âgées; w=w+1; codes(w)=réfugiés; w=w+1; codes(w)=survivants; w=w+1; codes(w)=…)}
+if xprod=125101 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Rémunération des services d’assurance - vie; w=w+1; codes(w)=d’assurance décès; w=w+1; codes(w)=d’assurance éducation; w=w+1; codes(w)=etc…}
+if xprod=125201 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Rémunération des services d’assurance versée par les propriétaires occupants et les locataires pour s’assurer contre les risques que couvrent généralement les polices souscrites par les locataires contre l’incendie; w=w+1; codes(w)=le vol; w=w+1; codes(w)=les dégâts des eaux; w=w+1; codes(w)=etc…)}
+if xprod=125301 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais d’assurance pour maladie et accident}
+if xprod=125401 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Rémunération des services d’assurance liés à l’utilisation des véhicules de tourisme}
+if xprod=125402 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Rémunération des services d’assurance voyage et d’assurance bagages}
+if xprod=125501 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Rémunération des services d’autres assurances : responsabilité civile contre les blessures ou les dommages causés aux personnes ou à la propriété de tiers.}
+if xprod=126101 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Coût des services d’intermédiation financière indirectement mesurés}
+if xprod=126201 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais effectivement facturés par les banques; w=w+1; codes(w)=bureaux de poste; w=w+1; codes(w)=caisses d’épargne; w=w+1; codes(w)=bureaux de change et institutions financières analogues}
+if xprod=126202 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Commission et rémunération des services des agents de change; w=w+1; codes(w)=conseillers en placement; w=w+1; codes(w)=conseils fiscaux et autres.}
+if xprod=126203 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais administratifs prélevés par les fonds de pension et institutions analogues}
+if xprod=127001 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Services de pompes funèbres (retrait du corps; w=w+1; codes(w)=enterrement; w=w+1; codes(w)=location chapelle)}
+if xprod=127002 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Services de conseillers juridiques; w=w+1; codes(w)=bureau de placement}
+if xprod=127003 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Services des agents immobiliers; w=w+1; codes(w)=services de logement et autre établissement de courtage (commissaires priseurs; w=w+1; codes(w)=établissement de vente aux enchères)}
+if xprod=127004 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais de parution d’annonce et publicité dans la presse}
+if xprod=127005 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Mouture de maïs; w=w+1; codes(w)=de cossettes de manioc}
+if xprod=127006 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Légalisation d'une pièce; w=w+1; codes(w)=frais de certificats de naissance; w=w+1; codes(w)=de mariage; w=w+1; codes(w)=de décès et autres documents administratifs}
+if xprod=127007 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais de photocopie et de reprographie}
+if xprod=127008 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Montants versés à des graphologues; w=w+1; codes(w)=des astrologues; w=w+1; codes(w)=détectives privés; w=w+1; codes(w)=gardes du corps; w=w+1; codes(w)=agences matrimoniales; w=w+1; codes(w)=conseillers matrimoniaux; w=w+1; codes(w)=détenteurs de concessions diverses (chaises; w=w+1; codes(w)=toilettes; w=w+1; codes(w)=vestiaires; w=w+1; codes(w)=etc…}
+if xprod=127009 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Autres services n.d.a.}
+if xprod=127010 then codes(w)=98; endif;  {Autres dépenses de fêtes ou de cérémonies}
+if xprod=131101 then codes(w)=04; endif;  {Impôts sur les revenus salariaux}
+if xprod=131201 then codes(w)=04; endif;  {Impôts sur les revenus non salarieux salariaux}
+if xprod=131301 then codes(w)=04; endif;  {Impôts sur les propriétés bâties}
+if xprod=131401 then codes(w)=04; endif;  {Impôts sur les propriétés non bâties}
+if xprod=131501 then codes(w)=04; endif;  {Impôts sur les revenus des capitaux mobiliers}
+if xprod=131601 then codes(w)=04; endif;  {Autres Impôts}
+if xprod=141101 then codes(w)=76; endif;  {Ciment local}
+if xprod=141102 then codes(w)=04; w=w+1; codes(w)=83; w=w+1; codes(w)=88; endif;  {Sable; w=w+1; codes(w)=Caillasse}
+if xprod=141103 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Chevron; w=w+1; codes(w)=lattes de plancher}
+if xprod=141104 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Fer à béton}
+if xprod=141105 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres matériaux de maçonnerie}
+if xprod=141201 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Tôle ondulée zinguée}
+if xprod=141202 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Planches; w=w+1; codes(w)=lattes; w=w+1; codes(w)=contre-plaqués}
+if xprod=141203 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Matériaux pour installation élécetrique}
+if xprod=141204 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Matériaux pour travaux de plomberie}
+if xprod=141205 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Matériaux pour travaux de menuiserie}
+if xprod=141206 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Vitrerie; w=w+1; codes(w)=revêtement du sol; w=w+1; codes(w)=revêtement des murs}
+if xprod=141207 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Quincaillerie}
+if xprod=141208 then codes(w)=01; w=w+1; codes(w)=03; endif;  {Autres matériax}
+if xprod=143101 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service d'installation électrique}
+if xprod=143102 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de maçonnerie}
+if xprod=143103 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de menuisérie; w=w+1; codes(w)=vitrerie}
+if xprod=143104 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de peintre; w=w+1; codes(w)=autres frais}
+if xprod=143201 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service d'installation électrique}
+if xprod=143202 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de maçonnerie}
+if xprod=143203 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de menuisérie; w=w+1; codes(w)=vitrerie}
+if xprod=143204 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Service de peintre; w=w+1; codes(w)=autres frais}
+if xprod=143301 then codes(w)=03; endif;  {Achat de terrain; w=w+1; codes(w)=de maison; de villa}
+if xprod=143302 then codes(w)=04; w=w+1; codes(w)=98; endif;  {Frais d'architecture}
+if xprod=151101 then codes(w)=00; endif;  {Cadeaux donnés en argent par le père ou la mère}
+if xprod=151102 then codes(w)=00; endif;  {Cadeaux donnés en argent par le conjoint}
+if xprod=151103 then codes(w)=00; endif;  {Cadeaux donnés en argent par l'enfant}
+if xprod=151104 then codes(w)=00; endif;  {Cadeaux donnés en argent par le frère ou la sœur}
+if xprod=151105 then codes(w)=00; endif;  {Cadeaux donnés en argent par un autre parent}
+if xprod=151106 then codes(w)=00; endif;  {Cadeaux donnés en argent par un membre non apparenté}
+if xprod=151107 then codes(w)=00; endif;  {Cadeaux donnés en argent par un club; w=w+1; codes(w)=une association; w=w+1; codes(w)=etc…}
+if xprod=151108 then codes(w)=00; endif;  {Cadeaux donnés en nature}
+if xprod=152101 then codes(w)=00; endif;  {Cadeaux reçus en argent par le père ou la mère}
+if xprod=152102 then codes(w)=00; endif;  {Cadeaux reçus en argent par le conjoint}
+if xprod=152103 then codes(w)=00; endif;  {Cadeaux reçus en argent par l'enfant}
+if xprod=152104 then codes(w)=00; endif;  {Cadeaux reçus en argent par le frère ou la sœur}
+if xprod=152105 then codes(w)=00; endif;  {Cadeaux reçus en argent par un autre parent}
+if xprod=152106 then codes(w)=00; endif;  {Cadeaux reçus en argent par un membre non apparenté}
+if xprod=152107 then codes(w)=00; endif;  {Cadeaux reçus en argent par un club; w=w+1; codes(w)=une association; w=w+1; codes(w)=etc…}
+if xprod=152108 then codes(w)=00; endif;  {Cadeaux recus en nature}
+if xprod=153101 then codes(w)=00; endif;  {Remboursement d'emprunt}
+if xprod=153102 then codes(w)=00; endif;  {Prêt d'argent; w=w+1; codes(w)=}
+if xprod=153103 then codes(w)=00; endif;  {Cotisation tontine}
+if xprod=153104 then codes(w)=00; endif;  {Gain tontine}
+if xprod=153105 then codes(w)=00; endif;  {Héritage}
+if xprod=153106 then codes(w)=00; endif;  {Autres transferts versés}
+if xprod=153107 then codes(w)=00; endif;  {Autres transferts reçus}
+if xprod=153108 then codes(w)=00; endif;  {Emprunt d'argent; w=w+1; codes(w)=}
+if xprod=153109 then codes(w)=00; endif;  {Dimes et offrandes}
+if xprod=154101 then codes(w)=00; endif;  {Gains (jeux)}
+
+w=w+1;codes(w)=666 ;labels(w)="Autre ";
+w=w+1;
+
+numeric k ;
+
+	do varying k=1 while  k <=w
+	    if codes(k)=notappl then codes(k)= 999; labels(k)=" =============== ";  endif;
+	      rempli(k);	 
+	enddo;
+
+fin(w);
+
+end;
+
+

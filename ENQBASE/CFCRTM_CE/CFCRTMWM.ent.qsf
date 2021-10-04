@@ -1,0 +1,2174 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.2
+
+[LANGUAGES]
+FRA=French
+
+[QUESTION]
+Field=MICS6WM.AC1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 AC1.Avez-vous d\'e9j\'e0 entendu parler de soins pr\'e9natals pour les femmes enceintes? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.AC2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 AC2. \'c0 votre avis, les soins pr\'e9natals sont-ils importants pour les femmes enceintes ? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.AC3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\scaps\f0\fs36 AC3. \scaps0 Pourquoi pensez-vous que les soins pr\'e9natals sont importants pour les femmes enceintes? \par
+FRA=\cf0\f1\fs20    Insister\b :\b0  d\rquote autres raisons? \par
+FRA=
+FRA=\pard\i\fs24 Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.AC4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\scaps\f0\fs36 AC4. \scaps0 A quel \'e2ge de la grossesse pensez-vous qu'une femme enceinte devrait avoir sa premi\'e8re visite de soins pr\'e9natals ?\par
+FRA=
+FRA=\pard\scaps\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.AC5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\scaps\f0\fs36 AC5. \scaps0 Combien de visites pr\'e9natales pensez-vous sont n\'e9cessaires pendant la grossesse avant l\rquote accouchement ? \cf0\f1\fs20  \par
+FRA=
+FRA=\pard\cf1\scaps\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.AC6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\scaps\f0\fs36 AC6. \scaps0 Pourquoi pensez-vous que les soins pr\'e9natals ne sont pas importants pour les femmes enceintes? \par
+FRA=\par
+FRA=\cf0\i\f1\fs20 Insister \b :\b0\i0  Rien d'autre? \par
+FRA=\par
+FRA=
+FRA=\pard\i\f0\fs24\tab Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\scaps\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.BR1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 BR1. Avez-vous d\'e9j\'e0 entendu parler de l'enregistrement de la naissance aupr\'e8s des autorit\'e9s civiles?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.BR2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 BR2. Est-ce que quelqu'un vous a d\'e9j\'e0 dit comment enregistrer la naissance de votre enfant \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.BR3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 BR3. \'c0 votre avis, est-il important d'enregistrer la naissance d'un b\'e9b\'e9 aupr\'e8s des autorit\'e9s civiles ? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.BR4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 BR4. Pourquoi pensez-vous qu'il est important d'enregistrer la naissance d'un enfant ?\cf0\f1\fs20   \b\par
+FRA=\par
+FRA=\b0\i Insister :\i0  D\rquote autres raisons ? \par
+FRA=\par
+FRA=
+FRA=\pard\i\f0\fs24\tab Enregistrer tout ce qui est mentionn\'e9\cf1\i0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.BR5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 BR5. Pourquoi pensez-vous qu'il n\rquote est pas important d\rquote enregistrer la naissance d'un enfant ?  \par
+FRA=\par
+FRA=\cf0\i\f1\fs20 Insister \b :\b0\i0  D\rquote autres raisons ?\par
+FRA=
+FRA=\pard\i\f0\fs24\tab Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.BR6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\sl276\slmult1\cf1\f0\fs36 BR6. Selon votre exp\'e9rience, est-il difficile d'enregistrer la naissance d'un enfant ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.BR7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\sl276\slmult1\tqr\tldot\tx4182\cf1\scaps\f0\fs36 BR7. \scaps0 Qu'est-ce qui a rendu difficile l'enregistrement de la naissance de votre enfant ?\cf0\b\scaps\f1\fs24\par
+FRA=\par
+FRA=\b0\i\scaps0\fs20 Insister\i0\scaps  : \scaps0 D\rquote autres raisons ?\scaps\par
+FRA=\par
+FRA=
+FRA=\pard\i\scaps0 Enregistrer tout ce qui est mentionn\'e9\i0\scaps .\cf1\scaps0\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CAS1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 CAS1. Est-il difficile ou pas difficile pour vous de rechercher des soins \par
+FRA=           dans un \'e9tablissement de sant\'e9 pour vous m\'eame ou pour vos enfants ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CAS2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 CAS2. Pourriez-vous s'il vous pla\'eet me dire pourquoi c\rquote est difficile pour vous de rechercher des soins dans un \'e9tablissement de sant\'e9 pour vous m\'eame ou pour vos enfants?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CAS3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 CAS3. Pensez-vous que pouvez compter sur les agents de sant\'e9 communautaire en termes de pr\'e9ventions ou de traitements des maladies\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CAS4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 CAS4. \'c0 quelle fr\'e9quence recevez-vous la visite d'un agent de sant\'e9 communautaire (ACS) ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CM1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\lang1036  \cf1\b0\fs48 CM1. Maintenant je voudrais vous poser des questions sur toutes les naissances que vous avez eues au cours de votre vie. \par
+FRA=           Avez-vous d\'e9j\'e0 enfant\'e9\~?\tab\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CM15C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\lang1036\par
+FRA=
+FRA=\pard\widctlpar  \cf1\b0\scaps\fs48 CM15C.\scaps0 Quelle est la date de naissance de votre (dernier) n\'e9(m\'eame si il/elle est d\'e9c\'e9d\'e9(e))?\par
+FRA=\par
+FRA=
+FRA=\pard        \i  Mois et ann\'e9e doivent \'eatre enregistr\'e9s\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CM15CM
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\scaps\f0\fs48 CM15m\b0 .\scaps0\fs40 Quelle est le mois de naissance de votre (dernier) n\'e9(m\'eame si il/elle est d\'e9c\'e9d\'e9(e))?\par
+FRA=\par
+FRA=      Le \i  Mois doit \'eatre enregistr\'e9\cf0\b\i0\fs20\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CM15CY
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\b\f0\fs20  \cf1\scaps\fs48 CM15m\b0 .\scaps0\fs40 Quelle est l'Ann\'e9e de naissance de votre (dernier) n\'e9(m\'eame si il/elle est d\'e9c\'e9d\'e9(e))?\par
+FRA=\par
+FRA=      L'Ann\'e9e \i doit \'eatre enregistr\'e9e\cf0\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CM17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\scaps\f0\fs48\lang1036 CM17.\scaps0 V\'e9rifier CM15C: La derni\'e8re naissance a eu lieu dans les 3 derni\'e8res ann\'e9es c\rquote est-\'e0-dire \par
+FRA=            depuis \cf2 %douzdernmois%\cf1 ?\cf0\i\fs20\par
+FRA=
+FRA=\pard\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CM18
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs48\lang1036 CM18. Demander le nom du dernier n\'e9 \par
+FRA=\cf0\fs20\par
+FRA=
+FRA=\pard\i\f1\fs24      Si l\rquote enfant est d\'e9c\'e9d\'e9, faire preuve de tact en se r\'e9f\'e9rant \'e0 l\rquote enfant par son nomdans les modules suivants.\cf1\i0\f0\fs48\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CM18A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs48 CM18A. Quel est le nom du dernier n\'e9 \par
+FRA=\cf0\fs20\par
+FRA=
+FRA=\pard\i\f1\fs24  \cf2\i0     Si l\rquote enfant est d\'e9c\'e9d\'e9, cocher la modalit\'e9 "\cf3 97\cf2 " et faites preuve de tact en se r\'e9f\'e9rant \'e0 l\rquote enfant par son nom.\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.CM8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036 CM8.  Avez-vous donn\'e9 naissance \'e0 un fils ou une fille qui est n\'e9(e) vivant(e) mais qui est d\'e9c\'e9d\'e9(e) par la suite\~?\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\par
+FRA=\tab\i Si\lquote Non\rquote  Insisteren demandant :\i0\par
+FRA=
+FRA=\pard\tab Je veux dire un enfant qui a respir\'e9, cri\'e9 ou montr\'e9 d\rquote autres signes de vie \endash  m\'eame s\rquote il n\rquote a v\'e9cu que quelques minutes ou quelques heures\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.DC1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 DC1. Qui pensez-vous devrait assister les femmes lors de l\rquote accouchement de leur b\'e9b\'e9 ? \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.DC2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 DC2. \'c0 votre avis, quel est le lieu le plus s\'fbr pour les femmes pour accoucher leur b\'e9b\'e9 ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.DEW1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 DEW1. Avez-vous d\'e9j\'e0 entendu parler du d\'e9parasitage ?\cf2\scaps\fs24  \cf1\scaps0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.DEW2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 DEW2. \'c0 votre avis, est-il important ou non de d\'e9parasiter les enfants ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.DEW3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\froman\fprq2\fcharset0 Vrinda;}{\f3\froman\fprq2 Vrinda;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 DEW3. Pourquoi pensez-vous qu'il est important de donner des vermifuges aux enfants ?\par
+FRA=\cf0\i\scaps\f1\fs20\par
+FRA=\scaps0\f2 Insister :\i0  d'autres raisons ?\fs24 d'autres raisons ?\f3\fs20\par
+FRA=\fs16\par
+FRA=
+FRA=\pard\i\fs20\tab\f2 Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.DEW4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 DEW4. A quel \'e2ge pensez-vous qu'un enfant devrait commencer \'e0 recevoir des m\'e9dicaments vermifuges ? \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.DEW5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 DEW5. \'c0 quelle fr\'e9quence pensez-vous qu'un enfant doit recevoir des     m\'e9dicaments vermifuges? \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.DEW6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 DEW6. Jusqu'\'e0 quel \'e2ge pensez-vous qu'un enfant doit recevoir des m\'e9dicaments vermifuges ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.DEW7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Vrinda;}{\f2\froman\fprq2 Vrinda;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 DEW7. Pourquoi pensez-vous qu'il n\rquote est pas important de d\'e9parasiter les enfants ?\par
+FRA=\scaps\par
+FRA=\cf0\i\scaps0\f1\fs20 Insister \b\i0 :\b0  d'autres raisons ?\f2\par
+FRA=\par
+FRA=
+FRA=\pard\i\fs24\tab\f1 Enregistrer tout ce qui est mentionn\'e9\b\i0\f0  \cf1\b0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.HD1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs36 HD1. Y a-t-il un avantage ou non \'e0 se laver les mains au savon r\'e9guli\'e8rement ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.HD2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs36 HD2. Quels sont les principaux avantages de se laver les mains r\'e9guli\'e8rement avec du savon ? \par
+FRA=
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf0\b\f1\fs20\par
+FRA=\b0\i Insister :\i0  d'autres avantages ? \par
+FRA=\par
+FRA=
+FRA=\pard\i\f0 Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.HD3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs36 HD3. Selon vous, quels sont les moments les plus importants pour vous et les membres de votre famille, y compris les enfants, pour le lavage des mains ?\par
+FRA=\par
+FRA=
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf0\i\f1\fs20 Insister\b  :\b0\i0  d'autre moments ? \par
+FRA=\par
+FRA=
+FRA=\pard\i\f0 Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.HD4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs36 HD4. Est-il pratique, pour vous et les autres membres de votre m\'e9nage, de se laver les mains r\'e9guli\'e8rement avec du savon ? \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 IM1. Avez-vous d\'e9j\'e0 entendu parler de la vaccination des enfants ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 IM10. Combien du temps faut-il pour se rendre dans le centre de sant\'e9 le plus proche\~?\par
+FRA=\cf0\f1\fs20\par
+FRA=\i Si moins d\rquote une heure, enregistrez en minutes.\par
+FRA=
+FRA=\pard\f0\fs24 Sinon, enregistrez les heures\i0 .\cf1\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM10N
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs32  \cf0\b\f1 IM10. \b0 Combien d'(de) \cf2 %IM10str%\cf0  faut-il pour se rendre dans le centre de \cf1 sant\'e9 \ul\b le plus proche\ulnone\b0\~?\cf0\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM10U
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\b\f0\fs32   IM10. \b0 Combien du temps faut-il pour se rendre dans le centre de \cf1 sant\'e9 \ul\b le plus proche\ulnone\b0\~?\cf0\fs20\par
+FRA=
+FRA=\pard\cf1\f1\fs32\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs36 IM2. \scaps0\'c0 votre avis, la vaccination est-elle importante pour les enfants ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\sl276\slmult1\tqr\tldot\tx4182\cf1\scaps\f0\fs36 IM3. \scaps0\'c0 votre avis, pourquoi est-il important de vacciner les enfants ?\par
+FRA=\cf0\f1\fs20\par
+FRA=\i Insister:\i0  D\rquote autres raisons?\par
+FRA=\par
+FRA=
+FRA=\pard\i Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\scaps\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\froman\fprq2 Vrinda;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\sl276\slmult1\tqr\tldot\tx4182\cf1\scaps\f0\fs36 IM4. \scaps0 La vaccination est faite pour emp\'eacher certaines maladies.Pouvez-vous me dire quelles sont les maladies qui peuvent \'eatre pr\'e9venues par la vaccination ?\cf0\f1\fs20\par
+FRA=\par
+FRA=\par
+FRA=\i Insister :\i0  D\rquote autres raisons?\par
+FRA=\par
+FRA=\i Enregistrer tout ce qui est mentionn\'e9\f2\fs24\par
+FRA=
+FRA=\pard\cf1\i0\scaps\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 IM5. Selon vous, combien de contacts avec les services de sant\'e9 sont n\'e9cessaires pour qu'un enfant re\'e7oive tous les vaccins requis?\par
+FRA=\par
+FRA=\cf0\i\f1\fs20 Enregistrer le nombre mentionn\'e9 par la r\'e9pondante. Si le nombre est sup\'e9rieur \'e0 6, enregistrer 6.\par
+FRA=
+FRA=\pard\cf1\i0\scaps\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\sl276\slmult1\tqr\tldot\tx4182\cf1\f0\fs36 IM6.Tous les vaccins ne sont pas donn\'e9s \'e0 l'enfant en m\'eame temps, chaque vaccin sp\'e9cifique est donn\'e9 \'e0 des \'e2ges bien particuliers de l'enfant.\par
+FRA=Selon vous, \'e0 quels \'e2ges l'enfant doit-il \'eatre emmen\'e9 \'e0 un centre de sante/ clinique mobile pour la vaccination ? \par
+FRA=Pourriez-vous s'il vous plait les \'e9num\'e9rer tous. \par
+FRA=\cf0\f1\fs20\par
+FRA=\i Insister \i0 : d'autres \'e2ges ? \par
+FRA=
+FRA=\pard\i Enregistrer tout ce qui est mentionn\'e9. Vous pouvez aider la m\'e8re en disant ce qu\rquote est le premier moment.  Ensuite, le second ? Ainsi de suite\'85\cf1\i0\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\tqr\tldot\tx4182\cf1\scaps\f0\fs36 IM7. \scaps0 Certains enfants pourraient rater certains vaccins au moment id\'e9al pour une raison quelconque. Selon vous quelles peuvent \'eatre ces raisons\~?\par
+FRA=
+FRA=\pard\widctlpar\sl276\slmult1\tqr\tldot\tx4182\cf0\f1\fs20\par
+FRA=\i Insister :\i0  d'autres raisons ? \par
+FRA=\par
+FRA=
+FRA=\pard\i Enregistrer tout ce qui est mentionn\'e9\cf1\i0\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 IM8. Pourquoi la vaccination n\rquote est pas importante pour les enfants ?\par
+FRA=\cf0\scaps\f1\fs20\par
+FRA=\i\scaps0 Insister \b :\b0\i0  d'autres raisons?\par
+FRA=\par
+FRA=
+FRA=\pard\i\f0\fs24 Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\scaps\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.IM9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 IM9. Selon vous, o\'f9 est ce que les enfants se font vacciner dans votre voisinage ?\par
+FRA=\par
+FRA=\cf0\i\f1\fs20 Insister :\i0  d'autres raisons?\par
+FRA=\par
+FRA=
+FRA=\pard\i\f0\fs24 Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MA1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 MA1. \'cates-vous actuellement mari\'e9e ou vivez-vous actuellement avec \par
+FRA=          quelqu\rquote un comme si vous \'e9tiez mari\'e9e\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MA5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 MA5. Avez-vous d\'e9j\'e0 \'e9t\'e9 mari\'e9e ou avez-vous d\'e9j\'e0 v\'e9cu avec quelqu\rquote un\par
+FRA=         comme si vous \'e9tiez mari\'e9e\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MA6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 MA6. Quelle est votre situation matrimoniale actuelle : \'eates-vous veuve, \par
+FRA=          divorc\'e9e ou s\'e9par\'e9e\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MA7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 MA7. Avez-vous \'e9t\'e9 mari\'e9e ou avez-vous v\'e9cu avec quelqu\rquote un une fois \par
+FRA=          ou plus d'une fois\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MA8M
+Condition=MA7 <> 1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 MA8B. En quel mois  \'eates-vous entr\'e9e en union avec votre premier (mari/partenaire) pour la premi\'e8re fois ? \par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MA8M
+Condition=MA7 = 1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 MA8A. En quel mois \'eates-vous entr\'e9e en union avec votre (mari/partenaire) ? \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MA8Y
+Condition=MA7<>1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 MA8B. En quelle ann\'e9e  \'eates-vous entr\'e9e en union avec votre premier (mari/partenaire) pour la premi\'e8re fois ? \par
+FRA=
+FRA=\pard\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MA8Y
+Condition=MA7=1
+
+[QUESTION]
+Field=MICS6WM.MN11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial Narrow;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40  MN11. Est-ce qu\rquote\'e0 n\rquote importe quel moment avant la grossesse de %CM18%, \par
+FRA=            vous avez re\'e7u une injection antit\'e9tanique, soit pour vous prot\'e9ger vous-m\'eame,\par
+FRA=             soit pour prot\'e9ger un autre b\'e9b\'e9\~?\par
+FRA=\cf0\f1\fs20\par
+FRA=
+FRA=\pard\i\f2\fs24          Inclure les vaccins DTCoq (T\'e9tanos) re\'e7us durant l\rquote enfance ou les grossesses ant\'e9rieures si mentionn\'e9s\b\i0\f1\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial Narrow;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs40 MN12. Avant la grossesse de %CM18%, combien de fois avez-vous re\'e7u une\par
+FRA=           injection antit\'e9tanique\~?\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\par
+FRA=\cf0\i\f1\fs20\tab                 Si 7 fois ou plus, enregistrer \lquote 7\rquote .\par
+FRA=
+FRA=\pard\i0\fs24\tab\i Inclure les vaccins DTCoq (T\'e9tanos) re\'e7us durant l\rquote enfance si mentionn\'e9. \b\f2\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN14
+Condition=MN12=1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\fs20  \cf1\b0\f1\fs40 MN14A. Cela fait combien d\rquote ann\'e9es que vous avez re\'e7u cette injection antit\'e9tanique\~?\par
+FRA=
+FRA=\pard\par
+FRA=\par
+FRA=      \cf0\i\f0\fs24 La r\'e9f\'e9rence est la derni\'e8re injection re\'e7ue avant cette grossesse, comme enregistr\'e9 \'e0 MN12. \par
+FRA=        Si moins d\rquote un an, enregistrer \lquote 00\rquote\cf1\i0\f1\fs40\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN14
+Condition=MN12>1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial Narrow;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 MN14B. Cela fait combien d\rquote ann\'e9es que vous avez re\'e7u la derni\'e8re injection \par
+FRA=              antit\'e9tanique\~?\par
+FRA=
+FRA=\pard\cf0\b\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24  \cf1\b0\f1\fs40 MN16. Durant votre grossesse de %CM18%, avez-vous pris du SP/Fansidar pour \par
+FRA=             vous \'e9viter de contracter le paludisme\~? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA= \cf1\b0\f1\fs40 MN17. Combien de fois avez-vous pris du SP/Fansidar durant votre \par
+FRA=            grossesse de %CM18% ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN18
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA= \cf1\b0\f1\fs40 MN18. Avez-vous eu le SP/Fansidar durant une visite pr\'e9natale, durant une autre \par
+FRA=            visite dans un centre de sant\'e9 ou par une autre source ?\cf0\b\f0\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN19
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA=
+FRA=\pard\keep\keepn\widctlpar\fi-144\li144\sl276\slmult1  \cf1\b0\f1\fs40 MN19. Qui vous a assist\'e9 pendant l\rquote accouchement de\scaps  \scaps0 %CM18% ?\par
+FRA=
+FRA=\pard\keep\keepn\widctlpar\fi-144\li288\sl276\slmult1\cf0\i\f0\fs20              \tab\par
+FRA=                                   \cf1\i0\f1\fs24 Insister: Quelqu\rquote un d\rquote autre\~?\par
+FRA=
+FRA=\pard\keep\keepn\widctlpar\fi-144\li144\sl276\slmult1\par
+FRA=
+FRA=\pard\keep\keepn\widctlpar\li288 Insister pour le type de personne qui a assist\'e9 l\rquote accouchement et enregistrer toutes les r\'e9ponses mentionn\'e9es.\par
+FRA=
+FRA=\pard\cf0\b\f0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN1A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036  MN1A\~: Avez-vous re\'e7u le kit d\rquote accouchement lors de votre grossesse de %CM18%?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN1B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036 MN1B\~: Avez-vous utilis\'e9 votre kit d\rquote accouchement pour l\rquote accouchement de %CM18% ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48  \f1\fs40 MN2. Etes-vous all\'e9e en consultation pr\'e9natale au cours de \par
+FRA=             la grossesse de \f0\fs48 %CM18%\f1\fs40  ?\f0\fs48\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN20
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\b\f0\fs24   \cf1\b0\f1\fs40 MN20. O\'f9 avez-vous accouch\'e9 de\scaps  \scaps0 %CM18% ?\par
+FRA=\cf0\f0\fs20\par
+FRA=
+FRA=\pard\widctlpar\li330\i\f2 I\cf1\i0\f1\fs28 nsister pour obtenir le type d\rquote endroit.\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\par
+FRA=
+FRA=\pard\widctlpar\li330 S\rquote il n\rquote est pas possible de d\'e9terminer si l\rquote endroit est un \'e9tablissement public ou priv\'e9, \par
+FRA= inscrire le nom de l\rquote endroit et noter temporairement \rquote 76\rquote  jusqu\rquote\'e0 trouver la cat\'e9gorie \par
+FRA=de r\'e9ponse appropri\'e9e.\par
+FRA=
+FRA=\pard\cf0\b\f0\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN21
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24  \cf1\b0\f1\fs40 MN21. Avez-vous accouch\'e9 de %CM18% par c\'e9sarienne, c\rquote est-\'e0-dire est-ce qu\rquote on \par
+FRA=            vous a ouvert le ventre pour sortir le b\'e9b\'e9\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN22
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\fs20   \cf1\b0\f1\fs40  MN22. Quand est-ce que la d\'e9cision de faire une c\'e9sarienne a \'e9t\'e9 prise\~?\par
+FRA=\cf0\f0\fs20\par
+FRA=
+FRA=\pard\f2\fs24\tab\i Insister si n\'e9cessaire : \i0 Etait-ce avant ou apr\'e8s que les douleurs de l\rquote accouchement aient commenc\'e9\~?\b\f0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN23
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1  \cf1\b0\f1\fs40 MN23. Est-ce qu\rquote apr\'e8s l\rquote accouchement, %CM18% a \'e9t\'e9 mis(e), imm\'e9diatement, \par
+FRA=             directement sur la peau nue de votre poitrine ?\par
+FRA=
+FRA=\pard\cf0\b\f0\fs24\par
+FRA=\cf1\b0\f1\fs28               \i     Si n\'e9cessaire, montrer la photo de la position peau-sur-peau.\i0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN24
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA=\cf1\b0\f1\fs40 MN24. Avant d'\'eatre plac\'e9 sur la peau nue de votre poitrine, \par
+FRA=            est-ce que le b\'e9b\'e9 a \'e9t\'e9 envelopp\'e9 ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN25
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA= \cf1\b0\f1\fs40 MN25. Est-ce que %CM18% a \'e9t\'e9 s\'e9ch\'e9(e) ou essuy\'e9(e) tout de suite apr\'e8s la naissance ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN26N
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b0\f1\fs40 MN26. Combien de temps apr\'e8s la naissance,%CM18% a-t-il/elle \'e9t\'e9 lav\'e9(e) pour \par
+FRA=            la premi\'e8re fois\~?- NOMBRE\cf0\b\f0\fs20\par
+FRA=
+FRA=\pard\keepn\widctlpar\fi-144\li144\sl276\slmult1\b0\f2\fs24\tab\i\fs20 Si \ldblquote imm\'e9diatement\rdblquote  ou moins d\rquote  1 heure, enregistrer \lquote 000\rquote .\b\i0\scaps\fs24\par
+FRA=\b0\scaps0\tab\i\fs20 Si moins de 24 heures, enregistrer en heures.\par
+FRA=\par
+FRA=\tab Si \ldblquote 1 jour\rdblquote  ou  \ldblquote le jour d\rquote apr\'e8s\rdblquote , insister : \i0 A peu pr\'e8s combien d\rquote heures apr\'e8s l\rquote accouchement?\par
+FRA=\par
+FRA=\tab\i Si \ldblquote 24 heures\rdblquote , insister pour assurer la meilleure estimation de moins de 24 heures ou d\rquote 1 jour.\par
+FRA=
+FRA=\pard\par
+FRA=   \i0\fs24 Si 24 heures ou plus, enregistrer en jours.\b\f0\par
+FRA=\fs20\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN26U
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\b\f0\fs20\par
+FRA=\cf1\b0\f1\fs40 MN26. Combien de temps apr\'e8s la naissance, %CM18% a-t-il/elle \'e9t\'e9 lav\'e9(e) pour \par
+FRA=            la premi\'e8re fois\~?- UNITE\cf0\b\f0\fs20\par
+FRA=
+FRA=\pard\keepn\widctlpar\fi-144\li144\sl276\slmult1\b0\f2\fs24\tab\i\fs20 Si \ldblquote imm\'e9diatement\rdblquote  ou moins d\rquote  1 heure, enregistrer \lquote 000\rquote .\b\i0\scaps\fs24\par
+FRA=\b0\scaps0\tab\i\fs20 Si moins de 24 heures, enregistrer en heures.\par
+FRA=\par
+FRA=\tab Si \ldblquote 1 jour\rdblquote  ou  \ldblquote le jour d\rquote apr\'e8s\rdblquote , insister : \i0 A peu pr\'e8s combien d\rquote heures apr\'e8s l\rquote accouchement?\par
+FRA=\par
+FRA=\tab\i Si \ldblquote 24 heures\rdblquote , insister pour assurer la meilleure estimation de moins de 24 heures ou d\rquote 1 jour.\par
+FRA=
+FRA=\pard\par
+FRA=   \i0\fs24 Si 24 heures ou plus, enregistrer en jours.\b\f0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN28
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\par
+FRA=\fs24  \cf1\b0\f1\fs40 MN28. Qu\rquote est-ce qui a \'e9t\'e9 utilis\'e9 pour couper le cordon ombilical ? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN29
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\par
+FRA= \cf1\b0\f1\fs40 MN29. Est-ce que l\rquote instrument qui a \'e9t\'e9 utilis\'e9 pour couper le cordon a \'e9t\'e9 bouilli ou\par
+FRA=            st\'e9rilis\'e9 avant utilisation ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs40  MN3. Qui avez-vous vu\~? \cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\fs48\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN30
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1  \cf1\b0\f1\fs40 MN30. Entre le moment o\'f9 il a \'e9t\'e9 coup\'e9 et jusqu\rquote\'e0 ce qu\rquote il tombe, est-ce que quelque      chose a \'e9t\'e9appliqu\'e9 sur le cordon ombilical\~? \par
+FRA=
+FRA=\pard\cf0\b\f0\fs20\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN31
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\par
+FRA=
+FRA=\pard\keep\keepn\widctlpar\fi-144\li144\sl276\slmult1   \cf1\b0\f1\fs40 MN31. Qu\rquote est-ce qui a \'e9t\'e9 appliqu\'e9 ?\par
+FRA=
+FRA=\pard\tab        \fs28 Insister : Rien d\rquote autre\~? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN32
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20   \cf1\b0\f1\fs40 MN32. Quand %CM18% est n\'e9(e), \'e9tait-il/elle : tr\'e8s gros, plus gros que la moyenne,\par
+FRA=              moyen, plus petit que la moyenne, ou tr\'e8s petit\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN33
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\par
+FRA= \cf1\b0\f1\fs40 MN33. %CM18% a-t-il /elle \'e9t\'e9 pes\'e9 (e) \'e0 la naissance\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN34
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\b\f0\fs24  \cf1\b0\f1\fs40 MN34. Combien %CM18% pesait-il/elle\scaps\~?\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\scaps0\par
+FRA=
+FRA=\pard\keep\keepn\widctlpar\fi-144\li144\sl276\slmult1\tab\fs28 Si un certificat de naissance est disponible, enregistrer le poids inscrit sur le certificat.\par
+FRA=
+FRA=\pard\cf0\b\f0\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN34A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs36 MN34A. Est-ce que le poids de l'enfant a \'e9t\'e9 enregistr\'e9 dans un document\scaps\~?\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\scaps0\par
+FRA=
+FRA=\pard\keep\keepn\widctlpar\fi-144\li144\sl276\slmult1\tab   Si un certificat de naissance est disponible, enregistrer le poids inscrit sur le certificat.\par
+FRA=
+FRA=\pard\f1\fs40\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN35
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA=\cf1\b0\f1\fs40 MN35. Est-ce-que vos r\'e8gles sont revenues depuis la naissance de %CM18% ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN36
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA=\cf1\b0\f1\fs40  MN36. Avez-vous allait\'e9 %CM18% ?\cf0\b\f0\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN37N
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1  \cf1\b0\f1\fs40 MN37N. Combien de %MN37U% apr\'e8s la naissance avez-vous mis %CM18% au sein \par
+FRA=               pour la premi\'e8re fois\~?- NOMBRE\par
+FRA=\cf0\f0\fs20\par
+FRA=\i\f2\tab       Si moins d\rquote 1 heure, enregistrer 00 heures.\par
+FRA=\tab       Si moins de 24 heures, enregistrer en heures.\par
+FRA=
+FRA=\pard\i0\fs24        Autrement, enregistrer en jours.\b\f0\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN37U
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\b\f0\fs24  \cf1\b0\f1\fs40 MN37U. Combien de temps apr\'e8s la naissance avez-vous mis %CM18% au sein \par
+FRA=               pour la premi\'e8re fois\~?- UNITE\par
+FRA=\cf0\f0\fs20\par
+FRA=\i\f2\tab       Si moins d\rquote 1 heure, enregistrer 00 heures.\par
+FRA=\tab       Si moins de 24 heures, enregistrer en heures.\par
+FRA=
+FRA=\pard\i0\fs24        Autrement, enregistrer en jours.\b\f0\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN38
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24  \cf1\b0\f1\fs40 MN38. Dans les 3 premiers jours qui ont suivi l\rquote accouchement, a-t-on donn\'e9 \'e0 \par
+FRA=            boire \'e0 %CM18% autre chose que du lait maternel\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN39
+Condition=MN36=2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24  \fs20   \cf1\b0\f1\fs40 MN39. Qu\rquote a-t-on donn\'e9 \'e0 boire \'e0 %CM18% \scaps ?\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf0\scaps0\f0\fs20\par
+FRA=\i\tab        \cf1\i0\f1\fs28    \i Insister : Quelque chose d\rquote autre ?\par
+FRA=\i0\par
+FRA=\tab  \i   \ldblquote Rien donn\'e9 \'e0 boire\rdblquote  n\rquote est pas une r\'e9ponse valide et la cat\'e9gorie de r\'e9ponse Y ne peut pas \'eatre enregistr\'e9e.\par
+FRA=
+FRA=\pard\i0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN39
+Condition=MN38=1
+
+[QUESTION]
+Field=MICS6WM.MN4AN
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs40  MN4B. De combien de semaines ou de mois \'e9tiez-vous\par
+FRA=              enceinte quand vous \'eates all\'e9e en consultation \par
+FRA=              pr\'e9natale pour la premi\'e8re fois ?  - NOMBRE\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN4AU
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs40  MN4A. De combien de semaines ou de mois \'e9tiez-vous\par
+FRA=              enceinte quand vous \'eates all\'e9e en consultation \par
+FRA=              pr\'e9natale pour la premi\'e8re fois ?  - UNITE\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green64\blue128;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\b\f0\fs28 MN4N\b0 . \fs36 De combien de \cf1 %XMN4U%\cf0  \'e9tiez-vous enceinte quand vous \'eates all\'e9e\par
+FRA=          en consultation pr\'e9natale pour la premi\'e8re fois ? \par
+FRA=     \par
+FRA=
+FRA=\pard\widctlpar\fi-144\li504\sl276\slmult1\i\fs20           \fs28 Enregistrer la r\'e9ponse telle que donn\'e9e par la \f1 r\'e9pondante.\cf2\i0\f0\par
+FRA=
+FRA=\pard\fs48\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green64\blue128;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\b\f0\fs28 MN4N\b0 . \fs36 De combien de \cf1 %XMN4U%\cf0  \'e9tiez-vous enceinte quand vous \'eates all\'e9e\par
+FRA=          en consultation pr\'e9natale pour la premi\'e8re fois ? \par
+FRA=     \par
+FRA=
+FRA=\pard\widctlpar\fi-144\li504\sl276\slmult1\i\fs20           \fs28 Enregistrer la r\'e9ponse telle que donn\'e9e par la \f1 r\'e9pondante.\cf2\i0\f0\par
+FRA=
+FRA=\pard\fs48\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:15
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=1:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=2:20
+
+[QUESTION]
+Field=MICS6WM.MN4N
+Occurrences=2:20
+
+[QUESTION]
+Field=MICS6WM.MN4U
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\b\f0\fs28 MN4U\b0 . \fs36 De combien de semaines ou de mois \'e9tiez-vous enceinte quand vous \'eates all\'e9e\par
+FRA=          en consultation pr\'e9natale pour la premi\'e8re fois ? \par
+FRA=     \par
+FRA=
+FRA=\pard\widctlpar\fi-144\li504\sl276\slmult1\i\fs20           \fs28 Enregistrer la r\'e9ponse telle que donn\'e9e par la \f1 r\'e9pondante.\cf1\i0\f0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs40 MN5. Combien de fois \'eates-vous all\'e9e en consultation pr\'e9natale au cours de cette grossesse\~?\par
+FRA=\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li432\sl276\slmult1\i Insister pour obtenir le nombre de fois o\'f9 les \par
+FRA=
+FRA=\pard consultations pr\'e9natales ont \'e9t\'e9 re\'e7ues. \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN6A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs40  MN6A. Dans le cadre de ces consultations pr\'e9natales de\par
+FRA=             cette grossesse, Vous a-t-on pris \cf2 la tension\cf1\~ au moins une fois\~?\line\par
+FRA=
+FRA=\pard\widctlpar\li337\tx787                          \par
+FRA=
+FRA=\pard\widctlpar\li337\cf0\f1\fs20\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN6B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs40  MN6. Dans le cadre de ces consultations pr\'e9natales de\par
+FRA=   cette grossesse, Vous a-t-on \cf2 pr\'e9lev\'e9 de l\rquote urine\cf1 , au moins une fois\~?\line\par
+FRA=
+FRA=\pard               \par
+FRA=\par
+FRA=\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN6C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs40  MN6C. Dans le cadre de ces consultations pr\'e9natales\par
+FRA=   de cette grossesse, Vous a-t-on \cf2 pr\'e9lev\'e9 du sang\cf1 , au moins une fois\~?\line\par
+FRA=
+FRA=\pard                 \par
+FRA=\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-360\li360\cf1\f0\fs40     MN7. Avez-vous un carnet ou autre document dans\par
+FRA=              lequel sont inscrites toutes vos vaccinations\~?\par
+FRA=\scaps\par
+FRA=\tab                  \i  \scaps0 Si oui\scaps\~: \scaps0 Puis-je le voir, s\rquote il vous plait\~?\scaps\par
+FRA=
+FRA=\pard\widctlpar\i0\scaps0\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li504\sl276\slmult1               \i Si un carnet est pr\'e9sent\'e9, l\rquote utiliser pour les\par
+FRA=
+FRA=\pard                    r\'e9ponses aux questions suivantes.\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40  \f1 MN8. Quand vous \'e9tiez enceinte de %CM18%, vous a-t-on fait une injection dans\par
+FRA=           le bras ou \'e0 l\rquote\'e9paule pour \'e9viter au b\'e9b\'e9 de contracter le t\'e9tanos, c\rquote est-\'e0-dire \par
+FRA=           des convulsions apr\'e8s la naissance\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.MN9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Tahoma;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs32 MN9. Combien de fois avez-vous re\'e7u cette injection contre le t\'e9tanos au cours de la grossesse de %CM18% ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\par
+FRA=\cf1\b0\f1\fs40 PN10. Apr\'e8s que %MN19str% vous ont laiss\'e9 est-ce \par
+FRA=           quelqu\rquote un a contr\'f4l\'e9 la sant\'e9 de  \f2 %CM18%\f1  ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\b\f0\fs20\par
+FRA=\cf1\b0\f1\fs40 PN11. Je voudrais vous parler des examens de sant\'e9 de  \f2 %CM18%\f1  apr\'e8s \par
+FRA=           l\rquote accouchement, par exemple quelqu\rquote un qui a examin\'e9 \f2 %CM18%\f1 , a \par
+FRA=           v\'e9rifi\'e9 le cordon ombilical, ou voir si le b\'e9b\'e9 se porte bien.\par
+FRA=
+FRA=\pard\cf0\b\f0\fs24\par
+FRA=\b0             \cf1\f1\fs40   Apr\'e8s la naissance de \f2 %CM18%\f1 , est-ce que quelqu\rquote un a contr\'f4l\'e9 \par
+FRA=         sa sant\'e9 ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN12. Un tel examen a-t-il eu lieu seulement une fois ou plus d\rquote une fois ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN13N
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40  PN13. Combien de %PN13U% apr\'e8s l\rquote accouchement un tel contr\'f4le \par
+FRA=           a-t-il eu lieu ?- NOMBRE\par
+FRA=\par
+FRA=
+FRA=\pard\nowidctlpar\fi-360\li360\tab\fs28 Si c\rquote est moins d\rquote une journ\'e9e, noter en heures.\par
+FRA=\scaps\tab\scaps0 Si c\rquote est moins d\rquote une semaine, noter en jours.\par
+FRA=
+FRA=\pard      Autrement, noter en semaines\fs40 .\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN13U
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 PN13. Combien de temps apr\'e8s l\rquote accouchement un tel contr\'f4le \par
+FRA=           a-t-il eu lieu ?- UNITE\par
+FRA=\par
+FRA=
+FRA=\pard\nowidctlpar\fi-360\li360\tab\fs28 Si c\rquote est moins d\rquote une journ\'e9e, noter en heures.\par
+FRA=\scaps\tab\scaps0 Si c\rquote est moins d\rquote une semaine, noter en jours.\par
+FRA=
+FRA=\pard      Autrement, noter en semaines\fs40 .\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN14. Qui a contr\'f4l\'e9 la sant\'e9 de \f1 %CM18%\f0  \'e0 ce moment-l\'e0 ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-360\li360\cf1\f0\fs40 PN15. O\'f9 a eu lieu ce contr\'f4le ?\scaps\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf0\scaps0\f1\fs20\par
+FRA=
+FRA=\pard\widctlpar\li330\i\f0\fs28 Insister pour d\'e9terminer le type de source.\line\line S\rquote il n\rquote est pas possible de d\'e9terminer si l\rquote endroit est un \ul\'e9tablissement public ou priv\'e9\ulnone , inscrire le nom de l\rquote endroit et \par
+FRA=noter temporairement \rquote 76\rquote  jusqu\rquote\'e0 trouver la cat\'e9gorie de r\'e9ponse appropri\'e9e.\par
+FRA=
+FRA=\pard\b\i0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN17. Apr\'e8s avoir quitt\'e9  %MN20str%, \par
+FRA=           est-ce que quelqu\rquote un a contr\'f4l\'e9 votre sant\'e9 ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN19
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN19. Apr\'e8s l\rquote accouchement et le d\'e9part de %MN20str%,\par
+FRA=           est-ce que quelqu\rquote un a contr\'f4l\'e9  votre sant\'e9?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN20
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN20. Apr\'e8s la naissance de \f1 %CM18%\f0 , a-t-on contr\'f4l\'e9 votre sant\'e9, par \par
+FRA=           exemple poser des questions sur votre sant\'e9 ou vous examiner\~? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN21
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN21. Ces contr\'f4les ont-ils eu lieu seulement une fois  ou plus d\rquote une fois?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN22N
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 PN22A. Combien de %PN22U% apr\'e8s l\rquote accouchement ce contr\'f4le a-t-il eu lieu ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs40                                               NOMBRE\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN22U
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 PN22U. Combien de temps apr\'e8s l\rquote accouchement ce contr\'f4le a-t-il eu lieu ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs40                                               UNITE\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN23
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN23. Qui a contr\'f4l\'e9 votre sant\'e9 \'e0 ce moment-l\'e0\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN24
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-360\li360\cf1\f0\fs40 PN24. O\'f9 a eu lieu ce contr\'f4le?\cf0\scaps\fs20\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\scaps0\f1\par
+FRA=
+FRA=\pard\widctlpar\li330\i\f0\tab Insister pour d\'e9terminer le type de source.\line\i0\scaps\line\i\scaps0 S\rquote il n\rquote est pas possible de d\'e9terminer si l\rquote endroit est un \ul\'e9tablissement public ou priv\'e9\ulnone , inscrire le nom de l\rquote endroit et \par
+FRA=noter temporairement \rquote 76\rquote  jusqu\rquote\'e0 trouver la cat\'e9gorie de r\'e9ponse appropri\'e9e.\par
+FRA=
+FRA=\pard\cf1\i0\fs40\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN25A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 PN25. Durant les deux premiers jours apr\'e8s la naissance, est-ce qu\rquote un \par
+FRA=           agent de sant\'e9 a fait un des actes suivants soit \'e0 la maison soit \par
+FRA=           dans le centre de sant\'e9 :\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx498              \tab [A]\tab Examiner le cordon de %CM18% ?\par
+FRA=\cf0\f1\fs20\par
+FRA=
+FRA=\pard\tab\cf1\f0\fs40\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN25B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 PN25. Durant les deux premiers jours apr\'e8s la naissance de %CM18%, est-ce qu\rquote un \par
+FRA=           agent de sant\'e9 a fait un des actes suivants soit \'e0 la maison soit \par
+FRA=           dans le centre de sant\'e9 :\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx498\tab\tab            [B]\tab Prendre la temp\'e9rature de %CM18% ?\par
+FRA=\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN25C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 PN25. Durant les deux premiers jours apr\'e8s la naissance de %CM18%, est-ce qu\rquote un \par
+FRA=           agent de sant\'e9 a fait un des actes suivants soit \'e0 la maison soit\par
+FRA=           dans le centre de sant\'e9 :\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx498\tab                   \tab [C]\tab Vous conseiller sur l\rquote allaitement ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN27
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN27. Durant les deux premiers jours apr\'e8s la naissance, est-ce qu\rquote un \par
+FRA=           agent de sant\'e9 a observ\'e9 l\rquote allaitement de %CM18%\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN29
+Condition=MN33=1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 PN29A. Vous avez mentionn\'e9 que %CM18% a \'e9t\'e9 pes\'e9 \'e0 la naissance.\par
+FRA=              Apr\'e8s cela, est-ce-que %CM18% a \'e9t\'e9 de nouveau pes\'e9, dans les \par
+FRA=              deux jours apr\'e8s sa naissance, par un agent de sant\'e9 ?\par
+FRA=\par
+FRA=\par
+FRA=\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN29
+Condition=MN33=2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 PN29B. Vous avez mentionn\'e9 que %CM18% n\rquote a pas \'e9t\'e9 pes\'e9 \'e0 la naissance. \par
+FRA=              Est-ce-que %CM18% a \'e9t\'e9 pes\'e9, dans les deux jours apr\'e8s sa \par
+FRA=
+FRA=\pard               naissance, par un agent de sant\'e9 ? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN29
+Condition=MN33=8
+
+[QUESTION]
+Field=MICS6WM.PN30
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN30. Durant les deux premiers jours apr\'e8s la naissance de %CM18%,\par
+FRA=           est-ce qu\rquote un agent de sant\'e9 vous a donn\'e9 des informations sur \par
+FRA=           les sympt\'f4mes qui n\'e9cessitent que vous emmeniez votre enfant \par
+FRA=           ma  lade dans un centre de sant\'e9 pour \'eatre soign\'e9\~?  \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN3N
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\b\f0\fs24  \cf1\b0\f1\fs40 PN3N. Maintenant, je voudrais vous poser quelques questions sur ce qui s\rquote est pass\'e9\par
+FRA=         dans %PN3U% qui ont suivi la naissance de\scaps  \scaps0 %CM18%.\par
+FRA=
+FRA=\pard          \cf0\f0\fs20 Vous avez dit que vous avez accouch\'e9 \'e0  \b\i (nom ou type de structure sanitaire MN20)\b0\i0 . \par
+FRA=               \cf1\f1\fs40  Combien de temps \'eates-vous rest\'e9e l\'e0-bas apr\'e8s l\rquote accouchement ? - NOMBRE\par
+FRA=\cf0\b\f0\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN3U
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\b\f0\fs24  \cf1\b0\f1\fs40 PN3U. Maintenant, je voudrais vous poser quelques questions sur ce qui s\rquote est pass\'e9\par
+FRA=         dans les heures et les jours qui ont suivi la naissance de\scaps  %CM18%\scaps0 .\par
+FRA=
+FRA=\pard         \fs24    Vous avez dit que vous avez accouch\'e9 \'e0  (nom ou type de structure sanitaire MN20). \cf0\f0\fs20\par
+FRA=               \cf1\f1\fs40  Combien de temps \'eates-vous rest\'e9e l\'e0-bas apr\'e8s l\rquote accouchement ? - UNITE\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial Narrow;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40  PN4.\cf0\f1\fs20  \cf1\f0\fs28 Je voudrais vous parler des examens de sant\'e9 sur (nom) apr\'e8s l\rquote accouchement - par  exemple, si quelqu\rquote un a \par
+FRA=               examin\'e9 (nom), v\'e9rifi\'e9 le cordon ombilical, ou voir si (nom) se porte bien. \par
+FRA=\cf0\f1\fs20\par
+FRA=
+FRA=\pard\f2\fs24\tab\cf1\f0\fs40 Est-ce-que quelqu\rquote un a v\'e9rifi\'e9 l\rquote\'e9tat de sant\'e9 de %CM18% avant que vous \par
+FRA=        ne quittiez %MN20str%\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b0\f1\fs40  PN5.\cf0\f0\fs20  \cf1\f1\fs40 Et qu\rquote en est-il des examens de votre sant\'e9 - je veux dire, quelqu\rquote un a-t-il fait\par
+FRA=          le bilan de votre  sant\'e9, par exemple en vous posant des questions sur votre \par
+FRA=          sant\'e9 ou en vous examinant\~?\par
+FRA=
+FRA=\pard\nowidctlpar\fi-360\li360\scaps\par
+FRA=
+FRA=\pard\cf0\scaps0\f2\fs24\tab\cf1\f1\fs40 A-t-on contr\'f4l\'e9 votre sant\'e9 avant que vous ne quittiez   %MN20str%\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs20\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1  \cf1\b0\f1\fs40 PN6. Maintenant je voudrais que nous parlions de ce qui s\rquote est pass\'e9 apr\'e8s que vous ayez quitt\'e9 %MN20str%\~?\par
+FRA=\tab\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li288\sl276\slmult1 Est-ce que quelqu\rquote un  a examin\'e9 l\rquote\'e9tat de sant\'e9 de %CM18% apr\'e8s que vous ayez\par
+FRA=  quitt\'e9 %MN20str%?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial Narrow;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 PN8. \fs28 Vous avez d\'e9j\'e0 dit que (la ou les personnes \'e0 MN19) vous a/ont assist\'e9 pendant l\rquote accouchement.\par
+FRA=   Maintenant, je voudrais vous parler des examen de sant\'e9 de (nom) apr\'e8s l\rquote accouchement, par exemple examiner (nom), v\'e9rifier le cordon ombilical, ou voir si (nom) se porte bien. \par
+FRA=\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs40 Une fois l\rquote accouchement termin\'e9 et avant que %MN19str% ne vous quitte, est-ce que  %MN19str%  a/ont contr\'f4l\'e9 la sant\'e9 de \f2 %CM18%\f0  ?  \tab\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.PN9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 PN9. Et est-ce que %MN19str% a/ont contr\'f4l\'e9 votre\par
+FRA=         sant\'e9 avant son/leur d\'e9part, par exemple en vous posant des   \par
+FRA=          questions sur votre sant\'e9 ou en vous examinant\~? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.SAN1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs36 SAN1. \'c0 votre avis, quelles sont les m\'e9thodes s\'fbres d'\'e9limination des excr\'e9ments, y compris les mati\'e8res f\'e9cales des enfants ? \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.SAN2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 SAN2. Lorsque les membres de la communaut\'e9 n\rquote ont pas d\rquote endroit s\'fbr et disponible pour faire leurs besoins, ils peuvent le faire dans les champs, les for\'eats, les arbustes, les \'e9tendues d\rquote eau, les plages ou d\rquote autres espaces ouverts, ou encore avec des d\'e9chets solides. C'est ce qu'on appelle la d\'e9f\'e9cation \'e0 l'air libre. Selon vous, cela pose-t-il un risque ou non aux enfants et aux autres membres de la communaut\'e9 ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.SAN3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs36 SAN3. Quel est le probl\'e8me majeur de la d\'e9f\'e9cation \'e0 l\rquote air libre pour la communaut\'e9 ? \f1\fs20\par
+FRA=
+FRA=\pard\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.SAN4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs36 SAN4. Quelles maladies pensez-vous que les gens de la communaut\'e9 peuvent avoir du fait de la d\'e9f\'e9cation en plein air dans la communaut\'e9 ? \par
+FRA=\par
+FRA=
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf0\f1\fs20 Insister\b :\b0  autres maladies? \par
+FRA=\par
+FRA=
+FRA=\pard\i\f0 Enregistrer tout ce qui est mentionn\'e9.\cf1\i0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.SAN5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs36 SAN5. \'c0 votre avis, est-il important que chaque m\'e9nage dispose de toilettes ou de latrines propres ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.TEF5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40  TEF5. Est-ce que la femme a un enfant de moins de 3 ans ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.VIT1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 VIT1. Avez-vous d\'e9j\'e0 entendu parler de suppl\'e9mentation en vitamine A pour les enfants ? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.VIT2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 VIT2. \'c0 votre avis, est-il important que les enfants re\'e7oivent la vitamine A ? \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.VIT3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\froman\fprq2 Vrinda;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 VIT3. Pourquoi pensez-vous qu'il est important que les enfants re\'e7oivent la vitamine A ? \par
+FRA=\cf0\i\f1\fs20 Insister\b  \i0 :\b0  d'autres raisons?\par
+FRA=\f2\par
+FRA=
+FRA=\pard\i\fs24\tab\f0 Enregistrer tout ce qui est mentionn\'e9\cf1\i0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.VIT4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs36 VIT4. A quel \'e2ge pensez-vous qu\rquote un enfant devrait commencer \'e0 recevoir des suppl\'e9ments de vitamine A ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.VIT5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 VIT5. Jusqu'\'e0 quel \'e2ge pensez-vous qu'un enfant doit recevoir des suppl\'e9mentations en vitamine A ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.VIT6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs36 VIT6. Pourquoi pensez-vous que ce n'est pas important que les enfants re\'e7oivent la vitamine A ? \par
+FRA=\par
+FRA=\cf0\i\f1\fs20           Insister : d'autres raisons?\par
+FRA=\par
+FRA=\tab    Enregistrer tout ce qui est mentionn\'e9.\par
+FRA=
+FRA=\pard\cf1\i0\f0\fs36\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB10A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green255\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036  WB10. Pendant l\rquote ann\'e9e scolaire actuelle (\highlight2 2018-2019\highlight0 ), quels sont le niveau et classe/ann\'e9e que vous fr\'e9quentez\~? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB10B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green255\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036  WB10. Pendant l\rquote ann\'e9e scolaire actuelle (\highlight2 2018-2019\highlight0 ), quels sont le niveau et classe/ann\'e9e que vous fr\'e9quentez\~? \par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green255\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036  WB11. A n\rquote importe quel moment durant l\rquote ann\'e9e scolaire derni\'e8re (\highlight2 2017-2018\highlight0 ), \'eates-vous all\'e9e \'e0 l\rquote\'e9cole\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB12A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036  WB12. Durant l\rquote ann\'e9e scolaire derni\'e8re (2017-2018), quels sont le niveau et classe/ann\'e9e que vous avez fr\'e9quent\'e9\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB12B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036  WB12. Durant l\rquote ann\'e9e scolaire derni\'e8re (2017-2018), quels sont le niveau et classe/ann\'e9e que vous avez fr\'e9quent\'e9\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs48\lang1036  WB14. Maintenant, je voudrais que vous me lisiez cette phrase \par
+FRA=
+FRA=\pard\nowidctlpar\li330   \par
+FRA=Montrer la phrase sur la carte  \'e0 l\rquote enqu\'eat\'e9e.\par
+FRA=\par
+FRA=
+FRA=\pard Si l\rquote enqu\'eat\'e9e ne peut pas lire la phrase enti\'e8re, insister :Pouvez-vous me lire certaines parties de la phrase\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB18
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036  WB18. Etes-vous couverte par une assurance sant\'e9 ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB19
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\b\f0\fs20\lang1036  \cf1\b0\fs48 WB19. Par quels types d\rquote assurance sant\'e9 \'eates-vous couverte ? \par
+FRA=\par
+FRA=
+FRA=\pard\tab Enregistrer tout ce qui est mentionn\'e9.\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB3M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs48\lang1036  \scaps0 WB3. En quel mois ann\'e9e \'eates-vous n\'e9e ?\scaps\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB3Y
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036 WB3Y. En quelle ann\'e9e \'eates-vous n\'e9e ?\scaps\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs48\lang1036  WB4. Quel \'e2ge avez-vous ? \cf0\fs20\par
+FRA=
+FRA=\pard\cf1\fs48\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036 WB5. Avez-vous d\'e9j\'e0 fr\'e9quent\'e9 l\rquote\'e9cole ou un programme d\rquote\'e9ducation pr\'e9scolaire ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB6A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036 WB6A. Quel est le plus haut niveau d'\'e9tude que vous avez fr\'e9quent\'e9 ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB6B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036 WB6. Quel est le plus haut niveau de classe/ann\'e9e de \cf2 %xWBA%\cf1  que vous avez fr\'e9quent\'e9 ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036  WB7. Avez-vous termin\'e9 cette classe/ann\'e9e ? \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WB9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green255\blue0;\red255\green255\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs48\lang1036  WB9. A n\rquote importe quel moment durant l\rquote ann\'e9e scolaire actuelle (\highlight2 2018-2019\highlight0 ), \'eates-vous all\'e9e \'e0 l\rquote\'e9cole \highlight3 ? \highlight0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48\lang2057 WM1.\b0\i  Num\'e9ro de la grappe:\f1\fs32\lang1033\par
+FRA=
+FRA=\pard\cf2\i0\f0\fs30\lang1036\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 WM10. Enregistrer l\rquote heure de la fin de l\rquote entretien :\par
+FRA=                     Heures:     Minutes:  \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 WM11. Est-ce que l\rquote interview enti\'e8re s\rquote est d\'e9roul\'e9e en priv\'e9 ou\par
+FRA=            est-ce que quelqu\rquote un \'e9tait l\'e0 durant tout ou une partie \par
+FRA=            de l\rquote entretien \par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 WM12. Langue du questionnaire.\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM13
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 WM13. Langue de l\rquote interview.\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 WM14. Quelle est votre langue maternelle\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 WM15. Est-ce qu\rquote un traducteur a \'e9t\'e9 utilis\'e9 pour n\rquote importe quelle\par
+FRA=              partie de ce questionnaire?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tqr\tldot\tx3942\cf1\f0\fs40 WM17. R\'e9sultat de l\rquote enqu\'eate Femme.\par
+FRA=\cf0\i\f1\fs20\par
+FRA=
+FRA=\pard\f0\fs24 Discuter tous les r\'e9sultats non complets avec votre chef d\rquote\'e9quipe.\cf1\i0\fs40\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48\lang2057 WM2. \b0\i Num\'e9ro du m\'e9nage:\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Book Antiqua;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48\lang2057 WM3. \b0\i Num\'e9ro de la ligne de la femme:\f1\fs24\par
+FRA=\b\i0\f0\fs48\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM3A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48\lang2057 WM3. \b0\i Nom de la femme:\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset204 Times New Roman;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48\lang1104 WM4. \b0\i\f1\lang1036 Num\'e9ro du Superviseur\f0\lang1104 :\b\i0\f1\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang2060{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48\lang2057 WM5. \b0\i Code de l'enqu\'eateur:\b\i0\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM6D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset204 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48  Jour de l'interview\f1\lang1104\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM6M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48\lang1036   Mois de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM6Y
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48\lang1036  Ann\'e9e de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM7H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs48\lang1036 WM7. \scaps0 Enregistrerl\rquote heure de d\'e9but de l\rquote entretien :  Heures :   Minutes :  \cf2\b\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM7M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs48\lang1036  WM7. \scaps0 Enregistrerl\rquote heure de d\'e9but de l\rquote entretien :  Heures :   Minutes :  \scaps\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs48\lang1036  WM8.\scaps0 V\'e9rifier les questionnaires compl\'e9t\'e9s dans ce m\'e9nage : Avez-vous ou un autre membre de\par
+FRA=                                    votre \'e9quipe d\'e9j\'e0 interview\'e9 cette r\'e9pondante sur un autre questionnaire ?\scaps\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WM9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs48\lang1036  WM9. Consentement : \cf0\scaps0\fs24 . \cf1\fs48 Puis-je commencer maintenant\~?\scaps\par
+FRA=}
+
+[QUESTION]
+Field=MICS6WM.WMINT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset204 Times New Roman;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs48\lang1104 WM5. \b0\i\f1\lang1036 Code de l'enqu\'eateur\f0\lang1104 :\b\i0\par
+FRA=}
+

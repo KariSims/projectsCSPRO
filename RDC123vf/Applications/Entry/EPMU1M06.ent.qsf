@@ -1,0 +1,1453 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 6.3
+
+[LANGUAGES]
+FRA=FRANCAIS
+LIN=LINGALA
+SWA=SWAHILI
+
+[QUESTION]
+Field=EPMU1M06.EA01
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA1. Au cours des 4 derni\'e8res semaines, quelqu'un dans votre m\'e9nage a-t-il exploit\'e9 une entreprise g\'e9n\'e9ratrice de revenus qui produit des biens ou des services ou est-ce que quelqu'un dans votre m\'e9nage poss\'e9dait un magasin ou exploitait une entreprise commerciale ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA1. Na poso mineyi ewuti ko leka, moto na ndaku na bino azalaki na mwa kompanyi oyo e bimiselaki ye mwa mbongo na ko sala biloko, ko sala misala misusu to azalaki na boutiki to ko sala mwa commerce ?\par
+LIN=\cf2\b0\par
+LIN=Kompanyi ekoki ko zala ndakisa ko sala ba briki ko teka makala to koni, ki ma\'e7on, ko tonga,musala ya mabende,  musala ya ko bongisa biloko ndeti mapapa, ko bongola biloko ya ko lia ndeti ko sala kwango, mwa ba commerces, ko teka to ko teka biloko ya ko lia, etc.\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\sb100\sa100\b\f0\fs28 EA1. Katika wiki 4 zilizopita, je, mtu yeyote katika kaya yako alifanya biashara inayozalisha mapato inayozalisha bidhaa au huduma, au mtu yeyote katika kaya yako anaye duka au anafanya kazi ya biashara?\par
+SWA=\cf1\b0 Makampuni yanaweza kujumuisha, kwa mfano, utengenezaji wa matofali au makaa, mawe, uuzaji wa kuni, kazi ya chuma, kushona, kazi za ukarabati, usindikaji wa chakula, biashara ndogo , kuuza au kuuza chakula, etc..\cf0\b\par
+SWA=
+SWA=\pard\cf2\f1\lang1036\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA02
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA2. Combien de membres du m\'e9nage ont des entreprises ?\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.EA03
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\i\f0\fs29 EA3. Entrez le code de chaque membre du m\'e9nage possedant au moins une entreprise (Mettre le num\'e9ro de ligne du membre de m\'e9nage poss\'e9dant une entreprise)\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\i\f0\fs29\lang1036 EA3. Koma code ya moto na moto oyo azali na kompanyi ata moko (Tia numero ya ligne ya moto na ndaku oyo aza na entreprise)\lang9228\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA3. Ingiza msimbo wa kila mutu wa chama wa kaya na angalau bishara ata moja (kuweka idadi ya mstari wa mwanachama wa kaya anaye biashara)\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA04
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA4. Combien d' entreprises poss\'e8de \cf2 %EA03N%\cf1  ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA4.  \cf2 %EA03N%\cf1   aza na ba kompanyi boni ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA4. \cf2 %EA03N%\cf1  iko na biashara gambi ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA05
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA5. Quel est le nom de l' entreprise de \cf2 %EA03N%\cf1  ?\par
+FRA=\par
+FRA=\cf3\b0\i\f1\fs29 Si l'entreprise ne poss\'e8de pas de nom sp\'e9cifique, \'e9crivez le nom du propri\'e9taire \par
+FRA=\i0 Par exemple,\i  \cf2\f0\fs28 entreprise\cf3  \cf2 %EA03N%\cf1\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA5. Kombo ya kompanyi ya \cf2 %EA03N%\cf1  nini ?\par
+LIN=\par
+LIN=\cf3\b0\i\f1\fs29 soki eza na kombo te, koma na ndakisa  \cf2\f0\fs28 entreprise\cf3  \cf2 %EA03N%\cf1\par
+LIN=\i0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA5. China ya entreprise ya \cf2 %EA03N%\cf1  nini ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA06
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA6. L' entreprise \cf2 %EA05%\cf1  est-elle \cf2 enregistr\'e9e\cf1  aupr\'e8s d'une agence gouvernementale ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA6. Entreprise \cf2 %EA05%\cf1  yango \cf2 e komisama\cf1  na agence moko ya gouvernement ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA6. \cf2 %EA05% \cf1 imesajiliwa na shirika la serikali ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA07
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA7. Comment \'e9tablissez-vous vos comptes ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA7. Lolenge nini o salaka ba comptes na yo ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA7. Unajengaje akaunti zako ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA08A
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA8A. Quelle est l'activit\'e9 principale de cette entreprise ?\par
+FRA=\cf2\b0\i\f1\fs29\par
+FRA=Veuillez saisir l'activit\'e9 principale telle que d\'e9clar\'e9e par l'enqu\'eat\'e9\par
+FRA=\cf1\b\i0\f0\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA8A. Misala nini kompanyi yango e salaka ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA8. Shughuli ya hii biashara ni nini ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA08B
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA8B. S\'e9lectionner l'activit\'e9 principale sur cette liste !\par
+FRA=\par
+FRA=\cf2\b0\i Vous pouvez retrouver l'activit\'e9 en ecrivant quelques caract\'e8res ou des mots\cf1\i0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA8B. Pona misala yango na liste oyo !\par
+LIN=\cf2\b0\i Okoki ko retrouver musala yango na ko koma ba lettres to mots eza na kati\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA8. Chagua shughuli kwenye orodha hii !\par
+SWA=\cf2\b0\i Unaweza kupata shughuli kwa kuandika baadi y wahusika au maneno\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA08C
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA8C. A part votre activit\'e9 principale, avez-vous une autre activit\'e9 dans votre entreprise ? \par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA8C. A part misala ya liboso, kompanyi yango e zali na misala mosusu ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA8C. Mbali na shughuli yako kuu, una shughuli nyingine katika biashara yako ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA09A
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA9A. Quelle est l' activit\'e9 secondaire de cette entreprise?\par
+FRA=\cf2\b0\i\f1\fs29\lang9228\par
+FRA=Veuillez saisir l'activit\'e9 secondaire telle que d\'e9clar\'e9e par l'enqu\'eat\'e9\par
+FRA=\cf1\b\i0\f0\fs28\lang1036\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA9A. Misala ya mibale kompanyi yango e salaka eza nini ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA9A. Shughuli za pili ya hii biashara ni nini?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA09B
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA9B. S\'e9lectionner l'activit\'e9 secondaire sur cette liste !\par
+FRA=\cf2\b0\i\par
+FRA=Vous pouvez retrouver l'activit\'e9 en ecrivant quelques caract\'e8res ou des mots\cf1\i0\par
+FRA=\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA9B. Pona misala ya mibale na liste oyo !\par
+LIN=\cf2\b0\i Okoki ko retrouver musala yango na ko koma ba lettres to mots eza na kati\par
+LIN=\cf1\i0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA9B\b0 .\b  Chagua shughuli za pili kwenye orodha hii !\par
+SWA=\cf2\b0\i Unaweza kupata shughuli kwa kuandika baadi y wahusika au maneno\par
+SWA=\cf1\i0\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA0A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 Combien des membres de votre m\'e9nage poss\'e8dent au moins une entreprise non agricole ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 Batu boni ya ndaku na bino ba sali na kompanyi ya lolenge wana ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 Ni wangapi wa chama wako wana biashara isiyo kilimo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA10A
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA10A. Depuis combien d'ann\'e9es cette entreprise fonctionne-t-elle ?\par
+FRA=\b0  \cf2\par
+FRA=\cf3\i\f1\fs29 Ne pas compter les ann\'e9es o\'f9 l'entreprise n'a pas fonctionn\'e9.\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA10A. E sali ba mbula boni entreprise ango ezo sala ?\par
+LIN=\b0\par
+LIN=\cf2\i\f1\fs29 Ko tanga te ba mbula oyo kompanyi e salaki te.\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA10A. Biashara hii imekuwa ikifanya kazi kwa miaka ngapi ?\par
+SWA=\cf2\b0\par
+SWA=kuhesabu miaka wakati biashara hakufanya kazi.\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA10B
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA10B. Depuis combien de mois cette entreprise fonctionne-t-elle ?\par
+FRA=\cf2\b0\i\f1\fs29 Pour les entreprises ayant fonctionn\'e9 pendant moins d'une ann\'e9e, veuillez renseigner le nombre de mois de fonctionnement\par
+FRA=\cf3\i0\f0\fs24 (\cf2\i\fs28 Ne pas compter les mois o\'f9 l'entreprise n'a pas fonctionn\'e9.\cf3\i0\fs24 )\cf1\par
+FRA=\cf3\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA10B. E sali ba sanza boni wuta entreprise yango ezo sala ?\par
+LIN=\b0\par
+LIN=\cf2 Ko tanga te ba sanza oyo kompanyi e salaki te\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA10B. Biashara hii imekuwa ikifanya kazi kwa miezi ngapi ?\par
+SWA=\par
+SWA=\cf2\b0 Kuhesabu miezi wakati biashara hakufanya kazi.\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA11
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA11.  D\'e9puis \cf2 %douzedernmois%\cf1 , pendant combien de mois cette entreprise  a-t-elle fonctionn\'e9e ?\par
+FRA=\cf3\b0\par
+FRA=\cf1\b\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA11. \f1\fs29 Ko banba \cf2\f0\fs28 %douzedernmois%\cf1\f1\fs29 , \f0\fs28 ba sanza boni\f1\fs29  kompanyi e salaki ?\f0\fs28\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA11. Katika \cf2 %douzedernmois%\cf1 , miezi ngapi kampuni amefanya  hii kazi ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA12
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA12. Le revenu de cette entreprise appartient-il enti\'e8rement \'e0 ce m\'e9nage?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA12. Lifuta nionso ya kompanyi ezali pona libota ? \par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA12. Kipato yote ya biashara ni mali ya hii chama ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA13
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA13. Quel pourcentage du revenu appartient au m\'e9nage?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA13. Pourcentage boni nde ezali ya ndaku ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA13. Pourcentage ngapi ya mapato ni ya chama ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA14
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA14. Quelle a \'e9t\'e9 la principale source de capital de l' entreprise \cf2 %EA05% \cf1 ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA14. Mbongo o bandelaki na ngo entreprise \cf2 %EA05%\cf1  na yo ewutaki wapi ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA14. Kilichokuwa chanzo kikuu cha mtaji wa kampuni ya \cf2 %EA05%\cf1  ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA15
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA15. Quelle a \'e9t\'e9 la nature de ce capital?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA15. Mbongo o bandelaki na ngo kompanyi ezalaki nini ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA15. Asili ya mji mkuu huu ili kuwa nini ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA16
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA16.  D\'e9puis \cf2 %douzedernmois%\cf1 , est ce que \cf2 %EA03N%\cf1  a essay\'e9 d'avoir un credit \'e0 la banque ou dans une autre agence financi\'e8re ?\b0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA16. Kobanda \cf2 %douzedernmois%\cf1  ya suka, \cf2 %EA03N%\cf1  a mekaki kozua niongo na banque to na agence moko ya mbongo ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA16. Tangu \cf2 %douzedernmois%\cf1  uliyopita, ni kwamba %EA03N%  alijaribu kuwa na mkopo kwenye benki au shirika lingine la kifedha ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA17
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA17. D\'e9puis \cf2 %douzedernmois%\cf1 , quelle a \'e9t\'e9 la principale source de credit de l' entreprise %EA05% ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA17. Wuta \cf2 %douzedernmois%\cf1 , esika nini bozuaki niongo mingi mingi ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA17. Tangu \cf2 %douzedernmois%\cf1 , Chanzo kikubwa cha mtaji wa biashara hii ?\par
+SWA=\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA18
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA18.  D\'e9puis \cf2 %douzedernmois%\cf1 , quel a \'e9t\'e9 le montant total de ces emprunts?\par
+FRA=\par
+FRA=\cf3\b0\i Veuillez inscrire le montant total des emprunts en \cf2 Franc Congolais (FC)\cf1\b\i0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA18. Wuta \cf2 %douzedernmois%\cf1 , ba niongo nionso bozuaki ezalaki ya talo nini ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA18. Tangu \cf2 %douzedernmois%\cf1 , ilikuwa ni kiasi gani cha mkopo ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA19
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA19.  D\'e9puis \cf2 %douzedernmois%\cf1 , quelle part du total des pr\'eats a rembours\'e9 cette entreprise?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA19. Wuta \cf2 %douzedernmois%\cf1 , entreprise e futaki pourcentage boni ya ba niongo nionso ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA19. Tangu \cf2 %douzedernmois%\cf1 , pourcentage gani ya mkopo kamili kilicholipia biashara ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA19A
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA19A. Quel autre mode de financement utilisez-vous pour l'entreprise \cf2 %EA05%\cf1  ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA19A. Lolenge nini mosusu ya financement o salelaka pona entreprise \cf2 %EA05%\cf1  ?\par
+LIN=\b0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA19A. Njia gani nyingine ya fedha unayotumia kwa biashara \cf2 %EA05%\cf1  ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA20
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA20. Dans quel type de local se trouve l' entreprise \cf2 %EA05%\cf1  ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA20. Na kati ya ndaku (to esika) ya lolenge nini entreprise \cf2 %EA05%\cf1  ezali ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA20. Katika aina gani ya majengo ni biashara \cf2 %EA05%\cf1  ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA21
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA21. Quel est le statut d'occupation du local de l'entreprise \cf2 %EA05%\cf1  ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA21. Ndaku (to esika) entreprise \cf2 %EA05%\cf1  ezali eza ya nani ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA21. Ni hali gani ya kazi ya majengo ya biashara \cf2 %EA05%\cf1  ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA22
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\fs28 EA22. \f1 L\rquote entreprise \cf2\f0 %EA05%\cf1\f1  dispose-t-elle\~:\par
+FRA= \tab\tab - de l\rquote eau \par
+FRA=\tab\tab - de l\rquote\'e9lectricit\'e9 \par
+FRA=\tab\tab - du t\'e9l\'e9phone\par
+FRA=\cf3\b0\i\fs29\par
+FRA=Veuillez choisir les biens dont dispose l'entreprise\par
+FRA=
+FRA=\pard\cf1\i0\f0\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA22. \f1 Entreprise \cf2\f0 %EA05%\cf1\f1  ezali na :\par
+LIN=\par
+LIN=
+LIN=\pard\widctlpar\tab\tab - mayi\par
+LIN=\tab\tab - lotiliki\par
+LIN=\tab\tab - nzela ya singa\f0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA22. Biashara \cf2 %EA05% \cf1 ina :\par
+SWA=\tab\tab\f1 - \f0 Maji  \tab\par
+SWA=\tab\tab\f1 - \f0 Umeme  \tab\par
+SWA=\tab\tab\f1 - \f0 Simu\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA23
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 EA23. Pourquoi avez-vous d\'e9cid\'e9 de cr\'e9er cette entreprise ?\par
+FRA=
+FRA=\pard\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs28\lang1036 EA23. Pona nini o zuaki ndingisa yako sala mwa kompanyi na yo moko ?\f1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs28\lang1036 EA23. Kwa nini umeamua kuunda hii bishara ?\f1\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA24
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 EA24. Combien de personnes travaillent dans cette entreprise y compris vous-m\'eame ?\par
+FRA=
+FRA=\pard\cf2\b0\f1\par
+FRA=\i Si ce n'est pas  le propri\'e9taire qui r\'e9pond, dire \cf3 y compris le propri\'e9taire\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs28\lang1036 EA24. Batu boni ba salaka na kompanyi yango na yo moko pe na kati ?\par
+LIN=\cf2\b0\par
+LIN=\i Soki ezali mukolo kompanyi te nde aza yanola, loba "na mukolo kompanyi na kati" na place ya "na yo moko pe na kati"\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs28\lang1036 EA24. Ni watu wangapi wanaofanya kazi katika hii kampuni ikiwa ni pamoja na wewe mwenyeme ?\par
+SWA=\b0\par
+SWA=\cf2 Ikiwa sio mmiliki wa kampuni iniyojibu, sema "ikiwa ni pamoja na mmiiki wa kampuni"\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA24A
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA24A. Combien sont \cf2 salari\'e9s\cf1  ? \par
+FRA=\par
+FRA=\cf3\b0\i\f1\fs29 Il s'agit de savoir le nombre de salari\'e9s \cf2 parmi les %EA24% personnes\cf3  travaillant dans l'entreprise \f0\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.EA24B
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA24B. Combien \cf2 ne sont pas salari\'e9s\cf1  ? \par
+FRA=\par
+FRA=\cf3\b0\i\f1\fs29 Il s'agit de savoir le nombre de non salari\'e9s \cf2 parmi les %EA24% personnes\cf3  travaillant dans l'entreprise \f0\fs24\par
+FRA=\cf1\b\i0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.EA25
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA25. Combien vous a rapport\'e9 votre entreprise au cours du mois pass\'e9 ? \par
+FRA=\tab\tab\par
+FRA=\cf2\b0\i Veuillez inscrire le montant total en \cf3 Franc Congolais (FC)\cf1\b\i0\par
+FRA=\cf2\b0\i\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA25. Lifuta boni bozuaki na kompanyi yango sanza ewuti ko leka ?\par
+LIN=\cf2\b0\i\tab\tab\tab\tab\par
+LIN=koma talo na Franc Congolais (FC)\cf1\b\i0\f1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA25. Biashara yako, imekuleteya kiasi gani mwezi uliyopita ?\par
+SWA=\cf2\tab\tab\par
+SWA=\b0\i Katika Franc Congolais (FC)\cf1\f1\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA26
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 EA26.\f1  D\'e9puis \cf2 %douzedernmois%\cf1\f0 , avez-vous fait de nouveaux investissements ? \par
+FRA=
+FRA=\pard\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs28\lang1036 EA26. Wuta \cf2\f1 %douzedernmois%\cf1 , o salaki ba \f0 investissements ya sika ? \f1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs28\lang1036 EA26. \f1 Tangu \cf2 %douzedernmois%\cf1 ,\f0  umefanya uwekezaji ?\f1\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA27
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA27. Quelle \'e9tait la principale source de financement de cet investissement ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA27. Mbongo ya investissement yango ewutaki wapi ?\par
+LIN=\b0\f1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 EA27. Ni chanzo kikuu cha fedha kwa ajili ya uwekezaji huu ?\f1\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA28
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA28. Quelle est la valeur totale actuelle des \'e9quipements de cette entreprise ? \cf2  \par
+FRA=\par
+FRA=\b0\i Veuillez inscrire le montant total en \cf3 Franc Congolais (FC)\cf1\b\i0\par
+FRA=\cf2\b0\i\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA28. Talo nini biloko nionso ya musala ekoki ko zala na nga lelo ?\par
+LIN=\par
+LIN=\cf2\b0\i koma talo na Franc Congolais (FC)\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\sb100\sa100\b\f0\fs28 EA28. Thamani ya jumla ya sasa ya vifaa vya kampuni hii ni nini ?\cf1  \par
+SWA=\b0\i (katika \f1\lang1036 Franc Congolais\f0\lang9228 )\cf0\par
+SWA=
+SWA=\pard\cf2\b\i0\f1\lang1036\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA29
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 EA29. A-t-on vendu des \'e9quipements de cette entreprise d\'e9puis \cf2 %douzedernmois%\cf1  ?\par
+FRA=\cf3\b0\i\f1\fs29 Les \'e9quipements de l'entreprise se rapportent \'e0 l'ensemble des biens dont elle dispose \cf1\b\i0\f0\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 EA29. Wuta \cf2 %douzedernmois%\cf1 , boteki biloko ya musala ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red255\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\sb100\sa100\b\f0\fs28 EA29. Je, vifaa vingine kutoka kampuni hii vilinunuliwa depuis \cf1\f1\lang1036 %douzedernmois%\cf0\f0\lang9228  ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA3X
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\i\f0\fs29 Selectionner le membre du m\'e9nage qui a une ou plusieurs entreprises non agricoles\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue255;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\i\f0\fs29 Pona moto ya ndako oyo azali na kompanyi moko to ebele oyo eza ya lolenge wana\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue255;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 Chagua mutu wa chama aliye na biashara moja au zaidi isiyo kilimo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA4X
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 %EA5X%\cf2  poss\'e8de combien d'entreprises non agricoles\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28\lang1036 %EA5X%\cf2  aza na ba kompanyi ya lolenge wana boni?\lang9228\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 %EA5X%\cf2  anamiliki biashara  isiyo kilimo kiasi gani?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.EA5X
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\b\fs28 Quel est le nom du chef de l' entreprise ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 Kombo ya mukolo Kompanyi nani ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+SWA=\pard\cf1\b\fs28\lang1036 Jina la kichwa cha kampuni nini ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M06.M061
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M061: Num\'e9ro de grappe\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M0610H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Fin de l'interview - Heure\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M0610M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Fin de l'interview - Minutes\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M0611
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\b\fs28 Maintenant, je voudrais vous parler des questions li\'e9es aux entreprises non agricoles.\cf1\par
+FRA=
+FRA=\pard\widctlpar\sa160\sl252\slmult1\cf0 Ces questions nous permettront de connaitre toutes les entreprises non agricoles d\'e9tenues par le membre du m\'e9nage et les \cf2\f1 Unit\'e9s de Production Informelles (UPI) \cf0\f0 promues par les membres du m\'e9nage.\par
+FRA=Cette interview prend habituellement ...... minutes.\par
+FRA=Puis-je commencer maintenant\~?\b0\par
+FRA=\cf3 (Les entreprises pourraient inclure, par exemple, la fabrication de briques ou de charbon de bois, de ma\'e7onnerie, de vente de bois de chauffage, de travail des m\'e9taux, de couture, de travaux de r\'e9paration, de transformation des aliments, de petites commerces, de vente ou de vente d'aliments, etc.)\cf2\b\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M0617
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 R\'e9sultat d'interview\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M062
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M062 : Num\'e9ro de m\'e9nage\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M063
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M063 : Num\'e9ro de ligne\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M066A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M066A : Ann\'e9e de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M066J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M066J : Jour de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M066M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M066M : Mois de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M067
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M067 : Milieu\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M068
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M068 : Province\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M069H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M069H : D\'e9but de l'interview - Heure\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M069M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M069M : D\'e9but de l'interview - Minutes\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M06ADDR
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M06ADDR :  Adresse du m\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M06FIN
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Fin\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M06HINT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M06HINT : Code Enqu\'eateur\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M06INT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M06INT : Num\'e9ro enqu\'eateur\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.M06NAME
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M06NAME : Nom du chef de m\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M06.REP_MOD6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+FRA=\pard\cf1\i\fs32 Veuillez cochez le code de la personne qui a le plus repondu au module\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA02
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA2. Combien de membres du m\'e9nage ont des entreprises ?\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA03
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA3. Enregistrez le code de chaque membre du m\'e9nage possedant au moins une entreprise \par
+FRA=\par
+FRA=(Mettre le num\'e9ro de ligne du membre de m\'e9nage poss\'e9dant une entreprise)\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA04
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA4. Combien d'entreprise poss\'e8de \cf2 %M01%\cf1 ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA05
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA5. Quel est le nom de l'entreprise \par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA06
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA6. Cette entreprise est-elle enregistr\'e9e aupr\'e8s d'une agence gouvernementale?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA07
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA7. Comment \'e9tablissez-vous vos comptes ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA08A
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA8A. Quelle est l'activit\'e9 principale de cette entreprise?\par
+FRA=\par
+FRA=Nom de l'activit\'e9\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA08B
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA8B. Quelle est l'activit\'e9 principale de cette entreprise?\par
+FRA=\par
+FRA=Code de l'activit\'e9\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA08C
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA8C. A part votre activit\'e9 principale, Avez-vous une autre activit\'e9 dans votre entreprise ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA09A
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA9. Quelle est l' activit\'e9 secondaire de cette entreprise?\par
+FRA=\par
+FRA=Nom de l'activit\'e9\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA09B
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA9B. Quelle est l'activit\'e9 principale de cette entreprise?\par
+FRA=\par
+FRA=Code de l'activit\'e9\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA10A
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA10A. Depuis combien d'ann\'e9e cette entreprise fonctionne t elle?\par
+FRA=\par
+FRA=Enregistrer :\cf2 Ann\'e9e\cf1\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA10B
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA10B. Depuis combien d'ann\'e9e cette entreprise fonctionne t elle?\par
+FRA=\par
+FRA=Enregistrer :\cf2 Mois\cf1\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA11
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA11. Au cours des 12 derniers mois, pendant combien de mois cette entreprise  a-t-elle fonctionn\'e9e?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA12
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA12. Le revenu de cette entreprise appartient-il enti\'e8rement \'e0 ce m\'e9nage?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA13
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA13. Quel pourcentage du revenu appartient au m\'e9nage?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA14
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA14. Quel a \'e9t\'e9 la principale source de capital de cette entreprise ?\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA15
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA15. Quel a \'e9t\'e9 la nature de ce capital?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA16
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA16. Au cours des 12 derniers mois , est ce que \cf2 %M01%\cf1  a essay\'e9 d'avoir un credit \'e0 la banque ou dans une autre agence financi\'e8re?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA17
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA17. Au cours des 12 derniers mois, quelle a \'e9t\'e9 la principale source de credit de cette entreprise?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA18
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA18. Au cours des 12 derniers mois, quel a \'e9t\'e9 le montant total de ces emprunts?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA19
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA19. Au cours des 12 derniers mois, quelle part du total des pr\'eats a rembours\'e9 cette entreprise?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA19A
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA19A. Quel autre mode de financement utilisez-vous\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA20
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA20 Dans quel type de local se trouve cette entreprise?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA21
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA21 Le local de votre entreprise est :\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA22
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA22. Cette entreprise dispose t-elle de : \par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA23
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA23. Pourquoi avez d\'e9cid\'e9 de cr\'e9er cette entreprise?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA25
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA25. Combien vous a rapport\'e9 votre entreprise au cours du mois pass\'e9? \par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA26
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA26. A-t-on fait de nouveaux investissements au cours des 12 derniers mois ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA27
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA27. Quelle \'e9tait la principale source de financement de cet investissement ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.EA28
+Occurrences=1:6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 EA28. Quelle est la valeur totale actuelle des \'e9quipements de cette entreprise ? (en Fc)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40\lang2057 HH1. \b0\i Num\'e9ro de grappe:\cf2\i0\f1\fs24\lang1036\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 HH10.\b0\i  \lang1030 M\'e9nage selectionn\'e9 pour\lang1036  le test \'e0 blanc ?\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH11H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40\lang2057 HH11. \b0\i Enregistrer l'heure.\b\i0\lang1036\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH11M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40\lang2057 HH11. \b0\i Enregistrer la minute.\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 HH12\b0 . Bonjour, je m\rquote appelle (\cf2 votre nom\cf1 ). Nous sommes de \cf3 l\rquote Institut National de la Statistique, des Etudes Economiques et D\'e9mographiques (INSEED)\cf1 . Nous menons une enqu\'eate sur la situation des enfants, des familles et des m\'e9nages. Je voudrais discuter avec vous de ces sujets. L\rquote enqu\'eate prend habituellement environ \cf3 30\cf1  minutes. A la suite de cela, je pourrai avoir besoin de mener d\rquote autres enqu\'eates avec vous ou avec d\rquote autres membres de votre m\'e9nage. Toutes les informations que nous obtiendrons resteront strictement confidentielles et anonymes. Si vous ne voulez pas r\'e9pondre \'e0 une question ou voulez arr\'eater l\rquote enqu\'eate, merci de me le faire savoir. Puis-je commencer maintenant\~?\cf2\b\lang2057\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40\lang2057 HH2.\b0\i  Num\'e9ro du m\'e9nage :\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 HH4.\b0\i  Nom et num\'e9ro chef d\rquote\'e9quipe :\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH5D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 HH5.\b0\i  Jour de l\rquote enqu\'eate:\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH5M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 HH5.\b0\i  Mois de l\rquote enqu\'eate:\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH5Y
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 HH5.\b0\i  Ann\'e9e de l\rquote enqu\'eate:\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40\lang2057 HH6.\b0\i  Milieu de r\'e9sidence :\b\i0\par
+FRA=
+FRA=\pard\lang1036\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40\lang2057 HH7. \b0\i Province:\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 HH8. \b0\i\lang1030 M\'e9nage selectionn\'e9 pour l\rquote enqu\'eate Homme \lang1036 ?\b\i0\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HH9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 HH9.\b0\i  \lang1030 M\'e9nage selectionn\'e9 pour le test de l\rquote eau \lang1036 ?\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HHADDR
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\i\f0\fs40 Veuillez v\'e9rifier si l'adresse donn\'e9e est effectivement affich\'e9 sur la tablette.\par
+FRA=Sinon corriger l'adresse du Chef de m\'e9nage.\par
+FRA=\cf2\i0\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HHNAME
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 Tout d'abord, dites-moi s'il vous pla\'eet le nom de chaque personne qui vit habituellement ici, en commen\'e7ant par le chef de m\'e9nage. \par
+FRA=\cf2\i Veuillez v\'e9rifier si le nom donn\'e9 est effectivement affich\'e9 sur la tablette.\par
+FRA=Sinon corriger le nom du Chef de m\'e9nage.\par
+FRA=
+FRA=\pard\cf1\b\i0\par
+FRA=}
+
+[QUESTION]
+Field=MOD_6_DICT.HINT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 HH3.\b0\i  Nom et num\'e9ro de l\rquote enqu\'eateur :\b\i0\lang2057\par
+FRA=}
+

@@ -1,0 +1,1185 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 6.3
+
+[LANGUAGES]
+FRA=Français
+LIN=Lingala
+SWA=Swahili
+
+[QUESTION]
+Field=EPMU1M09.M091
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Num\'e9ro de grappe\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M0910H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs24 M0910H. HEURE DE LA FIN\b0\f1\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M0910M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs24 M0910M. MUNITE DE LA FIN\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M0911
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Calibri;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red64\green0\blue0;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Consentement ou Acceptation de la part du repr\'e9sentant du m\'e9nage\cf2\par
+FRA=\par
+FRA=
+FRA=\pard\widctlpar\qj\cf0\f1\fs36 Maintenant, je voudrais vous parler de\~: \cf2\b\f2\fs29 votre opinion sur la perception des conditions de vie \'e0 travers un certain nombre d\rquote informations.\par
+FRA=
+FRA=\pard\widctlpar\sa160\sl252\slmult1\cf0\b0\f1\fs36 Cette interview prend habituellement moins de \cf3\b 45 minutes\cf0\b0 . \par
+FRA=\cf3 Rappelons que:\par
+FRA=\cf0\f2\fs28\'ab\~Toutes les informations que nous obtiendrons resteront strictement confidentielles et anonymes\~\'bb--menage. \par
+FRA=
+FRA=\pard\b Pouvons-nous commencer maintenant\~?\cf2\f0\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 10.0.10586}\viewkind4\uc1
+LIN=\pard\cf1\b\fs28 Andimi ?\b0\par
+LIN=\cf2\b LIBOSO YA KOBANDA MITUNA\cf1\b0  : Yebisa moto aza liboso nayo ete mituna oyo ezolanda etaleli ndenge ndaku ezomona ba conditions de vie na bango\par
+LIN=Etaleli kondima ya molobeli ya ndako esika ozali kotuna mituna na ngonga oyo\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs28 Ruhusa au Kukubali kutoka kwa mwakilishi wa kaya\par
+SWA=\cf2\b Hii ni kuwajulisha ikiwa mwakilishi wa kaya amekubali kujibu maswali ya moduli hii au la.\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.M0917
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs24 M0917. Le RESULTAT de l'Interview\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M092
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Num\'e9ro de m\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M093
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Num\'e9ro de ligne\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M096A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Ann\'e9e de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M096J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Jour de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M096M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 M016M: Mois de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M097
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Milieu\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M098
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Province\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M099H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 D\'e9but de l'interview - Heure\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M099M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 D\'e9but de l'interview - Minutes\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M09ADDR
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Adresse du M\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M09FIN
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs24 M09FIN.  Fin\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M09HINT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Code Enqu\'eateur\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.M09INT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs28 Num\'e9ro enqu\'eateur\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS01A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER1A. Selon vous, quelle est la\cf2  premi\'e8re cause \cf1 qui d\'e9termine la pauvret\'e9 ?\par
+FRA=\par
+FRA=Dans la modalit\'e9\cf3\i  \cf2\i0 10\cf3\i - La Baisse des revenus correspond \'e0 la baisse de salaire ou la hausse des prix des produits agricoles le salaire n'ayant augmenter de mani\'e8re proportionnelle\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER1A. Pona yo, \cf2 Eleko nini ya yambo\cf1  esalaka ete bobola ezala  ?\par
+LIN=\cf3\par
+LIN=\cf1 Na eyanoli \cf2 10- \cf3\i kokita ma makoki elakisi ete salaire ekiti to talo ya biloko na wenze emati mais salaire elandi te\cf1\i0\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER1A. Unadhani ni nini \cf2 sababu wa moja\cf1  ya umasikini?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS01B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 PER1B\b0 . \b\f1\fs29 Selon vous, quelle est la\cf2  deuxi\'e8me cause \cf1 qui d\'e9termine la pauvret\'e9 ?\par
+FRA=\cf3\f0 Un choix coch\'e9 dans la pr\'e9mi\'e8re question ne peut \'eatre une fois de plus coch\'e9 ici\par
+FRA=\cf1\f1\par
+FRA=Dans la modalit\'e9\cf3\i  \cf2\i0 10\cf3\i - La Baisse des revenus correspond \'e0 la baisse de salaire ou la hausse des prix des produits agricoles le salaire n'ayant augmenter de mani\'e8re proportionnelle\par
+FRA=\i0\f0\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER1B. Pona yo, \cf2 Eleko nini ya mibale\cf1  esalaka ete bobola ezala  ?\par
+LIN=\par
+LIN=\cf3 Okoki ko pona eloko moko te na motuna eza liboso na mituna elandi\par
+LIN=\cf1 Na eyanoli \cf2 10- \cf3\i kokita ma makoki elakisi ete salaire ekiti to talo ya biloko na wenze emati mais salaire elandi te\cf1\i0\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs24 PER1B. \b Unafikiria nini \cf2 ni sababu ya pili\cf1  ya umasikini ?\b0\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS01C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 PER1C\b0 . \b\f1\fs29 Selon vous, quelle est la\cf2  troisi\'e8me cause \cf1 qui d\'e9termine la pauvret\'e9 ?\par
+FRA=\cf3\f0 Un choix coch\'e9 dans la pr\'e9mi\'e8re et la deuxi\'e8me question ne peut \'eatre une fois de plus coch\'e9\par
+FRA=\cf1\f1\par
+FRA=Dans la modalit\'e9\cf3\i  \cf2\i0 10\cf3\i - La Baisse des revenus correspond \'e0 la baisse de salaire ou la hausse des prix des produits agricoles le salaire n'ayant augmenter de mani\'e8re proportionnelle\cf1\b0\i0\f0\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs24 PER1C.\b  Unafikiri nini \cf2 ni sababu ya tatu\cf1  ya umasikini?\b0\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs24 PERS1C. \fs28 Pona yo, \cf2 Eleko nini ya misatu\cf1  esalaka ete bobola ezala  ?\par
+LIN=\par
+LIN=\cf3\fs29 Okoki ko pona eloko moko te na mituna ya liboso na mibale eza liboso na mituna elandi\par
+LIN=\cf1 Na eyanoli \cf2 10- \cf3\i kokita ma makoki elakisi ete salaire ekiti to talo ya biloko na wenze emati mais salaire elandi te\cf1\i0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS02
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.10586}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs29 PER2. Pensez-vous que la R\'e9publique D\'e9mocratique du Congo est un pays pauvre ?\par
+FRA=\par
+FRA=\cf2\i SVP, veuillez renseigner la r\'e9ponse de l'individu et NON votre Propre perception de la situation du pays\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER2. Okanisi ete Democratiki ya  Congo ezali etuka moko mobola ?\par
+LIN=\par
+LIN=\cf2\i\fs29 Tozosenga ete okotisa EYANO ya moto azali liboso nayo kasi oyo yayo moko te\cf1\i0\fs29\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER2. Je! Unafikiria kuwa Jamhuri ya Kidemokrasia ya Kongo ni nchi maskini?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS03
+Condition=M097=1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER3. Pensez-vous que les gens de votre quartier ou village sont pauvres ?\par
+FRA=\par
+FRA=\cf2\i Si vous \'eates dans une zone urbaine de Kinshasa dite QUARTIER\par
+FRA=Si vous \'eates dans un village de la commune de Maluku de Kinshasa dite VILLAGE\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER3. Unafikiria watu katika jirani yako au kijiji ni maskini?\par
+SWA=\cf2\b0 Ikiwa uko katika eneo la mijini la Kinshasa inayojulikana kama Quartier\cf1\b\par
+SWA=\cf2\b0 Ikiwa uko katika kijiji katika manispaa ya Maluku huko Kinshasa iitwayo KIJIJI\par
+SWA=\cf1\f1\fs24\par
+SWA=\b\f0\fs29\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER3. Okanisi ete batu ya quartier to ya mboka nayo  bazali babola ?\par
+LIN=\par
+LIN=\cf2 Soki ozali na etuka ya Kinshasa loba\cf1  \cf2 Quartier\cf1\par
+LIN=\cf2 Soki \i ozali na mboka ya commune maluku na etuka Kinshasa, Loba mboka\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS03
+Condition=M097=2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER3. Pensez-vous que les gens de votre quartier ou village sont pauvres ?\par
+FRA=\cf2\i Comme vous \'eates dans un village de la commune de Maluku de Kinshasa dite VILLAGE\cf1\b0\i0\f1\fs24\par
+FRA=\b\f0\fs29\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER3. Okanisi ete batu ya quartier to ya mboka nayo  bazali babola ?\par
+LIN=\cf2\i Ndenge ozali na mboka ya commune maluku na etuka Kinshasa, Loba mboka\par
+LIN=\cf1\b0\i0\f1\fs24\par
+LIN=\b\f0\fs29\par
+LIN=\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS04A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER4A. Quelle est, selon vous,\cf2\b0  \b la 1\'e8re action prioritaire\cf1  que le Gouvernement peut r\'e9aliser pour am\'e9liorer les conditions de vie de votre m\'e9nage ?\cf3\f1\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER4A. Je! Unafikiri ni \cf2 hatua ya kwanza\cf1  ya kipaumbele ambayo Serikali inaweza kuchukua ili kuboresha mazingira ya maisha ya kaya yako?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER4A. Pona yo, \cf2 Eloko nini ya liboso\cf1  bulamantari akoki kosala pona kobongisa kozala ya bana ya mboka?\cf3\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS04B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER4B. Quelle est, selon vous,\cf2\b0  \b la 2\'e8me action prioritaire\cf1  que le Gouvernement peut r\'e9aliser pour am\'e9liorer les conditions de vie de votre m\'e9nage ?\par
+FRA=\par
+FRA=\cf3\f1 Un choix coch\'e9 dans la pr\'e9mi\'e8re question ne peut \'eatre une fois de plus coch\'e9\cf1\b0\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER4B.. Pona yo, \cf2 Eloko nini ya Mibale\cf1  bulamantari akoki kosala pona kobongisa kozala ya bana ya mboka?\par
+LIN=\par
+LIN=\cf3 Okoki ko pona eloko moko te na motuna PERS04A\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER4B. Je! Unafikiri ni \cf2 hatua ya kwanza\cf1  ya kipaumbele ambayo Serikali inaweza kuchukua ili kuboresha mazingira ya maisha ya kaya yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS04C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER4C.\b0\f1\fs24  \b\f0\fs29 Quelle est, selon vous,\cf2\b0  \b la 3\'e8me action prioritaire\cf1  que le Gouvernement peut r\'e9aliser pour am\'e9liorer les conditions de vie de votre m\'e9nage ?\par
+FRA=\par
+FRA=\cf3\f1 Un choix coch\'e9 dans la pr\'e9mi\'e8re et la deuxi\'e8me question ne peut \'eatre une fois de plus coch\'e9\cf1\b0\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER4C. Pona yo, \cf2 Eloko nini ya Misatu\cf1  bulamantari akoki kosala pona kobongisa kozala ya bana ya mboka?\par
+LIN=\par
+LIN=\cf3 Okoki ko pona eloko moko te na motuna PERS04A  na PERS04B\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER4C. Je! Unafikiri ni \cf2 hatua ya kwanza\cf1  ya kipaumbele ambayo Serikali inaweza kuchukua ili kuboresha mazingira ya maisha ya kaya yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS05A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER5A. Si votre m\'e9nage traverse une p\'e9riode difficile, est ce que \cf2 votre Famille (\'e9largie)\cf1   peut r\'e9ellement vous venir en aide\~?\par
+FRA=\par
+FRA=\cf3 Il s'agit de savoir si le m\'e9nage obtient toute sorte d'aide venant des membres de la famile \'e9largie lorsqu'il en a vraiment besoin, alors il peut \'eatre n\'e9cessaire de donner un exemple d'aide tel que : Remise des vivres\cf1\b0\f1\fs24\par
+FRA=\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER5A. Ikiwa nyumba yako inakabiliwa na wakati mgumu, \cf2 ni Familia (kupanuliwa)\cf1  banayeweza kukusaidia?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER5A. Soki ndaku na bino ezoleka ba moment ya pasi, botalelaka\cf2  Libota na bino mobimba \cf1 pona asunga bino ?\par
+LIN=\par
+LIN=\cf3 Tozakolinga koyeba soki ndaku ezwaka lisungi ewuti na libota mobimba na tango aza nango posa, ekoki kosenga opesa litalisi neti : Lisungi na biloko ya kolia\cf1\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS05B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER5B. Si votre m\'e9nage traverse une p\'e9riode difficile, est ce que \cf2 votre Voisinage  \cf1 peut r\'e9ellement vous venir en aide\~?\par
+FRA=\par
+FRA=\cf3 Il s'agit de savoir si le m\'e9nage obtient toute sorte d'aide venant de ses voisins \'e9largie lorsqu'il en a vraiment besoin, alors il peut \'eatre n\'e9cessaire de donner un exemple d'aide tel que : partage de la nourriture\cf1\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER5B. Ikiwa nyumba yako inakabiliwa na wakati mgumu, \cf2 ni jirani \cf1 banayeweza kukusaidia?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER5B. Soki ndaku na bino ezoleka ba moment ya pasi, botalelaka\cf2  Ba voisins \cf1 po basunga bino ?\par
+LIN=\par
+LIN=\cf3 Tozakolinga koyeba soki ndaku ezwaka lisungi ewuti na batu bazali zinga zinga naye na tango azalaka na posa, ekoki kosenga opesa litalisi neti : Lisungi na biloko ya kolia na mokolo\cf1\par
+LIN=\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS05C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER5C. Si votre m\'e9nage traverse une p\'e9riode difficile, est ce que vos \cf2 Amis et relations \cf1 peuvent r\'e9ellement vous venir en aide\~?\par
+FRA=\f1\fs24\par
+FRA=\cf3\f0\fs29 Il s'agit de savoir si le m\'e9nage obtient toute sorte d'aide venant des amis et relations lorsqu'il en a vraiment besoin, alors il peut \'eatre n\'e9cessaire de donner un exemple d'aide tel que : Remise d'une somme somme d'argent\cf1\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER5C. Soki ndaku na bino ezoleka ba moment ya pasi, botalelaka\cf2  Baninga to ba r\'e9lations mususu \cf1 po basunga bino ?\par
+LIN=\par
+LIN=\cf3 Tozakolinga koyeba soki ndaku ezwaka lisungi ewuti na Baninga to ba r\'e9lations mususu na tango azalaka na posa, ekoki kosenga opesa litalisi neti : Lisungi na mwa mbongo\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER5C. Ikiwa nyumba yako inakabiliwa na wakati mgumu, \cf2 Marafiki na mahusiano \cf1 banayeweza kukusaidia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS05D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER5D. Si votre m\'e9nage traverse une p\'e9riode difficile, est ce que les \cf2 Associations religieuses  \cf1 peuvent r\'e9ellement vous venir en aide\~?\par
+FRA=\f1\fs24\par
+FRA=\cf3\f0\fs29 Il s'agit de savoir si le m\'e9nage obtient toute sorte d'aide venant des associations religieuses lorsqu'il en a vraiment besoin, alors il peut \'eatre n\'e9cessaire de donner un exemple d'aide tel que : le Reconfort\cf1\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER5D. Soki ndaku na bino ezoleka ba moment ya pasi, botalelaka\cf2  Masangani ya Ndaku ya Nzambe \cf1 po basunga bino ?\par
+LIN=\par
+LIN=\cf3 Tozakolinga koyeba soki ndaku ezwaka lisungi ewuti na Masangani ya Ndaku ya Nzambe na tango azalaka na posa, ekoki kosenga opesa litalisi neti : Koya kotala bino pe kolendisa\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER5D. Ikiwa nyumba yako inakabiliwa na wakati mgumu, \cf2 Chama cha kidini \cf1 banayeweza kukusaidia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS05E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER5E. Si votre m\'e9nage traverse une p\'e9riode difficile, est ce que les \cf2 ONG \cf1 peuvent r\'e9ellement vous venir en aide\~?\par
+FRA=\f1\fs24\par
+FRA=\cf3\f0\fs29 Il s'agit de savoir si le m\'e9nage obtient toute sorte d'aide venant des \cf2 ONG\cf3  lorsqu'il en a vraiment besoin, alors il peut \'eatre n\'e9cessaire de donner un exemple d'aide tel que : Remise des produits pharmaceutiques\cf2\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER5E. Soki ndaku na bino ezoleka ba moment ya pasi, botalelaka\cf2  ONG \cf1 po asunga bino ?\par
+LIN=\par
+LIN=\cf3 Tozakolinga koyeba soki ndaku ezwaka lisungi ewuti na Masangani ya Ndaku ya Nzambe na tango azalaka na posa, ekoki kosenga opesa litalisi neti : Lisungi na ba kisi ya bokono\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER5E. Ikiwa nyumba yako inakabiliwa na wakati mgumu, \cf2 ONG \cf1 anayeweza kukusaidia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS05F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER5F.\b0\f1\fs24  \b\f0\fs29 Si votre m\'e9nage traverse une p\'e9riode difficile, est ce que d'\cf2\f1\fs28 Autres organisations\f0\fs29  \cf1 peuvent r\'e9ellement vous venir en aide\~?\par
+FRA=\f1\fs24\par
+FRA=\cf3\f0\fs29 Il s'agit de savoir si le m\'e9nage obtient toute sorte d'aide venant d'\f1\fs28 autres organisations\f0\fs29  lorsqu'il en a vraiment besoin, alors il peut \'eatre n\'e9cessaire de donner un exemple d'aide tel que : Remise des produits pharmaceutiques\cf1\b0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER5F. Soki ndaku na bino ezoleka ba moment ya pasi, botalelaka\cf2  ba Organisations misusu \cf1 po basunga bino ?\par
+LIN=\par
+LIN=\cf3 Tozakolinga koyeba soki ndaku ezwaka lisungi ewuti na Masangani ya Ndaku ya Nzambe na tango azalaka na posa, ekoki kosenga opesa litalisi neti : Lisungi na ba kisi ya bokono\cf1\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER5F. Ikiwa nyumba yako inakabiliwa na wakati mgumu, ni \cf2 shiriki lingine \cf1 banayeweza kukusaidia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS08A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER8A. Selon vous, quel est le montant minimum de revenu mensuel  pouvant permettre \'e0 \cf2 un adulte de 15 ans et +\cf1   de  votre m\'e9nage de vivre sans difficult\'e9s?                         \par
+FRA=\cf3\i Inscrivez le montant en FC\cf1\i0\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER8A.  Pona na bino, talo ya moke ya mbongo nionso oyo \cf2 mutu ya 15 ans et +\cf1  na ndaku oyo akoki kozwa na sanza moko pona avivre malamu eza boni? (Pesa na FC)\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER8A. Kwa maoni yako, ni kiasi gani cha chini cha kipato cha kila mwezi ambacho kinaweza kuruhusu mtu mzima \cf2 mwenye umri wa miaka 15\cf1  katika nyumba yako kuishi bila shida? (Ingiza kiasi katika FC)\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS08B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 PER8B. \f1\fs29 Selon vous, quel est le montant minimum de revenu mensuel  pouvant permettre \'e0 \cf2 TOUT\cf1   votre m\'e9nage de vivre sans difficult\'e9s?                         \par
+FRA=\cf3\i Inscrivez le montant en FC\cf1\i0\f0\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER8A.  Pona na bino, talo ya moke ya mbongo nionso oyo \cf2 ekoki ko koka na ndaku na bino mobimba\cf1  pona avivre malamu na sanza moko eza boni? (Pesa na FC)\f1\fs24\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER8B. Kwa maoni yako, ni kiasi gani cha chini cha kipato cha kila mwezi ambacho kinaweza kuruhusu\cf2  kaya yako yote katika\cf1  kaya yako kuishi bila shida? (Ingiza kiasi katika FC)\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS09
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER9. Etant donn\'e9 votre revenu, comment vivez-vous\~?\par
+FRA=\par
+FRA=\cf2\f1 Il s'agit  de savoir avec toutes les ressources dont dispose le m\'e9nage actuellement, comment il estime son niveau de vie\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER9. Kutokana na mapato yako, unaishije?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER9. Kotalela mbongo nionso okoki kozwa na sanza moko, ndenge nini o vivaka ?\par
+LIN=\par
+LIN=\cf2\i\fs29 Awa etaleli oyo nionso ndaku amonanaka na yango ndeti makoki, azo banza nini na lolenge naye ko vivre ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER10. Si l\rquote on vous demande de classer les m\'e9nages en \cf2 tr\'e8s pauvre, pauvre, ni pauvre ni  riche,\cf1  o\'f9 placeriez-vous votre m\'e9nage\f1\fs24  ?\par
+FRA=\cf3\fs29\par
+FRA=Il s'agit ici aussi  de savoir avec toutes les ressources dont dispose le m\'e9nage actuellement, comment il classe son menage par rapport \'e0 son niveau de vie\cf1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER10. Ikiwa unatakiwa kugawa kaya kama maskini, maskini, masikini au masikini, ungeweka wapi nyumba yako?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER10. Soki tosengi o landisa mabota kobanda na \cf2 Pauvre makasi, Pauvre, pauvre te riche pe te\cf1 . Epa wapi okotia ndaku nayo\par
+LIN=\cf3\i\par
+LIN=Awa pe etaleli oyo nionso ndaku amonanaka na yango ndeti makoki, azo komitia na esika nini na kotala lolenge naye ko vivre ?\cf1\i0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER11. Quelle est votre situation financi\'e8re actuelle de votre m\'e9nage\~?\par
+FRA=\par
+FRA=\cf2\i Il s'agit de conna\'eetre l\rquote\'e9tat des lieux de la situation du m\'e9nage d\rquote une mani\'e8re g\'e9n\'e9rale et au moment de votre passage, \'e0 cela posez les questions de la mani\'e8re suivante: \par
+FRA=A- Avec ce que gagne le menage, cela lui permet de ne manquer de rien ?\par
+FRA=B- Et  est-ce que vous arrivez \'e0 mettre de l'argent de c\'f4t\'e9? et dans quelle mesure ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER11. Lelo oyo situation financi\'e8re ya ndaku nayo ezali ndenge nini?\par
+LIN=\par
+LIN=\cf2\i Awa pe etaleli koyeba ndenge ndaku amonanaka na na kotalela makoki naye na ngonga oyo toleki\par
+LIN=Na yango, tuna mwa miyuna neti : \par
+LIN=A- Na oyo ndaku amonanaka na yango neti makoki esalaka ete azala na biloko esengeli na ye ?\par
+LIN=B- pe ekomaka ete abomba mwa mbongo mupanzi ? na lolenge nini ?\par
+LIN=\cf1\i0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER12. Suivez-vous les informations (les nouvelles)\~?\par
+FRA=\par
+FRA=\cf2\i Si l'individu dit \cf3\b0\i0 "\cf2\b\i Oui\cf3\b0\i0 "\cf2 ,\cf3  \cf2\b demander si c'est de fa\'e7on r\'e9guli\'e8re ou ou quelques fois?\par
+FRA=\i Si l'individu dit \cf3\b0\i0 "\cf2\b\i Non\cf3\b0\i0 "\cf2 ,\b  demander pour quelle raison ?\par
+FRA=Et relativement \'e0 la raison avanc\'e9e, v\'e9rifiez si le m\'e9nage n'a pas d\'e9clar\'e9 avoir des actifs m\'e9nagers en bon  \'e9tat ou ne dispose pas de revenu\i\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER12.  Olandaka ba informations ?\par
+LIN=\par
+LIN=\cf2\i Soki mutu ayanoli \cf3\b0\i0 "\cf2\b\i Oui\cf3\b0\i0 "\cf2 ,\b  tuna soki ezalaka mikolo nionso to ya mbala moko moko?\par
+LIN=\i Soki mutu ayanoli \cf3\b0\i0 "\cf2\b\i Te\cf3\b0\i0 "\cf2 ,\b  tuna po nini?\par
+LIN=Na kotalela eyano akopesa, tala soki ndako ezalaka na biloko ya ndako neti radio to TV te pe soki azalaka na lifuti ata moko te\cf1\f1\fs24\par
+LIN=\f0\fs29\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS13A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER13A. Combien de fois, entre \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29 , votre m\'e9nage a-t-il \'e9t\'e9 priv\'e9 d'\cf2 Eau\cf1  pour non-paiement des factures?\f1\fs24\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER13A. Mbala boni, wuta \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  eleki, ndaku nayo ezangaki ko futa ba facture ya \cf2 Mayi\cf1 ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER13A. Mara ngapi miezi 12 iliyopita familia yako imepunguzwa [jina la huduma] kwa ajili ya malipo yasiyo ya bili ya \cf2 Maji \cf1 ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS13B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER13B. Combien de fois, de \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29 , votre m\'e9nage a-t-il \'e9t\'e9 priv\'e9 d'\cf2 Electricit\'e9\cf1  pour non-paiement des factures?\cf3\f1\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER13B. Mbala boni, wuta \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  eleki, ndaku nayo ezangaki ko futa ba facture ya \cf2 Courant to lotiliki \cf1 ?\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER13B. Mara ngapi miezi 12 iliyopita familia yako imepunguzwa [jina la huduma] kwa ajili ya malipo yasiyo ya bili ya \cf2 Umeme \cf1 ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS13C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER13C. Combien de fois, de \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29 , votre m\'e9nage a-t-il \'e9t\'e9 priv\'e9 de \cf2 T\'e9l\'e9phone fixe\cf1  pour non-paiement des factures?\par
+FRA=\cf3 NB. Rassurez-vous que le m\'e9nage a un t\'e9l\'e9phone fixe\cf1\par
+FRA=\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER13C. Mara ngapi miezi 12 iliyopita familia yako imepunguzwa [jina la huduma] kwa ajili ya malipo yasiyo ya bili ya \cf2 Simu \cf1 ?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER13C. Mbala boni, wuta \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  eleki, ndaku nayo ezangaki ko futa ba facture ya \cf2 T\'e9l\'e9phone fixe\cf1 ?\par
+LIN=\par
+LIN=\cf3 NB. Mindimisama ete na ndako ozali, t\'e9l\'e9phone ya fixe ezali\cf1\par
+LIN=\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER14. Combien de fois, de \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29 , y a-t-il eu un enfant de votre m\'e9nage exclu de l'\'e9cole pour non-paiement de la scolarit\'e9?\par
+FRA=\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER14. Mara ngapi katika miezi 12 iliyopita ulikuwa na mtoto katika kaya yako ambaye alitolewa shuleni kwa ajili ya kulipa ada za shule?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER14. Mbala boni, kobanda \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  eleki, mwana moko ya ndaku oyo babenganaki ye na kelasi pona kozanga kofuta  mbongo ya kelasi?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER15. De \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29 , combien de mois d'arri\'e9r\'e9s de loyer avez-vous acumul\'e9?\cf3\f1\fs28\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER15. Katika miezi 12 iliyopita, ni miezi ngapi ya mapato ya kukodisha uliyokusanya ?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER15. Mbala boni, wuta \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  eleki, ba sanza boni bofandi kozanga kofuta ndako ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER16. Par rapport \'e0 l'ann\'e9e 2017 comment a \'e9volu\'e9 le niveau de vie de votre m\'e9nage ?\par
+FRA=\par
+FRA=\cf2\i Sur cette question, il s'agit dans ce module, de conna\'eetre l\rquote opinion du repr\'e9sentant du m\'e9nage sur la perception des conditions de vie \'e0 travers un certain nombre d\rquote informations\cf1\i0\f1\fs28\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER16. Na kotalela mbula 2017 ti na suka na yango, ndenge nini niveau de vie na bino ee \'e9volu\'e9 ?\par
+LIN=\par
+LIN=\cf2\i Na motuna oyo, etaleli eloko mutu azobanza na kotala condition de vie ya ndako\par
+LIN=\par
+LIN=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER16. Ikilinganishwa na mwaka wa 2015, hali ya maisha ya kaya yako imebadilika?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M09.PERS17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER17. Un membre de votre m\'e9nage \cf2 a-t-il eu \'e0 payer des frais non r\'e9glementaires\cf1  (en nature ou en esp\'e8ce) pour la scolarisation d\rquote un enfant,\~de \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  ?\par
+FRA=\par
+FRA=\cf3 Il s'agit des frais qui n'appara\'eetront pas dans la facture mais qui voui ont \'e9t\'e9 demand\'e9s pour faciliter certaines d\'e9marches de scolarisation de l'enfant\cf1\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER17. Je, mwanachama yeyote wa kaya yako alipaswa kulipa ada zisizo za kisheria (kwa aina au fedha) kwa ajili ya shule ya mtoto?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER17. Ekomaki \'e9t\'e9 Mutu moko ya ndaku \cf2 afuta na lolenge elongobani te, mbongo to biloko\cf1  pona kelasi ya mwana moko, wuta \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  eleki ?\par
+LIN=\par
+LIN=\cf3 Etaleli koyeba soki bafutaki mbongo moko boye kaka pona kosala kaka makambo ekende mbangu alors que eza nango important te pona classe ya mwana\cf1\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS18
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER18. Un membre de votre m\'e9nage a-t-il eu \'e0 \cf2 payer des frais non r\'e9glementaires\cf1  (en nature ou en esp\'e8ce) pour les soins m\'e9dicaux, de \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29\~?\par
+FRA=\par
+FRA=\cf3 Il s'agit des frais qui n'appara\'eetront pas dans la facture mais qui vous ont \'e9t\'e9 demand\'e9s pour faciliter certaines d\'e9marches des soins m\'e9dicaux\cf1\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER18. Je, mwanachama yeyote wa kaya yako alipaswa kulipa ada zisizo za udhibiti (kwa aina au kwa fedha) kwa ajili ya huduma za matibabu?\f1\fs24\par
+SWA=\f0\fs29\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER18. Ekomaki \'e9t\'e9 \cf2 Mutu moko ya ndaku afuta na lolenge elongobani te\cf1 , mbongo to biloko, pona bokono wuta \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  eleki ?\par
+LIN=\f1\fs24\par
+LIN=\cf3\f0\fs29 Etaleli koyeba soki bafutaki mbongo moko boye kaka pona kosala kaka makambo ekende mbangu alors que eza nango important te pona kosunga bokono\cf1\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS19
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER19. Un membre de votre m\'e9nage a-t-il eu \'e0 \cf2 payer des frais non r\'e9glementaires\cf1  (en nature ou en esp\'e8ce) pour tout autre service public (Justice, police, ...)\~de \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  ?\par
+FRA=\par
+FRA=\cf3 Il s'agit des frais qui n'appara\'eetront pas dans la facture mais qui voui ont \'e9t\'e9 demand\'e9s pour faciliter tout autre service public\cf1\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER19. Je, mwanachama yeyote wa kaya yako alipaswa kulipa ada isiyo ya udhibiti (kwa aina au kwa fedha) kwa huduma nyingine yoyote ya umma (Haki, Polisi, ...) ?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER19. Ekomaki \'e9t\'e9 \cf2 Mutu moko ya ndaku afuta na lolenge elongobani te, mbongo to biloko, pona misala nionso ya Leta\cf1  (Zuzi, Polici\'85) wuta \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29  eleki ?\par
+LIN=\par
+LIN=\cf3 Etaleli koyeba soki bafutaki mbongo moko boye kaka pona kosala kaka makambo ekende mbangu alors que eza nango important te pona misala mosusu ya mboka\cf1\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERS20
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER20. Un membre de votre \cf2 m\'e9nage a-t-il eu \'e0 payer volontairement des frais non r\'e9glementaires\cf1  (en nature ou en esp\'e8ce) \cf2 pour infractions au code de la route ou d\'e9fauts des pi\'e8ces de v\'e9hicules ou des pi\'e8ces personnelles \'e0 un agent de  l\rquote ordre\cf1 ,\~de \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29   ?\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER20. Je, mjumbe yeyote wa nyumba yako alitoa hiari yasiyo ya kisheria (kwa aina au kwa fedha) kwa ukiukwaji wa trafiki au sehemu za gari au sehemu za kibinafsi kwa afisa wa utekelezaji wa sheria ?\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER20. Ekomaki \'e9t\'e9 \cf2 Mutu moko ya ndaku afuta na bosepeli na ye moko\cf1 , \cf2 na lolenge elongobani te (mbongo to biloko), \cf1 pona ko buka mibeko na nzela to d\'e9fauts ya ba pi\'e8ces ya motuka to ba pi\'e8ces ya mutu ya mibeko wuta \cf2\f1\fs28 %douzdernmois%\cf1\f0\fs29 ?\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERSQ06
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER6. Comment vivez-vous par rapport \'e0 vos voisins ?\par
+FRA=\par
+FRA=\cf2\i il s'agit de la mani\'e8re dont le m\'e9nage se classe en fonction de son voisinage\cf1\i0\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER6. Je, unaishi kulinganisha na jirani zako?\par
+SWA=\cf2 Hii ndiyo jinsi kaya inavyohusiana na eneo lao\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER6. Omonaka ndenge nini kozala na bino na oyo ya ba voisins na bino ?\par
+LIN=\cf2\i\par
+LIN=Etaleli lolenge oyo ndaku ezo mitia na kotalela ba voisins na bango\cf1\i0\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.PERSQ07
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 PER7. Comment vivez-vous par rapport \'e0 vos parents ?\par
+FRA=\par
+FRA=\cf2\i il s'agit de savoir si le menage vit mieux en comparaison au menage de leur parent \'e0 l'\'e9poque\cf1\i0\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 PER7. Je, unafanana na wazazi wako?\par
+SWA=\cf2 Swali ni kama familia huishi bora kulinganisha na nyumba ya mzazi wao wakati huo\par
+SWA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 PER7. Omonaka ndenge nini kozala na bino na kotala oyo ya ba parents na yo ?\cf2\i\par
+LIN=Etaleli koyeba soki ndaku na bino ezali malamu na kotalela oyo ya ba parents na bango na kala\par
+LIN=}
+
+[QUESTION]
+Field=EPMU1M09.REPS09
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 REPS09. Qui est le r\'e9pondant \'e0 ce module ?\par
+FRA=\par
+FRA=\cf2\i C'est-\'e0-dire quel est le membre du m\'e9nage qui a donn\'e9 des r\'e9ponses dans ce module ?\par
+FRA=}
+LIN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LIN={\colortbl ;\red0\green0\blue0;}
+LIN={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LIN=\pard\cf1\b\f0\fs29 REPS09. Nani apesi biyano na mituna nionso eleki ?\par
+LIN=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS01A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER01A. Selon vous, quelles sont les trois principales causes qui d\'e9terminent la pauvret\'e9:\cf2  premi\'e8re cause\cf1 ?\par
+FRA=\par
+FRA=\cf3 (Lire les modalit\'e9s des r\'e9ponses)\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS01B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER01B. Selon vous, quelles sont les trois principales causes qui d\'e9terminent la pauvret\'e9:\cf2  deuxi\'e8me cause\cf1 ?\par
+FRA=\par
+FRA=\cf3 (Lire les modalit\'e9s des r\'e9ponses)\fs24\par
+FRA=\cf1\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS01C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER01C. Selon vous, quelles sont les trois principales causes qui d\'e9terminent la pauvret\'e9:\cf2  troisi\'e8me cause\cf1 ?\par
+FRA=\par
+FRA=\cf3 (Lire les modalit\'e9s des r\'e9ponses)\fs24\par
+FRA=\cf1\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS02
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER02. Pensez-vous que la R\'e9publique D\'e9mocratique du Congo est un pays pauvre ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS03
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER3. Pensez-vous que les gens de votre village/quartier sont pauvres ?\par
+FRA=\par
+FRA=\cf2 ( A pr\'e9ciser avec des sous questions)\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS04A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER04A. Quelles sont, selon vous, les trois actions prioritaires que le Gouvernement peut r\'e9aliser pour am\'e9liorer les conditions de vie de votre m\'e9nage ? \cf2 Action 1\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS04B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER04B. Quelles sont, selon vous, les trois actions prioritaires que le Gouvernement peut r\'e9aliser pour am\'e9liorer les conditions de vie de votre m\'e9nage ? \cf2 Action 2\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS04C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER04C. Quelles sont, selon vous, les trois actions prioritaires que le Gouvernement peut r\'e9aliser pour am\'e9liorer les conditions de vie de votre m\'e9nage ? \cf2 Action 3\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS05A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER05A. Si votre m\'e9nage traverse une p\'e9riode difficile, qui  peut r\'e9ellement vous venir en aide\~?  \cf2 Famille (\'e9largie)\cf1   \par
+FRA=\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS05B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER05B. Si votre m\'e9nage traverse une p\'e9riode difficile, qui  peut r\'e9ellement vous venir en aide\~?  \cf2  Voisinage\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS05C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER05C. Si votre m\'e9nage traverse une p\'e9riode difficile, qui  peut r\'e9ellement vous venir en aide\~?  \cf2  Amis et relations\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS05D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER05D. Si votre m\'e9nage traverse une p\'e9riode difficile, qui  peut r\'e9ellement vous venir en aide\~?  \cf2  Association religieuse \cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS05E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER05E. Si votre m\'e9nage traverse une p\'e9riode difficile, qui  peut r\'e9ellement vous venir en aide\~?  \cf2   ONG\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS05F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER05F. Si votre m\'e9nage traverse une p\'e9riode difficile, qui  peut r\'e9ellement vous venir en aide\~?  \cf2  Autres\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS08A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER8A. Selon vous, quel est le montant minimum de revenu  mensuel  n\'e9cessaire permettant  \'e0 votre m\'e9nage de vivre sans difficult\'e9s?    \cf2 Pour un adulte de 15 ans et + \cf1                     \par
+FRA=\par
+FRA=\cf3  (Inscrivez le montant en FC)\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS08B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER8A. Selon vous, quel est le montant minimum de revenu  mensuel  n\'e9cessaire permettant  \'e0 votre m\'e9nage de vivre sans difficult\'e9s?    \cf2 Pour tout votre m\'e9nage \cf1                     \par
+FRA=\par
+FRA=\cf3  (Inscrivez le montant en FC)\cf1\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS09
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER9. Etant donn\'e9 votre revenu, comment vivez-vous\~?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER10. Si l\rquote on vous demande de classer les m\'e9nages en tr\'e8s pauvre, pauvre, ni pauvre ni  riche, o\'f9 placeriez-vous votre m\'e9nage ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER11. Quelle est la situation financi\'e8re actuelle de votre m\'e9nage\~?\par
+FRA=\par
+FRA=\cf2 (Creuser avec des sous questions)\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER12. Suivez-vous les informations (les nouvelles)\~?\par
+FRA=\par
+FRA=\cf2 ( posez des sous questions pour pr\'e9ciser)\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS13A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER13A. Combien de fois, au cours des 12 derniers mois, votre m\'e9nage a-t-il \'e9t\'e9 priv\'e9 d'\cf2 Eau\cf1  pour non-paiement des factures?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS13B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER13B. Combien de fois, au cours des 12 derniers mois, votre m\'e9nage a-t-il \'e9t\'e9 priv\'e9 d'\cf2 Electricit\'e9\cf1  pour non-paiement des factures?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS13C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER13C. Combien de fois, au cours des 12 derniers mois, votre m\'e9nage a-t-il \'e9t\'e9 priv\'e9 de service de \cf2 T\'e9l\'e9phone\cf1  pour non-paiement des factures?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER14. Combien de fois, au cours des 12 derniers mois, y a-t-il eu un enfant de votre m\'e9nage exclu de l'\'e9cole pour non-paiement de la scolarit\'e9?\par
+FRA=\par
+FRA=\cf2 98 = Pas d'enfant \'e0 l'\'e9cole\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER15. Au cours des 12 derniers mois, combien de mois d'arri\'e9r\'e9s de loyer avez-vous acumul\'e9?\par
+FRA=\par
+FRA=\cf2 98 = Ne loue pas\cf1\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER16. Par rapport \'e0 l'ann\'e9e 2015 comment a \'e9volu\'e9 le niveau de vie de votre m\'e9nage ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER17. Un membre de votre m\'e9nage a-t-il eu \'e0 payer des frais non r\'e9glementaires (en nature ou en esp\'e8ce) pour la scolarisation d\rquote un enfant\~?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS18
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER18. Un membre de votre m\'e9nage a-t-il eu \'e0 payer des frais non r\'e9glementaires (en nature ou en esp\'e8ce) pour les soins m\'e9dicaux\~?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS19
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER19. Un membre de votre m\'e9nage a-t-il eu \'e0 payer des frais non r\'e9glementaires (en nature ou en esp\'e8ce) pour tout autre service public (Justice, police, .)\~?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERS20
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER20. Un membre de votre m\'e9nage a-t-il eu \'e0 payer volontairement des frais non r\'e9glementaires (en nature ou en esp\'e8ce) pour infractions au code de la route ou d\'e9fauts des pi\'e8ces de v\'e9hicules ou des pi\'e8ces personnelles \'e0 un agent de  l\rquote ordre\~?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERSQ06
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER06. Comment vivez-vous par rapport \'e0 vos voisins ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_09_DICT.PERSQ07
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs28 PER7. Comment vivez-vous par rapport \'e0 vos parents ?\par
+FRA=}
+

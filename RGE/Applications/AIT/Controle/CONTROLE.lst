@@ -1,0 +1,27 @@
+﻿Application     C:\RDCRGE\Applications\AIT\Controle\CONTROLE.bch
+Type            BATCH
+Input Data      <<Empty>>                                                                                                                                                                                                                                                                                                   
+<File>          htmlTemp=
+
+Date            Apr 10, 2020
+Start Time      10:10:06
+End Time        10:10:06
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |       0 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |          0   |          0   |          0  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

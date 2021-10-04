@@ -1,0 +1,19 @@
+﻿[Run Information]
+Version=CSPro 6.3
+AppType=Batch
+
+[Files]
+Application=.\Module_Menage.bch
+InputData=..\..\..\SuiviTerrain\DataConcat\MENAGE.dat
+OutputData=.\|NONE
+Listing=.\Module_Menage.lst
+
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+INPUTORDER=Sequential
+

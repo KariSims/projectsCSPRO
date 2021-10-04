@@ -1,0 +1,379 @@
+﻿	/* ---- Règles de base ---- */ 					
+	html {					
+		color: #444444;				
+		font-family: 'Segoe UI', Arial, Verdana, sans-serif;				
+		font-size: .9em;				
+		-moz-background-image: url('../img/drapeaurdc.jpg');				
+		-webkit-background-image: url('../img/drapeaurdc.jpg');				
+		-o-background-image: url('../img/drapeaurdc.jpg');				
+		-ms-background-image: url('../img/drapeaurdc.jpg');				
+		-khtml-background-image: url('../img/drapeaurdc.jpg');				
+		background-image: url('../img/drapeaurdc.jpg');				
+		background-attachment: fixed;				
+		background-repeat: no-repeat;				
+		background-position: center top;				
+		background-size: cover;				
+	}					
+	h1 {					
+		color: darkblue;				
+		font-size: 2.5em;				
+		font-family: 'Segoe UI Light', 'Segoe UI', sans-serif;				
+		font-weight: bold;				
+		text-transform: uppercase;
+		text-align:center;				
+		margin: 0 0 .5em;				
+	}					
+	h2 {					
+		font-family: 'Segoe UI Light', 'Segoe UI', sans-serif;				
+		font-size: 2em;				
+		font-weight: 100;				
+		font-variant: small-caps;				
+		margin: 0;				
+	}	
+	h3 {					
+		color: green;				
+		font-size: 2.5em;				
+		font-family: 'Segoe UI Light', 'Segoe UI', sans-serif;				
+		font-weight: bold;				
+		text-align:center;				
+		margin: 0 0 .5em;				
+	}					
+	a {					
+		color:  inherit;				
+	}					
+						
+	a[href$='.pdf']{					
+			-moz-background-image: url('../img/pdf.jpg');			
+			-webkit-background-image: url('../img/pdf.jpg');			
+			-o-background-image: url('../img/pdf.jpg');			
+			-ms-background-image: url('../img/pdf.jpg');			
+			-khtml-background-image: url('../img/pdf.jpg');			
+		background-image: url('../img/pdf.jpg');				
+		background-size: contain;				
+		background-repeat: no-repeat;				
+		padding-left: 1.75em;				
+	}					
+	a[href$='.docx']{					
+		background-image: url('../img/word.jpg');				
+		background-size: contain;				
+		background-repeat: no-repeat;				
+		padding-left: 1.75em;				
+	}					
+						
+	a[href$='.jpg']{					
+			-moz-background-image: url('../img/jpg.jpg');			
+			-webkit-background-image: url('../img/jpg.jpg');			
+			-o-background-image: url('../img/jpg.jpg');			
+			-ms-background-image: url('../img/jpg.jpg');			
+			-khtml-background-image: url('../img/jpg.jpg');			
+		background-image: url('../img/jpg.jpg');				
+		background-size: contain;				
+		background-repeat: no-repeat;				
+		padding-left: 1.75em;				
+	}					
+						
+						
+	nav a {					
+		text-decoration: none;				
+	}					
+						
+	table, th, td {					
+	/*	border: 1px solid #444444; */				
+	}					
+						
+	img, video, audio, figure, form {					
+		max-width: 100%;				
+	}					
+						
+						
+	body {					
+		margin: auto;				
+		padding-bottom: 40px;				
+		max-width:1000px;				
+		background-color: rgba(255,255,255,.7);				
+	}					
+						
+	#entete {					
+		position: relative;				
+		/*height: 140px;*/				
+		height:auto;				
+	}					
+	#entete nav {					
+		position: absolute;				
+		bottom: 0;				
+		right: 0;				
+	}					
+	#colGauche {					
+		position: absolute;				
+		width: 160px;				
+	}					
+	#contenu {					
+		margin-left: 160px;				
+	}					
+	#pied {					
+		position: fixed;				
+		bottom: 0;				
+		width: 100%;
+	    height: 50px;	
+		max-width: 1000px;				
+		background-color: white;				
+	}					
+						
+	#partenaires {					
+	padding-top: 5px;					
+	align: center;					
+	text-align: center;					
+	}					
+	#nonDenombre {					
+		background-color:  #FCE0E0;						
+	}							
+						
+	#encoursDenombrement {						
+		background-color: #F4F9A4;						
+	}						
+						
+	#encoursModification {						
+		background-color: #E4EEFE;						
+	}						
+						
+	#denombre {						
+		background-color:#CAF285;						
+	}							
+						
+	/* ----- entete  ----- */					
+	header {					
+		background-color: #cccccc;				
+		/*background-image: url('../img/drapeaurdc.jpg'), linear-gradient(to bottom, #dddddd, #bbbbbb);*/				
+		background-repeat: no-repeat;				
+		background-position: right 28px top 28px, 0 0;				
+		background-size: 56px, cover;				
+		overflow: hidden;				
+	}					
+	header h1 {					
+		margin-left: 40px;				
+		margin-bottom: 0;				
+	}					
+						
+	}					
+	header h2 {					
+		font-size: 1.5em;				
+		margin-left: 40px;				
+	}					
+						
+	header nav {					
+		margin: 0 8px;				
+	}					
+						
+	header nav a {					
+		background-color: #eeeeee;				
+		border-left: 1px solid #cccccc;				
+		display: inline-block;				
+		padding: .2em 1em;				
+	}					
+	header nav a:first-child {					
+		border-left: none;				
+		border-radius: 8px 0 0 0;				
+	}					
+	header nav a:last-child {					
+		border-radius: 0 8px 0 0;				
+	}					
+	header nav a:hover {					
+		background-color: #aaaaaa;				
+	}					
+						
+						
+	/* ----- NAB ----- */					
+	 					
+	#menu-deroulant, #menu-deroulant ul {					
+	    padding: 0;					
+	    margin: 0;					
+	    list-style: none;					
+	}					
+	#menu-deroulant {					
+	 					
+	   background:black;					
+	   color:white;					
+	    					
+	}					
+	#menu-deroulant> li {					
+	 					
+	    display: inline-block;					
+	    margin:0px 19px;					
+	    padding:10px;					
+	}					
+	#menu-deroulant ul li {					
+	     					
+	    padding:10px;					
+	    background:black;					
+	    color:white;					
+	     					
+	}					
+	#menu-deroulant a {					
+	    text-decoration: none;					
+	    color:white;					
+	}					
+	#menu-deroulant ul {					
+	    position: absolute;					
+	    text-align:left;					
+	    margin:10px 0px 0px -14px ;					
+	 					
+	    display:none;					
+	     					
+	}					
+	#menu-deroulant li:hover ul {					
+	 					
+	    display:block;					
+	}					
+	 					
+	#menu-deroulant li:hover{					
+	    background:gray;					
+	     					
+	}					
+	/* ----- fable (class='fable') ----- */					
+						
+	/* ----- menu (class='menu') ----- */					
+						
+	.menu {					
+		background-color: #990000;				
+		color: #ffffff;				
+	}					
+						
+	.menu a { 					
+		display: block;				
+		padding: .5em 1em;				
+						
+	/*	border-bottom: 1px solid #cccccc;*/				
+		transition: background-color .4s;				
+	}					
+	.menu a:hover { 					
+		color: #990000;				
+		background-color: #eeeeee;				
+	}					
+						
+						
+	/* ----- tableau (class='mon-tableau') ----- */					
+						
+	.mon-tableau {					
+		border-collapse: collapse;				
+	}					
+						
+	.mon-tableau th, .mon-tableau td {					
+		padding: .5em 1em;				
+	}					
+						
+	.mon-tableau thead {					
+		background-color: #0088AA;				
+		background-image: linear-gradient(to bottom, #33aadd, #0088AA);				
+		color: #ffffff;				
+	}					
+	.mon-tableau tbody {					
+		border-bottom: 1px solid #999999;				
+	}					
+	.mon-tableau tbody tr:nth-child(odd) {					
+		background-color: #eeeeee;				
+						
+	}					
+	.mon-tableau tbody tr:nth-child(even) {					
+		background-color: #cccccc;				
+						
+	}					
+	.mon-tableau tbody td {					
+		border: 1px solid #999999;				
+		border-style: none solid;				
+	}					
+						
+	#table-denombation.mon-tableau tbody td:last-child {					
+		text-align: right;				
+		background-color: rgba(255,255,0,.5);				
+	}					
+						
+						
+	/* ----- pied (address) ----- */					
+						
+	footer address {					
+		padding: .5em 1em;				
+		text-align: center;				
+		font-style: normal;				
+	}					
+						
+						
+	/* ----- Présentation Adaptative ------ */					
+						
+	@media screen and (max-width: 720px) {					
+						
+		aside {				
+			display: none;			
+		}				
+						
+		#colGauche {				
+			position: static;			
+			width: auto;			
+		}				
+		#contenu {				
+			margin-left: 0;			
+		}				
+		body {				
+			padding-bottom: 0;			
+		}				
+		#pied {				
+			position: static;			
+		}				
+		.menu {				
+			text-align: center;			
+		}				
+		.menu a { 				
+			display: inline-block;			
+		}				
+						
+						
+	}					
+	/* ------- DIAB ---------*/					
+	.mymenu, .mymenu ul {					
+	    padding: 0;					
+	    margin: 0;					
+	    list-style: none;					
+	}					
+	.mymenu {					
+	/* on centre le menu dans la page */					
+	    text-align: right;					
+		border-bottom:3px solid white;				
+		line-height:28px;				
+		margin-right:8px;				
+		/*float:right;*/				
+	}					
+	.mymenu li {					
+	/* on place les liens du menu horizontalement */					
+	    display: inline-block;					
+		border-left:4px solid green;				
+	}					
+						
+	.mymenu ul li {					
+	/* on enlève ce comportement pour les liens du sous menu */					
+	    display: inherit;					
+		border-left:4px solid red;				
+	}					
+	.mymenu a {					
+	    text-decoration: none;					
+	    display: block;					
+		color:#000;				
+	}					
+	.mymenu a {					
+		background-color: #eeeeee;				
+		border-left: 1px solid #cccccc;				
+		display: inline-block;				
+		padding: .2em 1em;				
+	}					
+	.mymenu a:hover {					
+		background-color: #aaaaaa;				
+	}					
+	.mymenu ul {					
+	    position: absolute;					
+	/* on cache les sous menus complètement sur la gauche */					
+	    left: -999em;					
+	    text-align: left;					
+	    z-index: 1000;					
+	}					
+	.mymenu li:hover ul {					
+	/* Au survol des li du menu on replace les sous menus */					
+	    left: auto;					
+	}					

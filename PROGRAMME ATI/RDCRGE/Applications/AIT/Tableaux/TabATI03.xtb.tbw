@@ -1,0 +1,6550 @@
+﻿[TabSpecs]
+Version=CSPro 7.2
+Label=TabATI01
+Name=TABATI01_TF
+GenerateLogic=Yes
+InputDataFilename=E01101123206043001.csdb
+ 
+[Dictionaries]
+File=..\Controle\RGE.dcf
+[TabSetFormat]
+Name=TabSetFmt, default
+ThousandsSeparator=' '
+DecimalSeparator=','
+ZeroMask='-'
+ZeroRoundMask='*'
+Suppressed='SSS'
+DigitGrouping=Thousands
+ZeroBeforeDecimal=Yes
+ForeignKey='Frequency'
+ForeignKey='and'
+ForeignKey='to'
+ForeignKey='Total'
+ForeignKey='Standard Deviation'
+ForeignKey='by'
+ForeignKey='(Percents)'
+ForeignKey='Mean'
+ForeignKey='Maximum'
+ForeignKey='Table'
+ForeignKey='for'
+ForeignKey='Percentile'
+ForeignKey='Mode'
+ForeignKey='Minimum'
+ForeignKey='Proportion'
+ForeignKey='Median'
+ForeignKey='Variance'
+ForeignKey='Percent'
+ForeignKey='Undefined'
+ForeignKey='(Weighted)'
+ForeignKey='Cumulative'
+ForeignKey='<Value has no label>'
+ForeignKey='Number'
+TitleTemplate='Table %s.'
+Continuation=' (continued)'
+MeasurementSystem=MetricUnits
+
+[TableFormat]
+Name=TableFmt, default
+BorderLeft=None
+BorderTop=None
+BorderRight=None
+BorderBottom=None
+LeftLeadering=None
+RightLeadering=None
+ReaderBreak=None
+IncludeSubTitle=No
+IncludePageNote=No
+IncludeEndNote=No
+
+
+[TallyFormat]
+Name=RowTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Counts
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Counts
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 1
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 2
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 3
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 4
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 5
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 6
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 7
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 8
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 9
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 10
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 11
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 12
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 13
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 14
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 15
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 16
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 17
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 18
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 19
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 20
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 21
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 22
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 23
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 24
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 25
+[TallyStatistic]
+Type=Counts
+
+
+[TablePrintFormat]
+Name=TblPrintFmt, default
+TableLayout=LeftStandard
+PageBreakBeforeTable=Yes
+TblHorzCenter=No
+TblVertCenter=No
+PaperType=A4
+PageOrientation=Portrait
+PrinterDevice=Hewlett-Packard HP LaserJet P2035
+PrinterDriver=HP LaserJet P2035 Class Driver
+PrinterOutput=USB001
+MarginTop=2,54
+MarginBottom=2,54
+MarginLeft=2,54
+MarginRight=2,54
+HeaderFrequency=TopOfPage
+
+[DataCellFormat]
+Name=SpannerFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendIndentation=Yes
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=CaptionFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,32
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=StubFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendFont=Yes
+NumDecimals=Zero
+HideZeroRow=Yes
+
+[DataCellFormat]
+Name=DataCellFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=NotApplicable
+LineBottom=NotApplicable
+LineLeft=NotApplicable
+LineRight=NotApplicable
+Hidden=NotApplicable
+SpanCells=NotApplicable
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 1
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 1
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Le chiffre d’affaires hors taxes de l'entreprise
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 2
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 2
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=CA en %  du 1er Produit
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 3
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 3
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=CA en %  du 2ème Produit
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 4
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=CA en %  du 3ème Produit
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 5
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=CA en %  du 4ème Produit
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 6
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=CA en %  du 5ème Produit
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 4
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 5
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 6
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 7
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 7
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom= Janvier
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 8
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Fevrier
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 9
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom= Mars
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 10
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Avril
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 11
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Mai
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 12
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Juin
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 13
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Juillet
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 14
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Aout
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 15
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Septembre
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 16
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Octobre
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 17
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Novembre
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 18
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Décembre
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 8
+SpanCells=NotApplicable
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 9
+SpanCells=NotApplicable
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 19
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Recette mensuelle moyenne  en FC
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 20
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Recette mensuelle minimale en  FC
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 10
+SpanCells=NotApplicable
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 21
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Recette mensuelle maximale en FC
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 22
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Patente
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 23
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Taxe locale
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 24
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Taxe provinciale
+ExtendLines=Yes
+HideZeroRow=No
+
+[Format]
+Name=TitleFmt, default
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=SubTitleFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=StubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=None
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=SecondaryStubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=HeaderLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&F
+
+[Format]
+Name=HeaderCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=HeaderRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&D
+
+[Format]
+Name=FooterLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=FooterCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=- &P -
+
+[Format]
+Name=FooterRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=PageNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=EndNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=AreaCaption, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+ExtendLines=Yes
+
+[Format]
+Name=TitleFmt, 12
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 01. Répartition des entreprises recensées par Equipe selon le mode de tenue des comptes
+
+[Format]
+Name=TitleFmt, 13
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 02. Répartition des entreprises recensées par Equipe selon le chiffre d’affaires hors taxes réalisé en 2018
+
+[Format]
+Name=TitleFmt, 14
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 03. Répartition des entreprises recensées par Equipe selon la la valeur ajoutée  réalisée par l’entreprise au cours de l’exercice 2018
+
+[Format]
+Name=TitleFmt, 20
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 05. Répartition des entreprises recensées par Equipe selon le  CA en % du produit
+
+[Format]
+Name=TitleFmt, 21
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 06. Répartition des entreprises recensées par Equipe selon le rythme
+
+[Format]
+Name=TitleFmt, 22
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 07. Répartition des entreprises recensées par Equipe selon la recette mensuelle minimale
+
+[Format]
+Name=TitleFmt, 23
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 08. Répartition des entreprises recensées par Equipe selon la recette mensuelle moyenne
+
+[Format]
+Name=TitleFmt, 24
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 08. Répartition des entreprises recensées par Equipe selon la recette mensuelle maximale
+
+[Format]
+Name=TitleFmt, 25
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 09. Répartition des entreprises recensées par Equipe selonle type d'impot
+
+ 
+[Table]
+Name=TABLE01
+Num=12
+ 
+[Title]
+Label='Table 12. Equipe by Forme juridique de l’entreprise'
+Format=TitleFmt, 12
+GridViewSize=0,46,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,24,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CA1_VS1
+Label=Mode de tenue des comptes
+VarType=Dict
+ 
+[Value]
+Label=Comptabilité formelle OHADA
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=185,0,0,0,0,0
+ 
+[Value]
+Label=Comptabilité formelle autre que OHADA
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=243,0,0,0,0,0
+ 
+[Value]
+Label=Comptabilité non formelle (Utilisation des carnets, notes personnelles, etc.
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=444,0,0,0,0,0
+ 
+[Value]
+Label=Pas de comptabilité écrite
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=165,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+[UnitSpecs]
+[Unit]
+SubTable=Entire Table
+LoopingVarName=
+Weight=
+Value=
+Universe=
+TabLogic=EQUIPE = int(IDAR/10) ;
+[EndUnitSpecs]
+ 
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE01
+Size=61,5
+Row=,000000000  ,000000000  17,000000000  38,000000000  55,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  17,000000000  38,000000000  55,000000000
+ 
+[Table]
+Name=TABLE02
+Num=13
+ 
+[Title]
+Label='Table 13. Equipe by Effectif total du personnel permanent  decembre 2018, Effectif total du personnel permanent  (Femmes) decembre 2018, Effectif total du personnel permanent  (Hmmes) decembre 2018, Effectif du personnel permanent :RD Congo, Effectif du personnel permanent :RD Congo (Femmes), Effectif du personnel permanent :RD Congo (Hommes), Pays limitrophes, Pays limitrophes (Femmes), Pays limitrophes: (Hommes), Autres Africains, Autres Africains  (Femmes), Autres Africains (Hommes), Autres nationalités, Autres nationalités  (Femmes), Autres nationalités (Hommes), Total'
+Format=TitleFmt, 13
+GridViewSize=0,94,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,80,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CA2_2C_VS1
+Label=Le chiffre d’affaires hors taxes de l'entreprise converti en FC
+VarType=Dict
+Format=SpannerFmt, 1
+Format=ColumnTallyFmt, 1
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 1
+GridViewSize=231,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=266,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=186,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=3
+GridViewSize=233,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE02
+Size=61,4
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+ 
+[Table]
+Name=TABLE03
+Num=14
+ 
+[Title]
+Label='Table 14. Equipe'
+Format=TitleFmt, 14
+GridViewSize=0,80,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,64,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,20,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,20,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CA2_4C_VS1
+Label=La valeur ajoutée  réalisée par l’entreprise au cours de l’exercice 2018  converti en FC
+VarType=Dict
+Format=ColumnTallyFmt, 2
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 2
+GridViewSize=192,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=169,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=164,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=3
+GridViewSize=191,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE03
+Size=61,4
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+ 
+[Table]
+Name=TABLE09
+Num=20
+ 
+[Title]
+Label='Table 20. Equipe by CA en %  (1), CA en %  (2), CA en %   (3), CA en %  (4), CA en %  (5)'
+Format=TitleFmt, 20
+GridViewSize=0,171,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,32,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CA2_5D1_VS1
+Label=CA en %  (1)
+VarType=Dict
+Format=SpannerFmt, 2
+Format=ColumnTallyFmt, 3
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 3
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA2_5D2_VS1
+Label=CA en %  (2)
+VarType=Dict
+Format=SpannerFmt, 3
+Format=ColumnTallyFmt, 4
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 4
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA2_5D3_VS1
+Label=CA en %   (3)
+VarType=Dict
+Format=SpannerFmt, 4
+Format=ColumnTallyFmt, 5
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 5
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA2_5D4_VS1
+Label=CA en %  (4)
+VarType=Dict
+Format=SpannerFmt, 5
+Format=ColumnTallyFmt, 6
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 6
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA2_5D5_VS1
+Label=CA en %  (5)
+VarType=Dict
+Format=SpannerFmt, 6
+Format=ColumnTallyFmt, 7
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 7
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE09
+Size=61,15
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000  ,000000000  ,000000000  -,000000000
+ 
+[Table]
+Name=TABLE10
+Num=21
+ 
+[Title]
+Label='Table 21. Equipe by Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018  : Janvier, Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Fevrier'
+Format=TitleFmt, 21
+GridViewSize=0,37,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,32,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CA3_1_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018  : Janvier
+VarType=Dict
+Format=SpannerFmt, 7
+Format=ColumnTallyFmt, 8
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_2_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Fevrier
+VarType=Dict
+Format=SpannerFmt, 8
+Format=ColumnTallyFmt, 9
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_3_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018  : Mars
+VarType=Dict
+Format=SpannerFmt, 9
+Format=ColumnTallyFmt, 10
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_4_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Avril
+VarType=Dict
+Format=SpannerFmt, 10
+Format=ColumnTallyFmt, 11
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_5_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Mai
+VarType=Dict
+Format=SpannerFmt, 11
+Format=ColumnTallyFmt, 12
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_6_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Juin
+VarType=Dict
+Format=SpannerFmt, 12
+Format=ColumnTallyFmt, 13
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_7_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Juillet
+VarType=Dict
+Format=SpannerFmt, 13
+Format=ColumnTallyFmt, 14
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_8_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Aout
+VarType=Dict
+Format=SpannerFmt, 14
+Format=ColumnTallyFmt, 15
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_9_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Septembre
+VarType=Dict
+Format=SpannerFmt, 15
+Format=ColumnTallyFmt, 16
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_10_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Octobre
+VarType=Dict
+Format=SpannerFmt, 16
+Format=ColumnTallyFmt, 17
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_11_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Novembre
+VarType=Dict
+Format=SpannerFmt, 17
+Format=ColumnTallyFmt, 18
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA3_12_VS1
+Label=Quel a été le rythme de vos activités au cours des 12 mois de l’année 2018   : Décembre
+VarType=Dict
+Format=SpannerFmt, 18
+Format=ColumnTallyFmt, 19
+ 
+[Value]
+Label=Aucune activité
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=102,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Moyen
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Manquant
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE10
+Size=61,60
+Row=26,000000000  17,000000000  6,000000000  6,000000000  ,000000000  26,000000000  14,000000000  10,000000000  5,000000000  ,000000000  26,000000000  12,000000000  9,000000000
+Row=8,000000000  ,000000000  25,000000000  10,000000000  15,000000000  5,000000000  ,000000000  25,000000000  11,000000000  13,000000000  6,000000000  ,000000000  26,000000000  9,000000000
+Row=14,000000000  6,000000000  ,000000000  23,000000000  8,000000000  13,000000000  11,000000000  ,000000000  22,000000000  13,000000000  14,000000000  6,000000000  ,000000000
+Row=21,000000000  12,000000000  19,000000000  3,000000000  ,000000000  19,000000000  12,000000000  18,000000000  6,000000000  ,000000000  19,000000000  8,000000000  11,000000000
+Row=16,000000000  1,000000000  19,000000000  5,000000000  10,000000000  21,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=26,000000000  17,000000000  6,000000000  6,000000000  ,000000000  26,000000000  14,000000000  10,000000000  5,000000000  ,000000000  26,000000000  12,000000000  9,000000000
+Row=8,000000000  ,000000000  25,000000000  10,000000000  15,000000000  5,000000000  ,000000000  25,000000000  11,000000000  13,000000000  6,000000000  ,000000000  26,000000000  9,000000000
+Row=14,000000000  6,000000000  ,000000000  23,000000000  8,000000000  13,000000000  11,000000000  ,000000000  22,000000000  13,000000000  14,000000000  6,000000000  ,000000000
+Row=21,000000000  12,000000000  19,000000000  3,000000000  ,000000000  19,000000000  12,000000000  18,000000000  6,000000000  ,000000000  19,000000000  8,000000000  11,000000000
+Row=16,000000000  1,000000000  19,000000000  5,000000000  10,000000000  21,000000000  ,000000000
+ 
+[Table]
+Name=TABLE11
+Num=22
+ 
+[Title]
+Label='Table 22. Equipe by Recette mensuelle minimale en  converti en FC'
+Format=TitleFmt, 22
+GridViewSize=0,190,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,48,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CA4_2C_VS1
+Label=Recette mensuelle minimale en  converti en FC
+VarType=Dict
+Format=SpannerFmt, 20
+Format=ColumnTallyFmt, 20
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 8
+GridViewSize=168,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=146,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=170,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=3
+GridViewSize=173,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE11
+Size=61,4
+Row=447093,333333333  12000,000000000  1622000,000000000  15,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=447093,333333333  12000,000000000  1622000,000000000  15,000000000
+ 
+[Table]
+Name=TABLE12
+Num=23
+ 
+[Title]
+Label='Table 23. Equipe by Recette mensuelle moyenne  en  converti en FC'
+Format=TitleFmt, 23
+GridViewSize=0,71,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,48,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CA5_2C_VS1
+Label=Recette mensuelle moyenne  en  converti en FC
+VarType=Dict
+Format=SpannerFmt, 19
+Format=ColumnTallyFmt, 21
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 9
+GridViewSize=172,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=159,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=155,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=3
+GridViewSize=200,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE12
+Size=61,4
+Row=890690,625000000  18000,000000000  2757400,000000000  16,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=890690,625000000  18000,000000000  2757400,000000000  16,000000000
+ 
+[Table]
+Name=TABLE13
+Num=24
+ 
+[Title]
+Label='Table 24. Equipe by Recette mensuelle maximale  en  converti en FC'
+Format=TitleFmt, 24
+GridViewSize=0,84,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,48,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CA6_2C_VS1
+Label=Recette mensuelle maximale  en  converti en FC
+VarType=Dict
+Format=SpannerFmt, 21
+Format=ColumnTallyFmt, 22
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 10
+GridViewSize=258,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=178,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=185,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=3
+GridViewSize=241,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE13
+Size=61,4
+Row=1927308,666666667  126000,000000000  8110000,000000000  15,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=,000000000  ,000000000  -,000000000  ,000000000
+Row=1927308,666666667  126000,000000000  8110000,000000000  15,000000000
+ 
+[Table]
+Name=TABLE14
+Num=25
+ 
+[Title]
+Label='Table 25. Equipe by Quel type d’impôt votre entreprise paie-t-elle habituellement dans le cadre de ses activités ? Patente, Quel type d’impôt votre entreprise paie-t-elle habituellement dans le cadre de ses activités ? Taxe locale, Quel type d’impôt votre entreprise paie-t-elle habituellement dans le cadre de ses activités ? Taxe provinciale'
+Format=TitleFmt, 25
+GridViewSize=0,87,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,64,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CA7_1_VS1
+Label=Quel type d’impôt votre entreprise paie-t-elle habituellement dans le cadre de ses activités ? Patente
+VarType=Dict
+Format=SpannerFmt, 22
+Format=ColumnTallyFmt, 23
+ 
+[Value]
+Label=Oui
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Non
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA7_2_VS1
+Label=Quel type d’impôt votre entreprise paie-t-elle habituellement dans le cadre de ses activités ? Taxe locale
+VarType=Dict
+Format=SpannerFmt, 23
+Format=ColumnTallyFmt, 24
+ 
+[Value]
+Label=Oui
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Non
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=CA7_3_VS1
+Label=Quel type d’impôt votre entreprise paie-t-elle habituellement dans le cadre de ses activités ? Taxe provinciale
+VarType=Dict
+Format=SpannerFmt, 24
+Format=ColumnTallyFmt, 25
+ 
+[Value]
+Label=Oui
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Non
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE14
+Size=61,6
+Row=20,000000000  35,000000000  17,000000000  38,000000000  18,000000000  37,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=20,000000000  35,000000000  17,000000000  38,000000000  18,000000000  37,000000000
+ 
+[Level]
+Table=TABLE01
+Table=TABLE02
+Table=TABLE03
+Table=TABLE09
+Table=TABLE10
+Table=TABLE11
+Table=TABLE12
+Table=TABLE13
+Table=TABLE14

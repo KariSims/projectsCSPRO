@@ -1,0 +1,29 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=SAISIEHH
+Name=SAISIEHH
+AppType=DataEntry
+OperatorID=No
+PartialSave=Yes
+CAPI=Yes
+CAPIFont1=-021 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+CAPIFont2=-019 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+[External Dictionaries]
+File=..\Dicts\Clusters.dcf
+File=..\Dicts\Tasks.dcf
+[AppCode]
+File=.\SaisieHH.ent.apc
+Include=..\Common\GlobalVars.apc
+Include=..\Common\CommandWrappers.apc
+[Message]
+File=.\SaisieHH.ent.mgf
+[Help]
+File=.\SaisieHH.ent.qsf
+[Forms]
+File=.\SaisieHH.fmf
+[Dictionary Types]
+Dict-Type=..\Dicts\EPMU1HH.dcf,Input,.\SaisieHH.fmf
+Dict-Type=..\Dicts\Clusters.dcf,External
+Dict-Type=..\Dicts\Tasks.dcf,External

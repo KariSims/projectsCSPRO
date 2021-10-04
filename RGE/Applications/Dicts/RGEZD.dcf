@@ -1,0 +1,528 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=RGEZD Questionnaire ZD
+Name=RGEZD
+RecordTypeStart=19
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=No
+
+[Languages]
+FRA=Français
+LING=Lingala
+SWA=Swahili
+
+[Level]
+Label=Zone de dénombrement
+Name=ZD
+
+[IdItems]
+
+[Item]
+Label=Province
+Name=ZD01
+Start=1
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Ville
+Name=ZD02
+Start=3
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Secteur
+Name=ZD03
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Quartier
+Name=ZD04
+Start=9
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de la ZD
+Name=ZD1
+Start=12
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de la ZD
+Name=ZD1_VS1
+Value=1:800
+
+[Item]
+Label=Numéro de l'agent récenseur
+Name=ZDINT
+Start=15
+Len=4
+ZeroFill=Yes
+
+[Record]
+Label=PANNEAU D'INFORMATIONS
+Name=ZDPINF
+RecordTypeValue='ZDP'
+RecordLen=173
+
+[Item]
+Label=Date du debut de la collecte
+Name=ZDPI01
+Start=22
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour  du debut de la collecte
+Name=ZDPI01J
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour  du debut de la collecte
+Name=ZDPI01J_VS1
+Value=1:31
+
+[Item]
+Label=Mois  du debut de la collecte
+Name=ZDPI01M
+Start=24
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois  du debut de la collecte
+Name=ZDPI01M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année  du debut de la collecte
+Name=ZDPI01A
+Start=26
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année  du debut de la collecte
+Name=ZDPI01A_VS1
+Value=2019:2020
+
+[Item]
+Label=Résultat
+Name=ZDPI02
+Start=30
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Résultat
+Name=ZDPI02_VS1
+Value=1;COMPLET|MOBIMBA
+Value=2;EN COURS
+
+[Item]
+Label=Nombre d'unités économiques
+Name=ZDPI03
+Start=32
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre d'unités économiques
+Name=ZDPI03_VS1
+Value=1:99
+
+[Item]
+Label=Nombre d'unités économiques  denombrées
+Name=ZDPI04
+Start=34
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre d'unités économiques  denombrées
+Name=ZDPI04_VS1
+Value=0:99
+
+[Item]
+Label=Terminé
+Name=ZDPI05
+Start=36
+Len=1
+
+[ValueSet]
+Label=Terminé
+Name=ZDPI05_VS1
+Value=1;En cours de collecte|Kozongela mituna|Rejea hoja ya
+Image=..\..\Reference\icons\revisiter.png
+Value=2;Sauvegarder et terminer la Collecte de la ZD |Kosilisa pe Kobomba|Hifadhi dodoso na kumaliza
+Image=..\..\Reference\icons\sauvegarder.png
+
+[Item]
+Label=Implantation de la ZD
+Name=ZDPI06
+Start=37
+Len=100
+DataType=Alpha
+
+[Item]
+Label=Latitude
+Name=ZDPI07
+Start=137
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude
+Name=ZDPI08
+Start=147
+Len=9
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Date de fin de la collecte
+Name=ZDPI09
+Start=156
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de fin de la collecte
+Name=ZDPI09J
+Start=156
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de fin de la collecte
+Name=ZDPI09J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de fin de la collecte
+Name=ZDPI09M
+Start=158
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de fin de la collecte
+Name=ZDPI09M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année de fin de la collecte
+Name=ZDPI09A
+Start=160
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de fin de la collecte
+Name=ZDPI09A_VS1
+Value=2019:2020
+
+[Item]
+Label=Temps de début de l'interview
+Name=ZDPI10
+Start=164
+Len=4
+
+[Item]
+Label=Début de l'interview-Heure
+Name=ZDPI10DH
+Start=164
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview-Heure
+Name=ZDPI10DH_VS1
+Value=0:24;Heure(s)
+
+[Item]
+Label=Début de l'interview-Minutes
+Name=ZDPI10DM
+Start=166
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview-Minutes
+Name=ZDPI10DM_VS1
+Value=0:60;Minute(s)
+
+[Item]
+Label=Temps de fin de l'interview
+Name=ZDPI11
+Start=168
+Len=4
+
+[Item]
+Label=Fin  de l'interview-Heure
+Name=ZDPI11FH
+Start=168
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin  de l'interview-Heure
+Name=ZDPI11FH_VS1
+Value=0:24;Heure(s)
+
+[Item]
+Label=Fin  de l'interview-Minutes
+Name=ZDPI11FM
+Start=170
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin  de l'interview-Minutes
+Name=ZDPI11FM_VS1
+Value=0:60;Minute(s)
+
+[Item]
+Label=Hemisphere
+Name=ZDPI7A
+Start=172
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Hemisphere
+Name=ZDPI7A_VS1
+Value='N';Nord
+Value='S';Sud
+
+[Item]
+Label=Commencer
+Name=ZDC1
+Start=173
+Len=1
+DataType=Alpha
+
+[Record]
+Label=LISTE DES ENTREPRISES
+Name=ZDLIST
+RecordTypeValue='ZDL'
+MaxRecords=999
+RecordLen=192
+
+[Item]
+Label=Numéro de Ligne
+Name=ZDL01
+Start=22
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de Ligne
+Name=ZDL01_VS1
+Value=1:99
+
+[Item]
+Label=Enseigne de l'entreprise
+Name=ZDL02
+Start=25
+Len=75
+DataType=Alpha
+
+[Item]
+Label=Village/Rue
+Name=ZDL03A
+Start=100
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Libellé Avenue
+Name=ZDL03
+Start=104
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Numéro
+Name=ZDL03_1
+Start=144
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Hemisphère
+Name=ZDL04B
+Start=152
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Hemisphère
+Name=ZDL04B_VS1
+Value='N';Nord
+Value='S';Sud
+
+[Item]
+Label=Latitude
+Name=ZDL04
+Start=153
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude
+Name=ZDL05
+Start=163
+Len=9
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Altitude
+Name=ZDL04A
+Start=172
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Distance (m) entre le point répère de la ZD et l'unité économique
+Name=ZDL07
+Start=176
+Len=5
+ZeroFill=Yes
+
+[Item]
+Label=Date de reperage de UE
+Name=ZDL08
+Start=181
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de reperage de UE
+Name=ZDL08J
+Start=181
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de reperage de UE
+Name=ZDL08J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de reperage de UE
+Name=ZDL08M
+Start=183
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de reperage de UE
+Name=ZDL08M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année de reperage de UE
+Name=ZDL08A
+Start=185
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de reperage de UE
+Name=ZDL08A_VS1
+Value=2019:2020
+
+[Item]
+Label=Temps de fin du de  reperage de UE
+Name=ZDL09
+Start=189
+Len=4
+
+[Item]
+Label=Fin  du reperage de UE-Heure
+Name=ZDL09H
+Start=189
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin  du reperage de UE-Heure
+Name=ZDL09H_VS1
+Value=0:24;Heure(s)
+
+[Item]
+Label=Fin  du reperage de UE-Minutes
+Name=ZDL09M
+Start=191
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin  du reperage de UE-Minutes
+Name=ZDL09M_VS1
+Value=0:60;Minute(s)

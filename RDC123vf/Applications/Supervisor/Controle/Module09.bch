@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=MODULE09
+Name=MODULE09
+AppType=Batch
+[AppCode]
+File=.\Module09.bch.apc
+[Message]
+File=.\Module09.bch.mgf
+[Order]
+File=.\Module09.ord
+[Dictionary Types]
+Dict-Type=..\..\Dicts\EPMU1M09.dcf,Input,.\Module09.ord

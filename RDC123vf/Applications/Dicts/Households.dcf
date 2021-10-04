@@ -1,0 +1,98 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Households
+Name=HOUSEHOLDS_DICT
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Households questionnaire
+Name=HOUSEHOLDS_QUEST
+
+[IdItems]
+
+[Item]
+Label=Cluster number
+Name=XCLUSTER
+Start=1
+Len=5
+
+[Record]
+Label=Households record
+Name=HOUSEHOLDS_REC
+RecordTypeValue=''
+Required=No
+MaxRecords=999
+RecordLen=153
+
+[Item]
+Label=Household number
+Name=XHOUSEHOLD
+Start=6
+Len=3
+
+[Item]
+Label=Listed household number
+Name=XLISTED
+Start=9
+Len=5
+
+[Item]
+Label=Structure number
+Name=XSTRUCTURE
+Start=14
+Len=5
+
+[Item]
+Label=Dwelling number
+Name=XDWELLING
+Start=19
+Len=5
+
+[Item]
+Label=Address
+Name=XADDRESS
+Start=24
+Len=48
+DataType=Alpha
+
+[Item]
+Label=Household head name
+Name=XNAME
+Start=72
+Len=72
+DataType=Alpha
+
+[Item]
+Label=Household head first name
+Name=XFNAME
+Start=72
+Len=24
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Household head last name
+Name=XLNAME
+Start=96
+Len=48
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Subsample
+Name=XSUBSAMPLE
+Start=144
+Len=1
+Occurrences=10
+
+[ValueSet]
+Label=Subsample
+Name=XSUBSAMPLE_VS1
+Value=0;Not included
+Value=1;Included
+Value=' ';Not applicable
+Name=NOTAPPL,Special

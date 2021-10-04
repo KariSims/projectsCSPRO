@@ -1,0 +1,40 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\WMENQ44.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\HHENQ44.csdb
+
+Date            Apr 14, 2019
+Start Time      11:39:42
+End Time        16:26:55
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1873       1    -   la date saisie est supérieure à la date du jour ,       -
+   3336       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\WMENQ44.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\HHENQ44.csdb
+
+Date            Apr 16, 2019
+Start Time      18:45:09
+End Time        16:15:57
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1873       1    -   la date saisie est supérieure à la date du jour ,       -
+   3336       2    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

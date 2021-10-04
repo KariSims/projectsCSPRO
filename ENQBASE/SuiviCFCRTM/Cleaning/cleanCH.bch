@@ -1,0 +1,16 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=CLEANCH
+Name=CLEANCH
+AppType=Batch
+[External Dictionaries]
+File=..\..\CFCRTM\CFCRTMHH.dcf
+[AppCode]
+File=.\cleanCH.bch.apc
+[Message]
+File=.\cleanCH.bch.mgf
+[Order]
+File=.\cleanCH.ord
+[Dictionary Types]
+Dict-Type=..\..\CFCRTM\CFCRTMHH.dcf,External
+Dict-Type=..\..\CFCRTM\CFCRTMCH.dcf,Input,.\cleanCH.ord

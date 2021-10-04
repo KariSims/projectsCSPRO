@@ -1,0 +1,13 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMHHTEL.pen
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\CFCRTMdata\TELENQ05.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\CFCRTMdata\HHENQ05.csdb
+
+Date            Mar 26, 2019
+Start Time      14:29:38
+End Time        14:29:54
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

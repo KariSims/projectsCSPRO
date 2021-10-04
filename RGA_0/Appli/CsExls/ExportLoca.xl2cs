@@ -1,0 +1,26 @@
+﻿Excel=..\Doc\Village P2.xlsx
+InputDict=..\Dict\RGACarto.dcf
+OutputData=..\Fext\RGACarto.csdb
+StartingRow=2
+CaseManagement=CreateNewFile
+RunOnlyIfNewer=No
+
+Mapping=CARTO_REC;@3;groupement
+Mapping=CARTO_REC.RGACA01;@1
+Mapping=CARTO_REC.RGACA02;@2
+Mapping=CARTO_REC.RGACA03;@3
+Mapping=CARTO_REC.RGACA04;@4
+Mapping=RGACA06;@5
+Mapping=RGACA07;@12
+Mapping=RGACA10;@6
+Mapping=RGACA11;@7
+
+Mapping=CARTO;@4;group01
+Mapping=CARTO.RGACA01;@1
+Mapping=CARTO.RGACA02;@2
+Mapping=CARTO.RGACA03;@3
+Mapping=CARTO.RGACA04;@4
+Mapping=RGACA21;@5
+Mapping=RGACA22;@6
+Mapping=RGACA23;@7
+Mapping=RGACA24;@8

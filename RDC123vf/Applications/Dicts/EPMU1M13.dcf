@@ -1,0 +1,647 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=MODULE 13: AUTRES CHOCS ET STRATEGIES DE SURVIE
+Name=EPMU1M13
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=Francais
+LING=Lingala
+SWA=Swahili
+
+[Level]
+Label=MODULE 13: AUTRES CHOCS ET STRATEGIES DE SURVIE questionnaire
+Name=M13
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=M131
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=M132
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro enquêteur
+Name=M13INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M133
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M133_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS DU MODULE 13
+Name=MODM13
+RecordTypeValue='M13'
+RecordLen=126
+
+[Item]
+Label=Code Enquêteur|Numéro Enquêteur
+Name=M13HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur|Numéro Superviseur
+Name=M135
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview|Date d'interview
+Name=M136
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview|Jour d'interview
+Name=M136J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview|Jour d'interview
+Name=M136J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de l'interview|Mois d'interview
+Name=M136M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=M136M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année de l'interview|Année d'interview
+Name=M136A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview|Année d'interview
+Name=M136A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu|Milieu de résidence
+Name=M137
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu|Milieu de résidence
+Name=M137_VS1
+Value=1;URBAIN
+
+[Item]
+Label=Province|Province
+Name=M138
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province|Province
+Name=M138_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps dudébut de l'interview|Temps début de l' interview
+Name=M139
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M139H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M139H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M139M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M139M_VS1
+Value=0:59
+
+[Item]
+Label=L'heure de la fin de l'interview|Temps de fin de l'interview
+Name=M1310
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M1310H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M1310H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M1310M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M1310M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement |Consentement
+Name=M1311
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement |Consentement
+Name=M1311_VS1
+Value=1;OUI, PERMISSION DONNEE|OUI, PERMISSION DONNEE|نعم، تم إعطاء الإذن
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;NON, PERMISSION PAS DONNEE |NON, PERMISSION PAS DONNEE|لا، لم يتم إعطاء الإذن
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M1317
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M1317_VS1
+Value=1;COMPLETE|MOBIMBA|أُنجزت المقابلة
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|BAKOLO NDAKO BAZALI TE TO BIYANO EZALI TE|لا يوجد أي فرد من أفراد الأسرة المعيشية أو مستجيب كفؤ في المنزل للإجابة وقت الزيارة
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|NDAKO MOBIMBA BAZALI TE|الأسرة بأكملها غير متواجدة في المسكن لمدة زمنية طويلة
+Value=4;REFUS|ABOYI|رفضت الأسرة إجراء المقابلة
+Value=5;LOGEMENT VIDE|NDAKO BATO BAZALAKA TE|المسكن فارغ أو العنوان ليس مسكن
+Value=6;LOGEMENT DETRUIT|NDAKO BABUKA|المسكن هدم
+Value=7;LOGEMENT PAS TROUVE|NDAKU EZALI TE WANA|لم يتم العثور على المسكن
+Value=96;AUTRE|MOSUSU
+
+[Item]
+Label=Nom du chef de ménage|Nom du chef de ménage
+Name=M13NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M13ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M13FIN
+Start=122
+Len=1
+
+[ValueSet]
+Label=Finish
+Name=M13FIN_VS1
+Value=1;Revisiter le questionnaire|zongela kotala mituna
+Value=2;Ajouter les  notes|Bakisa makomi
+Value=3;Savegarder questionnaire et terminer|Bomba mituna pe esili
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer
+
+[Item]
+Label=Code ID du principal répondant à la section
+Name=AS00
+Start=124
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de chocs
+Name=NBRCHOCS
+Start=126
+Len=1
+ZeroFill=Yes
+
+[Record]
+Label=AUTRES CHOCS ET STRATEGIES liste
+Name=MOD_13L
+RecordTypeValue='acl'
+MaxRecords=17
+RecordLen=68
+
+[Item]
+Label=Code
+Name=ASA
+Start=14
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code
+Name=ASA_VS1
+Value=101;Sécheresse/Pluies irrégulières|Bokawuki/ mbula ya tango nionso|Ukame / mvua isiyo ya kawaida
+Value=102;Taux élevé de maladies des cultures|Bokono mingi ya bilanga|Kiwango cha juu cha magonjwa ya mazao
+Value=103;Taux élevé de maladies des animaux|Bokono mingi ya ba nyama|Kiwango cha juu cha magonjwa ya wanyama
+Value=104;Baisse importante des prix des produits agricoles|Bokiti mingi ya biloko ya bilanga|Kuacha kwa bei kubwa ya bidhaa za kilimo
+Image=..\..\Reference\icons\arrow-down-280x270.jpg
+Value=105;Prix élevés des intrants agricoles|Talo makasi ya ba nkona ya bilanga|Bei ya juu ya pembejeo za kilimo
+Value=106;Prix élevés des produits alimentaires|Talo makasi ya biloko ya kolia|Bei ya juu ya bidhaa za chakula
+Value=107;Fin de transferts réguliers provenant d'autres ménages|Bosili botindi misolo ewutaka na ba ndaku misusu|Mwisho wa uhamisho wa mara kwa mara kutoka kwa kaya nyingine
+Value=108;Perte importante du revenu non agricole du ménage  (autre que du fait d'un accident ou d'une maladie)|Kokweya ya makoki pona likama|Kupoteza kwa kiasi kikubwa cha mapato ya kaya yasiyo ya shamba (isipokuwa kutokana na ajali au ugonjwa)
+Value=109;Faillitte d'une entreprise non agricole du ménage|Kokweya ya entreprise ya ndaku|Kushindwa kwa biashara ya kaya isiyo ya kilimo
+Value=110;Perte importante de revenus salariaux  (autre que du fait d'un accident ou d'une maladie)|Kobungisa makoki ya motuya ya lifuti|Hasara kubwa ya kipato cha mshahara (isipokuwa kutokana na ajali au ugonjwa)
+Value=111;Perte d'emploi salarié d'un membre|Kobungisa musala ya moko na ndaku|Kupoteza kazi ya kulipwa kwa mwanachama
+Value=112;Maladie grave ou accident d'un membre du ménage|Bokono ya makasi ya moto moko na ndaku|Ugonjwa mbaya au ajali ya mwanachama wa kaya
+Image=..\..\Reference\icons\maladie.png
+Value=113;Décès d'un membre du ménage|Liwa ya moto moko na ndaku|Kifo cha mwanachama wa nyumba
+Image=..\..\Reference\icons\deces_funerailles.png
+Value=114;Divorce, séparation|Bokabwani, kotikana ya mwasi na mobali|Talaka, kujitenga
+Value=115;Vol d'argent, de biens ou de récolte|moyibi ya mbongo na biloko |Wizi wa fedha, bidhaa au mazao
+Image=..\..\Reference\icons\Images des Modules\cadeau donne_recu_en_espece.32.PNG
+Value=116;Conflit/Violence/Insécurité|Bozangi boyokani, bitumba|Kozanga boyokani, bitumba
+Value=117;Autre (à préciser)|Mosusu|Nyingine (kuwa maalum)
+
+[Item]
+Label=Nature du choc
+Name=AS1B
+Start=17
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Au cours des 3 dernières années, le ménage a-t-il été négativement affecté par le problème suivant ?
+Name=ASB
+Start=67
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Au cours des 3 dernières années, le ménage a-t-il été négativement affecté par le problème suivant ?
+Name=AS2_VSA
+Value=1; Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2; Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Déterminer quels sont les trois problèmes les plus importants
+Name=AS3X
+Start=68
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Déterminer quels sont les trois problèmes les plus importants
+Name=AS3X_VS1
+Value=1;Le plus Sévère (1er)|Ya makasi mingi|kali zaidi
+Value=2;Sévère (2ème)|Mibale|pili
+Value=3;Le moins sévère (3ème)|Ya mwa makasi na nionso misato|Mbaya zaidi ya tatu
+Value=0;Non classé
+
+[Record]
+Label=AUTRES CHOCS ET STRATEGIES
+Name=MOD_13
+RecordTypeValue='ACS'
+MaxRecords=3
+RecordLen=79
+
+[Item]
+Label=Code
+Name=AS1
+Start=14
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code
+Name=AS1_VS1
+Value=101;Sécheresse/Pluies irrégulières|Bokawuki/ mbula ya tango nionso|Ukame / mvua isiyo ya kawaida
+Value=102;Taux élevé de maladies des cultures|Bokono mingi ya bilanga|Kiwango cha juu cha magonjwa ya mazao
+Value=103;Taux élevé de maladies des animaux|Bokono mingi ya ba nyama|Kiwango cha juu cha magonjwa ya wanyama
+Value=104;Baisse importante des prix des produits agricoles|Bokiti mingi ya biloko ya bilanga|Kuacha kwa bei kubwa ya bidhaa za kilimo
+Value=105;Prix élevés des intrants agricoles|Talo makasi ya ba nkona ya bilanga|Bei ya juu ya pembejeo za kilimo
+Value=106;Prix élevés des produits alimentaires|Talo makasi ya biloko ya kolia|Bei ya juu ya bidhaa za chakula
+Value=107;Fin de transferts réguliers provenant d'autres ménages|Bosili botindi misolo ewutaka na ba ndaku misusu|Mwisho wa uhamisho wa mara kwa mara kutoka kwa kaya nyingine
+Value=108;Perte importante du revenu non agricole du ménage  (autre que du fait d'un accident ou d'une maladie)|Kokweya ya makoki pona likama|Kupoteza kwa kiasi kikubwa cha mapato ya kaya yasiyo ya shamba (isipokuwa kutokana na ajali au ugonjwa)
+Value=109;Faillitte d'une entreprise non agricole du ménage|Kokweya ya entreprise ya ndaku|Kushindwa kwa biashara ya kaya isiyo ya kilimo
+Value=110;Perte importante de revenus salariaux  (autre que du fait d'un accident ou d'une maladie)|Kobungisa makoki ya motuya ya lifuti|Hasara kubwa ya kipato cha mshahara (isipokuwa kutokana na ajali au ugonjwa)
+Value=111;Perte d'emploi salarié d'un membre|Kobungisa musala ya moko na ndaku|Kupoteza kazi ya kulipwa kwa mwanachama
+Value=112;Maladie grave ou accident d'un membre du ménage|Bokono ya makasi ya moto moko na ndaku|Ugonjwa mbaya au ajali ya mwanachama wa kaya
+Value=113;Décès d'un membre du ménage|Liwa ya moto moko na ndaku|Kifo cha mwanachama wa nyumba
+Value=114;Divorce, séparation|Bokabwani, kotikana ya mwasi na mobali|Talaka, kujitenga
+Value=115;Vol d'argent, de biens ou de récolte|moyibi ya mbongo na biloko |Wizi wa fedha, bidhaa au mazao
+Value=116;Conflit/Violence/Insécurité|Bozangi boyokani, bitumba|Kozanga boyokani, bitumba
+Value=117;Autre (à préciser)|Mosusu|Nyingine (kuwa maalum)
+
+[Item]
+Label=Nature du choc
+Name=AS1A
+Start=17
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Au cours des 3 dernières années, le ménage a-t-il été négativement affecté par le problème suivant ?
+Name=AS2
+Start=67
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Au cours des 3 dernières années, le ménage a-t-il été négativement affecté par le problème suivant ?
+Name=AS2_VS1
+Value=1; Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2; Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Déterminer quels sont les trois problèmes les plus importants
+Name=AS3
+Start=68
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Déterminer quels sont les trois problèmes les plus importants
+Name=AS3_VS1
+Value=1;Le plus Sévère|Ya makasi mingi|kali zaidi
+Value=2;Deuxième|Mibale|pili
+Value=3;Le moins sévère des trois|Ya mwa makasi na nionso misato|Mbaya zaidi ya tatu
+
+[Item]
+Label=Revenus
+Name=AS4A
+Start=69
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Revenus
+Name=AS4A_VS1
+Value=1;Augmenté|Emanti|kuongezeka
+Image=..\..\Reference\icons\arrow-58-xxl.png
+Value=2;Diminué|Ekiti|ilipungua
+Image=..\..\Reference\icons\arrow-down-280x270.jpg
+Value=3;Inchangé|Etikali kaka bongo|bila kubadilika
+Image=..\..\Reference\icons\125454.png
+
+[Item]
+Label=Avoirs
+Name=AS4B
+Start=70
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avoirs
+Name=AS4B_VS1
+Value=1;Augmenté|Emanti|kuongezeka
+Image=..\..\Reference\icons\arrow-58-xxl.png
+Value=2;Diminué|Ekiti|ilipungua
+Image=..\..\Reference\icons\arrow-down-280x270.jpg
+Value=3;Inchangé|Etikali kaka bongo|bila kubadilika
+Image=..\..\Reference\icons\125454.png
+
+[Item]
+Label=Production alimentaire
+Name=AS4C
+Start=71
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Production alimentaire
+Name=AS4C_VS1
+Value=1;Augmenté|Emanti|kuongezeka
+Image=..\..\Reference\icons\arrow-58-xxl.png
+Value=2;Diminué|Ekiti|ilipungua
+Image=..\..\Reference\icons\arrow-down-280x270.jpg
+Value=3;Inchangé|Etikali kaka bongo|bila kubadilika
+Image=..\..\Reference\icons\125454.png
+
+[Item]
+Label=Stock de produits alimentaires
+Name=AS4D
+Start=72
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Stock de produits alimentaires
+Name=AS4D_VS1
+Value=1;Augmenté|Emanti|kuongezeka
+Image=..\..\Reference\icons\arrow-58-xxl.png
+Value=2;Diminué|Ekiti|ilipungua
+Image=..\..\Reference\icons\arrow-down-280x270.jpg
+Value=3;Inchangé|Etikali kaka bongo|bila kubadilika
+Image=..\..\Reference\icons\125454.png
+
+[Item]
+Label=Achat de produits alimentaires
+Name=AS4E
+Start=73
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Achat de produits alimentaires
+Name=AS4E_VS1
+Value=1;Augmenté|Emanti|kuongezeka
+Image=..\..\Reference\icons\arrow-58-xxl.png
+Value=2;Diminué|Ekiti|ilipungua
+Image=..\..\Reference\icons\arrow-down-280x270.jpg
+Value=3;Inchangé|Etikali kaka bongo|bila kubadilika
+Image=..\..\Reference\icons\125454.png
+
+[Item]
+Label=Première stratégie
+Name=AS5A
+Start=74
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Première stratégie
+Name=AS5A_VS1
+Value=1;Utilisation de son épargne|Kosalela ekonzo na ye|Kutumia akiba yako
+Value=2;Aide de parents ou d'amis|Lisalisi ya baboti to baninga|Msaada kutoka kwa jamaa au marafik
+Value=3;Aide du gouvernement/l'Etat|Lisalisi ya l'Etat|Msaada wa Serikali / Jimbo
+Value=4;Aide d'organisations religieuses ou d'ONG|Lisalisi ya masanga ya eklezia to ONG|Msaada kutoka kwa mashirika ya kidini au NGOs
+Value=5;Marier les enfants|Kobalisa bana|Kuoa watoto
+Image=..\..\Reference\icons\Bapteme_Mariage.png
+Value=6;Changement des habitudes de consommation|ko changer bizalela ya kolia|Kubadili tabia za matumizi
+Value=7;Les membres actifs occupés du ménages ont pris des emplois supplémentaires||Wajumbe wa kaya walioajiriwa walipata kazi zaidi
+Value=8;Les membres adultes (au moins 15 ans) inactifs ou chômeurs ont pris des emplois||Wanachama wazima (angalau umri wa miaka 15) hawana kazi au hawana ajira wamechukua kazi
+Value=9;Les enfants de moins de 15 ans ont été amenés à travailler||Watoto chini ya miaka 15 waliletwa kazi
+Value=10;Les enfants ont été déscolarisés||Watoto walikuwa nje ya shule
+Value=11;Migration de membres du ménage||Uhamiaji wa wajumbe wa kaya
+Image=..\..\Reference\icons\Perception.png
+Value=12;Réduction des dépenses de santé/d'éducation|Kokitisa ndelo ya kelasi na santé|Kupunguza matumizi ya afya / elimu
+Value=13;Obtention d'un crédit|Kokota nyongo|Kupata mkopo
+Value=14;Vente des actifs agricoles|Boteki biloko ya bilanga|Uuzaji wa mali za kilimo
+Value=15;Vente des biens durables du ménage|Boteki biloko ya ndaku|Kuuza nyumba kwa muda mrefu
+Value=16;Vente de terrain/immeubles/Maisons|Boteki mapango/ ndako/ Mabele|Kuuza ardhi / majengo / nyumba
+Value=17;Vente du stock de vivres|Boteki biloko ya kobikela|Uuzaji wa hisa za chakula
+Value=18;Pratique plus importante des activités de pêche|Kosala makasi misala ya koloba mbisi|Shughuli muhimu zaidi ya shughuli za uvuvi
+Value=19;Vente de bétail|Koteka bibwele|Uuzaji wa mifugo
+Value=20;Confiage des enfants à d'autres ménages|kopesa bana na bato mosusu|Kuzuia watoto kwa kaya nyingine
+Value=21;Engagé dans des activités spirituelles (prières, sacrifices, consultation de marabout, ...)|Komipesa ya misala ya molimo|Kuhusika katika shughuli za kiroho (sala, dhabihu, ushauri wa marabout, ...)
+Value=22;Pratique de la culture de contre saison|Bosali bilanga ya eleko mosusu|Mazoezi ya kilimo cha msimu wa msimu
+Image=..\..\Reference\icons\AgricultureUrbaine.png
+Value=23;Autre stratégie.(à préciser)|Makanisi mosusu|Mkakati mwingine (kuwa maalum)
+Value=24;Aucune stratégie|Ata likanisi moko te|Hakuna mkakati wa
+
+[Item]
+Label=Deuxième stratégie
+Name=AS5B
+Start=76
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Deuxième stratégie
+Name=AS5B_VS1
+Value=1;Utilisation de son épargne||Kutumia akiba yako
+Value=2;Aide de parents ou d'amis||Msaada kutoka kwa jamaa au marafik
+Value=3;Aide du gouvernement/l'Etat||Msaada wa Serikali / Jimbo
+Value=4;Aide d'organisations religieuses ou d'ONG||Msaada kutoka kwa mashirika ya kidini au NGOs
+Value=5;Marier les enfants||Kuoa watoto
+Value=6;Changement des habitudes de consommation||Kubadili tabia za matumizi
+Value=7;Les membres actifs occupés du ménages ont pris des emplois supplémentaires||Wajumbe wa kaya walioajiriwa walipata kazi zaidi
+Value=8;Les membres adultes (au moins 15 ans) inactifs ou chômeurs ont pris des emplois||Wanachama wazima (angalau umri wa miaka 15) hawana kazi au hawana ajira wamechukua kazi
+Value=9;Les enfants de moins de 15 ans ont été amenés à travailler||Watoto chini ya miaka 15 waliletwa kazi
+Value=10;Les enfants ont été déscolarisés||Watoto walikuwa nje ya shule
+Value=11;Migration de membres du ménage||Uhamiaji wa wajumbe wa kaya
+Value=12;Réduction des dépenses de santé/d'éducation||Kupunguza matumizi ya afya / elimu
+Value=13;Obtention d'un crédit||Kupata mkopo
+Value=14;Vente des actifs agricoles||Uuzaji wa mali za kilimo
+Value=15;Vente des biens durables du ménage||Kuuza nyumba kwa muda mrefu
+Value=16;Vente de terrain/immeubles/Maisons||Kuuza ardhi / majengo / nyumba
+Value=17;Vente du stock de vivres||Uuzaji wa hisa za chakula
+Value=18;Pratique plus importante des activités de pêche||Shughuli muhimu zaidi ya shughuli za uvuvi
+Value=19;Vente de bétail||Uuzaji wa mifugo
+Value=20;Confiage des enfants à d'autres ménages||Kuzuia watoto kwa kaya nyingine
+Value=21;Engagé dans des activités spirituelles (prières, sacrifices, consultation de marabout, ...)||Kuhusika katika shughuli za kiroho (sala, dhabihu, ushauri wa marabout, ...)
+Value=22;Pratique de la culture de contre saison||Mazoezi ya kilimo cha msimu wa msimu
+Value=23;Autre stratégie.(à préciser)||Mkakati mwingine (kuwa maalum)
+Value=24;Aucune stratégie||Hakuna mkakati wa
+
+[Item]
+Label=Troisième stratégie
+Name=AS5C
+Start=78
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Troisième stratégie
+Name=AS5C_VS1
+Value=1;Utilisation de son épargne||Kutumia akiba yako
+Value=2;Aide de parents ou d'amis||Msaada kutoka kwa jamaa au marafik
+Value=3;Aide du gouvernement/l'Etat||Msaada wa Serikali / Jimbo
+Value=4;Aide d'organisations religieuses ou d'ONG||Msaada kutoka kwa mashirika ya kidini au NGOs
+Value=5;Marier les enfants||Kuoa watoto
+Value=6;Changement des habitudes de consommation||Kubadili tabia za matumizi
+Value=7;Les membres actifs occupés du ménages ont pris des emplois supplémentaires||Wajumbe wa kaya walioajiriwa walipata kazi zaidi
+Value=8;Les membres adultes (au moins 15 ans) inactifs ou chômeurs ont pris des emplois||Wanachama wazima (angalau umri wa miaka 15) hawana kazi au hawana ajira wamechukua kazi
+Value=9;Les enfants de moins de 15 ans ont été amenés à travailler||Watoto chini ya miaka 15 waliletwa kazi
+Value=10;Les enfants ont été déscolarisés||Watoto walikuwa nje ya shule
+Value=11;Migration de membres du ménage||Uhamiaji wa wajumbe wa kaya
+Value=12;Réduction des dépenses de santé/d'éducation||Kupunguza matumizi ya afya / elimu
+Value=13;Obtention d'un crédit||Kupata mkopo
+Value=14;Vente des actifs agricoles||Uuzaji wa mali za kilimo
+Value=15;Vente des biens durables du ménage||Kuuza nyumba kwa muda mrefu
+Value=16;Vente de terrain/immeubles/Maisons||Kuuza ardhi / majengo / nyumba
+Value=17;Vente du stock de vivres||Uuzaji wa hisa za chakula
+Value=18;Pratique plus importante des activités de pêche||Shughuli muhimu zaidi ya shughuli za uvuvi
+Value=19;Vente de bétail||Uuzaji wa mifugo
+Value=20;Confiage des enfants à d'autres ménages||Kuzuia watoto kwa kaya nyingine
+Value=21;Engagé dans des activités spirituelles (prières, sacrifices, consultation de marabout, ...)||Kuhusika katika shughuli za kiroho (sala, dhabihu, ushauri wa marabout, ...)
+Value=22;Pratique de la culture de contre saison||Mazoezi ya kilimo cha msimu wa msimu
+Value=23;Autre stratégie.(à préciser)||Mkakati mwingine (kuwa maalum)
+Value=24;Aucune stratégie||Hakuna mkakati wa

@@ -1,0 +1,21 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Batch
+
+[Files]
+Application=.\cleanWM.bch
+InputData=..\OutputMod\ModuleWM.csdb|CSPRODB
+OutputData=..\OutputMod\ModuleWM1205.csdb|CSPRODB
+Listing=.\cleanWM.lst
+
+[ExternalFiles]
+MICS6HH=..\OutputMod\ModuleHH.csdb|CSPRODB
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential
+

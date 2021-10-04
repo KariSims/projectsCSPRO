@@ -1,0 +1,270 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.2
+
+[LANGUAGES]
+ENG=English
+
+[QUESTION]
+Field=RGEZD.ZD01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}{\f1\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 S\'e9lectionnez la  province de votre ZD\b0\f1\fs24\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZD02
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Selectionnez la ville de  votre ZD\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZD03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 S\'e9lectionnez le secteur de votre ZD\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZD04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 S\'e9lectionnez le quartier de votre ZD\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZD1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Num\'e9ro de votre ZD\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDINT
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Num\'e9ro de l'agent r\'e9censeur\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL01
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Num\'e9ro de ligne\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL02
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Saisir l'enseigne de l'unit\'e9 \'e9conomique\fs29\par
+ENG=\cf2\i\fs56\par
+ENG=\fs53 ( Saisissez une indication ou la marque que l'unit\'e9 \'e9conomique a plac\'e9 \'e0 son \'e9tablissement pour se promouvoir )\par
+ENG=\par
+ENG=\cf3 Pour recenser une entreprise sauvegardez et quitter\cf2\fs56\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL03
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs64 Indiquez l'avenue ou la rue sur la quelle se situe l'entreprise \fs60\lang9228 (\cf2\b0 %ZDL02%\cf1\b )\lang1036  \fs64  \par
+ENG=\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL03_1
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Entrez le num\'e9ro de la parcelle o\'f9 se trouve l'entreprise \lang9228 (\cf2\b0 %ZDL02%\cf1\b )\par
+ENG=\fs29\lang1036\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL04
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Renseignez la latitude d'un point r\'e9p\'e8re de l'entreprise \lang9228 (\cf2\b0 %ZDL02%\cf1\b )\par
+ENG=\fs29\lang1036\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL04A
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Renseignez l'altitude d'un point de l'unit\'e9 \'e9conomique \lang9228 (\cf2\b0 %ZDL02%\cf1\b )\lang1036  \fs64\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL04B
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 L'entreprise \lang9228 (\cf2\b0 %ZDL02%\cf1\b )\lang1036  se situe sur quel h\'e9misph\'e8re ?\par
+ENG=\par
+ENG=\cf3\i\fs53 L'h\'e9misph\'e8re est indiqu\'e9 sur votre GPS\cf1\i0\fs60\par
+ENG=\fs64\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL05
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Renseignez la longitude d'un point r\'e9p\'e8re de l'entreprise \lang9228 (\cf2\b0 %ZDL02%\cf1\b )\par
+ENG=\fs29\lang1036\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL06
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Voulez-vous continuer directement avec le denombrement des unit\'e9s \'e9conomiques ?\par
+ENG=\fs32\par
+ENG=\cf2\i\fs53 Choisir 1 pour continuer le denombrement des unit\'e9s \'e9conomiques\par
+ENG=\fs28\par
+ENG=\fs53 Si vous voulez d'abord interviewer l'entreprise \cf3\b0\lang9228 (%ZDL02%)\i0\lang1036  \cf2\b\i qui vient d'\'eatre denombr\'e9, choisissez 2 puis cliquez sur le bouton sauvegarder et quitter pour interviewer l'entreprise.\cf3\b0\i0\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL07
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Distance entre le point r\'e9p\'e8re de la ZD et l'entreprise \lang9228 (\cf2\b0 %ZDL02%\cf1\b )\par
+ENG=\fs29\lang1036\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDL09M
+Occurrences=1:999
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red255\green0\blue128;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60\lang1036 Minutes de fin du r\'e9p\'e9rage de l'entreprise \lang9228 (\cf2\b0 %ZDL02%\cf1\b )\lang1036  \par
+ENG=\cf3\i\fs53\par
+ENG=Valider par continuer\cf1\i0\fs60\lang1033\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI01A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Ann\'e9e de la collecte\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI01J
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Jour de la collecte\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI01M
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Mois de la collecte\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI02
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 R\'e9sultat de l'interview\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Nombre d'unit\'e9s \'e9conomiques d\'e9nombr\'e9es\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Fin\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI06
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Donnez la localisation g\'e9ographique de votre ZD\fs29\par
+ENG=\par
+ENG=\cf2\i\fs53 (c'est \'e0 dire donner une r\'e9f\'e9rence permettant de retrouver ais\'e9ment la Zone de D\'e9nombrement) \cf1\i0\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI07
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Renseignez la latitude d'un point r\'e9p\'e8re de votre ZD\par
+ENG=\par
+ENG=\cf2\i\fs53 La latitude commence toujours par 4. - - -\cf1\i0\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI08
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Renseignez la longitude d'un point r\'e9p\'e8re de votre ZD\par
+ENG=\par
+ENG=\cf2\i\fs53 La longitude commence par 15. - - -\cf1\i0\fs29\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI10DM
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Minutes\par
+ENG=\fs72\par
+ENG=}
+
+[QUESTION]
+Field=RGEZD.ZDPI7A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Baskerville Old Face;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\f0\fs60 Indiquez l'h\'e9misph\'e8re de votre ZD ?\par
+ENG=\par
+ENG=\cf2\i\fs53 L'h\'e9misph\'e8re est indiqu\'e9 dans votre GPS\cf1\i0\fs64\par
+ENG=}
+

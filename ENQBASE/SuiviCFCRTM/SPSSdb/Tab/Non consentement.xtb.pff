@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Tabulation
+Operation=All
+
+[Files]
+Application=.\Non consentement.xtb
+InputData=..\..\OutputMod\ModuleHH.csdb
+OutputTBW=.\Non consentement.xtb.tbw
+Listing=.\Non consentement.xtb.lst
+
+
+[Parameters]
+ViewListing=OnError
+ViewResults=No
+InputOrder=Sequential
+

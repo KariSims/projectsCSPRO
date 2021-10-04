@@ -1,0 +1,16 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Entry
+
+[DataEntryInit]
+Interactive=Ask
+
+[Files]
+Application=.\CFCRTMWM.ent
+InputData=..\CFCRTMdata\WMENQ.csdb|CSPRODB
+
+[ExternalFiles]
+MICS6HH=..\CFCRTMdata\HHENQ.csdb|CSPRODB
+
+[Parameters]
+

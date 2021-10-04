@@ -1,0 +1,38 @@
+﻿Application     C:\ENQBASE\Contrôle\MCH.bch
+Type            BATCH
+Input Data      <<Text File>> C:\ENQBASE\Contrôle\AllMod.txt                                                                                                                                                                                                                                                               
+<Output>        <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\OutputMod\ModuleCHENQ.csdb                                                                                                                                                                                                                                              
+<File>          PFFCONT=
+
+Date            Mar 14, 2019
+Start Time      19:05:43
+End Time        19:05:43
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |       1 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       1 Messages (       0 U,       1 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |          1   |          0   |          1  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+*** Case [1] has 1 messages (0 E / 1 W / 0U)        
+    W 10107 Data source case construction warning:  A blank record was added for
+              the required record EXPCFCRT_REC.
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10107            1   Data source case construction warning: %s        
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

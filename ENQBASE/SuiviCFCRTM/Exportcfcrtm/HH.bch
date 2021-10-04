@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=HH
+Name=HH
+AppType=Batch
+[AppCode]
+File=.\HH.bch.apc
+[Message]
+File=.\HH.bch.mgf
+[Order]
+File=.\HH.ord
+[Dictionary Types]
+Dict-Type=..\..\CFCRTM\CFCRTMHH.dcf,Input,.\HH.ord

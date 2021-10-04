@@ -1,0 +1,37 @@
+﻿[CSPro Application]
+Version=CSPro 7.4
+Label=MENU_AIT
+Name=MENU_AIT
+AppType=DataEntry
+OperatorID=No
+ShowEndCaseDialog=No
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+CenterForms=Yes
+[External Dictionaries]
+File=..\Dicts\RGEZD.dcf
+File=..\Dicts\RGE.dcf
+File=..\Dicts\Tasks.dcf
+File=..\Dicts\Clusters.dcf
+File=..\Dicts\AIT.dcf
+[AppCode]
+File=.\Menu_AIT.ent.apc
+Include=..\Common\CommandWrappers.apc
+Include=..\Common\GlobalVars.apc
+[Message]
+File=.\Menu_AIT.ent.mgf
+Include=..\Common\Menu.mgf
+[Help]
+File=.\Menu_AIT.ent.qsf
+[Forms]
+File=.\Menu_AIT.fmf
+[Dictionary Types]
+Dict-Type=..\Dicts\Menu.dcf,Input,.\Menu_AIT.fmf
+Dict-Type=..\Dicts\RGEZD.dcf,External
+Dict-Type=..\Dicts\RGE.dcf,External
+Dict-Type=..\Dicts\Tasks.dcf,External
+Dict-Type=..\Dicts\Clusters.dcf,External
+Dict-Type=..\Dicts\AIT.dcf,External

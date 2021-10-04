@@ -1,0 +1,4228 @@
+﻿[TabSpecs]
+Version=CSPro 7.2
+Label=TabATI01
+Name=TABATI01_TF
+GenerateLogic=Yes
+ 
+[Dictionaries]
+File=..\Controle\RGE.dcf
+[TabSetFormat]
+Name=TabSetFmt, default
+ThousandsSeparator=' '
+DecimalSeparator=','
+ZeroMask='-'
+ZeroRoundMask='*'
+Suppressed='SSS'
+DigitGrouping=Thousands
+ZeroBeforeDecimal=Yes
+ForeignKey='Frequency'
+ForeignKey='and'
+ForeignKey='to'
+ForeignKey='Total'
+ForeignKey='Standard Deviation'
+ForeignKey='by'
+ForeignKey='(Percents)'
+ForeignKey='Mean'
+ForeignKey='Maximum'
+ForeignKey='Table'
+ForeignKey='for'
+ForeignKey='Percentile'
+ForeignKey='Mode'
+ForeignKey='Minimum'
+ForeignKey='Proportion'
+ForeignKey='Median'
+ForeignKey='Variance'
+ForeignKey='Percent'
+ForeignKey='Undefined'
+ForeignKey='(Weighted)'
+ForeignKey='Cumulative'
+ForeignKey='<Value has no label>'
+ForeignKey='Number'
+TitleTemplate='Table %s.'
+Continuation=' (continued)'
+MeasurementSystem=MetricUnits
+
+[TableFormat]
+Name=TableFmt, default
+BorderLeft=None
+BorderTop=None
+BorderRight=None
+BorderBottom=None
+LeftLeadering=None
+RightLeadering=None
+ReaderBreak=None
+IncludeSubTitle=No
+IncludePageNote=No
+IncludeEndNote=No
+
+
+[TallyFormat]
+Name=RowTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Counts
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Counts
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 21
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 22
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 23
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 24
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 25
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 26
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 27
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 28
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 29
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 30
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 31
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 32
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 33
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 34
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 35
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 36
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 46
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 47
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 48
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 49
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 50
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 53
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 54
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 58
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 59
+[TallyStatistic]
+Type=Mean
+
+[TallyStatistic]
+Type=Minimum
+
+[TallyStatistic]
+Type=Maximum
+
+[TallyStatistic]
+Type=Total
+
+
+[TablePrintFormat]
+Name=TblPrintFmt, default
+TableLayout=LeftStandard
+PageBreakBeforeTable=Yes
+TblHorzCenter=No
+TblVertCenter=No
+PaperType=A4
+PageOrientation=Portrait
+PrinterDevice=Hewlett-Packard HP LaserJet P2035
+PrinterDriver=HP LaserJet P2035 Class Driver
+PrinterOutput=USB001
+MarginTop=2,54
+MarginBottom=2,54
+MarginLeft=2,54
+MarginRight=2,54
+HeaderFrequency=TopOfPage
+
+[DataCellFormat]
+Name=SpannerFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendIndentation=Yes
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=CaptionFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,32
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=StubFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendFont=Yes
+NumDecimals=Zero
+HideZeroRow=Yes
+
+[DataCellFormat]
+Name=DataCellFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=NotApplicable
+LineBottom=NotApplicable
+LineLeft=NotApplicable
+LineRight=NotApplicable
+Hidden=NotApplicable
+SpanCells=NotApplicable
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 13
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Effectif total
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 14
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Femmes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 15
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Femmes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 16
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Femmes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 17
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Femmes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 18
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Femmes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 19
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Hommes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 20
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Hommes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 21
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Hommes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 22
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Hommes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 23
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=RD Congo
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 24
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Hommes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 4
+SpanCells=NotApplicable
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 5
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 6
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 7
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 8
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 25
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom= Privés Congolais
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 26
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Privés Etrangers
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 27
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Etats Congolais
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 28
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Etat Etrangers
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 11
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 12
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 31
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Homme
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 32
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Femme
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 16
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 36
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Permanent
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 37
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Temporaire
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, 17
+SpanCells=NotApplicable
+Custom=Moyenne
+NumDecimals=One
+HideZeroRow=No
+
+[Format]
+Name=TitleFmt, default
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=SubTitleFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=StubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=None
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=SecondaryStubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=HeaderLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&F
+
+[Format]
+Name=HeaderCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=HeaderRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&D
+
+[Format]
+Name=FooterLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=FooterCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=- &P -
+
+[Format]
+Name=FooterRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=PageNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=EndNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=AreaCaption, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+ExtendLines=Yes
+
+[Format]
+Name=TitleFmt, 12
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 01. Répartition des entreprises recensées par Equipe selon la forme juridique
+
+[Format]
+Name=TitleFmt, 13
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 02. Répartition des entreprises recensées par Equipe selon l'effectif du personnel permanent de toute l’entreprise (siège et agences) au 31 décembre 2018
+
+[Format]
+Name=TitleFmt, 14
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 03. Répartition des entreprises recensées par Equipe selon le capital actuel de l'entreprise en FC
+
+[Format]
+Name=TitleFmt, 15
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 04. Répartition des entreprises recensées par Equipe selon la Répartition  du capital
+
+[Format]
+Name=TitleFmt, 16
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 05. Répartition des entreprises recensées par Equipe selon la Répartition  du capital (par sexe)
+
+[Format]
+Name=TitleFmt, 17
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 06. Répartition des entreprises recensées par Equipe selon Masse salariale
+
+ 
+[Table]
+Name=TABLE01
+Num=12
+ 
+[Title]
+Label='Table 12. Equipe by Forme juridique de l’entreprise'
+Format=TitleFmt, 12
+GridViewSize=0,171,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,24,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=EP3_VS1
+Label=Forme juridique de l’entreprise
+VarType=Dict
+ 
+[Value]
+Label=Entreprise individuelle
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=139,0,0,0,0,0
+ 
+[Value]
+Label=SARL
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=SA
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Société de fait
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=97,0,0,0,0,0
+ 
+[Value]
+Label=Société en Nom Collectif (SNC)
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=196,0,0,0,0,0
+ 
+[Value]
+Label=Société en Commandite Simple (SCS)
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=236,0,0,0,0,0
+ 
+[Value]
+Label=Société en participation
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=150,0,0,0,0,0
+ 
+[Value]
+Label=Groupement  d’Intérêt Économique (GIE)
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=249,0,0,0,0,0
+ 
+[Value]
+Label=Coopérative
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=81,0,0,0,0,0
+ 
+[Value]
+Label=Autre
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+[UnitSpecs]
+[Unit]
+SubTable=Entire Table
+LoopingVarName=
+Weight=
+Value=
+Universe=
+TabLogic=EQUIPE = int(IDAR/10) ;
+[EndUnitSpecs]
+ 
+ 
+[Table]
+Name=TABLE02
+Num=13
+ 
+[Title]
+Label='Table 13. Equipe by Effectif total du personnel permanent  decembre 2018, Effectif total du personnel permanent  (Femmes) decembre 2018, Effectif total du personnel permanent  (Hmmes) decembre 2018, Effectif du personnel permanent :RD Congo, Effectif du personnel permanent :RD Congo (Femmes), Effectif du personnel permanent :RD Congo (Hommes), Pays limitrophes, Pays limitrophes (Femmes), Pays limitrophes: (Hommes), Autres Africains, Autres Africains  (Femmes), Autres Africains (Hommes), Autres nationalités, Autres nationalités  (Femmes), Autres nationalités (Hommes), Total'
+Format=TitleFmt, 13
+GridViewSize=0,74,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,48,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=EP4_0_VS1
+Label=Effectif total du personnel permanent  decembre 2018
+VarType=Dict
+Format=SpannerFmt, 13
+Format=ColumnTallyFmt, 21
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=131,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_0F_VS1
+Label=Effectif total du personnel permanent  (Femmes) decembre 2018
+VarType=Dict
+Format=SpannerFmt, 14
+Format=ColumnTallyFmt, 22
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_0H_VS1
+Label=Effectif total du personnel permanent  (Hmmes) decembre 2018
+VarType=Dict
+Format=SpannerFmt, 19
+Format=ColumnTallyFmt, 23
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_1_VS1
+Label=Effectif du personnel permanent :RD Congo
+VarType=Dict
+Format=SpannerFmt, 23
+Format=ColumnTallyFmt, 24
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_1F_VS1
+Label=Effectif du personnel permanent :RD Congo (Femmes)
+VarType=Dict
+Format=SpannerFmt, 15
+Format=ColumnTallyFmt, 25
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_1H_VS1
+Label=Effectif du personnel permanent :RD Congo (Hommes)
+VarType=Dict
+Format=SpannerFmt, 20
+Format=ColumnTallyFmt, 26
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_2_VS1
+Label=Pays limitrophes
+VarType=Dict
+Format=ColumnTallyFmt, 27
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_2F_VS1
+Label=Pays limitrophes (Femmes)
+VarType=Dict
+Format=SpannerFmt, 16
+Format=ColumnTallyFmt, 28
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_2H_VS1
+Label=Pays limitrophes: (Hommes)
+VarType=Dict
+Format=SpannerFmt, 21
+Format=ColumnTallyFmt, 29
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_3_VS1
+Label=Autres Africains
+VarType=Dict
+Format=ColumnTallyFmt, 30
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_3F_VS1
+Label=Autres Africains  (Femmes)
+VarType=Dict
+Format=SpannerFmt, 17
+Format=ColumnTallyFmt, 31
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_3H_VS1
+Label=Autres Africains (Hommes)
+VarType=Dict
+Format=SpannerFmt, 22
+Format=ColumnTallyFmt, 32
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_4_VS1
+Label=Autres nationalités
+VarType=Dict
+Format=ColumnTallyFmt, 33
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_4F_VS1
+Label=Autres nationalités  (Femmes)
+VarType=Dict
+Format=SpannerFmt, 18
+Format=ColumnTallyFmt, 34
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_4H_VS1
+Label=Autres nationalités (Hommes)
+VarType=Dict
+Format=SpannerFmt, 24
+Format=ColumnTallyFmt, 35
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_T_VS1
+Label=Total
+VarType=Dict
+Format=ColumnTallyFmt, 36
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[UnitSpecs]
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_0_VS1
+LoopingVarName=
+Weight=
+Value=EP4_0
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_0F_VS1
+LoopingVarName=
+Weight=
+Value=EP4_0F
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_0H_VS1
+LoopingVarName=
+Weight=
+Value=EP4_0H
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_1_VS1
+LoopingVarName=
+Weight=
+Value=EP4_1
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_1F_VS1
+LoopingVarName=
+Weight=
+Value=EP4_1F
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_1H_VS1
+LoopingVarName=
+Weight=
+Value=EP4_1H
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_2_VS1
+LoopingVarName=
+Weight=
+Value=EP4_2
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_2F_VS1
+LoopingVarName=
+Weight=
+Value=EP4_2F
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_2H_VS1
+LoopingVarName=
+Weight=
+Value=EP4_2H
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_3_VS1
+LoopingVarName=
+Weight=
+Value=EP4_3
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_3F_VS1
+LoopingVarName=
+Weight=
+Value=EP4_3F
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_3H_VS1
+LoopingVarName=
+Weight=
+Value=EP4_3H
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_4_VS1
+LoopingVarName=
+Weight=
+Value=EP4_4
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_4F_VS1
+LoopingVarName=
+Weight=
+Value=EP4_4F
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_4H_VS1
+LoopingVarName=
+Weight=
+Value=EP4_4H
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP4_T_VS1
+LoopingVarName=
+Weight=
+Value=EP4_T
+Universe=
+[EndUnitSpecs]
+ 
+ 
+[Table]
+Name=TABLE03
+Num=14
+ 
+[Title]
+Label='Table 14. Equipe by Quel est le capital actuel de l’entreprise (en FC) ?'
+Format=TitleFmt, 14
+GridViewSize=0,68,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,32,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=EP5_2C_VS1
+Label=Le capital actuel de l'entreprise converti en FC
+VarType=Dict
+Format=ColumnTallyFmt, 46
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 4
+GridViewSize=195,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=208,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=180,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=3
+GridViewSize=169,0,0,0,0,0
+ 
+[EndVar]
+[UnitSpecs]
+[Unit]
+SubTable=Entire Table
+LoopingVarName=
+Weight=
+Value=EP5_2C
+Universe=
+[EndUnitSpecs]
+ 
+ 
+[Table]
+Name=TABLE04
+Num=15
+ 
+[Title]
+Label="Table 15. Equipe by Répartition du capital selon l’origine : Privés Congolais, Répartition du capital selon l’origine : Privés Etrangers, Répartition du capital selon l'origine : Etats Congolais, Répartition du capital selon l’origine : Etat Etrangers, Répartition du capital suivant le sexe (Parts détenues (en %)):Masculin, Répartition du capital suivant le sexe (Parts détenues (en %)):Féminin"
+Format=TitleFmt, 15
+GridViewSize=0,56,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,112,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=EP6_1_VS1
+Label=Répartition du capital selon l’origine : Privés Congolais
+VarType=Dict
+Format=SpannerFmt, 25
+Format=ColumnTallyFmt, 47
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 5
+GridViewSize=135,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP6_2_VS1
+Label=Répartition du capital selon l’origine : Privés Etrangers
+VarType=Dict
+Format=SpannerFmt, 26
+Format=ColumnTallyFmt, 48
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 6
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP6_3_VS1
+Label=Répartition du capital selon l'origine : Etats Congolais
+VarType=Dict
+Format=SpannerFmt, 27
+Format=ColumnTallyFmt, 49
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 7
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP6_4_VS1
+Label=Répartition du capital selon l’origine : Etat Etrangers
+VarType=Dict
+Format=SpannerFmt, 28
+Format=ColumnTallyFmt, 50
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 8
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+[UnitSpecs]
+[Unit]
+SubTable=Entire Table
+LoopingVarName=
+Weight=
+Value=EP9_2C
+Universe=
+[EndUnitSpecs]
+ 
+ 
+[Table]
+Name=TABLE05
+Num=16
+ 
+[Title]
+Label='Table 16. Equipe by Le salaire total versé au cours de l’année 2018  converti en FC'
+Format=TitleFmt, 16
+GridViewSize=0,100,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,32,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=EP7_1_VS1
+Label=Répartition du capital suivant le sexe (Parts détenues (en %)):Masculin
+VarType=Dict
+Format=SpannerFmt, 31
+Format=ColumnTallyFmt, 53
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 11
+GridViewSize=123,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=126,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=133,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP7_2_VS1
+Label=Répartition du capital suivant le sexe (Parts détenues (en %)):Féminin
+VarType=Dict
+Format=SpannerFmt, 32
+Format=ColumnTallyFmt, 54
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 12
+GridViewSize=121,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=109,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=109,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Table]
+Name=TABLE06
+Num=17
+ 
+[Title]
+Label='Table 17. Equipe by Le salaire total versé au cours de l’année 2018  converti en FC'
+Format=TitleFmt, 17
+GridViewSize=0,65,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Equipe'
+GridViewSize=86,48,0,0,0,0
+GridViewSize=86,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=EQUIPE_VS1
+Label=Equipe
+VarType=Dict
+ 
+[Value]
+Label=Equipe 001
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 002
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 003
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 004
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 005
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 006
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 007
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 008
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 009
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 010
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 011
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 012
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 013
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 014
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 015
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 016
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 017
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 018
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 019
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 020
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 021
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 022
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 023
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 024
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 025
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 026
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 027
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 028
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 029
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 030
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 031
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 032
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 033
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 034
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 035
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 036
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 037
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 038
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 039
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 040
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 041
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 042
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 043
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 044
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 045
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 046
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 047
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 048
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 049
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 050
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 051
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 052
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 053
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 054
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 055
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 056
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 057
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 058
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 059
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Equipe 060
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=EP9_2C_VS1
+Label=Le salaire total versé au cours de l’année 2018  converti en FC
+VarType=Dict
+Format=SpannerFmt, 36
+Format=ColumnTallyFmt, 58
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 16
+GridViewSize=120,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=117,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=124,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=3
+GridViewSize=137,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP9_2CB_VS1
+Label=Le salaire total versé au cours de l’année 2018  converti en FC
+VarType=Dict
+Format=SpannerFmt, 37
+Format=ColumnTallyFmt, 59
+ 
+[Value]
+Label=Mean
+TabValueType=Mean
+TabValueStatIndex=0
+Format=ColumnHeadFmt, 17
+GridViewSize=124,0,0,0,0,0
+ 
+[Value]
+Label=Minimum
+TabValueType=Min
+TabValueStatIndex=1
+GridViewSize=135,0,0,0,0,0
+ 
+[Value]
+Label=Maximum
+TabValueType=Max
+TabValueStatIndex=2
+GridViewSize=131,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=3
+GridViewSize=132,0,0,0,0,0
+ 
+[EndVar]
+ 
+[UnitSpecs]
+[Unit]
+SubTable=EQUIPE_VS1 by EP9_2C_VS1
+LoopingVarName=
+Weight=
+Value=EP9_2C
+Universe=
+[Unit]
+SubTable=EQUIPE_VS1 by EP9_2CB_VS1
+LoopingVarName=
+Weight=
+Value=EP9_2CB
+Universe=
+[EndUnitSpecs]
+ 
+ 
+[Level]
+Table=TABLE01
+Table=TABLE02
+Table=TABLE03
+Table=TABLE04
+Table=TABLE05
+Table=TABLE06

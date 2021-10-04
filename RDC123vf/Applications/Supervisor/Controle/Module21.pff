@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 6.3
+AppType=Batch
+
+[Files]
+Application=.\Module21.bch
+InputData=..\..\..\SuiviTerrain\DataConcat\MOD21.dat
+Listing=.\Module21.lst
+
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+

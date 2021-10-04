@@ -1,0 +1,38 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\WMENQ01.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\HHENQ01.csdb
+
+Date            May 13, 2019
+Start Time      23:18:54
+End Time        23:20:43
+
+CSPRO Process Summary
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   1004       1    -   W Le mois de naissance de la femme (WB1M =%02d) d       -
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   3336       1    -   Avez-vous une observation à renseigner?                 -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Google Drive\WHOLE_CSAD_CSPRO\ENQBASE\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\Google Drive\WHOLE_CSAD_CSPRO\ENQBASE\SuiviCFCRTM\Alldata\WMENQ01.csdb
+External        MICS6HH=<<CSPro DB>> C:\Google Drive\WHOLE_CSAD_CSPRO\ENQBASE\SuiviCFCRTM\Alldata\HHENQ01.csdb
+
+Date            Jan 02, 2020
+Start Time      12:31:23
+End Time        12:31:32
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

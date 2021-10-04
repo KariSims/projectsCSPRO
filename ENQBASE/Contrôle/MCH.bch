@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=EXPCFCRTM
+Name=EXPCFCRTM
+AppType=Batch
+[AppCode]
+File=.\MCH.bch.apc
+[Message]
+File=.\MCH.bch.mgf
+[Order]
+File=.\MCH.ord
+[Dictionary Types]
+Dict-Type=.\MCH.dcf,Input,.\MCH.ord

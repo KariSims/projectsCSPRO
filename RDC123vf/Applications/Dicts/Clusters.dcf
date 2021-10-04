@@ -1,0 +1,139 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Clusters included in the sample
+Name=CLUSTERS
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=No
+DecimalChar=No
+
+[Level]
+Label=LEVEL1
+Name=LEVEL_1
+
+[IdItems]
+
+[Item]
+Label=Cluster number
+Name=YCLUSTER
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=Cluster variables
+Name=CLSTREC
+RecordTypeValue=''
+RecordLen=159
+
+[Item]
+Label=Urban/rural
+Name=YURBRUR
+Start=4
+Len=1
+
+[Item]
+Label=Province code
+Name=YPROVIN
+Start=5
+Len=5
+
+[ValueSet]
+Label=Province code
+Name=YPROVIN_VS1
+Value=1;Capital city
+Value=2;Small city
+Value=3;Town
+Value=4;Rural
+
+[Item]
+Label=Province name
+Name=YPROVINN
+Start=10
+Len=25
+DataType=Alpha
+
+[ValueSet]
+Label=Province name
+Name=YPROVINN_VS1
+Value='1                        ';Capital city
+Value='2                        ';Small city
+Value='3                        ';Town
+Value='4                        ';Rural
+
+[Item]
+Label=Region code
+Name=YREGION
+Start=35
+Len=5
+
+[ValueSet]
+Label=Region code
+Name=YREGION_VS1
+Value=1;Region 1
+Value=2;Region 2
+Value=3;Region 3
+Value=4;Region 4
+Value=5;Region 5
+
+[Item]
+Label=Region name
+Name=YREGIONN
+Start=40
+Len=25
+DataType=Alpha
+
+[ValueSet]
+Label=Region name
+Name=YREGIONN_VS1
+Value='1                        ';Region 1
+Value='2                        ';Region 2
+Value='3                        ';Region 3
+Value='4                        ';Region 4
+Value='5                        ';Region 5
+
+[Item]
+Label=District code
+Name=YDISTRICT
+Start=65
+Len=5
+
+[Item]
+Label=District name
+Name=YDISTRICTN
+Start=70
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Commune code
+Name=YCOMUNE
+Start=95
+Len=5
+
+[Item]
+Label=Commune name
+Name=YCOMUNEN
+Start=100
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Ilot
+Name=YENUMER
+Start=125
+Len=5
+
+[Item]
+Label=Adresse ilot
+Name=YENUMERN
+Start=130
+Len=25
+DataType=Alpha
+
+[Item]
+Label=HH in cluster (used for sampling purposes)
+Name=YTOTHH
+Start=155
+Len=5

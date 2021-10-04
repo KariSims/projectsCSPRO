@@ -1,0 +1,150 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Carto
+Name=CARTO_DICT
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Dénombrement  Carto
+Name=CARTO_QUEST
+
+[IdItems]
+
+[Item]
+Label=Numéro de la grappe
+Name=CGRAPPE
+Start=1
+Len=5
+
+[Item]
+Label=Numéro de ménage
+Name=CNUMMENAGE
+Start=6
+Len=3
+
+[Record]
+Label=Carto record
+Name=CARTO_REC
+RecordTypeValue=''
+Required=No
+MaxRecords=999
+RecordLen=172
+
+[Item]
+Label=Numéro de ménage sur la liste de tirage
+Name=CNUMMENLIST
+Start=9
+Len=5
+
+[Item]
+Label=Numéro de la structure
+Name=CNUMSTRUC
+Start=14
+Len=5
+
+[Item]
+Label=Numéro de logement
+Name=CNUMLOGEMENT
+Start=19
+Len=5
+
+[Item]
+Label=Addresse
+Name=CADRESSE
+Start=24
+Len=48
+DataType=Alpha
+
+[Item]
+Label=Chef de ménage (nom)
+Name=CNOMPRENOM
+Start=72
+Len=72
+DataType=Alpha
+
+[Item]
+Label=Nom du chef de ménage
+Name=CNOM
+Start=72
+Len=24
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Prénom du chef de ménage
+Name=CPRENOM
+Start=96
+Len=48
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Sexe du chef de ménage
+Name=CSEXECM
+Start=144
+Len=1
+DataType=Alpha
+
+[Item]
+Label=Taille du menage
+Name=CTAILLEMEN
+Start=145
+Len=2
+
+[Item]
+Label=Nombre d'Homme
+Name=CHOMME
+Start=147
+Len=2
+
+[Item]
+Label=Nombre de femme
+Name=CFEMME
+Start=149
+Len=2
+
+[Item]
+Label=Nombre de garçon
+Name=CGARCON
+Start=151
+Len=2
+
+[Item]
+Label=Nombre de fille
+Name=CFILLE
+Start=153
+Len=2
+
+[Item]
+Label=Latitude
+Name=CLATITURE
+Start=155
+Len=9
+Decimal=6
+
+[ValueSet]
+Label=Latitude
+Name=CLATITURE_VS1
+Value=0,000000;Not included
+Value=1,000000;Included
+Value='         ';Not applicable
+Name=NOTAPPL,Special
+
+[Item]
+Label=Longitude
+Name=CLONGITUDE
+Start=164
+Len=9
+Decimal=6
+
+[ValueSet]
+Label=Longitude
+Name=CLONGITUDE_VS1
+Value=0,000000;Not included
+Value=1,000000;Included
+Value='         ';Not applicable
+Name=NOTAPPL,Special

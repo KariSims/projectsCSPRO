@@ -1,0 +1,15 @@
+﻿[Run Information]
+Version=CSPro 7.4
+AppType=Entry
+
+[DataEntryInit]
+StartMode=Add
+
+[Files]
+Application=.\QuestPrice.ent
+InputData=..\Data\IPC01.csdb
+
+[ExternalFiles]
+DPAKIN_DICT=..\Data\IDKIN.csdb
+FEUIL1_DICT=..\Data\IDMARK.csdb
+Q1_DICT=..\Data\DVar.csdb

@@ -1,0 +1,1 @@
+start "" "C:\Program Files (x86)\CSPro 6.3\CSEntry.exe" "c:\RDC123\Applications\Supervisor\SupervisorMenu.pff"

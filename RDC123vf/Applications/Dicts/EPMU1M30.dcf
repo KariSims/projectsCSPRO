@@ -1,0 +1,473 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=MODULE 30: IMPOTS ET TAXES AU COURS DES 12 DERNIERS MOIS
+Name=EPMU1M30
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=Francais
+LIN=Lingala
+SWA=Swahili
+
+[Level]
+Label=MODULE 30: IMPOTS ET TAXES AU COURS DES 12 DERNIERS MOIS questionnaire
+Name=M30
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=M301
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=M302
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro enquêteur
+Name=M30INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M303
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M303_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS
+Name=MODM30
+RecordTypeValue='M30'
+RecordLen=180
+
+[Item]
+Label=Code Enquêteur|Numéro Enquêteur
+Name=M30HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur|Numéro Superviseur
+Name=M305
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview|Date d'interview
+Name=M306
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview|Jour d'interview
+Name=M306J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview|Jour d'interview
+Name=M306J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de l'interview|Mois d'interview
+Name=M306M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=M306M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année de l'interview|Année d'interview
+Name=M306A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview|Année d'interview
+Name=M306A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu|Milieu de résidence
+Name=M307
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu|Milieu de résidence
+Name=M307_VS1
+Value=1;URBAIN
+
+[Item]
+Label=Province|Province
+Name=M308
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province|Province
+Name=M308_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps dudébut de l'interview|Temps début de l' interview
+Name=M309
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M309H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M309H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M309M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M309M_VS1
+Value=0:59
+
+[Item]
+Label=L'heure de la fin de l'interview|Temps de fin de l'interview
+Name=M3010
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M3010H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M3010H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M3010M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M3010M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement |Consentement
+Name=M3011
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement |Consentement
+Name=M3011_VS1
+Value=1;OUI, PERMISSION DONNEE|OUI, PERMISSION DONNEE|نعم، تم إعطاء الإذن
+Value=2;NON, PERMISSION PAS DONNEE |NON, PERMISSION PAS DONNEE|لا، لم يتم إعطاء الإذن
+
+[Item]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M3017
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M3017_VS1
+Value=1;COMPLETE|COMPLETE|أُنجزت المقابلة
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|PAS DE MEMBRE DU MENAGE A LA MAISON OU PAS DE REPONDANT DU MENAGE COMPETENT A LA MAISON AU MOMENT DE LA VISITE|لا يوجد أي فرد من أفراد الأسرة المعيشية أو مستجيب كفؤ في المنزل للإجابة وقت الزيارة
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE DE TEMPS|الأسرة بأكملها غير متواجدة في المسكن لمدة زمنية طويلة
+Value=4;REFUS|REFUS|رفضت الأسرة إجراء المقابلة
+Value=5;LOGEMENT VIDE|LOGEMENT VIDE OU ADRESSE N’EST PAS CELLE D’UN LOGEMENT|المسكن فارغ أو العنوان ليس مسكن
+Value=6;LOGEMENT DETRUIT|LOGEMENT DETRUIT|المسكن هدم
+Value=7;LOGEMENT PAS TROUVE|LOGEMENT PAS TROUVE|لم يتم العثور على المسكن
+Value=96;AUTRE
+
+[Item]
+Label=Nom du chef de ménage|Nom du chef de ménage
+Name=M30NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M30ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M30FIN
+Start=122
+Len=1
+
+[ValueSet]
+Label=Finish
+Name=M30FIN_VS1
+Value=1;Revisiter le questionnaire
+Value=2;Ajouter les  notes
+Value=3;Savegarder questionnaire et terminer
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer
+
+[Item]
+Label=Nombre de ligne
+Name=IMPQ01
+Start=124
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Total impôt ou taxe
+Name=IMPQTOT
+Start=126
+Len=13
+ZeroFill=Yes
+
+[Item]
+Label=Code Répondant
+Name=M30CODE_REP
+Start=139
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Nom Répondant
+Name=M30NOM_REP
+Start=141
+Len=40
+DataType=Alpha
+
+[Record]
+Label=MODULE 30: IMPOTS ET TAXES AU COURS DES 12 DERNIERS MOIS
+Name=IMPOTS
+RecordTypeValue='DIT'
+MaxRecords=99
+RecordLen=123
+
+[Item]
+Label=Numéro de ligne
+Name=IMPQ02
+Start=14
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Libelles produits saisis
+Name=IMPQ03S
+Start=16
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Libelles produits NAEMA
+Name=IMPQ03N
+Start=56
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Code du produit
+Name=IMPQ03
+Start=96
+Len=4
+DataType=Alpha
+
+[ValueSet]
+Label=Code du produit
+Name=IMPQ03_VS1
+Value='41  ';Amendes transactionnelles sur l’hygiène
+Value=1316;Autres Impôts
+Value=1593;Certificat de contrôle technique (à l’exception des remorques et des véhicules spéciaux)
+Value=1318;Droits d’octroi de la carte de résident pour étranger
+Value='246 ';Frais d'actes notariés
+Value='245 ';Frais de carte d’abonnement à une bibliothèque publique de la province
+Value=1512;Frais de délivrance des copies des documents fonciers, immobiliers et cadastraux
+Value='111 ';Impôt réel sur les véhicules automoteurs (vignette)
+Value='113 ';Impôt sur la superficie des propriétés foncières bâties et non bâties
+Value='112 ';Impôt sur les revenus locatifs
+Value=1313;Impôts sur les propriétés bâties
+Value=1314;Impôts sur les propriétés non bâties
+Value=1315;Impôts sur les revenus des capitaux mobiliers
+Value=1312;Impôts sur les revenus non salariaux
+Value=1311;Impôts sur les revenus salariaux
+Value='120 ';Patente
+Value=1514;Produits de délivrance d’attestation tenant lieu de diplôme
+Value=1513;Produits de délivrance des titres scolaires des ITM
+Value='117 ';Taxe de stationnement au parking public appartenant à la ville et aménagé à cet effet
+Value=2128;Taxe de voyage par voie terrestre, ferroviaire et fluviale des touristes
+Value='215 ';Taxe péage ponts, routes d'intérêt provincial ou local
+Value='129 ';Taxe spéciale de circulation routière
+Value=2122;Taxe statistique d’embarquement local dans les avions
+Value='28  ';Taxe sur actes d’état civil
+Value='21  ';Taxe sur attestation de succession
+Value=2114;Taxe sur autorisation de bâtir des immeubles
+Value=1219;Taxe sur autorisation de construction des fours à charbon de bois de type traditionnel
+Value='25  ';Taxe sur autorisation de morcellement des concessions foncières
+Value=1237;Taxe sur autorisation de raccordement en eau et électricité pour les immeubles à étages
+Value='216 ';Taxe sur certificat d’aptitude physique
+Value='116 ';Taxe sur construction des caveaux
+Value='24  ';Taxe sur enregistrement de parcelle
+Value='29  ';Taxe sur immatriculation des motos
+Value='214 ';Taxe sur la feuille de route des véhicules importés
+Value='18  ';Taxe sur le contrôle technique des motos
+Value='211 ';Taxe sur légitime détention d’animaux protégés
+Value='218 ';Taxe sur les actes notariés
+
+[Item]
+Label=Prix unitaire de cet impôt ou taxe
+Name=IMPQ04
+Start=100
+Len=10
+ZeroFill=Yes
+
+[Item]
+Label=Montant total de cette imposition
+Name=IMPQ05
+Start=110
+Len=10
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de taxe
+Name=IMPQ06
+Start=120
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de taxe
+Name=IMPQ06_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+
+[Item]
+Label=Périodicité
+Name=IMPQ07
+Start=122
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Périodicité
+Name=IMPQ07_VS1
+Value=1;Par jour|Mokolo na mokolo|Kwa siku
+Value=2;Par mois|Sanza nionso|Kwa mwezi
+Value=3;Par trimestre|Sima ya sanza misato|Kwa robo ya
+Value=4;Par semestre|sima ya sanza motoba|Kwa semara yq
+Value=5;Par an|sima ya mbula moko|Kwa mwaka
+Value=6;Accidentèlement
+Value=9;Manquant|Na yebi te|Na yebi te
+
+[Item]
+Label=Type de la dépense
+Name=M30TYPE
+Start=123
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Type de la dépense
+Name=M30TYPE_VS1
+Value=1;Impôt
+Value=2;Taxe
+Value=3;Amende, Frais Divers

@@ -1,0 +1,219 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=TabCE - Working Storage Dictionary
+Name=WS_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Working Storage Level
+Name=WS_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Dummy Id
+Name=DUMMY_ID
+Start=2
+Len=1
+
+[Record]
+Label=Working Storage Record
+Name=WS_REC
+RecordTypeValue='1'
+RecordLen=16
+
+[Item]
+Label=System Total
+Name=SYSTEM_TOTAL
+Start=3
+Len=1
+
+[Item]
+Label=RG6- Année de création de l’unité
+Name=RG6_S
+Start=4
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=RG6- Année de création de l’unité
+Name=RG6_S_VS1
+Value=2019;2019
+Value=2018;2018
+Value=2017;2017
+Value=2016;2016
+Value=2015;2015
+Value=2014;2014
+Value=2013;2013
+Value=2012;2012
+Value=2011;2011
+Value=2010;2010
+Value=2009;2009
+Value=2008;2008
+Value=2007;2007
+Value=2006;2006
+Value=2005;2005
+Value=2004;2004
+Value=2003;2003
+Value=2002;2002
+Value=2001;2001
+Value=2000;2000
+Value=1999;1999
+Value=1998;1998
+Value=1997;1997
+Value=1996;1996
+Value=1995;1995
+Value=1994;1994
+Value=1993;1993
+Value=1992;1992
+Value=1991;1991
+Value=1990;1990
+Value=1989;1989
+Value=1988;1988
+Value=1987;1987
+Value=1986;1986
+Value=1985;1985
+Value=1984;1984
+Value=1983;1983
+Value=1982;1982
+Value=1981;1981
+Value=1980;1980
+Value=1950:1979;Avant 1980
+Value=9998;Ne sait pas
+Value=9999;ND
+
+[Item]
+Label=RG7- Année de démarrage des activités de l’unité
+Name=RG7_S
+Start=8
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=RG7- Année de démarrage des activités de l’unité
+Name=RG7_S_VS1
+Value=2019;2019
+Value=2018;2018
+Value=2017;2017
+Value=2016;2016
+Value=2015;2015
+Value=2014;2014
+Value=2013;2013
+Value=2012;2012
+Value=2011;2011
+Value=2010;2010
+Value=2009;2009
+Value=2008;2008
+Value=2007;2007
+Value=2006;2006
+Value=2005;2005
+Value=2004;2004
+Value=2003;2003
+Value=2002;2002
+Value=2001;2001
+Value=2000;2000
+Value=1999;1999
+Value=1998;1998
+Value=1997;1997
+Value=1996;1996
+Value=1995;1995
+Value=1994;1994
+Value=1993;1993
+Value=1992;1992
+Value=1991;1991
+Value=1990;1990
+Value=1989;1989
+Value=1988;1988
+Value=1987;1987
+Value=1986;1986
+Value=1985;1985
+Value=1984;1984
+Value=1983;1983
+Value=1982;1982
+Value=1981;1981
+Value=1980;1980
+Value=1950:1979;Avant 1980
+Value=9998;Ne sait pas
+Value=9999;ND
+
+[Item]
+Label=Durée entre la création et le demarrage
+Name=DUREE
+Start=12
+Len=1
+
+[ValueSet]
+Label=Durée entre la création et le demarrage
+Name=DUREE_VS1
+Value=0;0 an
+Value=1;1 an
+Value=2;2 ans
+Value=3;3 ans
+Value=4;4 ans
+Value=5;5 ans
+Value=6;6 ans
+Value=7;7 ans
+Value=8;8 ans
+Value=9;9 ans
+
+[Item]
+Label=Groupe de l'activité principale
+Name=GAP
+Start=13
+Len=2
+
+[ValueSet]
+Label=Groupe de l'activité principale
+Name=GAP_VS1
+Value=1;AGRICULTURE, SYLVICULTURE, PÊCHE
+Value=2;ACTIVITÉS EXTRACTIVES
+Value=3;ACTIVITES DE FABRICATION
+Value=4;PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ ET DE GAZ
+Value=5;PRODUCTION ET DISTRIBUTION D'EAU, ASSAINISSEMENT, TRAITEMENT DES DECHETS ET DEPOLLUTION
+Value=6;CONSTRUCTION
+Value=7;COMMERCE
+Value=8;TRANSPORTS ET ENTREPOSAGE
+Value=9;HEBERGEMENT ET RESTAURATION
+Value=10;INFORMATION ET COMMUNICATION
+Value=11;ACTIVITÉS FINANCIÈRES ET D'ASSURANCE
+Value=12;ACTIVITES  IMMOBILIERES
+Value=13;ACTIVITÉS SPECIALISEES, SCIENTIFIQUES ET TECHNIQUES
+Value=14;ACTIVITES DE SERVICES DE SOUTIEN ET DE BUREAU
+Value=15;ENSEIGNEMENT
+Value=16;ACTIVITÉS POUR  LA SANTÉ HUMAINE ET L'ACTION SOCIALE
+Value=17;ACTIVITÉS ARTISTIQUES, SPORTIVES ET RECREATIVES
+Value=18;AUTRES ACTIVITÉS DE SERVICES N.C.A.
+Value=19;ACTIVITÉS SPECIALES DES MÉNAGES
+
+[Item]
+Label=Groupe de l'activité principale
+Name=GAS1
+Start=15
+Len=2
+
+[ValueSet]
+Label=Groupe de l'activité principale
+Name=GAS1_VS1
+Value=1;AGRICULTURE, SYLVICULTURE, PÊCHE
+Value=2;ACTIVITÉS EXTRACTIVES
+Value=3;ACTIVITES DE FABRICATION
+Value=4;PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ ET DE GAZ
+Value=5;PRODUCTION ET DISTRIBUTION D'EAU, ASSAINISSEMENT, TRAITEMENT DES DECHETS ET DEPOLLUTION
+Value=6;CONSTRUCTION
+Value=7;COMMERCE
+Value=8;TRANSPORTS ET ENTREPOSAGE
+Value=9;HEBERGEMENT ET RESTAURATION
+Value=10;INFORMATION ET COMMUNICATION
+Value=11;ACTIVITÉS FINANCIÈRES ET D'ASSURANCE
+Value=12;ACTIVITES  IMMOBILIERES
+Value=13;ACTIVITÉS SPECIALISEES, SCIENTIFIQUES ET TECHNIQUES
+Value=14;ACTIVITES DE SERVICES DE SOUTIEN ET DE BUREAU
+Value=15;ENSEIGNEMENT
+Value=16;ACTIVITÉS POUR  LA SANTÉ HUMAINE ET L'ACTION SOCIALE
+Value=17;ACTIVITÉS ARTISTIQUES, SPORTIVES ET RECREATIVES
+Value=18;AUTRES ACTIVITÉS DE SERVICES N.C.A.
+Value=19;ACTIVITÉS SPECIALES DES MÉNAGES

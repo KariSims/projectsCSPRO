@@ -1,0 +1,10 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Entry
+
+[Files]
+Application=.\MENU_AR.ent
+InputData=..\..\Data\Essaie0.csdb
+
+[ExternalFiles]
+EQUIPE_DICT=..\Fext\teams.csdb

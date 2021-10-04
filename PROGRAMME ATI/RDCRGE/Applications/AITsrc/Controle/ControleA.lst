@@ -1,0 +1,29 @@
+﻿Application     C:\RDCRGE\Applications\AIT\Controle\ControleA.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\RDCRGE\E01101118101001002.csdb                                                                                                                                                                                                                                                              
+<Output>        <<CSPro DB>> C:\RDCRGE\Applications\AIT\Controle\qssd.csdb                                                                                                                                                                                                                                                  
+<File>          HTMLTEMP=C:\RDCRGE\Applications\AIT\Controle\fds.txt
+<File>          FICH=C:\RDCRGE\Applications\AIT\Controle\gstd.txt
+
+Date            Apr 26, 2019
+Start Time      15:36:38
+End Time        15:36:38
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |      17 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |          4   |          0   |          4  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

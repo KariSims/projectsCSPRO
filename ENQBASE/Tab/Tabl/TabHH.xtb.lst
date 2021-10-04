@@ -1,0 +1,48 @@
+﻿Application     C:\ENQBASE\Tab\Tabl\TabHH.xtb
+Type            Tab
+Input Data      <<CSPro DB>> C:\ENQBASE\Tab\basedonnees\ModuleHH.csdb                                                                                                                                                                                                                                                       
+Output          C:\ENQBASE\Tab\Tabl\ModuleHH.csdb.tab
+
+Date            Mar 31, 2019
+Start Time      19:57:45
+End Time        19:57:46
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |   10859 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |        542   |          0   |        542  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\Tab\Tabl\TabHH.xtb
+Type            Format
+Input Data      C:\ENQBASE\Tab\Tabl\ModuleHH.csdb.tab
+Output          C:\ENQBASE\Tab\Tabl\TabHH.xtb.tbw
+
+Date            Mar 31, 2019
+Start Time      19:57:46
+End Time        19:57:46
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |       2 Slices  Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +-----------------------------------------------------+
+                                                                         
+
+Process Messages
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

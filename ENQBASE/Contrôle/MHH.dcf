@@ -1,0 +1,27 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=EXPCFCRT
+Name=EXPCFCRT_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=EXPCFCRT Level
+Name=EXPCFCRT_LEVEL
+
+[IdItems]
+
+[Item]
+Label=EXPCFCRT Identification
+Name=EXPCFCRT_ID
+Start=2
+Len=1
+
+[Record]
+Label=EXPCFCRT Record
+Name=EXPCFCRT_REC
+RecordTypeValue='1'
+RecordLen=2

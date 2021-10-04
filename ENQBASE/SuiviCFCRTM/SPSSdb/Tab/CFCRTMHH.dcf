@@ -1,0 +1,2724 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=MICS6  Questionnaire Ménage
+Name=MICS6HH
+RecordTypeStart=5
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=French
+
+[Level]
+Label=Ménage
+Name=HH
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=HH1
+Start=1
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de grappe
+Name=HH1_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+Value=32;32
+Value=33;33
+Value=34;34
+Value=35;35
+Value=36;36
+Value=37;37
+Value=38;38
+Value=39;39
+Value=40;40
+Value=41;41
+Value=42;42
+Value=43;43
+Value=44;44
+Value=45;45
+Value=46;46
+Value=47;47
+Value=48;48
+Value=49;49
+Value=50;50
+Value=51;51
+Value=52;52
+Value=53;53
+Value=54;54
+Value=55;55
+Value=56;56
+Value=57;57
+Value=58;58
+Value=59;59
+Value=60;60
+Value=61;61
+Value=62;62
+Value=63;63
+Value=64;64
+Value=65;65
+Value=66;66
+Value=67;67
+Value=68;68
+Value=69;69
+Value=70;70
+Value=71;71
+Value=72;72
+Value=73;73
+Value=74;74
+Value=75;75
+Value=76;76
+Value=77;77
+Value=78;78
+Value=79;79
+Value=80;80
+Value=81;81
+Value=82;82
+Value=83;83
+Value=84;84
+Value=85;85
+Value=86;86
+Value=87;87
+Value=88;88
+Value=89;89
+Value=90;90
+Value=91;91
+Value=92;92
+Value=93;93
+Value=94;94
+Value=95;95
+Value=96;96
+Value=97;97
+Value=98;98
+Value=99;99
+
+[Item]
+Label=Numéro du ménage
+Name=HH2
+Start=3
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro du ménage
+Name=HH2_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+Value=32;32
+Value=33;33
+Value=34;34
+Value=35;35
+Value=36;36
+Value=37;37
+Value=38;38
+Value=39;39
+Value=40;40
+Value=41;41
+Value=42;42
+Value=43;43
+Value=44;44
+Value=45;45
+Value=46;46
+Value=47;47
+Value=48;48
+Value=49;49
+Value=50;50
+Value=51;51
+Value=52;52
+Value=53;53
+Value=54;54
+Value=55;55
+Value=56;56
+Value=57;57
+Value=58;58
+Value=59;59
+Value=60;60
+Value=61;61
+Value=62;62
+Value=63;63
+Value=64;64
+Value=65;65
+Value=66;66
+Value=67;67
+Value=68;68
+Value=69;69
+Value=70;70
+Value=71;71
+Value=72;72
+Value=73;73
+Value=74;74
+Value=75;75
+Value=76;76
+Value=77;77
+Value=78;78
+Value=79;79
+Value=80;80
+Value=81;81
+Value=82;82
+Value=83;83
+Value=84;84
+Value=85;85
+Value=86;86
+Value=87;87
+Value=88;88
+Value=89;89
+Value=90;90
+Value=91;91
+Value=92;92
+Value=93;93
+Value=94;94
+Value=95;95
+Value=96;96
+Value=97;97
+Value=98;98
+Value=99;99
+
+[Record]
+Label=Panneau d'information du ménage
+Name=MODHH
+RecordTypeValue='0HH'
+RecordLen=101
+
+[Item]
+Label=Numéro Enquêteur
+Name=HH3
+Start=8
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro Superviseur
+Name=HH4
+Start=10
+Len=1
+ZeroFill=Yes
+
+[Item]
+Label=Date d'interview
+Name=HH5
+Start=11
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour d'interview
+Name=HH5D
+Start=11
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour d'interview
+Name=HH5D_FRA
+Value=1:31
+
+[Item]
+Label=Mois d'interview
+Name=HH5M
+Start=13
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois d'interview
+Name=HH5M_FRA
+Value=1:12
+
+[Item]
+Label=Année d'interview
+Name=HH5Y
+Start=15
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année d'interview
+Name=HH5Y_FRA
+Value=2016:2020
+
+[Item]
+Label=Nom du chef de ménage
+Name=HHNAME
+Start=19
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Temps début de l' interview
+Name=HH11
+Start=59
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l' interview - Heure
+Name=HH11H
+Start=59
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l' interview - Heure
+Name=HH11H_FRA
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes
+Name=HH11M
+Start=61
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes
+Name=HH11M_FRA
+Value=0:59
+
+[Item]
+Label=Consentement
+Name=HH12
+Start=63
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement
+Name=HH12_FRA
+Value=1;OUI, PERMISSION DONNEE
+Value=2;NON, PERMISSION PAS DONNEE
+
+[Item]
+Label=Résultat de l'enquête
+Name=HH46
+Start=64
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Résultat de l'enquête
+Name=HH46_FRA
+Value=1;COMPLETE
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON OU PAS DE REPONDANT DU MENAGE COMPETENT A LA MAISON AU MOMENT DE LA VISITE
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE DE TEMPS
+Value=4;REFUS
+Value=5;LOGEMENT VIDE OU ADRESSE N’EST PAS CELLE D’UN LOGEMENT
+Value=6;LOGEMENT DETRUIT
+Value=7;LOGEMENT PAS TROUVE
+Value=96;AUTRE
+
+[Item]
+Label=Temps de fin de l'interview
+Name=HH13
+Start=66
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin  de l'interview - Heure
+Name=HH13H
+Start=66
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin  de l'interview - Heure
+Name=HH13H_FRA
+Value=6:23
+
+[Item]
+Label=Fin de l'nterview - Minutes
+Name=HH13M
+Start=68
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'nterview - Minutes
+Name=HH13M_FRA
+Value=0:59
+
+[Item]
+Label=Langage du  Questionnaire
+Name=HH14
+Start=70
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Langage du  Questionnaire
+Name=HH14_FRA
+Value=1;FRANÇAIS
+Value=2;KIKONGO
+Value=3;LINGALA
+Value=4;SWAHILI
+Value=5;TSHILUBA
+Value=6;AUTRE LANGUE
+Value=9;NON REPONSE
+
+[Item]
+Label=Langage de l'Interview
+Name=HH15
+Start=71
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Langage de l'Interview
+Name=HH15_FRA
+Value=1;FRANÇAIS
+Value=2;KIKONGO
+Value=3;LINGALA
+Value=4;SWAHILI
+Value=5;TSHILUBA
+Value=6;AUTRE LANGUE
+Value=9;NON REPONSE
+
+[Item]
+Label=Langue maternelle du répondant
+Name=HH16
+Start=72
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Langue maternelle du répondant
+Name=HH16_FRA
+Value=1;FRANÇAIS
+Value=2;KIKONGO
+Value=3;LINGALA
+Value=4;SWAHILI
+Value=5;TSHILUBA
+Value=6;AUTRE LANGUE
+Value=9;NON REPONSE
+
+[Item]
+Label=Besoin d’un traducteur pour n’importe quelle partie de ce questionnaire
+Name=HH17
+Start=73
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Besoin d’un traducteur pour n’importe quelle partie de ce questionnaire
+Name=HH17_FRA
+Value=1;OUI, QUESTIONNAIRE ENTIER
+Value=2;OUI, PARTIES DU QUESTIONNAIRE
+Value=3;NON, PAS BESOIN
+
+[Item]
+Label=Consentement pour les filles de 15 - 17 ans interviewées
+Name=HH33
+Start=74
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement pour les filles de 15 - 17 ans interviewées
+Name=HH33_FRA
+Value=1;OUI pour toutes les filles de 15-17 ans
+Value=2;NON pour au moins une fille de 15-17 ans et ‘OUI’ pour au moins une fille de 15-17 ans
+Value=3;NON pour toutes les filles de 15-17ans
+Value=4;Aucune fille de 15-17 ans
+
+[Item]
+Label=Numéro du repondant au questionnaire Ménage
+Name=HH47
+Start=75
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro du repondant au questionnaire Ménage
+Name=HH47_FRA
+Value=1:50
+
+[Item]
+Label=Nombre de membres de ménage
+Name=HH48
+Start=77
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de membres de ménage
+Name=HH48_FRA
+Value=1:50
+
+[Item]
+Label=Nombre de femmes de 15 - 49 ans
+Name=HH49
+Start=79
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de femmes de 15 - 49 ans
+Name=HH49_FRA
+Value=0:50
+
+[Item]
+Label=Nombre de questionnaires femmes completés
+Name=HH53
+Start=81
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de questionnaires femmes completés
+Name=HH53_FRA
+Value=0:50
+
+[Item]
+Label=Nombre d"enfants de moins de 5 ans
+Name=HH51
+Start=83
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre d"enfants de moins de 5 ans
+Name=HH51_FRA
+Value=0:50
+
+[Item]
+Label=Nombre de questionnaires des enfants de moins de 5 ans complétés
+Name=HH55
+Start=85
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de questionnaires des enfants de moins de 5 ans complétés
+Name=HH55_FRA
+Value=0:50
+
+[Item]
+Label=Introduction à la Liste des membres du ménage
+Name=INTROHL
+Start=87
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction à la Liste des membres du ménage
+Name=INTROHL_FRA
+Value=1;Continuer
+
+[Item]
+Label=Fin
+Name=HHFIN
+Start=88
+Len=1
+
+[ValueSet]
+Label=Fin
+Name=HHFIN_FRA
+Value=1;Revisiter le questionnaire
+Value=2;Ajouter les  notes
+Value=3;Savegarder questionnaire et terminer
+
+[Item]
+Label=Ville
+Name=HH66
+Start=89
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Ville
+Name=HH66_VS1
+Value=1;Kinshasa
+Value=2;Kwango
+Value=3;Ituri
+Value=4;Kasaï Oriental
+
+[Item]
+Label=Zone de santé
+Name=HH67
+Start=90
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Zone de santé
+Name=HH67_VS1
+Value=11;NSELE
+
+[ValueSet]
+Label=Zone de santé
+Name=HH67_VS2
+Value=21;KENGE
+
+[ValueSet]
+Label=Zone de santé
+Name=HH67_VS3
+Value=31;KOMANDA
+Value=32;NYAKUNDE
+
+[ValueSet]
+Label=Zone de santé
+Name=HH67_VS4
+Value=41;MIABI
+Value=42;TSHILENGE
+
+[Item]
+Label=Aire de santé
+Name=HH68
+Start=92
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Village
+Name=HH69
+Start=96
+Len=6
+ZeroFill=Yes
+
+[Record]
+Label=Liste des membres du ménage (1)
+Name=MODHX
+RecordTypeValue='0HX'
+Required=No
+MaxRecords=50
+RecordLen=53
+
+[Item]
+Label=Numéro de la Ligne
+Name=HX1
+Start=8
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de la Ligne
+Name=HX1_FRA
+Value=1:50
+
+[Item]
+Label=Nom
+Name=HX2
+Start=10
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Relation avec le Chef de ménage
+Name=HX3
+Start=50
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Relation avec le Chef de ménage
+Name=HX3_FRA
+Value=1;CHEF
+Value=2;CONJOINT / PARTENAIRE
+Value=3;FILS / FILLE
+Value=4;BEAU-FILS / BELLE-FILLE
+Value=5;PETIT-ENFANT
+Value=6;PARENT
+Value=7;BEAUX-PARENTS
+Value=8;FRERE / SOEUR
+Value=9;BEAU-FRER / BELLE-SOEUR
+Value=10;ONCLE / TANTE
+Value=11;NEVEU / NIECE
+Value=12;AUTRE PARENT
+Value=13;ENFANT ADOPTE / CONFIE / ENFANT DU CONJOINT
+Value=14;DOMESTIQUE (VIT DANS LE MENAGE)
+Value=96;AUTRE (PAS DE RELATION)
+Value=98;NSP
+
+[Item]
+Label=Sexe
+Name=HX4
+Start=52
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Sexe
+Name=HX4_FRA
+Value=1;MASC
+Value=2;FEM
+
+[Item]
+Label=Autres  membres
+Name=HX0
+Start=53
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autres  membres
+Name=HX0_FRA
+Value=1;OUI
+Value=2;NON
+
+[Record]
+Label=Liste des membres duménage
+Name=MODHL
+RecordTypeValue='0HL'
+Required=No
+MaxRecords=50
+RecordLen=56
+
+[Item]
+Label=Numéro de la Ligne
+Name=HL1
+Start=8
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de la Ligne
+Name=HL1_FRA
+Value=1:50
+
+[Item]
+Label=Nom
+Name=HL2
+Start=10
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Relation avec le Chef de ménage
+Name=HL3
+Start=30
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Relation avec le Chef de ménage
+Name=HL3_FRA
+Value=1;CHEF
+Value=2;CONJOINT / PARTENAIRE
+Value=3;FILS / FILLE
+Value=4;BEAU-FILS / BELLE-FILLE
+Value=5;PETIT-ENFANT
+Value=6;PARENT
+Value=7;BEAUX-PARENTS
+Value=8;FRERE / SOEUR
+Value=9;BEAU-FRER / BELLE-SOEUR
+Value=10;ONCLE / TANTE
+Value=11;NEVEU / NIECE
+Value=12;AUTRE PARENT
+Value=13;ENFANT ADOPTE / CONFIE / ENFANT DU CONJOINT
+Value=14;DOMESTIQUE (VIT DANS LE MENAGE)
+Value=96;AUTRE (PAS DE RELATION)
+Value=98;NSP
+
+[Item]
+Label=Sexe
+Name=HL4
+Start=32
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Sexe
+Name=HL4_FRA
+Value=1;MASC
+Value=2;FEM
+
+[Item]
+Label=Date de naissance
+Name=HL5
+Start=33
+Len=6
+ZeroFill=Yes
+
+[Item]
+Label=Mois de naissance
+Name=HL5M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de naissance
+Name=HL5M_FRA
+Value=1;JANVIER
+Value=2;FÉVRIER
+Value=3;MARS
+Value=4;AVRIL
+Value=5;MAI
+Value=6;JUIN
+Value=7;JUILLET
+Value=8;AOUT
+Value=9;SEPTEMBRE
+Value=10;OCTOBRE
+Value=11;NOVEMBRE
+Value=12;DECEMBRE
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de naissance
+Name=HL5Y
+Start=35
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de naissance
+Name=HL5Y_FRA
+Value=1900:2020
+Value=9998;NSP
+Value=9999;NON REPONSE
+
+[Item]
+Label=Age
+Name=HL6
+Start=39
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Age
+Name=HL6_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Membre qui a dortmidans le ménage la nuit dernière
+Name=HL7
+Start=41
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Membre qui a dortmidans le ménage la nuit dernière
+Name=HL7_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Numéro de la ligne de la femme de 15 - 49 ans
+Name=HL8
+Start=42
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de la ligne de la femme de 15 - 49 ans
+Name=HL8_FRA
+Value=0;NON ELIGIBLE
+Value=1:50
+
+[Item]
+Label=Numéro de la Ligne de l'enfant  agé de  0-4 ans
+Name=HL10
+Start=44
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de la Ligne de l'enfant  agé de  0-4 ans
+Name=HL10_FRA
+Value=0;NON ELIGIBLE
+Value=1:50
+
+[Item]
+Label=Membre agé de 0-17 ans
+Name=HL11
+Start=46
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Membre agé de 0-17 ans
+Name=HL11_FRA
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=Est-ce que la mère biologique est vivante
+Name=HL12
+Start=47
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que la mère biologique est vivante
+Name=HL12_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que la mère biologique vit dans le ménage
+Name=HL13
+Start=48
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que la mère biologique vit dans le ménage
+Name=HL13_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Numéro de ligne de la mère biologique dans le ménage
+Name=HL14
+Start=49
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne de la mère biologique dans le ménage
+Name=HL14_FRA
+Value=0:50
+Value=99;NON REPONSE
+
+[Item]
+Label=Est-ce que le père biologique est vivant
+Name=HL16
+Start=51
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que le père biologique est vivant
+Name=HL16_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que le père biologique vit dans le ménage
+Name=HL17
+Start=52
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que le père biologique vit dans le ménage
+Name=HL17_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Numéro de ligne du père biologique dans le ménage
+Name=HL18
+Start=53
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne du père biologique dans le ménage
+Name=HL18_FRA
+Value=0:50
+Value=99;NON REPONSE
+
+[Item]
+Label=Numéro de ligne de la mère ou le/le gardien/ne principal/e de l'enfant de 0-17 ans
+Name=HL20
+Start=55
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne de la mère ou le/le gardien/ne principal/e de l'enfant de 0-17 ans
+Name=HL20_FRA
+Value=1:50
+Value=90;PERSONNE
+
+[Record]
+Label=Education
+Name=MODED
+RecordTypeValue='0ED'
+Required=No
+MaxRecords=50
+RecordLen=70
+
+[Item]
+Label=Numéro de la ligne
+Name=ED1
+Start=8
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de la ligne
+Name=ED1_FRA
+Value=1:50
+
+[Item]
+Label=Nom
+Name=ED2
+Start=10
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Age
+Name=ED2A
+Start=50
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Age de 3 ans ou plus
+Name=ED3
+Start=52
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Age de 3 ans ou plus
+Name=ED3_FRA
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=a-t-il/elle déjà fréquenté l'école ou un programme d'éducation  préscolaire
+Name=ED4
+Start=53
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=a-t-il/elle déjà fréquenté l'école ou un programme d'éducation  préscolaire
+Name=ED4_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le plus haut niveau d'école fréquenté
+Name=ED5A
+Start=54
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le plus haut niveau d'école fréquenté
+Name=ED5A_FRA
+Value=0;PREPRIMAIRE
+Value=10;PRIMAIRE
+Value=20;SECONDAIRE 1
+Value=31;SECONDAIRE 2 GENER
+Value=32;SECONDAIRE 2 TECHN
+Value=33;SECONDAIRE 2 PROFES
+Value=34;SECONDAIRE 2 ART&M
+Value=40;SUPERIEUR
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=La plus haute classe d'école fréquentée à ce niveau
+Name=ED5B
+Start=56
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=La plus haute classe d'école fréquentée à ce niveau
+Name=ED5B_FRA
+Value=0
+Value=1
+Value=2
+Value=3
+Value=4
+Value=5
+Value=6
+Value=7
+Value=8;8 et plus
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=La plus haute classe terminée/completée
+Name=ED6
+Start=58
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La plus haute classe terminée/completée
+Name=ED6_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Age 3-24 ans
+Name=ED7
+Start=59
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Age 3-24 ans
+Name=ED7_FRA
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=Vérifier ED4: a déjà fréquienté l'école ou le préscolaire
+Name=ED8
+Start=60
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Vérifier ED4: a déjà fréquienté l'école ou le préscolaire
+Name=ED8_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=A  fréquenté l'école  à n'importe quel moment de l'année scolaire actuelle (2018-2019)
+Name=ED9
+Start=61
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A  fréquenté l'école  à n'importe quel moment de l'année scolaire actuelle (2018-2019)
+Name=ED9_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Niveau d'éducation fréquenté durant l'année scolaire actuelle (2018-2019)
+Name=ED10A
+Start=62
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Niveau d'éducation fréquenté durant l'année scolaire actuelle (2018-2019)
+Name=ED10A_FRA
+Value=0;PREPRIMAIRE
+Value=10;PRIMAIRE
+Value=20;SECONDAIRE 1
+Value=31;SECONDAIRE 2 GENER
+Value=32;SECONDAIRE 2 TECHN
+Value=33;SECONDAIRE 2 PROFES
+Value=34;SECONDAIRE 2 ART&M
+Value=40;SUPERIEUR
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Classe fréquentée durant l'année scolaire actuelle (2017-2018)
+Name=ED10B
+Start=64
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Classe fréquentée durant l'année scolaire actuelle (2017-2018)
+Name=ED10B_FRA
+Value=0
+Value=1
+Value=2
+Value=3
+Value=4
+Value=5
+Value=6
+Value=7
+Value=8;8 et plus
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=A fréquenté l'école l'année précédente (2017-2108)
+Name=ED15
+Start=66
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A fréquenté l'école l'année précédente (2017-2108)
+Name=ED15_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Niveau d'éducation fréquenté l'année précédente
+Name=ED16A
+Start=67
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Niveau d'éducation fréquenté l'année précédente
+Name=ED16A_FRA
+Value=0;PREPRIMAIRE
+Value=10;PRIMAIRE
+Value=20;SECONDAIRE 1
+Value=31;SECONDAIRE 2 GENER
+Value=32;SECONDAIRE 2 TECHN
+Value=33;SECONDAIRE 2 PROFES
+Value=34;SECONDAIRE 2 ART&M
+Value=40;SUPERIEUR
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Classe fréquentée l'année précédente
+Name=ED16B
+Start=69
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Classe fréquentée l'année précédente
+Name=ED16B_FRA
+Value=0
+Value=1
+Value=2
+Value=3
+Value=4
+Value=5
+Value=6
+Value=7
+Value=8;8 et plus
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Record]
+Label=Caractéristiques du ménage
+Name=MODHC
+RecordTypeValue='0HC'
+Required=No
+RecordLen=73
+
+[Item]
+Label=Nombre de pièces que les membres de ce ménage utilisent  habituellement pour drmir
+Name=HC3
+Start=8
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Matériau principal du sol du logement
+Name=HC4
+Start=10
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Matériau principal du sol du logement
+Name=HC4_FRA
+Value=11;TERRE / NATURE
+Value=12;BOUSE
+Value=21;PLANCHES DE BOIS
+Value=22;PALME / BAMBOU
+Value=31;PARQUET EN BOIS OU BOIS POLI
+Value=32;VINYL OU BANDES D’ALSPHATE
+Value=33;CARREAUX
+Value=34;CIMENT
+Value=35;MOQUETTE / TAPIS
+Value=96;AUTRE
+Value=99;NON REPONSE
+
+[Item]
+Label=Matériau principal du toit
+Name=HC5
+Start=12
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Matériau principal du toit
+Name=HC5_FRA
+Value=11;PAS DE TOIT
+Value=12;CHAUME / FEUILLE DE PALME
+Value=13;HERBES
+Value=21;NATTE
+Value=22;PALMIER / BAMBOU
+Value=23;PLANCHES EN BOIS
+Value=24;CARTON
+Value=31;METAL / ALUMINIUM/ TOLE
+Value=32;BOIS
+Value=33;CALAMINE / FIBRE DE CIMENT
+Value=34;TUILES
+Value=35;CIMENT
+Value=36;TOIT DE BARDEAUX (SHINGLES)
+Value=96;AUTRE
+Value=99;NON REPONSE
+
+[Item]
+Label=Matériau principal des murs extérieurs
+Name=HC6
+Start=14
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Matériau principal des murs extérieurs
+Name=HC6_FRA
+Value=11;PAS DE MURS
+Value=12;CANE / PALME / TRONCS
+Value=13;BOUE
+Value=21;BAMBOU AVEC BOUE
+Value=22;PIERRE AVEC BOUE
+Value=23;ADOBE NON RECOUVERT/BANCO
+Value=24;CONTRE PLAQUE
+Value=25;CARTON
+Value=26;BOIS RECYCLE
+Value=27;TOLE
+Value=31;CIMENT
+Value=32;PIERRE AVEC CHAUX / CIMENT
+Value=33;BRIQUES
+Value=34;BLOCS DE CIMENT
+Value=35;ADOBE/BANCO RECOUVERT
+Value=36;PLANCHES DE BOIS/BARDEAUX
+Value=96;AUTRE
+Value=99;NON REPONSE
+
+[Item]
+Label=Le ménage a : Une ligne de téléphone fixe
+Name=HC7A
+Start=16
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a : Une ligne de téléphone fixe
+Name=HC7A_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Radio
+Name=HC7B
+Start=17
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Radio
+Name=HC7B_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: lampe à pétrole
+Name=HC7C
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: lampe à pétrole
+Name=HC7C_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Horloge
+Name=HC7D
+Start=19
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Horloge
+Name=HC7D_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Lit
+Name=HC7E
+Start=20
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Lit
+Name=HC7E_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Table
+Name=HC7F
+Start=21
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Table
+Name=HC7F_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Chaise
+Name=HC7G
+Start=22
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Chaise
+Name=HC7G_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Canapé
+Name=HC7H
+Start=23
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Canapé
+Name=HC7H_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Armoire
+Name=HC7I
+Start=24
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Armoire
+Name=HC7I_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=L'électricité dans le ménage
+Name=HC8
+Start=25
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'électricité dans le ménage
+Name=HC8_FRA
+Value=1;OUI, CONNECTE AU SYSTEME GENERAL
+Value=2;OUI, EN DEHORS DU SYSTEME (GENERATEUR/SYSTEME ISOLE)
+Value=3;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Television
+Name=HC9A
+Start=26
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Television
+Name=HC9A_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Refrigerateur
+Name=HC9B
+Start=27
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Refrigerateur
+Name=HC9B_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: cuisinière/ récaud
+Name=HC9C
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: cuisinière/ récaud
+Name=HC9C_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Machine à laver
+Name=HC9D
+Start=29
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Machine à laver
+Name=HC9D_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Fer à répasser
+Name=HC9E
+Start=30
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Fer à répasser
+Name=HC9E_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a:Ventilateur
+Name=HC9F
+Start=31
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a:Ventilateur
+Name=HC9F_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Chauffe eau
+Name=HC9G
+Start=32
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Chauffe eau
+Name=HC9G_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Four micro-onde
+Name=HC9H
+Start=33
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Four micro-onde
+Name=HC9H_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Lecteur DVD
+Name=HC9I
+Start=34
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Lecteur DVD
+Name=HC9I_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a: Climatiseur
+Name=HC9J
+Start=35
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a: Climatiseur
+Name=HC9J_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre de votre ménage possède :Une montre
+Name=HC10A
+Start=36
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre de votre ménage possède :Une montre
+Name=HC10A_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre de votre ménage possède:Une bicyclette/ vélo
+Name=HC10B
+Start=37
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre de votre ménage possède:Une bicyclette/ vélo
+Name=HC10B_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre de votre ménage possède:Une mobylette/ moto ou un scooter
+Name=HC10C
+Start=38
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre de votre ménage possède:Une mobylette/ moto ou un scooter
+Name=HC10C_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre de votre ménage possède:Une charrette tirée par un animal
+Name=HC10D
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre de votre ménage possède:Une charrette tirée par un animal
+Name=HC10D_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre de votre ménage possède:Une voiture, un camion ou une camionnette
+Name=HC10E
+Start=40
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre de votre ménage possède:Une voiture, un camion ou une camionnette
+Name=HC10E_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre de votre ménage possède:Un bateau à moteur
+Name=HC10F
+Start=41
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre de votre ménage possède:Un bateau à moteur
+Name=HC10F_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre de votre ménage possède:Une pirogue ou une baleinière à moteur
+Name=HC10G
+Start=42
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre de votre ménage possède:Une pirogue ou une baleinière à moteur
+Name=HC10G_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre de votre ménage possède:Une pirogue à pagaie
+Name=HC10H
+Start=43
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre de votre ménage possède:Une pirogue à pagaie
+Name=HC10H_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre du ménage a un ordinateur
+Name=HC11
+Start=44
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre du ménage a un ordinateur
+Name=HC11_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre du ménage a un téléphone mobile
+Name=HC12
+Start=45
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre du ménage a un téléphone mobile
+Name=HC12_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Accès à Internet à la maison
+Name=HC13
+Start=46
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Accès à Internet à la maison
+Name=HC13_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage est propriétaire du logement
+Name=HC14
+Start=47
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage est propriétaire du logement
+Name=HC14_FRA
+Value=1;PROPRIETAIRE
+Value=2;LOCATAIRE
+Value=3;LOGE PAR LA FAMILLE
+Value=6;AUTRE
+Value=9;NON REPONSE
+
+[Item]
+Label=Un membre du ménage possède de la terre  qui peut être utilisée pour l'agriculture
+Name=HC15
+Start=48
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un membre du ménage possède de la terre  qui peut être utilisée pour l'agriculture
+Name=HC15_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Nombre d'hectares des terres agricoles que les membres du ménage possèdent
+Name=HC16
+Start=49
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre d'hectares des terres agricoles que les membres du ménage possèdent
+Name=HC16_FRA
+Value=0:94;HECTARES
+Value=95;95 OU PLUS
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Le ménage possède-t-il des du bétail,des troupeaux et d'autres animaux de ferme ou de la volaille
+Name=HC17
+Start=51
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède-t-il des du bétail,des troupeaux et d'autres animaux de ferme ou de la volaille
+Name=HC17_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage possède: Vaches laitières ou taureaux
+Name=HC18A
+Start=52
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède: Vaches laitières ou taureaux
+Name=HC18A_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NO RESPONSE
+
+[Item]
+Label=Le ménage possède: Autre gros bétail
+Name=HC18B
+Start=54
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède: Autre gros bétail
+Name=HC18B_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NO RESPONSE
+
+[Item]
+Label=Le ménage possède: Chevaux, ânes ou mules
+Name=HC18C
+Start=56
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède: Chevaux, ânes ou mules
+Name=HC18C_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NO RESPONSE
+
+[Item]
+Label=Le ménage possède: Chèvres
+Name=HC18D
+Start=58
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède: Chèvres
+Name=HC18D_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NO RESPONSE
+
+[Item]
+Label=Le ménage possède: Moutons
+Name=HC18E
+Start=60
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède: Moutons
+Name=HC18E_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NO RESPONSE
+
+[Item]
+Label=Le ménage possède: Volaille
+Name=HC18F
+Start=62
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède: Volaille
+Name=HC18F_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NO RESPONSE
+
+[Item]
+Label=Le ménage possède: Cochons
+Name=HC18G
+Start=64
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède: Cochons
+Name=HC18G_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NO RESPONSE
+
+[Item]
+Label=Le ménage possède: Lapins
+Name=HC18H
+Start=66
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède: Lapins
+Name=HC18H_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NO RESPONSE
+
+[Item]
+Label=Le ménage possède: Cobayes (cochons d’Inde)
+Name=HC18I
+Start=68
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage possède: Cobayes (cochons d’Inde)
+Name=HC18I_FRA
+Value=0:94
+Value=95;95+
+Value=98;NSP
+Value=99;NO RESPONSE
+
+[Item]
+Label=Est-ce que'un membre de ce ménage à un compte en banque
+Name=HC19
+Start=70
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que'un membre de ce ménage à un compte en banque
+Name=HC19_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le ménage a le moustiquaire
+Name=TN1
+Start=71
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le ménage a le moustiquaire
+Name=TN1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Nombre de moustiquaires a le ménage
+Name=TN2
+Start=72
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de moustiquaires a le ménage
+Name=TN2_VS1
+Value=0:99
+
+[Record]
+Label=Moustiquaires imprégnées
+Name=MODTN
+RecordTypeValue='0TN'
+Required=No
+MaxRecords=10
+RecordLen=26
+
+[Item]
+Label=Numéro de la moustiquaire
+Name=TNLN
+Start=8
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de la moustiquaire
+Name=TNLN_FRA
+Value=1:10
+
+[Item]
+Label=Moustiquaire observée
+Name=TN3
+Start=10
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Moustiquaire observée
+Name=TN3_FRA
+Value=1;OBSERVEE
+Value=2;NON OBSERVEE
+
+[Item]
+Label=Depuis combien de mois le ménage a cette moustiquaire
+Name=TN4
+Start=11
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Depuis combien de mois le ménage a cette moustiquaire
+Name=TN4_FRA
+Value=0:36;MOIS
+Value=95;PLUS DE 36 MOIS
+Value=98;NSP / PAS SUR
+Value=99;NON REPONSE
+
+[Item]
+Label=Marque /type de moustiquaire
+Name=TN5
+Start=13
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Marque /type de moustiquaire
+Name=TN5_FRA
+Value=11;MILDA : PERMANET(SERENA)
+Value=12;MILDA : OLISET
+Value=13;MILDA : NET PROTECT
+Value=14;MILDA : DURANET
+Value=15;MILDA : INTERCEPTOR
+Value=17;MILDA : DAWA PLUS
+Value=19;MILDA : MAGNET
+Value=16;MILDA : AUTRE MARQUE
+Value=18;MILDA : NSP MARQUE
+Value=36;MILDA : AUTRE TYPE
+Value=98;NSP MARQUE /TYPE
+Value=99;NON REPONSE
+
+[Item]
+Label=La manière dont la moustiquaire a été obtenue
+Name=TN10
+Start=15
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La manière dont la moustiquaire a été obtenue
+Name=TN10_FRA
+Value=1;OUI, CAMPAGNE 2016
+Value=2;OUI, CAMPAGNE 2017
+Value=3;OUI, CAMPAGNE 2018
+Value=4;OUI, CPN
+Value=5;OUI, VACCINATION
+Value=6;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=L'endroit où la moustiquaire a été obtenue
+Name=TN12
+Start=16
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'endroit où la moustiquaire a été obtenue
+Name=TN12_FRA
+Value=1;CENTRE DE SANTE PUBLIC
+Value=2;CENTRE DE SANTE PRIVE
+Value=3;PHARMACIE
+Value=4;BOUTIQUE / MARCHE / RUE
+Value=5;AGENT DE SANTE COMMUNAUTAIRE
+Value=6;INSTITUTION RELIGIEUSE
+Value=7;ECOLE
+Value=96;AUTRE
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Personne a dormi sous moustiquaire la nuit dernière
+Name=TN13
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Personne a dormi sous moustiquaire la nuit dernière
+Name=TN13_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP / PAS SUR
+Value=9;NON REPONSE
+
+[Item]
+Label=Numéro de ligne de la 1ère personne qui a dormi sous moustiqaire
+Name=TN15_1
+Start=19
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne de la 1ère personne qui a dormi sous moustiqaire
+Name=TN15_1_VS2
+Value=1;01
+Value=2;02
+Value=3;03
+Value=4;04
+Value=5;05
+Value=6;06
+Value=7;07
+Value=8;08
+Value=9;09
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=0;PERSONNE NON LISTEE DANS LA LISTE DE MEMBRES DU MENAGE ET QUI A DORMI SOUS UNE MOUSTIQUAIRE
+Value=90;PERSONNE/ PERSONNE D’AUTRE
+
+[Item]
+Label=Numéro de ligne de la 2ème personne qui a dormi sous moustiqaire
+Name=TN15_2
+Start=21
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne de la 2ème personne qui a dormi sous moustiqaire
+Name=TN15_2_VS1
+Value=1;01
+Value=2;02
+Value=3;03
+Value=4;04
+Value=5;05
+Value=6;06
+Value=7;07
+Value=8;08
+Value=9;09
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=0;PERSONNE NON LISTEE DANS LA LISTE DE MEMBRES DU MENAGE ET QUI A DORMI SOUS UNE MOUSTIQUAIRE
+Value=90;PERSONNE/ PERSONNE D’AUTRE
+
+[Item]
+Label=Numéro de ligne de la 3ème personne qui a dormi sous moustiqaire
+Name=TN15_3
+Start=23
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne de la 3ème personne qui a dormi sous moustiqaire
+Name=TN15_3_VS1
+Value=1;01
+Value=2;02
+Value=3;03
+Value=4;04
+Value=5;05
+Value=6;06
+Value=7;07
+Value=8;08
+Value=9;09
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=0;PERSONNE NON LISTEE DANS LA LISTE DE MEMBRES DU MENAGE ET QUI A DORMI SOUS UNE MOUSTIQUAIRE
+Value=90;PERSONNE/ PERSONNE D’AUTRE
+
+[Item]
+Label=Numéro de ligne de la 4ème personne qui a dormi sous moustiqaire
+Name=TN15_4
+Start=25
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne de la 4ème personne qui a dormi sous moustiqaire
+Name=TN15_4_VS1
+Value=1;01
+Value=2;02
+Value=3;03
+Value=4;04
+Value=5;05
+Value=6;06
+Value=7;07
+Value=8;08
+Value=9;09
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=0;PERSONNE NON LISTEE DANS LA LISTE DE MEMBRES DU MENAGE ET QUI A DORMI SOUS UNE MOUSTIQUAIRE
+Value=90;PERSONNE/ PERSONNE D’AUTRE
+
+[Record]
+Label=Eau et Assainissement
+Name=MODWS
+RecordTypeValue='0WS'
+Required=No
+RecordLen=21
+
+[Item]
+Label=Source principale d'eau de boisson
+Name=WS1
+Start=8
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Source principale d'eau de boisson
+Name=WS1_FRA
+Value=11;ROBINET: DANS LE LOGEMENT
+Value=12;ROBINET: DANS LA CONCESSION/JARDIN/ PARCELLE
+Value=13;ROBINET: CHEZ LE VOISIN
+Value=14;ROBINET: ROBIENT PUBLIC/BORNE FONTAINE
+Value=21;PUITS A POMPE/FORAGE
+Value=31;PUITS CREUSE: PROTEGE
+Value=32;PUITS CREUSE: NON PROTEGE
+Value=41;SOURCE: SOURCE PROTEGEE
+Value=42;SOURCE: SOURCE NON PROTEGEE
+Value=51;EAU DE PLUIE
+Value=61;CAMION CITERNE
+Value=62;BIDON, BASSIN,SEAU LIVRE A DOMICILE
+Value=72;KIOSQUE A EAU
+Value=81;EAU DE SURFACE (RIVIERE, BARRAGE, LAC, MARE, COURANT, CANAL, SYSTEME D’IRRIGATION)
+Value=91;EAU CONDITIONNEE: EAU EN BOUTEILLE
+Value=92;EAU CONDITIONNEE: EAU EN SACHET
+Value=96;AUTRE
+Value=99;NON REPONSE
+
+[Item]
+Label=Priciopale source d'eau utilisée pour d'autres besoins (si l'eau de bouteille est utilisée pour boire)
+Name=WS2
+Start=10
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Priciopale source d'eau utilisée pour d'autres besoins (si l'eau de bouteille est utilisée pour boire)
+Name=WS2_FRA
+Value=11;ROBINET: DANS LE LOGEMENT
+Value=12;ROBINET: DANS LA CONCESSION/JARDIN/ PARCELLE
+Value=13;ROBINET: CHEZ LE VOISIN
+Value=14;ROBINET: ROBIENT PUBLIC/BORNE FONTAINE
+Value=21;PUITS A POMPE/FORAGE
+Value=31;PUITS CREUSE: PROTEGE
+Value=32;PUITS CREUSE: NON PROTEGE
+Value=41;SOURCE: SOURCE PROTEGEE
+Value=42;SOURCE: SOURCE NON PROTEGEE
+Value=51;EAU DE PLUIE
+Value=61;CAMION CITERNE
+Value=62;BIDON / BASSIN / SEAU LIVRE  A  DOMICILE
+Value=81;EAU DE SURFACE (RIVIERE, BARRAGE, LAC, MARE, COURANT, CANAL, SYSTEME D’IRRIGATION)
+Value=96;AUTRE
+Value=99;NON REPONSE
+
+[Item]
+Label=Moments où le ménage n'a pas eu la quatité suffisante d'eau à boire , le mois dernier
+Name=WS7
+Start=12
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Moments où le ménage n'a pas eu la quatité suffisante d'eau à boire , le mois dernier
+Name=WS7_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Type de topilettes utilisé par les membres de ménage
+Name=WS11
+Start=13
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Type de topilettes utilisé par les membres de ménage
+Name=WS11_FRA
+Value=11;CHASSE D’EAU RELIEE A SYSTEME D’EGOUTS
+Value=12;CHASSE D’EAU RELIEE A FOSSE SEPTIQUE
+Value=13;CHASSE D’EAU: RELIEE AUX LATRINES
+Value=14;CHASSE D’EAU: RELIEE A L’AIR LIBRE
+Value=18;CHASSE D’EAU: RELIEE A UN LIEU INCONNU
+Value=21;LATRINE A FOSSE: AMELIOREE VENTILEE
+Value=22;LATRINE A FOSSE: AVEC DALLE
+Value=23;LATRINE A FOSSE: SANS DALLE/ FOSSE OUVERTE
+Value=31;TOILETTE A COMPOSTAGE
+Value=41;SEAU
+Value=51;TOILETTES SUSPENDUES/LATRINES SUSPENDUES
+Value=95;PAS DE TOILETTES/ NATURE/CHAMPS
+Value=96;AUTRE
+Value=99;NON REPONSE
+
+[Item]
+Label=Les fosses septiques ont déjà été vidées
+Name=WS12
+Start=15
+Len=1
+
+[ValueSet]
+Label=Les fosses septiques ont déjà été vidées
+Name=WS12_FRA
+Value=1;OUI, VIDEES: DANS LES 5 DERNIERES ANNEES
+Value=2;OUI, VIDEES: IL Y A PLUS DE 5 ANS
+Value=3;OUI, VIDEES: NSP QUAND
+Value=4;NON, JAMAIS VIDEES
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Lieu où le contenu des toilettes ont été mises
+Name=WS13
+Start=16
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Lieu où le contenu des toilettes ont été mises
+Name=WS13_FRA
+Value=1;ENLEVE PAR UN PRESTATAIRE DE SERVICE: DANS UNE USINE DE TRAITEMENT
+Value=2;ENLEVE PAR UN PRESTATAIRE DE SERVICE: ENTERRE DANS UNE FOSSE COUVERTE
+Value=3;ENLEVE PAR UN PRESTATAIRE DE SERVICE: NE SAIT PAS OU
+Value=4;VIDEES PAR LE MENAGE: ENTERRE DANS UNE FOSSE COUVERTE
+Value=5;VIDEES PAR LE MENAGE: DANS UNE FOSSE NON COUVERTE/ A L’AIR LIBRE/ JETE A L’EAU OU AILLEURS
+Value=6;AUTRES
+Value=8;NPS
+Value=9;NON REPONSE
+
+[Item]
+Label=L'emplacement/situation des toilettes
+Name=WS14
+Start=17
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'emplacement/situation des toilettes
+Name=WS14_FRA
+Value=1;DANS LE LOGEMENT MEME
+Value=2;DANS LEUR JARDIN/PARCELLE
+Value=3;AILLEURS
+Value=9;NON REPONSE
+
+[Item]
+Label=Toilettes partagées avec avec des personnes qui ne sont membres du ménage
+Name=WS15
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Toilettes partagées avec avec des personnes qui ne sont membres du ménage
+Name=WS15_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Toilettes partagées avec d'autres ménages ou toilettes publiques
+Name=WS16
+Start=19
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Toilettes partagées avec d'autres ménages ou toilettes publiques
+Name=WS16_FRA
+Value=1;PARTAGEES AVEC MENAGES CONNUS (PAS PUBLIQUES)
+Value=2;TOILETTES PUBLIQUES
+Value=9;NON REPONSE
+
+[Item]
+Label=Nombre de ménages qui partagent ces toilettes
+Name=WS17
+Start=20
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de ménages qui partagent ces toilettes
+Name=WS17_FRA
+Value=2;Deux
+Value=3;Trois
+Value=4;Quatre
+Value=5;Cinq
+Value=6;Six
+Value=7;Sept
+Value=8;Huit
+Value=9;Neuf
+Value=10;DIX MENAGES OU PLUS
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Record]
+Label=Lavage des mains
+Name=MODHW
+RecordTypeValue='0HW'
+Required=No
+RecordLen=19
+
+[Item]
+Label=L'endroit où les membres du ménage se lavent habituellement les mains
+Name=HW1
+Start=8
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'endroit où les membres du ménage se lavent habituellement les mains
+Name=HW1_FRA
+Value=1;OBSERVE: LIEU FIXE OBSERVE (LAVABO/ROBINET) DANS LE LOGEMENT
+Value=2;OBSERVE: DANS LE JARDIN/PARCELLE
+Value=3;OBSERVE: USTENSILE MOBILE OBSERVE (SEAU/ JARRE/ BOUILLOIRE)
+Value=4;PAS OBSERVE: PAS DE LIEU DE LAVAGE DES MAINS DANS LE LOGEMENT/JARDIN/PARCELLE
+Value=5;PAS OBSERVE: PAS DE PERMISSION DE VOIR
+Value=6;AUTRE RAISON
+
+[Item]
+Label=Présence d'eau au lieu de lavage des mains
+Name=HW2
+Start=9
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Présence d'eau au lieu de lavage des mains
+Name=HW2_FRA
+Value=1;EAU EST DISPONIBLE
+Value=2;EAU N’EST PAS DISPONIBLE
+Value=9;NON REPONSE
+
+[Item]
+Label=Savon ou détergent présent à l'endoit de lavage des mains
+Name=HW3
+Start=10
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Savon ou détergent présent à l'endoit de lavage des mains
+Name=HW3_FRA
+Value=1;OUI, PRESENT
+Value=2;NON, PAS PRESENT
+Value=9;NON REPONSE
+
+[Item]
+Label=Endoit habituel pour le lavage des mains
+Name=HW4
+Start=11
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Endoit habituel pour le lavage des mains
+Name=HW4_FRA
+Value=1;LIEU FIXE (LAVABO/ROBINET) DANS LE LOGEMENT
+Value=2; DANS LA CONCESSION/PARCELLE
+Value=3;OBJET MOBILE OBSERVE (SEAU / JARRE / BOUILLOIRE)
+Value=4;PAS DE LIEU DE LAVAGE DES MAINS DANS LE LOGEMENT / JARDIN / PARCELLE
+Value=6;AUTRE
+Value=9;NON REPONSE
+
+[Item]
+Label=Savon / autre matériel disponible pour le lavage des mains
+Name=HW5
+Start=12
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Savon / autre matériel disponible pour le lavage des mains
+Name=HW5_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Matériel de lavage des mains observé
+Name=HW6
+Start=13
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Matériel de lavage des mains observé
+Name=HW6_FRA
+Value=1;OUI, MONTRE
+Value=2;NON, PAS MONTRE
+Value=9;NON REPONSE
+
+[Item]
+Label=Savon / autre matériel présent à l'endroit de lavage des mains
+Name=HW7
+Start=14
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Savon / autre matériel présent à l'endroit de lavage des mains
+Name=HW7_FRA
+Value='A    ';BARRE DE SAVON/SAVON LIQUIDE
+Value='B    ';DETERGENT (POUDRE / LIQUIDE / PATE)
+Value='D    ';CENDRE
+Value='E    ';BOUE / TERRE/SABLE
+Value='?    ';NON REPONSE
+
+[Item]
+Label=Barre de savon
+Name=HW7A
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Barre de savon
+Name=HW7A_FRA
+Value='A';BARRE DE SAVON/SAVON LIQUIDE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Détergent (Poudre / Liquide / Pate)
+Name=HW7B
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Détergent (Poudre / Liquide / Pate)
+Name=HW7B_FRA
+Value='B';DETERGENT (POUDRE / LIQUIDE / PATE)
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Cendre
+Name=HW7D
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Cendre
+Name=HW7D_FRA
+Value='D' ' ';CENDRE
+Value='?';NON REPONSE
+
+[Item]
+Label=Boue/Terre/sable
+Name=HW7E
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Boue/Terre/sable
+Name=HW7E_FRA
+Value='E' ' ';BOUE / TERRE/SABLE
+
+[Item]
+Label=Manquant
+Name=HW7NR
+Start=18
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Manquant
+Name=HW7NR_FRA
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Commentaire ou Observation
+Name=HW99
+Start=19
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Commentaire ou Observation
+Name=HW99_VS1
+Value=1;Oui
+Value=2;Non

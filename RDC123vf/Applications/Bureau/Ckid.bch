@@ -1,0 +1,22 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=CKID
+Name=CKID
+AppType=Batch
+[External Dictionaries]
+File=..\Dicts\Households.dcf
+File=..\Dicts\Clusters.dcf
+File=..\Dicts\Tasks.dcf
+[AppCode]
+File=.\Ckid.bch.apc
+Include=..\Common\CommandWrappers.apc
+Include=..\Common\GlobalVars.apc
+[Message]
+File=.\Ckid.bch.mgf
+[Order]
+File=.\Ckid.ord
+[Dictionary Types]
+Dict-Type=..\Dicts\EPMU1HH.dcf,Input,.\Ckid.ord
+Dict-Type=..\Dicts\Households.dcf,External
+Dict-Type=..\Dicts\Clusters.dcf,External
+Dict-Type=..\Dicts\Tasks.dcf,External

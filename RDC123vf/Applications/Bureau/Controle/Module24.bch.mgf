@@ -1,0 +1,21 @@
+﻿240001 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, La valeur (%d) n'est pas valide !   (%s)
+240002 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, La permission est non donnée (%s) dans ce ménage
+240003 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Pas de Consentement, mais présence des données dans le module
+240004 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, L'enquêteur n'a pas fini de renseigner tout le module, veuillez vérifier l'évolution du travail sur terrain
+100013 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Le nombre de dépenses ,(%d), est différent de nombre de dépenses de santé renseignées (%d)
+100014 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Les dépenses de santé declarées au module ménage ne figurent pas dans les dépenses de santé au cours de 6 derniers mois
+100015 | s   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Le montant total de dépenses de santé (%d) ne correspond pas à la somme de chaque dépense effectuée (%d).
+100016 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, TOTAL DEPENSES DE SANTE :  MODULE 24 = %d , MODULE MENAGE = %d 
+
+037001 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Il semble que le nom du Produit (%s) renseigné est incorrect ! ligne %d
+037002 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, La valeur (%s) n'est pas valide !   (%s)  ligne %d
+040703 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Le montant saisi est incorrect   ligne %d
+040704 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Le montant saisi semble invalide pour le type de billets de banque utilisés en RDC (%d), veuillez verifier !   ligne %d
+040705 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Valeur incorrecte! êtes - vous sûr que la dépense n'a coûté que %d FC, veuillez verifier !   ligne %d
+057006 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, La valeur (%s) n'est pas valide !   (%s)   ligne %d
+067007 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, La valeur (%s) n'est pas valide !   (%s)   ligne %d
+070708 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, %s étant un cadeau, on ne peut donc pas renseigner les raisons du lieu d'achat   ligne %d
+070709 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Le bien %s est autoproduit, on ne peut donc pas renseigner les raisons des cadeaux !   ligne %d
+077010 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, La valeur (%s) n'est pas valide !   (%s)    ligne %d
+097011 | S   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Le lieu d'achat ne correspond pas à l'origine du produit.    ligne %d
+107012 | s   Gr: %d, N° Men: %d, Mod: %d, N° Enq: %d, Vous avez au moins %d produits renseignés qui ne correspondent pas à l'état du produit. ligne %d

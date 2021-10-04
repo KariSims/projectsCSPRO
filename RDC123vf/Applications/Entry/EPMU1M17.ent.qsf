@@ -1,0 +1,2709 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 6.3
+
+[LANGUAGES]
+FRA=Francais
+LING=Lingala
+SWA=Swahili
+
+[QUESTION]
+Field=EPMU1M17.G1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G1. Pensez vous qu'en R\'e9publique D\'e9mocratique du Congo, les droits de l'Homme sont respect\'e9s?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G1. Okanisi te na R\'e9publique D\'e9mocratique ya Congo, mibeko pona kobatela bato etosamaka?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G1. Je! Unafikiri kuwa katika Jamhuri ya Kidemokrasia ya Kongo, haki za binadamu zinaheshimiwa?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G10. Combien de fois?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G11. C'\'e9tait pour quel(s) service(s)?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12A. Dans quelle mesure \cf2 Les fonctionnaires (en g\'e9n\'e9ral)\cf1  sont-Ils impliqu\'e9s dans la corruption? \b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12B. Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29 Les policiers/gendarmes \cf1\fs29 sont-Ils impliqu\'e9s dans la corruption? \b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\fs24 G12C. \b\f1\fs29 Dans quelle mesure\b0\f0\fs24  \cf2\b\f1\fs29 Les juges, magistrats, personnels de la justice \cf1\fs29 sont-Ils impliqu\'e9s dans la corruption? \b0\f0\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12D. \fs29 Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29  Les agents des imp\'f4ts et douanes\fs29  \cf1 sont-Ils impliqu\'e9s dans la corruption?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12E.\b0\f1\fs24  \b\f0\fs29 Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29 Le personnel de sant\'e9 \cf1\fs29 sont-Ils impliqu\'e9s dans la corruption?\b0\f1\fs24  \par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12F\b0\f1\fs24 . \b\f0\fs29 Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29 Le personnel de l'\'e9ducation \cf1 sont-Ils impliqu\'e9s dans la corruption?\b0\f1\fs24  \par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12G. \fs29 Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29 Les ministres \cf1 sont-Ils impliqu\'e9s dans la corruption?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12H. Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29 Les d\'e9put\'e9s \cf1 sont-Ils impliqu\'e9s dans la corruption?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12I. Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29 Les senateurs \cf1 sont-Ils impliqu\'e9s dans la corruption?\b0\f1\fs24  .\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12J. \fs29 Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29 Les autorit\'e9s communales\fs29  \cf1 sont-Ils impliqu\'e9s dans la corruption?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12K
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12K.\b0\f1\fs24  \b\f0\fs29 Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29 Les autorit\'e9s r\'e9ligieuses\fs29  \cf1 sont-Ils impliqu\'e9s dans la corruption?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G12L
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G12L. \fs29 Dans quelle mesure\b0\f1\fs24  \cf2\b\f0\fs29 Les chefs traditionnels/de la communaut\'e9\fs29  \cf1 sont-Ils impliqu\'e9s dans la corruption?\b0\f1\fs24  . \cf2\b\f0\fs29\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G13
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G13. Avez-vous connaissance de l'existance de l'Observatoire de Lutte contre la Corruption (OLC) au en R\'e9publique D\'e9mocratique du Congo?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G14. Selon vous, le gouvernement est-il efficace dans la lutte contre la corruption?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G15. Etes vous inform\'e9s sur les efforts du gouvernement dans la lutte contre la corruption?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G16. Avez-vous vot\'e9 \'e0 la derni\'e8re \'e9lection pr\'e9sidentielle?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G17_1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G17-1. Parce qu'il n'y a \cf2 pas de candidat ou de parti repr\'e9sentant vos opinions\cf1 ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G17_2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G17-2.\b0\f1\fs24  \b\f0\fs29 Parce que \fs29 Voter ne change rien\fs29  ?\b0\f1\fs24  \par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G17_3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G17-3. Parce que vous n'\'eatiez \cf2 pas enregistr\'e9 sur les listes \'e9lectorales (refus, manque de temps etc)\cf1  ?\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G17_4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs29 G17-4. Parce qu'il \'e9tait\cf2  Difficile \'e0 s'inscrire sur les listes \'e9lectorales\cf1  ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G17_5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G17_5. Parce que votre \cf2 nom n'\'e9tait pas apparu sur la liste \'e9lectorale malgr\'e9 l'inscription\cf1  ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G17_6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G17_6. Parce que vous \cf2 n'aviez pas pu entrer en possession de votre carte d'\'e9lecteur\cf1  ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G17_7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G17-7. Parce que vous \cf2 n'\'eatiez pas en \'e2ge de voter au moment des \'e9lections \cf1 ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G17_8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G17_8. Parce que vous\cf2  \'e9tiez loin du lieu de vote\cf1  ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G17_9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G17-9. Pour d'\cf2 Autre \'e0 pr\'e9ciser\cf1 ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G18
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G18. Pensez vous que les hommes politiques prennes en compte les pr\'e9occupation / attentes de la population?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G19A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G19A. Etes vous membre/dirigeant d\cf2 'une association de quartier \cf1 ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G19B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G19_B. Etes vous membre/dirigeant d'une \cf2 association Religieuse \cf1 ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G19C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G19_C. Etes vous membre/dirigeant d'une association \cf2 Professionnelle\cf1  ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G19D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G19_D. Etes vous membre/dirigeant d'une association \cf2 Familiale/amicale\cf1  ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G19E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G19_E. Etes vous membre/dirigeant d'une \cf2 association Epargne collective\cf1  ? \b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G19F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G19_F. Etes vous membre/dirigeant d'une association \cf2 Parti politique\cf1  ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G19_H. Ozalaka moto pamba to mokambi na\cf2\b0  lisanga ya politik\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G19G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G19_G. Etes vous membre/dirigeant d'une \cf2 association Organisation sportive \cf1 ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G19_H. Ozalaka moto pamba to mokambi ya \cf2\b0 lisanga ya ndembo\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G19H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G19_H. Etes vous membre/dirigeant d'une \cf2 association Organisation r\'e9cr\'e9ative\cf1  ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G19_H. Ozalaka moto pamba to mokambi ya lingomba moko ya \cf2\b0 masano ya komisepelisa\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G19I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G19_I. Etes vous membre/dirigeant d'un \cf2 autre type d'association \cf1 ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G19_I. Ozalaka moto pamba to mokambi ya\cf2\b0  lisanga mosusu\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G20
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G20. A quel d\'e9gr\'e9 \'eates vous interess\'e9 par la politique?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G20. lolenge nini okangamaka na mambi ma politik?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G21
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G21. Vous arrive-t-il souvent de parler de politique avec vos proches?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G21. Ekomelaka bino  mbala mosusu kosolola mambi ma politique na baninga na bino?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G2A_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2. Pensez vous que le fait que \cf2 Les gens soient libres de dire ce qu'ils veulent (Libert\'e9 d'expression)\cf1 , est essentiel pour la democratie ? \cf2\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G2. Okanisi te \cf2\b0 lolenge bato bazali na ndingisa ya koloba manso balingi\cf1\b  , elakisi democratia?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2. Je, \cf2\b0 unadhani kwamba ukweli kwamba watu ni huru kusema nini wanataka (uhuru wa kujieleza)\cf1\b  ni muhimu kwa demokrasia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2A_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2b. Dans quelle mesure cette caract\'e9ristique est-elle respect\'e9e au Congo?\cf2\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29  G2b. Na lolenge nini mambi maye etosamaka na ekolo congo?\par
+LING=\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2b. Kwa kiwango gani tabia hii inaheshimiwa nchini Kongo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2B_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 B. Pensez vous que le fait que\cf2  Les journeaux soient libres de publier sans crainte d'\'eatre ferm\'e9s (Libert\'e9 de presse)\cf1 , est essentiel pour la democratie ? \b0\f1\fs24\par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29  Bokanisi  te lolenge te \cf2\b0 ba journaux ezali na ndingisa ya kolakisa pe kotanda polele maye bakomi\cf1\b , ezali eloko ya motuya pona democratia?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 B. Je! \cf2\b0 Unafikiri ukweli kwamba Magazeti ni bure kuchapisha bila hofu ya kufungwa (Press Freedom)\cf1\b  ni muhimu kwa demokrasia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2B_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2b. Dans quelle mesure cette caract\'e9ristique est-elle respect\'e9e au Congo?\par
+FRA=\cf2\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G2b. Na lolenge nini mambi maye etosamaka na ekolo congo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2b. Kwa kiwango gani tabia hii inaheshimiwa nchini Kongo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2C_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 C. Pensez vous que le fait que \cf2 Chaque personne soit trait\'e9e de fa\'e7on \'e9gale par la police et les cours de justice (Egalit\'e9 devant la loi)\cf1 , est essentiel pour la democratie ? \par
+FRA=\f1\fs24\par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 C. Bokanisi te lolenge \cf2\b0 moto nionso azali ndenge moko liboso ya mibeko ya police pe ba ndako ya mibeko\cf1\b  , eza eloko ya motuya pona democratia?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 C. Unafikiri \cf2\b0 kwamba ukweli kwamba kila mtu hutendewa sawa na polisi na mahakama (Uwiano kabla ya sheria)\cf1\b  ni muhimu kwa demokrasia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2C_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2b. Dans quelle mesure cette caract\'e9ristique est-elle respect\'e9e au Congo?\cf2\b0\f1\fs24\par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G2b. Na lolenge nini mambi maye etosamaka na ekolo congo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2b. Kwa kiwango gani tabia hii inaheshimiwa nchini Kongo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2D_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 D. Pensez vous que le fait que \cf2 Chaque personne soit libre d'adh\'e9rer au parti politique de son choix\cf1 , est essentiel pour la democratie ?  \b0\f1\fs24\par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 D. Bokanisi te\cf2\b0  moto nionso azali na bosomi pona kokota na lisanga ya politiki ya oyo ye alingi\cf1\b , ezali eloko ya motuya pona democratia? \par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 D. Je,\cf2\b0  unadhani kwamba ukweli kwamba kila mtu ni huru kujiunga na chama cha siasa cha uchaguzi\cf1\b  wake ni muhimu kwa demokrasia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2D_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2b. Dans quelle mesure cette caract\'e9ristique est-elle respect\'e9e au Congo?\cf2\b0\f1\fs24\par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G2b. Na lolenge nini mambi maye etosamaka na ekolo congo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2b. Kwa kiwango gani tabia hii inaheshimiwa nchini Kongo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2E_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs32 E. \f1\fs29 Pensez vous que le fait que \cf2 Chaque personne puisse voter librement sans intimidation (Elections libres et transparentes)\cf1 , est essentiel pour la democratie ?  \f0\fs32\par
+FRA= \cf2\f1\fs29\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\fs32 E.\f1\fs29  \f0\fs32 Bokanisi te \cf2\b0 moto nionso akoki kopona na bosomi moto oyo ye alingi na tango ya maponami\cf1\b , ezali eloko ya motuya pona democratia?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs32 E. Unafikiri \cf2\b0 kwamba ukweli kwamba kila mtu anaweza kupiga kura bila uhuru bila uchaguzi (uchaguzi huru na wa uwazi)\cf1\b  ni muhimu kwa demokrasia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2E_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2b. Dans quelle mesure cette caract\'e9ristique est-elle respect\'e9e au Congo?\par
+FRA=\cf2\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G2b. Na lolenge nini mambi maye etosamaka na ekolo congo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2b. Kwa kiwango gani tabia hii inaheshimiwa nchini Kongo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2F_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs32 F.\fs24  \f1\fs29 Pensez vous que le fait que \cf2 Les gens puissent choisir leur lieu de r\'e9sidence et de travail sans restriction et peuvent quitter leur pays et revenir n'importe quand (Libert\'e9 de circulation)\cf1 , est essentiel pour la democratie ?  \f0\fs32\par
+FRA= \cf2\f1\fs29\par
+FRA=\par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\fs32 F.\fs24  \fs32 Bokanisi te \cf2\b0 lolenge te bato bakoki kopona bisika ya kofanda pe ya mosala pe bakoki kolongwa to kozonga na etuka tango nionso balingi\cf1\b , ezali motuya pona democratia?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs32 F. Unafikiri \cf2\b0 kwamba ukweli kwamba watu wanaweza kuchagua nafasi yao ya kuishi na kufanya kazi bila vikwazo na wanaweza kuondoka nchi yao na kurudi wakati wowote (uhuru wa harakati), \cf1\b ni muhimu kwa demokrasia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2F_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2b. Dans quelle mesure cette caract\'e9ristique est-elle respect\'e9e au Congo?\par
+FRA=\cf2\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G2b. Na lolenge nini mambi maye etosamaka na ekolo congo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2b. Kwa kiwango gani tabia hii inaheshimiwa nchini Kongo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2G_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+FRA=\pard\cf1\b\fs32 G. \f1\fs29 Pensez vous que le fait que \cf2 Les gens soient libres d'adh\'e9rer \'e0 la r\'e9ligion de leur choix sans subir de pers\'e9cutions \par
+FRA=(Libert\'e9 de religion)\cf1 , est essentiel pour la democratie ?  \f0\fs32\par
+FRA=\par
+FRA=\b0\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\fs32 F.\fs24  \f1\fs29 Okanisi te lolenge ya \cf2\b0 kopona esika ya kofanda pe kosala ya moto to kolongwa pe kozonga na mboka na tango olingi\cf1\b , ezali motuya pona democratia?\par
+LING=\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs32 G. Je, \cf2\b0 unadhani kwamba ukweli kwamba watu ni huru kujiunga na dini ya uchaguzi wao bila kuteswa (uhuru wa mikate)\cf1\b , ni muhimu kwa demokrasia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2G_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2b. Dans quelle mesure cette caract\'e9ristique est-elle respect\'e9e au Congo?\cf2\b0\f1\fs24\par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G2b. Na lolenge nini mambi maye etosamaka na ekolo congo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2b. Kwa kiwango gani tabia hii inaheshimiwa nchini Kongo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2H_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs32 H. \f1\fs29 Pensez vous que le fait que \cf2 Les gens puissent rejoindre l'organisation de leur choix sans interf\'e9rence du gouvernement (Libert\'e9 d'association)\cf1 , est essentiel pour la democratie ?  \f0\fs32\par
+FRA=\cf2\f1\fs29\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\fs32 H. Bokanisi te \cf2\b0 lolenge bato bakoki kosangana na mangomba oyo balingi\cf1\b  , ezali motuya pona democratia?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs32 H. Je! \cf2\b0 Unafikiri kwamba ukweli kwamba watu wanaweza kujiunga na shirika la uchaguzi wao bila kuingiliwa na serikali (uhuru wa chama)\cf1\b  ni muhimu kwa demokrasia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2H_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2b. Dans quelle mesure cette caract\'e9ristique est-elle respect\'e9e au Congo?\cf2\b0\f1\fs24\par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G2b. Na lolenge nini mambi maye etosamaka na ekolo congo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2b. Kwa kiwango gani tabia hii inaheshimiwa nchini Kongo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2I_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs32 I. \f1\fs29 Pensez vous que le fait que \cf2 Les droits de chaque personne soient respect\'e9s de mani\'e8re \'e9gale par les repr\'e9sentants du gouvernement et dans la vie quotidienne (Absence de discrimination)\cf1 , est essentiel pour la democratie ?  \f0\fs32\par
+FRA=\cf2\f1\fs29\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\fs32 I. Bokanisi te \cf2\b0 lolenge mibeko ya moto moko moko ezali kotosama na egalit\'e9 na bakambi ya gouvernement pe na bomoyi ya mikolo na mikolo\cf1\b , ezali motuya pona democratia?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\fs32 I. Je, \cf2\b0 unadhani kwamba ukweli kwamba haki za kila mtu zinaheshimiwa sawa na wawakilishi wa serikali na katika maisha ya kila siku (ukosefu wa ubaguzi)\cf1\b  ni muhimu kwa demokrasia?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G2I_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G2b. Dans quelle mesure cette caract\'e9ristique est-elle respect\'e9e au Congo?\cf2\b0\f1\fs24\par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G2b. Na lolenge nini mambi maye etosamaka na ekolo congo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G2b. Kwa kiwango gani tabia hii inaheshimiwa nchini Kongo?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G3. En g\'e9n\'e9ral, quel est votre degr\'e9 de satisfaction de la d\'e9mocratie dans le pays?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G3. Na manso, lolenge nini otondisami na esengo pona democratia na etuka?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G3. Kwa ujumla, wewe ni na kuridhika gani na demokrasia nchini?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G4A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G4. En R\'e9publique D\'e9mocratrique du Congo, pensez-vous qu'il y a des discriminations li\'e9es \'e0\cf2  Ethnie\cf1  ? \b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G4. Na  R\'e9publique D\'e9mocratrique ya Congo, bokanisi te eza na boponani oyo ewuti na\cf2\b0  bikolo\cf1\b ?\par
+LING=\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G4. Katika Jamhuri ya Kidemokrasia ya Kongo, unafikiri kuna kuna ubaguzi unaohusishwa na \cf2\b0 Ethnie\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G4B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G4. En R\'e9publique D\'e9mocratrique du Congo, pensez-vous qu'il y a des discriminations li\'e9es \'e0 \cf2 La langue/dialecte\cf1  ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G4. Na  R\'e9publique D\'e9mocratrique ya Congo, bokanisi te eza na boponani oyo ewuti na\cf2\b0  munoko ya mboka\cf1\b ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G4. Katika Jamhuri ya Kidemokrasia ya Kongo, unafikiri kuna ubaguzi unaohusiana na \cf2\b0 lugha / dialeta?\cf1\b\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G4C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G4. En R\'e9publique D\'e9mocratrique du Congo, pensez-vous qu'il y a des discriminations li\'e9es \'e0 \cf2 La r\'e9gion d'origine \cf1 ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G4. Na  R\'e9publique D\'e9mocratrique ya Congo, bokanisi te eza na boponani oyo ewuti na\cf2\b0  engumba obotama\cf1\b ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G4. Katika Jamhuri ya Kidemokrasia ya Kongo, unadhani kuna ubaguzi unaohusiana na \cf2\b0 eneo la asili\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G4D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G4. En R\'e9publique D\'e9mocratrique du Congo, pensez-vous qu'il y a des discriminations li\'e9es \'e0 \cf2 La religion \cf1 ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G4. Na  R\'e9publique D\'e9mocratrique ya Congo, bokanisi te eza na boponani oyo ewuti na\cf2\b0  mangomba ya kosambela\cf1\b ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G4. Katika Jamhuri ya Kidemokrasia ya Kongo, unafikiri kuna ubaguzi unaohusiana na\cf2\b0  dini\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G4E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G4. En R\'e9publique D\'e9mocratrique du Congo, pensez-vous qu'il y a des discriminations li\'e9es \'e0  \cf2 la Nationalit\'e9\cf1  ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G4. Na  R\'e9publique D\'e9mocratrique ya Congo, bokanisi te eza na boponani oyo ewuti na\cf2\b0  nationalit\'e9 ya libanda\cf1\b ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G4. Katika Jamhuri ya Kidemokrasia ya Kongo, unafikiri kuna ubaguzi kuhusiana na \cf2\b0 utaifa\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G4F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G4. En R\'e9publique D\'e9mocratrique du Congo, pensez-vous qu'il y a des discriminations li\'e9es \'e0 la \cf2 au niveau de vie des population (Riche ou Pauvre)\cf1  ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G4. Na  R\'e9publique D\'e9mocratrique ya Congo, bokanisi te eza na boponani oyo ewuti na\cf2\b0  bobola to bozwi\cf1\b ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G4. Katika Jamhuri ya Kidemokrasia ya Kongo,\cf2\b0  unafikiri kuna ubaguzi unaohusiana na kiwango cha maisha ya watu (Rich au Maskini)\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G4G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs29 G4. En R\'e9publique D\'e9mocratrique du Congo, pensez-vous qu'il y a des discriminations li\'e9es  au\cf2  Genre\cf1 ?\par
+FRA=\par
+FRA=\cf3\i Le GENRE revoit au sexe de l'individu (homme ou femme)\cf1\b0\i0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G4. Na  R\'e9publique D\'e9mocratrique ya Congo, bokanisi te eza na boponani oyo ewuti na\cf2\b0  ki bo mwasi to ki mobali\cf1\b ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G4. Katika Jamhuri ya Kidemokrasia ya Kongo, unafikiri kuna ubaguzi wa \cf2\b0 jinsia\cf1\b ?\par
+SWA=\cf3\b0 GENDER inataja jinsia ya mtu binafsi (kiume au kike)\cf1\b\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G4H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs29 G4. En R\'e9publique D\'e9mocratrique du Congo, pensez-vous qu'il y a des discriminations li\'e9es au \cf2 handicap\cf1  ?\par
+FRA=\par
+FRA=\cf3\i Il est question de savoir si l'enqu\'eat\'e9 pense que les personnes handicap\'e9es subissent de la discrimination\par
+FRA=\cf1\b0\i0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G4. Na  R\'e9publique D\'e9mocratrique ya Congo, bokanisi te eza na boponani oyo ewuti na\cf2\b0  kozala ebosono\cf1\b ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G4. Katika Jamhuri ya Kidemokrasia ya Kongo, unafikiri kuna ubaguzi unaohusiana na \cf2\b0 ulemavu\cf1\b ?\par
+SWA=\cf3\b0 Inaswaliwa kama mhojiwa anafikiri kuwa watu wenye ulemavu wanachaguliwa\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G4I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs29 G4. En R\'e9publique D\'e9mocratrique du Congo, pensez-vous qu'il y a des discriminations li\'e9es \'e0 L'\cf2 Albinisme\cf1  ?\par
+FRA=\par
+FRA=\cf3\i Il est question de savoir si l'enqu\'eat\'e9 pense que les personnes ALBINOS sont victomes de discrimnation\cf1\b0\i0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G4. Na  R\'e9publique D\'e9mocratrique ya Congo, bokanisi te eza na boponani oyo ewuti na\cf2\b0  nakozala ndundu\cf1\b ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G4. Katika Jamhuri ya Kidemokrasia ya Kongo, unafikiria kuna ubaguzi kuhusiana na \cf2\b0 Ualbino\cf1\b ?\par
+SWA=\cf3\b0 Ni swali la kuwa mhojiwa anafikiri kuwa watu wa ALBINOS ni ushindi wa ubaguzi\cf1\b\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G5A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G5A. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination a cause de votre\cf2  Ethnie \cf1 ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G5A. Otikala kozala victime ya boponani likolo ya \cf2\b0 ekolo\cf1\b  ozali nango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 Je! Umewahi kuwachaguliwa kwa sababu ya mbio yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G5B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G5B. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination a cause de votre\cf2  La langue/dialecte\cf1  ?\b0\f1\fs24\par
+FRA=\cf3\b\i\f0\fs29 le Dialecte est la langue maternelle de l'individu \cf1\b0\i0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G5B. Otikala kozala victime ya boponani likolo ya \cf2\b0 munoko ya mboka\cf1\b  na yo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G5B. Je, umewahi kuwachaguliwa kwa sababu ya lugha \cf2\b0 yako / lugha\cf1\b ?\par
+SWA=\cf3\b0 Dialect ni lugha ya mama ya mtu binafsi\cf1\b\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G5C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.16299}\viewkind4\uc1 
+FRA=\pard\cf1\b\f0\fs29 G5C.\b0\f1\fs24  \b\f0\fs29 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination a cause de votre\cf2  Province d'origine\cf1  ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G5C. Otikala kozala victime ya boponani likolo ya \cf2\b0 mboka obotama\cf1\b  ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G5C. Je! Umewahi kuwachaguliwa kwa sababu ya \cf2\b0 eneo lako la asili\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G5D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G5D. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination a cause de votre\cf2  R\'e9ligion\cf1  ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G5D. Otikala kozala victime ya boponani likolo ya \cf2\b0 lingomba ya losambo\cf1\b  na yo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G5D. Je, umewahi kuwachaguliwa kwa sababu ya \cf2\b0 dini yako\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G5E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G5E. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination a cause de votre\cf2  Nationalit\'e9\cf1  ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G5E. Otikala kozala victime ya boponani likolo ya \cf2\b0 nationalit\'e9\cf1\b  na yo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G5E. Je! Umewahi kuwachaguliwa kwa sababu ya \cf2\b0 utaifa wako\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G5F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G5F.\b0\f1\fs24  \b\f0\fs29 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination a cause de votre\cf2  Niveau de vie \cf1 ?\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G5F. Otikala kozala victime ya boponani likolo ya \cf2\b0 bobola to bozwi\cf1\b  na yo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G5F. Je, umewahi kuwachaguliwa kwa sababu ya \cf2\b0 kiwango cha maisha yako\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G5G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G5G. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination a cause de votre \cf2 Genre \cf1 ?\par
+FRA=\cf3\i Le GENRE revoit au sexe de l'individu (homme ou femme)\cf1\b0\i0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G5G. Otikala kozala victime ya boponani likolo ya \cf2\b0 ki bo mwasi to ki mobali\cf1\b  na yo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G5G. Je! Umewahi kuwachaguliwa kwa sababu ya \cf2\b0 jinsia yako\cf1\b ?\par
+SWA=\cf3\b0 GENDER inataja jinsia ya mtu binafsi (kiume au kike)\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G5H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G5H. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination a cause de votre \cf2 Handicap\cf1  ?\par
+FRA=\cf3\i Si l'enqu\'eat\'e9 n'est pas HANDICAPE, METTEZ 3 = Non concern\'e9\cf1\b0\i0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G5H. Otikala kozala victime ya boponani likolo ya \cf2\b0 ki ebosono\cf1\b  na yo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G5H. Je! Umewahi kuwachaguliwa kwa sababu ya \cf2\b0 ulemavu wako\cf1\b ?\par
+SWA=\cf3\b0 Ikiwa mhojiwa hana HANDICAPED, PUT 3 = Sio wasiwasi\cf1\b\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G5I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G5I. Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de discrimination a cause de votre \cf2 Albinisme \cf1 ?\b0\f1\fs24\par
+FRA=\cf3\b\i\f0\fs29 Si l'enqu\'eat\'e9 n'est pas ALBINOS, METTEZ 3 = NON CONCERNE\cf1\b0\i0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G5I. Otikala kozala victime ya boponani likolo ya \cf2\b0 ki ndundu\cf1\b  na yo?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G5I. Je! Umewahi kuachwa kwa sababu ya \cf2\b0 Ualbino\cf1\b ?\par
+SWA=\cf3\b0 Ikiwa mhojiwa si ALBINOS, PUT 3 = NOT CONCERNED\cf1\b\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G6. D'apr\'e8s vous, les femmes devraient-elles avoir les m\'eames chances que les hommes d'\'eatre \'e9lues \'e0 des postes politiques?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G6. Pona bino, basi bakokaki kozala na ngenge  ndenge moko na mibali na maponami na bisika ya politique?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G6. Kwa maoni yako, wanawake wanapaswa kuwa na fursa sawa na wanaume kuwachaguliwa nafasi za kisiasa?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7A. Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec \cf2 L'administration publique en g\'e9n\'e9ral\cf1  ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G7A. Na sanza zomi na mibale eleki, ozalaki na \cf2\b0 bayi ya administration ya l'etat manso\cf1\b ?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G7A. Katika miezi 12 iliyopita, umekuwa unawasiliana na \cf2\b0 Utawala wa Umma kwa ujumla\cf1\b ?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7A_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8A. Leur faites vous confiance ?\par
+FRA=\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8A. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8A. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7B. Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec \cf2 La justice\cf1  ?\b0\f1\fs24\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G7B. Katika kipindi cha miezi 12 iliyopita, umekuwa unawasiliana na La justice?\par
+SWA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G7B. Na sanza zomi na mibale eleki, bozalaki epayi ya bato ya \cf2\b0 mibeko\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G7B_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8B. Leur faites vous confiance ?\par
+FRA=\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8B. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8B. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7C.\f1\fs29 Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\cf2\f0\fs28  la police/gendarmerie\cf1  ?\cf2\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\fs28 G7. Na sanza zomi na mibale eleki bozalaki na \cf2\b0 mapinga to mapulusu\cf1\b ?\b0\fs24\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G7C_C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8C. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8C. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8C. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7C. Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\cf2  Les formations sanitaires publiques\cf1  ?\b0\f1\fs24  \par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G7C. \b0\f1\fs24  \b\f0\fs29 Na sanza zomi na mibale eleki , ozalaki na bato ya \cf2\b0 masanga ya bopeto ya l'etat\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G7D_D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8D. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8D. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8D. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7E.\b0\f1\fs24  \b\f0\fs29 Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\cf2  Les \'e9tablissements scolaires publics \cf1 ?\b0\f1\fs24  \par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G7E.\b0\f1\fs24  \b\f0\fs29 Na sanza zomi na mibale eleki, ozalaki na\b0\f1\fs24  \b\f0\fs29  \cf2\b0 biteyelo ya l'etat\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G7E_E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8E. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8E. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8E. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7F.\b0\f1\fs24  \b\f0\fs29 Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\cf2   Les impots et douanes \cf1 ?\b0\f1\fs24  \par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G7F.\b0\f1\fs24  \b\f0\fs29 Na sanza zomi na mibale eleki, ozalaki na \cf2\b0 bato ya mpako\cf1\b ? \par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G7F_F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8F. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8F. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8F. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7G.\b0\f1\fs24  \b\f0\fs29 Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\cf2   Les m\'e9dias de l'Etat \cf1 ?\b0\f1\fs24  \par
+FRA=\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G7G.\b0\f1\fs24  \b\f0\fs29 Na sanza zomi na mibale eleki, ozalaki na \cf2\b0 bato ya basango na nzela ya bitando ya l'etat\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G7G_G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8G. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8G. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8G. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7H.\b0\f1\fs24  \b\f0\fs29 Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\cf2  l'arm\'e9e \cf1 ?\b0\f1\fs24\par
+FRA= \b\f0\fs29\par
+FRA=\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G7H.\b0\f1\fs24  \b\f0\fs29 Na sanza zomi na mibale eleki, ozalaki na \cf2\b0 bato ya mapinga\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G7H_H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8H. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8H. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8H. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7I. Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\b0\f1\fs24  \cf2\b\f0\fs29 Le syst\'e8me de s\'e9curit\'e9 sociale \cf1 ?\b0\f1\fs24  \par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G7I. Na sanza zomi na mibale eleki , ozalaki na \cf2\b0 bato bobateli ya bato\cf1\b ?\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.G7I_I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8I. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8I. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8I. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7J. \fs29 Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\cf2\fs29  Le S\'e9nat \cf1\fs29 ?\b0\f1\fs24  \par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G7J_J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8J. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8J. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8J. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7K
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7K. \fs29 Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\cf2\fs29  L'Assembl\'e9 Nationale \cf1\fs29 ?\b0\f1\fs24   \par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G7K_K
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8K. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8K. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8K. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G7L
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G7L.\b0\f1\fs24  \b\f0\fs29 Au cours des 12 derniers mois, avez-vous \'e9t\'e9 en contact avec\cf2\fs29  La mairie\fs29  \cf1 ?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G7L_L
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8L. Leur faites vous confiance ?\b0\f1\fs24\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\b\f0\fs29 G8L. Bondimelaka bango?\par
+LING=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\b\f0\fs29 G8L. Je, wanafanya imani yako?\par
+SWA=}
+
+[QUESTION]
+Field=EPMU1M17.G8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G8. Est-ce que la corruption constitue-t-elle une pr\'e9occupation pour la R\'e9publique D\'e9mocratique du Congo?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.G9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.2.9200}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs29 G9. Au cours des 12 derniers mois, avez-vous \'e9t\'e9 forc\'e9 d'offrir un cadeau, faire une faveur ou donner de l'argent \'e0 un fonctionnaire en \'e9change d'un service?\b0\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=EPMU1M17.M1710H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Heure de la fin \par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\fs24 Ngonga ya suka\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.M1710M
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Minutes de la fin \par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\fs24 minute ya suka\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.M1717
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Resultat d'interview\par
+FRA=}
+LING={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+LING={\colortbl ;\red0\green0\blue0;}
+LING={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+LING=\pard\cf1\fs24 Lifuti ya masolo\par
+LING=}
+
+[QUESTION]
+Field=EPMU1M17.M17FIN
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Fin\par
+FRA=\par
+FRA=}
+SWA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+SWA={\colortbl ;\red0\green0\blue0;}
+SWA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+SWA=\pard\cf1\fs24 Esili\par
+SWA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G1. \b0 Pensez vous qu'en R\'e9publique D\'e9mocratique du Congo, les droits de l'Homme sont respect\'e9s ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G10. \b0 Si oui, \'e0 quelle fr\'e9quence ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G11. \b0 Si oui, la plupart du temps c'\'e9tait pour quel(s) service(s) ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\par
+FRA=A. Les fonctionnaires (en g\'e9n\'e9ral)\par
+FRA=\par
+FRA=\par
+FRA=\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\par
+FRA=B. Les policiers/gendarmes\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\par
+FRA=C. Les juges, magistrats, personnels de la justice\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\par
+FRA=D. Les agents des imp\'f4ts et douanes\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\b\par
+FRA=E. \b0 Le personnel de sant\'e9\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\b\par
+FRA=F. \b0 Le personnel de l'\'e9ducation\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\b\par
+FRA=G. \b0 Les Ministres\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\b\par
+FRA=H. \b0 Les d\'e9put\'e9s\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\b\par
+FRA=I. \b0 Les s\'e9nateurs\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\b\par
+FRA=J. \b0 Les autorit\'e9s communales\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12K
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\b\par
+FRA=K. \b0 Les autorit\'e9s r\'e9ligieuses\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G12L
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G12. \b0 dans quelle mesure les personnes suivantes sont-elles impliqu\'e9es dans la corruption ?\par
+FRA=\b\par
+FRA=L. \b0 Les chefs traditionnels/de la communaut\'e9\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G13
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G13.\b0  Avez-vous connaissance de l'existance de l'Observatoire de Lutte contre la Corruption (OLC) au en R\'e9publique D\'e9mocratique du Congo?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G14. \b0 Selon vous, le gouvernement est-il efficace dans la lutte contre la corruption?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G15.\b0  Etes vous inform\'e9s sur les efforts du gouvernement dans la lutte contre la corruption?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G16. \b0 Avez-vous vot\'e9 \'e0 la derni\'e8re \'e9lection pr\'e9sidentielle?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G17_1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G17. \b0 Si non, pourquoi :\par
+FRA=\par
+FRA=1. Pas de candidat ou de parti repr\'e9sentant vos opinions\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G17_2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G17. \b0 Si non, pourquoi :\par
+FRA=\par
+FRA=2. Voter ne change rien \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G17_3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G17. \b0 Si non, pourquoi :\par
+FRA=\par
+FRA=3. Pas enregistr\'e9 sur les listes \'e9lectorales (refus, manque de temps etc)\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G17_4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G17. \b0 Si non, pourquoi :\par
+FRA=\par
+FRA=4. Difficult\'e9 \'e0 s'inscrire sur les listes \'e9lectorales \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G17_5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G17. \b0 Si non, pourquoi :\par
+FRA=\par
+FRA=5. Non apparition du nom sur la liste \'e9lectorale malgr\'e9 l'inscription\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G17_6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G17. \b0 Si non, pourquoi :\par
+FRA=\par
+FRA=6. N'a pas pu entrer en possession de sa carte d'\'e9lecteur\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G17_7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G17. \b0 Si non, pourquoi :\par
+FRA=\par
+FRA=7. Pas en \'e2ge de voter au moment de l'\'e9lection\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G17_8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G17. \b0 Si non, pourquoi :\par
+FRA=\par
+FRA=8. Eloignement du lieu de vote\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G17_9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G17. \b0 Si non, pourquoi :\par
+FRA=\par
+FRA=9. Autre \'e0 pr\'e9ciser\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G18
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G18. \b0 Pensez vous que les hommes politiques prennes en compte les pr\'e9occupation/attentes de la population?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G19A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G19. \b0 Etes vous membre/dirigeant d'une association ?\par
+FRA=\par
+FRA=A. Locale (de quartier)\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G19B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G19. \b0 Etes vous membre/dirigeant d'une association ?\par
+FRA=\par
+FRA=B. Religieuse\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G19C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G19. \b0 Etes vous membre/dirigeant d'une association ?\par
+FRA=\par
+FRA=C. Professionnelle\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G19D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G19. \b0 Etes vous membre/dirigeant d'une association ?\par
+FRA=\par
+FRA=D. Familiale/amicale\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G19E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G19. \b0 Etes vous membre/dirigeant d'une association ?\par
+FRA=\par
+FRA=E. Epargne collective\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G19F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G19. \b0 Etes vous membre/dirigeant d'une association ?\par
+FRA=\b\par
+FRA=F. \b0 Parti politique\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G19G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G19. \b0 Etes vous membre/dirigeant d'une association ?\par
+FRA=\par
+FRA=G. Organisation sportive\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G19H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G19. \b0 Etes vous membre/dirigeant d'une association ?\par
+FRA=\par
+FRA=H. Organisation r\'e9cr\'e9ative\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G19I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G19. \b0 Etes vous membre/dirigeant d'une association ?\par
+FRA=\b\par
+FRA=I. \b0 Autre \'e0 pr\'e9ciser\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G20
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G20. \b0 A quel d\'e9gr\'e9 \'eates vous interess\'e9 par la politique ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G21
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G21. \b0 Vous arrive-t-il souvent de parler de politique avec vos proches?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2A_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2. \b0 La d\'e9mocratrie est souvent associ\'e9e aux caract\'e9ristiques suivantes : \par
+FRA=\b\par
+FRA=G2.A. \b0 Les gens sont libres de dire ce qu'ils veulent (Libert\'e9 d'expression)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2A_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2b.b.\b0  Dans quelles mesures Libert\'e9 d'expression est respect\'e9e au Congo ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2B_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2. \b0 La d\'e9mocratrie est souvent associ\'e9e aux caract\'e9ristiques suivantes : \par
+FRA=\par
+FRA=B. Les journeaux sont libres de publier sans crainte d'\'eatre ferm\'e9s (Libert\'e9 de presse)\par
+FRA=\b\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2B_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2b.b.\b0  Dans quelles mesures Libert\'e9 de presse est respect\'e9e au Congo ?\par
+FRA=
+FRA=\pard\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2C_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2. \b0 La d\'e9mocratrie est souvent associ\'e9e aux caract\'e9ristiques suivantes : \par
+FRA=\par
+FRA=C. Chaque personne est trait\'e9e de fa\'e7on \'e9gale par la police et les cours de justice (Egalit\'e9 devant la loi)\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2C_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2c.b.\b0  Dans quelles mesures L'\'e9galit\'e9 des lois est respect\'e9e au Congo ?\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2D_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2. \b0 La d\'e9mocratrie est souvent associ\'e9e aux caract\'e9ristiques suivantes : \par
+FRA=\par
+FRA=D. Chaque personne est libre d'adh\'e9rer au parti politique de son choix\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2D_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2D.b.\b0  Dans quelles mesures L'adh\'e9sion dans un parti politique est respect\'e9e au Congo ?\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2E_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2. \b0 La d\'e9mocratrie est souvent associ\'e9e aux caract\'e9ristiques suivantes : \par
+FRA=\par
+FRA=E. Chaque personne peut voter librement sans intimidation (Elections libres et transparentes)\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2E_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2E.b.\b0  Dans quelles mesures la liberter de voter librement sans intimidation (Elections libres et transparentes) est respect\'e9e au Congo ?\par
+FRA=\par
+FRA=\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2F_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2. \b0 La d\'e9mocratrie est souvent associ\'e9e aux caract\'e9ristiques suivantes : \par
+FRA=\par
+FRA=F. Les gens peuvent choisir leur lieu de r\'e9sidence et de travail sans restriction  (Libert\'e9 de circulation)\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2F_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2F.b.\b0  Dans quelles mesures la liberter de circulation est respect\'e9e au Congo ?\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2G_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2. \b0 La d\'e9mocratrie est souvent associ\'e9e aux caract\'e9ristiques suivantes : \par
+FRA=\par
+FRA=G. Les gens sont libres d'adh\'e9rer \'e0 la r\'e9ligion de leur choix sans subir de pers\'e9cutions (Libert\'e9 de criculation)\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2G_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2G.b.\b0  Dans quelles mesures la libert\'e9 d'adh\'e9rer \'e0la r\'e9ligion de leur choix est respect\'e9e au Congo ?\par
+FRA=\par
+FRA=\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2H_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2. \b0 La d\'e9mocratrie est souvent associ\'e9e aux caract\'e9ristiques suivantes : \par
+FRA=\par
+FRA=H. Les gens peuvent joindre l'organisation de leur choix sans interf\'e9rence du gouvernement (Libert\'e9 d'association)\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2H_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2H.b.\b0  Dans quelles mesures la libert\'e9 de joindre l'organisation de son choix est respect\'e9e au Congo ?\par
+FRA=\par
+FRA=\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2I_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2. \b0 La d\'e9mocratrie est souvent associ\'e9e aux caract\'e9ristiques suivantes : \par
+FRA=\par
+FRA=I. Les droits de chaque personne sont respect\'e9s de mani\'e8re \'e9gale par les repr\'e9sentants du gouvernement \b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G2I_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G2I.b.\b0  Dans quelles mesures les droits de chaque personne sont respect\'e9es au Congo ?\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G3. \b0 En g\'e9n\'e9ral, quel est votre degr\'e9 de satisfaction de la d\'e9mocratie dans le pays ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G4A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G4. \b0 Il arrive que des gens soit discrimin\'e9s selon leur caract\'e9ristiques personnelles. Pensez-vous qu'il y a des discriminations li\'e9es \'e0 :\par
+FRA=\par
+FRA=A. Ethnie\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G4B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G4. \b0 Il arrive que des gens soit discrimin\'e9s selon leur caract\'e9ristiques personnelles. Pensez-vous qu'il y a des discriminations li\'e9es \'e0 :\par
+FRA=\b\par
+FRA=B. \b0 La langue/dialecte\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G4C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G4. \b0 Il arrive que des gens soit discrimin\'e9s selon leur caract\'e9ristiques personnelles. Pensez-vous qu'il y a des discriminations li\'e9es \'e0 :\par
+FRA=\b\par
+FRA=C. \b0 La r\'e9gion d'origine\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G4D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G4. \b0 Il arrive que des gens soit discrimin\'e9s selon leur caract\'e9ristiques personnelles. Pensez-vous qu'il y a des discriminations li\'e9es \'e0 :\par
+FRA=\b\par
+FRA=D. \b0 La religion\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G4E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G4. \b0 Il arrive que des gens soit discrimin\'e9s selon leur caract\'e9ristiques personnelles. Pensez-vous qu'il y a des discriminations li\'e9es \'e0 :\par
+FRA=\b\par
+FRA=E. \b0 Nationalit\'e9 \'e9trang\'e8re\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G4F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G4. \b0 Il arrive que des gens soit discrimin\'e9s selon leur caract\'e9ristiques personnelles. Pensez-vous qu'il y a des discriminations li\'e9es \'e0 :\par
+FRA=\b\par
+FRA=F. \b0 la Pauvret\'e9 ou richesse\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G4G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G4. \b0 Il arrive que des gens soit discrimin\'e9s selon leur caract\'e9ristiques personnelles. Pensez-vous qu'il y a des discriminations li\'e9es \'e0 :\par
+FRA=\b\par
+FRA=G. \b0 Au sexe\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G4H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G4. \b0 Il arrive que des gens soit discrimin\'e9s selon leur caract\'e9ristiques personnelles. Pensez-vous qu'il y a des discriminations li\'e9es \'e0 :\par
+FRA=\b\par
+FRA=H. \b0 L'handicap\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G4I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G4. \b0 Il arrive que des gens soit discrimin\'e9s selon leur caract\'e9ristiques personnelles. Pensez-vous qu'il y a des discriminations li\'e9es \'e0 :\par
+FRA=\b\par
+FRA=\b0 I. L'albinisme\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G5A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G5. \b0 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de l'une de ces discriminations ?\par
+FRA=\par
+FRA=A. Ethnie\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G5B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G5. \b0 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de l'une de ces discriminations ?\par
+FRA=\par
+FRA=B. La langue/dialecte\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G5C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G5. \b0 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de l'une de ces discriminations ?\par
+FRA=\par
+FRA=C. La r\'e9gion d'origine\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G5D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G5. \b0 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de l'une de ces discriminations ?\par
+FRA=\par
+FRA=D. La religion\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G5E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G5. \b0 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de l'une de ces discriminations ?\par
+FRA=\par
+FRA=E. Nationalit\'e9 \'e9trang\'e8re\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G5F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G5. \b0 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de l'une de ces discriminations ?\par
+FRA=\par
+FRA=F. Pauvret\'e9 ou richesse\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G5G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G5. \b0 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de l'une de ces discriminations ?\par
+FRA=\par
+FRA=G. Le sexe\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G5H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G5. \b0 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de l'une de ces discriminations ?\par
+FRA=\par
+FRA=H. L'handicap\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G5I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G5. \b0 Avez-vous d\'e9j\'e0 \'e9t\'e9 victime de l'une de ces discriminations ?\par
+FRA=\par
+FRA=I. L'albinisme\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G6. \b0 D'apr\'e8s vous, les femmes devraient-elles avoir les m\'eames chances que les hommes d'\'eatre \'e9lues \'e0 des postes politiques ?\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=A. L'administration publique en g\'e9n\'e9ral\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7A_A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance \'e0 l'administration publique en g\'e9n\'e9rale ?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=B. La justice\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7B_B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance \'e0 la justice ?\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=C. La police/gendarmerie\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7C_C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance \'e0 la police/gendarm\'e9rie ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=D. Les formations sanitaires publiques\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7D_D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance aux formations sanitaires publiques ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=E. Les \'e9tablissements scolaires publics\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7E_E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance aux \'e9tablissements scolaires public ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=F. Les impots et douanes\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7F_F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance aux services des im\'f4pts/douanes ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=G. Les m\'e9dias de l'Etat\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7G_G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance aux m\'e9dias de l'Etat ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=H. L'arm\'e9e\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7H_H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance \'e0 l'arm\'e9e ?\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=I. Le syst\'e8me de s\'e9curit\'e9 sociale\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7I_I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance au syst\'e8me de s\'e9curit\'e9 sociale ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=J. Le S\'e9nat\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7J_J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance au s\'e9nat ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7K
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=K. L'Assembl\'e9 Nationale\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7K_K
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance \'e0 l'assembl\'e9e nationale ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7L
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G7. \b0 Avez-vous \'e9t\'e9 en contact avec les institutions suivantes au cours des 12 derniers mois ?\par
+FRA=\par
+FRA=L. La mairie\par
+FRA=\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G7L_L
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\fs24 Faites vous confiance \'e0 la mairie ?\par
+FRA=\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G8. \b0 Est-ce que la corruption constitue-t-elle une pr\'e9occupation pour la R\'e9publique D\'e9mocratique du Congo?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.G9
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 G9. \b0 Au cours des 12 derniers mois, avez-vous \'e9t\'e9 forc\'e9 d'offrir un cadeau, faire une faveur ou donner de l'argent \'e0 un fonctionnaire en \'e9change d'un service?\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1703A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1703a. \b0 Nom de l'enfant\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1704
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1704.\b0  Num\'e9ro de ligne de la M\'e8re\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1704A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1704A. \b0 Nom de la M\'e8re\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1705
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1705. \b0 Code Enqu\'eateur\b\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1706
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1706. \b0 Code Superviseur\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1707
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1707. \b0 Date de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1708
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1708. \b0 Heure de d\'e9but de l'interview \par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1709
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1709. \b0 Premier interview avec le r\'e9pondant\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M171
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1701.\b0  Num\'e9ro de la Grappe\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1710
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M17010. \b0 Consentement \par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1711
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1711. \b0 Heure de fin de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1712
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1712. \b0 Langue du Questionnaire\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1713
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1713. \b0 Langue de l'interview\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1714
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1714. \b0 Langue Maternelle\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1715
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1715. \b0 Utilisation d'un interpr\'e8te \par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M1717
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1717.\b0  R\'e9sultat de l'interview \par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M172
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1702. \b0 Num\'e9ro du M\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M173
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M1703. \b0 Num\'e9ro de Ligne\par
+FRA=}
+
+[QUESTION]
+Field=MOD_17_DICT.M17INT
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 6.3.9600}\viewkind4\uc1
+FRA=\pard\cf1\b\fs24 M17ENQ. \b0 Num\'e9ro de l'enqu\'eateur M\'e9nage\par
+FRA=}
+

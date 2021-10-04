@@ -1,0 +1,21 @@
+﻿[CSPro Application]
+Version=CSPro 7.6
+Label=MENU_AR
+Name=MENU_AR
+AppType=DataEntry
+OperatorID=No
+ShowEndCaseDialog=No
+CAPI=Yes
+[External Dictionaries]
+File=..\Dict\Equipe.dcf
+[AppCode]
+File=.\MENU_AR.ent.apc
+[Message]
+File=.\MENU_AR.ent.mgf
+[Help]
+File=.\MENU_AR.ent.qsf
+[Forms]
+File=.\MENU_AR.fmf
+[Dictionary Types]
+Dict-Type=..\Dict\MENU.dcf,Input,.\MENU_AR.fmf
+Dict-Type=..\Dict\Equipe.dcf,External

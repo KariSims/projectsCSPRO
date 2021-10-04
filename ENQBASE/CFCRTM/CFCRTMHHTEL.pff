@@ -1,0 +1,18 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Entry
+
+[DataEntryInit]
+StartMode=Add
+Lock=Delete
+Interactive=Ask
+
+[Files]
+Application=.\CFCRTMHHTEL.ent
+InputData=..\CFCRTMdata\TELENQ.csdb|CSPRODB
+
+[ExternalFiles]
+MICS6HH=..\CFCRTMdata\HHENQ.csdb|CSPRODB
+
+[Parameters]
+

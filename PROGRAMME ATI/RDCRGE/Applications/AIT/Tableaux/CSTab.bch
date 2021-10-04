@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=CSTAB
+Name=
+AppType=Batch
+[AppCode]
+File=.\CSTab.apc
+[Message]
+File=.\CSTab.mgf
+[Order]
+File=.\CSTab.ord
+[Dictionary Types]
+Dict-Type=.\TabATI02.xtb.wrk.dcf,Working

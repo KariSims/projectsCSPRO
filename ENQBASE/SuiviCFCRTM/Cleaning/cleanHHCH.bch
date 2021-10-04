@@ -1,0 +1,16 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=CLEANHH
+Name=CLEANHH
+AppType=Batch
+[External Dictionaries]
+File=..\..\CFCRTM\Copy (2) of CFCRTMCH.dcf
+[AppCode]
+File=.\cleanHHCH.bch.apc
+[Message]
+File=.\cleanHHCH.bch.mgf
+[Order]
+File=.\cleanHHCH.ord
+[Dictionary Types]
+Dict-Type=..\..\CFCRTM\Copy (2) of CFCRTMCH.dcf,External
+Dict-Type=.\cleanHHCH.dcf,Input,.\cleanHHCH.ord

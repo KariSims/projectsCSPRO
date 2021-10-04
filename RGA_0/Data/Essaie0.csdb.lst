@@ -1,0 +1,26 @@
+﻿Application     G:\RGA_0\Appli AR\Entry\MENU_AR.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> G:\RGA_0\Data\Essaie0.csdb
+External        EQUIPE_DICT=<<CSPro DB>> G:\RGA_0\Appli AR\Fext\teams.csdb
+
+Date            Dec 15, 2020
+Start Time      12:00:44
+End Time        12:01:31
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     G:\RGA_0\Appli AR\Entry\MENU_AR.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> G:\RGA_0\Data\Essaie0.csdb
+External        EQUIPE_DICT=<<CSPro DB>> G:\RGA_0\Appli AR\Fext\teams.csdb
+
+Date            Dec 15, 2020
+Start Time      12:06:34
+End Time        12:06:36
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

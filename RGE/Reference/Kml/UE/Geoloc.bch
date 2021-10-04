@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=GEOLOC
+Name=GEOLOC
+AppType=Batch
+[AppCode]
+File=.\Geoloc.bch.apc
+[Message]
+File=.\Geoloc.bch.mgf
+[Order]
+File=.\Geoloc.ord
+[Dictionary Types]
+Dict-Type=..\..\..\Dicts\RGE.dcf,Input,.\Geoloc.ord

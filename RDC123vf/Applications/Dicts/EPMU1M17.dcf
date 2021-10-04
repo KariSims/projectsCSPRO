@@ -1,0 +1,1953 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=MODULE 17 : GOUVERNANCE
+Name=EPMU1M17
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=Francais
+LING=Lingala
+SWA=Swahili
+
+[Level]
+Label=MODULE 17 : GOUVERNANCE questionnaire
+Name=M17
+
+[IdItems]
+
+[Item]
+Label=Numéro de la grappe
+Name=M171
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro Ménage
+Name=M172
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de l'enquêteur Ménage
+Name=M17INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M173
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M173_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS du Module
+Name=MODHH
+RecordTypeValue='M17'
+RecordLen=123
+
+[Item]
+Label=Code Enquêteur|Numéro Enquêteur
+Name=M17HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur|Numéro Superviseur
+Name=M175
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview|Date d'interview
+Name=M176
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview|Jour d'interview
+Name=M176J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview|Jour d'interview
+Name=M176J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de l'interview|Mois d'interview
+Name=M176M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=M176M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année de l'interview|Année d'interview
+Name=M176A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview|Année d'interview
+Name=M176A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu|Milieu de résidence
+Name=M177
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu|Milieu de résidence
+Name=M177_VS1
+Value=1;URBAIN|Na etuka
+
+[Item]
+Label=Province|Province
+Name=M178
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province|Province
+Name=M178_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps dudébut de l'interview|Temps début de l' interview
+Name=M179
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M179H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M179H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M179M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M179M_VS1
+Value=0:59
+
+[Item]
+Label=L'heure de la fin de l'interview|Temps de fin de l'interview
+Name=M1710
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M1710H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M1710H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M1710M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M1710M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement |Consentement
+Name=M1711
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement |Consentement
+Name=M1711_VS1
+Value=1;OUI, PERMISSION DONNEE|Iyo, andimi|نعم، تم إعطاء الإذن
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;NON, PERMISSION PAS DONNEE |Te, aboyi|لا، لم يتم إعطاء الإذن
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M1717
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M1717_VS1
+Value=1;COMPLETE|Mobimba|أُنجزت المقابلة
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|Batu bazali na tangu ya koleka|لا يوجد أي فرد من أفراد الأسرة المعيشية أو مستجيب كفؤ في المنزل للإجابة وقت الزيارة
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|Ndaku mobimba bazali te|الأسرة بأكملها غير متواجدة في المسكن لمدة زمنية طويلة
+Value=4;REFUS|Baboyi|رفضت الأسرة إجراء المقابلة
+Value=5;LOGEMENT VIDE|Ndaku ya pamba moto aza te|المسكن فارغ أو العنوان ليس مسكن
+Value=6;LOGEMENT DETRUIT|Ndaku babuka|المسكن هدم
+Value=7;LOGEMENT PAS TROUVE|Ndaku ezali te |لم يتم العثور على المسكن
+Value=96;AUTRE|Mosusu
+
+[Item]
+Label=Nom du chef de ménage|Nom du chef de ménage
+Name=M17NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M17ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M17FIN
+Start=122
+Len=1
+
+[ValueSet]
+Label=Finish
+Name=M17FIN_VS1
+Value=1;Revisiter le questionnaire|Zongela kotala mituna
+Image=..\..\Reference\icons\arrow-58-xxl.png
+Value=2;Ajouter les  notes|Bakisa makomi
+Value=3;Savegarder questionnaire et terminer|Bomba mituna
+Image=..\..\Reference\icons\sauvergarder.png
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer|Koba
+
+[Record]
+Label=GOUVERNANCE
+Name=MOD_17
+RecordTypeValue='GOU'
+RecordLen=123
+
+[Item]
+Label=Pensez vous qu'en République Démocratique du Congo, les droits de l'Homme sont respectés?
+Name=G1
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pensez vous qu'en République Démocratique du Congo, les droits de l'Homme sont respectés?
+Name=G1_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les gens sont libres de dire ce qu'ils veulent (Liberté d'expression)
+Name=G2A_A
+Start=15
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les gens sont libres de dire ce qu'ils veulent (Liberté d'expression)
+Name=G2A_A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2A_B
+Start=16
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2A_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les journeaux sont libres de publier sans crainte d'être fermés (Liberté de presse)
+Name=G2B_A
+Start=17
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les journeaux sont libres de publier sans crainte d'être fermés (Liberté de presse)
+Name=G2B_A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2B_B
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2B_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Chaque personne est traitée de façon égale par la police et les cours de justice (Egalité devant la loi)
+Name=G2C_A
+Start=19
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Chaque personne est traitée de façon égale par la police et les cours de justice (Egalité devant la loi)
+Name=G2C_A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2C_B
+Start=20
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2C_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Chaque personne est libre d'adhérer au parti politique de son choix
+Name=G2D_A
+Start=21
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Chaque personne est libre d'adhérer au parti politique de son choix
+Name=G2D_A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2D_B
+Start=22
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2D_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Chaque personne peut voter librement sans intimidation (Elections libres et transparentes)
+Name=G2E_A
+Start=23
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Chaque personne peut voter librement sans intimidation (Elections libres et transparentes)
+Name=G2E_A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2E_B
+Start=24
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2E_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les gens peuvent choisie leur lieu de résidence et de travail sans restriction et peuvent quitter leur pays et revenir n'importe quand (Liberté de circulation)
+Name=G2F_A
+Start=25
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les gens peuvent choisie leur lieu de résidence et de travail sans restriction et peuvent quitter leur pays et revenir n'importe quand (Liberté de circulation)
+Name=G2F_A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2F_B
+Start=26
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2F_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les gens sont libres d'adhérer à la réligion de leur choix sans subir de persécutions (Liberté de criculation)
+Name=G2G_A
+Start=27
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les gens sont libres d'adhérer à la réligion de leur choix sans subir de persécutions (Liberté de criculation)
+Name=G2G_A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2G_B
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2G_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les gens peuvent joindre l'organisation de leur choix sans interférence du gouvernement (Liberté d'association)
+Name=G2H_A
+Start=29
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les gens peuvent joindre l'organisation de leur choix sans interférence du gouvernement (Liberté d'association)
+Name=G2H_A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2H_B
+Start=30
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2H_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les droits de chaque personne sont respectés de manière égale par les représentants du gouvernement et dans le vie quotidienne (Absence de discrimination)
+Name=G2I_A
+Start=31
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les droits de chaque personne sont respectés de manière égale par les représentants du gouvernement et dans le vie quotidienne (Absence de discrimination)
+Name=G2I_A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2I_B
+Start=32
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans quelles mesures sont-elles respectées au Congo?
+Name=G2I_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=En général, quel est votre degréde satisfaction de la démocratie dans le pays?
+Name=G3
+Start=33
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=En général, quel est votre degréde satisfaction de la démocratie dans le pays?
+Name=G3_VS1
+Value=1;Pas du tout satisfait|Nasepeli penza te|Sio kabisa kuridhika
+Value=2;Pas vraiment satisfait|Nasepeli kaka te|Sio kuridhika kwa kweli
+Value=3;Assez satisfait|Nasepeli mwa muke|Imetumiza kutosha
+Value=4;Très satisfait|Nasepeli makasi|Ameridhika sana
+
+[Item]
+Label=Ethnie
+Name=G4A
+Start=34
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Ethnie
+Name=G4A_VS1
+Value=1;Pas du tout|Penza te|Sio
+Value=2;Pas vraiment|Na ndimi te|SI kweli
+Value=3;Passablement|Elekaka mwa muke|Kiasi fulani
+Value=4;Beaucoup|Mingi|Wengi
+
+[Item]
+Label=La langue/dialecte
+Name=G4B
+Start=35
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La langue/dialecte
+Name=G4B_VS1
+Value=1;Pas du tout|Penza te|Sio
+Value=2;Pas vraiment|Na ndimi te|SI kweli
+Value=3;Passablement|Elekaka mwa muke|Kiasi fulani
+Value=4;Beaucoup|Mingi|Wengi
+
+[Item]
+Label=La région d'origine
+Name=G4C
+Start=36
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La région d'origine
+Name=G4C_VS1
+Value=1;Pas du tout|Penza te|Sio
+Value=2;Pas vraiment|Na ndimi te|SI kweli
+Value=3;Passablement|Elekaka mwa muke|Kiasi fulani
+Value=4;Beaucoup|Mingi|Wengi
+
+[Item]
+Label=La religion
+Name=G4D
+Start=37
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La religion
+Name=G4D_VS1
+Value=1;Pas du tout|Penza te|Sio
+Value=2;Pas vraiment|Na ndimi te|SI kweli
+Value=3;Passablement|Elekaka mwa muke|Kiasi fulani
+Value=4;Beaucoup|Mingi|Wengi
+
+[Item]
+Label=Nationalité étrangère
+Name=G4E
+Start=38
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nationalité étrangère
+Name=G4E_VS1
+Value=1;Pas du tout|Penza te|Sio
+Value=2;Pas vraiment|Na ndimi te|SI kweli
+Value=3;Passablement|Elekaka mwa muke|Kiasi fulani
+Value=4;Beaucoup|Mingi|Wengi
+
+[Item]
+Label=Pavreté ou richesse
+Name=G4F
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pavreté ou richesse
+Name=G4F_VS1
+Value=1;Pas du tout|Penza te|Sio
+Value=2;Pas vraiment|Na ndimi te|SI kweli
+Value=3;Passablement|Elekaka mwa muke|Kiasi fulani
+Value=4;Beaucoup|Mingi|Wengi
+
+[Item]
+Label=Le sexe
+Name=G4G
+Start=40
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le sexe
+Name=G4G_VS1
+Value=1;Pas du tout|Penza te|Sio
+Value=2;Pas vraiment|Na ndimi te|SI kweli
+Value=3;Passablement|Elekaka mwa muke|Kiasi fulani
+Value=4;Beaucoup|Mingi|Wengi
+
+[Item]
+Label=L'handicap
+Name=G4H
+Start=41
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'handicap
+Name=G4H_VS1
+Value=1;Pas du tout|Penza te|Sio
+Value=2;Pas vraiment|Na ndimi te|SI kweli
+Value=3;Passablement|Elekaka mwa muke|Kiasi fulani
+Value=4;Beaucoup|Mingi|Wengi
+
+[Item]
+Label=L'albinisme
+Name=G4I
+Start=42
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'albinisme
+Name=G4I_VS1
+Value=1;Pas du tout|Penza te|Sio
+Value=2;Pas vraiment|Na ndimi te|SI kweli
+Value=3;Passablement|Elekaka mwa muke|Kiasi fulani
+Value=4;Beaucoup|Mingi|Wengi
+
+[Item]
+Label=Discrimination : Ethnie
+Name=G5A
+Start=43
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Discrimination : Ethnie
+Name=G5A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+Value=3;Non concerné|Etali ye te|Sio wasiwasi
+Image=..\..\Reference\icons\ne sait pas.png
+
+[Item]
+Label=Discrimination : La langue/dialecte
+Name=G5B
+Start=44
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Discrimination : La langue/dialecte
+Name=G5B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+Value=3;Non concerné|Etali ye te|Sio wasiwasi
+Image=..\..\Reference\icons\ne sait pas.png
+
+[Item]
+Label=Discrimination : La région d'origine
+Name=G5C
+Start=45
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Discrimination : La région d'origine
+Name=G5C_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+Value=3;Non concerné|Etali ye te|Sio wasiwasi
+Image=..\..\Reference\icons\ne sait pas.png
+
+[Item]
+Label=Discrimination : La religion
+Name=G5D
+Start=46
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Discrimination : La religion
+Name=G5D_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+Value=3;Non concerné|Etali ye te|Sio wasiwasi
+Image=..\..\Reference\icons\ne sait pas.png
+
+[Item]
+Label=Discrimination : Nationalité étrangère
+Name=G5E
+Start=47
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Discrimination : Nationalité étrangère
+Name=G5E_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+Value=3;Non concerné|Etali ye te|Sio wasiwasi
+Image=..\..\Reference\icons\ne sait pas.png
+
+[Item]
+Label=Discrimination : Pavreté ou richesse
+Name=G5F
+Start=48
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Discrimination : Pavreté ou richesse
+Name=G5F_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Discrimination : Le sexe
+Name=G5G
+Start=49
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Discrimination : Le sexe
+Name=G5G_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Discrimination : L'handicap
+Name=G5H
+Start=50
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Discrimination : L'handicap
+Name=G5H_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+Value=3;Non concerné|Etali ye te|Sio wasiwasi
+Image=..\..\Reference\icons\ne sait pas.png
+
+[Item]
+Label=Discrimination : L'albinisme
+Name=G5I
+Start=51
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Discrimination : L'albinisme
+Name=G5I_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+Value=3;Non concerné|Etali ye te|Sio wasiwasi
+Image=..\..\Reference\icons\ne sait pas.png
+
+[Item]
+Label=D'après vous, les femmes devraient-elles avoir les même chances que les hommes d'être éluesà des postes politiques?
+Name=G6
+Start=52
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=D'après vous, les femmes devraient-elles avoir les même chances que les hommes d'être éluesà des postes politiques?
+Name=G6_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=L'administration publique en général
+Name=G7A
+Start=53
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'administration publique en général
+Name=G7A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance à l'administration publique ?
+Name=G7A_A
+Start=54
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance à l'administration publique ?
+Name=G7A_A_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=La justice
+Name=G7B
+Start=55
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La justice
+Name=G7B_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance à la justice
+Name=G7B_B
+Start=56
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance à la justice
+Name=G7B_B_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=La police/gendarmerie
+Name=G7C
+Start=57
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La police/gendarmerie
+Name=G7C_VS1
+Value=1;Oui||Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non||Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance à la Police/Gendarmerie
+Name=G7C_C
+Start=58
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance à la Police/Gendarmerie
+Name=G7C_C_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les formations sanitaires publiques
+Name=G7D
+Start=59
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les formations sanitaires publiques
+Name=G7D_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance aux formations sanitaires publiques ?
+Name=G7D_D
+Start=60
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance aux formations sanitaires publiques ?
+Name=G7D_D_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les établissements scolaires publics
+Name=G7E
+Start=61
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les établissements scolaires publics
+Name=G7E_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance aux établissements scolaires publics ?
+Name=G7E_E
+Start=62
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance aux établissements scolaires publics ?
+Name=G7E_E_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les impots et douanes
+Name=G7F
+Start=63
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les impots et douanes
+Name=G7F_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance aux serces des impôts et douanes ?
+Name=G7F_F
+Start=64
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance aux serces des impôts et douanes ?
+Name=G7F_F_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Les médias de l'Etat
+Name=G7G
+Start=65
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les médias de l'Etat
+Name=G7G_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance aux médias de l'Etat
+Name=G7G_G
+Start=66
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance aux médias de l'Etat
+Name=G7G_G_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=L'armée
+Name=G7H
+Start=67
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'armée
+Name=G7H_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance à l'armée
+Name=G7H_H
+Start=68
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance à l'armée
+Name=G7H_H_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Le système de sécurité sociale
+Name=G7I
+Start=69
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le système de sécurité sociale
+Name=G7I_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance au système de sécurité sociale
+Name=G7I_I
+Start=70
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance au système de sécurité sociale
+Name=G7I_I_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Le Sénat
+Name=G7J
+Start=71
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le Sénat
+Name=G7J_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance au sénat
+Name=G7J_J
+Start=72
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance au sénat
+Name=G7J_J_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=L'Assemblé Nationale
+Name=G7K
+Start=73
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'Assemblé Nationale
+Name=G7K_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance à l'assemblée nationale
+Name=G7K_K
+Start=74
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance à l'assemblée nationale
+Name=G7K_K_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=La mairie
+Name=G7L
+Start=75
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La mairie
+Name=G7L_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Faites-vous confiance à la mairie
+Name=G7L_L
+Start=76
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Faites-vous confiance à la mairie
+Name=G7L_L_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Est-ce que la corruption constitue-t-elle une préoccupation pour la République Démocratique du Congo?
+Name=G8
+Start=77
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que la corruption constitue-t-elle une préoccupation pour la République Démocratique du Congo?
+Name=G8_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mingi mingi|mara nyingi
+Value=4;Toujours|Tango nionso|Siku zote
+
+[Item]
+Label=Au cours des 12 derniers mois, avez-vous été forcé d'offrir un cadeau, faire une faveur ou donner de l'argent à un fonctionnaire en échange d'un service?
+Name=G9
+Start=78
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Au cours des 12 derniers mois, avez-vous été forcé d'offrir un cadeau, faire une faveur ou donner de l'argent à un fonctionnaire en échange d'un service?
+Name=G9_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Si oui, à quelle fréquence?
+Name=G10
+Start=79
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Si oui, à quelle fréquence?
+Name=G10_VS1
+Value=1; Une fois|Mbala moko|Mara moja
+Value=2;Deux à cinq fois|Mbala mibale to mitano|Mara mbili hadi mara mbili
+Value=3;Plus de cinq fois|Koleka mbala mitano|Zaidi ya mara tano
+
+[Item]
+Label=Si oui, la plupart du temps c'était pour quel(s) service(s)?
+Name=G11
+Start=80
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Si oui, la plupart du temps c'était pour quel(s) service(s)?
+Name=G11_VS1
+Value='A      ';Santé|Bokolongono ya nzoto|Afya
+Image=..\..\Reference\icons\Santé.5.PNG
+Value='B      ';Education|Boyekoli|Elimu
+Image=..\..\Reference\icons\Education et NTC ss.png
+Value='C      ';Police/gendarmerie|Mapinga ya pulusu |Polici / Polici
+Value='D      ';Autre services sociaux de base|Misala misusu ya ebandela|Huduma nyingine za msingi za kijamii
+Value='E      ';Impôts/douane|Mpako|Kodi / Forodha
+Value='F      ';Justice|Mibeko|Haki
+Value='G      ';Autre (à préciser)|mosusus|Nyingine ( kuwa maalum )
+
+[Item]
+Label=Santé
+Name=G11A
+Start=80
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Education
+Name=G11B
+Start=81
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Police / Gendarmerie
+Name=G11C
+Start=82
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Autres services sociaux de base
+Name=G11D
+Start=83
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Impots, taxes et douane
+Name=G11E
+Start=84
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Justice
+Name=G11F
+Start=85
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Autres à préciser
+Name=G11G
+Start=86
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Les fonctionnaires (en général)
+Name=G12A
+Start=87
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les fonctionnaires (en général)
+Name=G12A_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Les policiers/gendarmes
+Name=G12B
+Start=88
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les policiers/gendarmes
+Name=G12B_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Les juges, magistrats, personnels de la justice
+Name=G12C
+Start=89
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les juges, magistrats, personnels de la justice
+Name=G12C_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Les agents des impôts et douanes
+Name=G12D
+Start=90
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les agents des impôts et douanes
+Name=G12D_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Le personnel de santé
+Name=G12E
+Start=91
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le personnel de santé
+Name=G12E_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Le personnel de l'éducation
+Name=G12F
+Start=92
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le personnel de l'éducation
+Name=G12F_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Les Ministres
+Name=G12G
+Start=93
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les Ministres
+Name=G12G_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Les députés
+Name=G12H
+Start=94
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les députés
+Name=G12H_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Les sénateurs
+Name=G12I
+Start=95
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les sénateurs
+Name=G12I_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Les autorité communales
+Name=G12J
+Start=96
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les autorité communales
+Name=G12J_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Les autorités réligieuses
+Name=G12K
+Start=97
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les autorités réligieuses
+Name=G12K_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Les chefs traditionnels/de la communauté
+Name=G12L
+Start=98
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Les chefs traditionnels/de la communauté
+Name=G12L_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Avez-vous connaissance de l'existance de l'Observatoire de Lutte contre la Corruption (OLC) au en République Démocratique du Congo?
+Name=G13
+Start=99
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avez-vous connaissance de l'existance de l'Observatoire de Lutte contre la Corruption (OLC) au en République Démocratique du Congo?
+Name=G13_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Selon vous, le gouvernement est-il efficace dans la lutte contre la corruption?
+Name=G14
+Start=100
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Selon vous, le gouvernement est-il efficace dans la lutte contre la corruption?
+Name=G14_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Etes vous informés sur les efforts du gouvernement dans la lutte contre la corruption?
+Name=G15
+Start=101
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Etes vous informés sur les efforts du gouvernement dans la lutte contre la corruption?
+Name=G15_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Avez-vous voté à la dernière élection présidentielle?
+Name=G16
+Start=102
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avez-vous voté à la dernière élection présidentielle?
+Name=G16_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Pas de candidat ou de parti représentant vos opinions
+Name=G17_1
+Start=103
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pas de candidat ou de parti représentant vos opinions
+Name=G17_1_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Voter ne change rien
+Name=G17_2
+Start=104
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Voter ne change rien
+Name=G17_2_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Pas enregistré sur les listes électorales (refus, manque de temps etc)
+Name=G17_3
+Start=105
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pas enregistré sur les listes électorales (refus, manque de temps etc)
+Name=G17_3_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Difficulté à s'inscrire sur les liste électorale
+Name=G17_4
+Start=106
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Difficulté à s'inscrire sur les liste électorale
+Name=G17_4_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Non apparition du nom sur la liste électorale malgré l'inscription
+Name=G17_5
+Start=107
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Non apparition du nom sur la liste électorale malgré l'inscription
+Name=G17_5_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=N'a pas pu entrer en possession de sa carte d'électeur
+Name=G17_6
+Start=108
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=N'a pas pu entrer en possession de sa carte d'électeur
+Name=G17_6_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Pas en âge de voter au moment de l'élection
+Name=G17_7
+Start=109
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pas en âge de voter au moment de l'élection
+Name=G17_7_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Eloignement du lieu de vote
+Name=G17_8
+Start=110
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Eloignement du lieu de vote
+Name=G17_8_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Autre à préciser
+Name=G17_9
+Start=111
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autre à préciser
+Name=G17_9_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Pensez vous que les hommes politiques prennes en compte les préoccupation/attentes de la population?
+Name=G18
+Start=112
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pensez vous que les hommes politiques prennes en compte les préoccupation/attentes de la population?
+Name=G18_VS1
+Value=1;Pas du tout|Eloko te|Sio
+Value=2;Pas vraiment|Mingi te|Si kweli
+Value=3;Parfois|tango mosusu|Wakati mwingine
+Value=4;Beaucoup|Mingi|Siku zote
+
+[Item]
+Label=Locale (de quartier)
+Name=G19A
+Start=113
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Locale (de quartier)
+Name=G19A_VS1
+Value=1;Oui, dirigeant|Iyo, Bakonzi|Ndiyo, kiongozi
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Oui, membre|Iyo, Moto ya lingomba|Ndiyo, mwanachama
+Image=..\..\Reference\icons\Oui.PNG
+Value=3;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Religieuse
+Name=G19B
+Start=114
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Religieuse
+Name=G19B_VS1
+Value=1;Oui, dirigeant|Iyo, Bakonzi|Ndiyo, kiongozi
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Oui, membre|Iyo, Moto ya lingomba|Ndiyo, mwanachama
+Image=..\..\Reference\icons\Oui.PNG
+Value=3;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Professionnelle
+Name=G19C
+Start=115
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Professionnelle
+Name=G19C_VS1
+Value=1;Oui, dirigeant|Iyo, Bakonzi|Ndiyo, kiongozi
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Oui, membre|Iyo, Moto ya lingomba|Ndiyo, mwanachama
+Image=..\..\Reference\icons\Oui.PNG
+Value=3;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Familiale/amicale
+Name=G19D
+Start=116
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Familiale/amicale
+Name=G19D_VS1
+Value=1;Oui, dirigeant|Iyo, Bakonzi|Ndiyo, kiongozi
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Oui, membre|Iyo, Moto ya lingomba|Ndiyo, mwanachama
+Image=..\..\Reference\icons\Oui.PNG
+Value=3;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Epargne collective
+Name=G19E
+Start=117
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Epargne collective
+Name=G19E_VS1
+Value=1;Oui, dirigeant|Iyo, Bakonzi|Ndiyo, kiongozi
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Oui, membre|Iyo, Moto ya lingomba|Ndiyo, mwanachama
+Image=..\..\Reference\icons\Oui.PNG
+Value=3;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Parti politique
+Name=G19F
+Start=118
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Parti politique
+Name=G19F_VS1
+Value=1;Oui, dirigeant|Iyo, Bakonzi|Ndiyo, kiongozi
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Oui, membre|Iyo, Moto ya lingomba|Ndiyo, mwanachama
+Image=..\..\Reference\icons\Oui.PNG
+Value=3;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Organisation sportive
+Name=G19G
+Start=119
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Organisation sportive
+Name=G19G_VS1
+Value=1;Oui, dirigeant||Ndiyo, kiongozi
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Oui, membre||Ndiyo, mwanachama
+Image=..\..\Reference\icons\Oui.PNG
+Value=3;Non||Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Organisation récréative
+Name=G19H
+Start=120
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Organisation récréative
+Name=G19H_VS1
+Value=1;Oui, dirigeant|Iyo, Bakonzi|Ndiyo, kiongozi
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Oui, membre|Iyo, Moto ya lingomba|Ndiyo, mwanachama
+Image=..\..\Reference\icons\Oui.PNG
+Value=3;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Autre à préciser
+Name=G19I
+Start=121
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autre à préciser
+Name=G19I_VS1
+Value=1;Oui, dirigeant|Iyo, Bakonzi|Ndiyo, kiongozi
+Image=..\..\Reference\icons\Oui.PNG
+Value=2;Oui, membre|Iyo, Moto ya lingomba|Ndiyo, mwanachama
+Image=..\..\Reference\icons\Oui.PNG
+Value=3;Non|Te|Apana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=A quel dégré êtes vous interessé par la politique?
+Name=G20
+Start=122
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A quel dégré êtes vous interessé par la politique?
+Name=G20_VS1
+Value=1;Pas du tout|Soki moke te|Sio
+Value=2;Pas vraiment|Nandimi te|Si kweli
+Value=3;Parfois|Mingi mingi|Wakati mwingine
+Value=4;Tout à fait|Ya solo|Sawa
+
+[Item]
+Label=Vous arrive-t-il souvent de parler de politique avec vos proches?
+Name=G21
+Start=123
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Vous arrive-t-il souvent de parler de politique avec vos proches?
+Name=G21_VS1
+Value=1;Jamais|Ata moke te|Kamwe
+Value=2;Quelques fois|Mbala mosusu
+Value=3;Souvent|Mwa muke|Mara nyingi
+Value=4;Très souvent|Mingi|Siku zote

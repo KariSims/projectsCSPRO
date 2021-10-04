@@ -1,0 +1,27 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=CFCRTMHHTEL
+Name=CFCRTMHHTEL
+AppType=DataEntry
+OperatorID=No
+PartialSave=Yes
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+ShowFieldLabels=No
+ComboBoxShowOnlyDiscreteValues=Yes
+[External Dictionaries]
+File=.\CFCRTMHH.dcf
+[AppCode]
+File=.\CFCRTMHHTEL.ent.apc
+[Message]
+File=.\CFCRTMHHTEL.ent.mgf
+[Help]
+File=.\CFCRTMHHTEL.ent.qsf
+[Forms]
+File=.\CFCRTMHHTEL.fmf
+[Dictionary Types]
+Dict-Type=.\CFCRTMHHTEL.dcf,Input,.\CFCRTMHHTEL.fmf
+Dict-Type=.\CFCRTMHH.dcf,External

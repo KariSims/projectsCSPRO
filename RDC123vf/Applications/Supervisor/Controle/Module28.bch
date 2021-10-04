@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=MODULE28
+Name=MODULE28
+AppType=Batch
+[AppCode]
+File=.\Module28.bch.apc
+[Message]
+File=.\Module28.bch.mgf
+[Order]
+File=.\Module28.ord
+[Dictionary Types]
+Dict-Type=..\..\Dicts\EPMU1M28.dcf,Input,.\Module28.ord

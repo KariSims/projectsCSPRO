@@ -1,0 +1,58 @@
+﻿[FormFile]
+Version=CSPro 6.3
+Name=MENU_FF
+Label=InterviewerMenu
+DefaultTextFont=-024 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+FieldEntryFont=-027 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0049 Courier New
+FieldColor=Current,16373936
+Type=SystemControlled
+  
+[Dictionaries]
+File=..\Dicts\Menu.dcf
+  
+[Form]
+Name=FORM000
+Label=Main form
+QuestionTextHeight=302
+Level=1
+Size=534,229
+Color=15987693
+  
+Item=MCLUST
+  
+  
+[Text]
+Name=TEXT1
+Position=331,175,608,239
+Text=INS vf2018
+Form=1
+Font=-056 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0034 Arial
+Color=32768
+ 
+[EndForm]
+  
+[Level]
+Name=MENU_QUEST
+Label=Menu questionnaire
+  
+[Group]
+Required=Yes
+Name=MAINFORM
+Label=Main form
+Form=1
+LogicControl=No
+Max=1
+  
+[Field]
+Name=MCLUST
+Position=76,63,134,96
+Item=MCLUST,MENU_DICT
+DataCaptureType=NumberPad
+Form=1
+  
+[Text]
+Position=16,15,255,44
+Text=Numéro de la grappe
+ 
+[EndGroup]
+  

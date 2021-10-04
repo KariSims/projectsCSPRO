@@ -1,0 +1,1167 @@
+﻿Application     C:\ENQBASE04\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE04\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE04\CFCRTM\CFCRTMHH.csdb
+
+Date            Jun  7, 2018
+Start Time      09:43:14
+End Time        09:43:16
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      08:38:14
+End Time        08:38:18
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      09:45:53
+End Time        09:46:02
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      12:33:45
+End Time        13:15:36
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      13:38:20
+End Time        13:43:39
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      14:37:17
+End Time        14:40:51
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      20:14:53
+End Time        20:15:01
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      20:15:09
+End Time        20:15:18
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      20:15:41
+End Time        20:17:49
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  99990            2   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  5, 2019
+Start Time      08:40:35
+End Time        09:28:31
+
+CSPRO Process Summary
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   1907       1    -   W Le bilan de santé postnatal (PN12U =%s et PN12N       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  5, 2019
+Start Time      10:22:36
+End Time        10:27:55
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  5, 2019
+Start Time      12:01:37
+End Time        12:05:40
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  5, 2019
+Start Time      12:06:02
+End Time        12:08:09
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  5, 2019
+Start Time      13:05:44
+End Time        13:05:52
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  5, 2019
+Start Time      13:06:00
+End Time        13:08:48
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  6, 2019
+Start Time      13:39:00
+End Time        14:25:25
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  99990            2   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:31:30
+End Time        11:31:46
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  92103            1   New case ids '%s'. Old ids were '%s'.            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:31:46
+End Time        11:31:46
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  92103            1   New case ids '%s'. Old ids were '%s'.            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:35:58
+End Time        11:36:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:36:26
+End Time        11:36:39
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:36:39
+End Time        11:36:39
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:36:46
+End Time        11:37:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:39:34
+End Time        11:39:34
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:39:34
+End Time        11:39:34
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:39:47
+End Time        11:40:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      11:47:48
+End Time        11:48:04
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      20:25:04
+End Time        20:25:27
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1722       5    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      20:25:34
+End Time        20:25:43
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      20:39:19
+End Time        20:39:32
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1722       5    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:27:54
+End Time        21:28:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1735       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:30:11
+End Time        21:30:34
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  99990            2   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1735       8    -   i=%d                                                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:31:34
+End Time        21:31:44
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  99990            1   Operator entered a value out of range            
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1736       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:35:08
+End Time        21:35:23
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1743       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:35:50
+End Time        21:36:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1743       1    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:37:01
+End Time        21:37:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1743       2    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:37:41
+End Time        21:37:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1742       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:38:15
+End Time        21:38:40
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1742       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:39:08
+End Time        21:39:17
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1743       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:40:16
+End Time        21:40:26
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1743       4    -   i=%d                                                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:42:56
+End Time        21:43:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1742       8    -   i=%d                                                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:43:38
+End Time        21:43:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1741       8    -   i=%d                                                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:44:41
+End Time        21:44:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1741       4    -   i=%d                                                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      21:48:36
+End Time        21:48:51
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1741       4    -   i=%d                                                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:04:29
+End Time        22:04:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1743       4    -   i=%d                                                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:23:21
+End Time        22:23:33
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1745       4    -   i=%d                                                    -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:27:53
+End Time        22:28:07
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  90003            1   Number of '%' arguments passed (%d) does not matc
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1742       2    -   i=%d et codes=%s                                        -
+
+
+A compilation error file (.ERR) has been created for your application.
+
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:28:31
+End Time        22:29:02
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1742       2    -   i=%d et codes=%s                                        -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:35:34
+End Time        22:36:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1740       2    -   i=%d et codes=%s                                        -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:43:11
+End Time        22:43:36
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1743       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:44:59
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:53:24
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:54:56
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      22:58:22
+End Time        22:58:32
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1742       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      23:03:27
+End Time        23:03:36
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1741       1    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      23:06:49
+End Time        23:07:01
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1740       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      23:36:59
+End Time        23:37:08
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1740       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     D:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> D:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> D:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  8, 2019
+Start Time      08:27:34
+End Time        08:27:56
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1745       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     D:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> D:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> D:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  8, 2019
+Start Time      08:29:08
+End Time        08:29:22
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1745       4    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     D:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> D:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMWM.csdb
+External        MICS6HH=<<CSPro DB>> D:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  8, 2019
+Start Time      08:30:15
+End Time        08:30:41
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1745       8    -   i=%d et j=%d                                            -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

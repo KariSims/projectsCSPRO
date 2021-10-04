@@ -1,0 +1,25 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=MENU_CTRL
+Name=MENU_CTRL
+AppType=DataEntry
+OperatorID=No
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+CenterForms=Yes
+[External Dictionaries]
+File=..\Dict\Equipe.dcf
+[AppCode]
+File=.\MENU_CTRL.ent.apc
+[Message]
+File=.\MENU_CTRL.ent.mgf
+[Help]
+File=.\MENU_CTRL.ent.qsf
+[Forms]
+File=.\MENU_CTRL.fmf
+[Dictionary Types]
+Dict-Type=..\Dict\MENU.dcf,Input,.\MENU_CTRL.fmf
+Dict-Type=..\Dict\Equipe.dcf,External

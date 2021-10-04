@@ -1,0 +1,236 @@
+﻿Application     C:\ENQBASE04\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE04\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE04\CFCRTM\CFCRTMHH.csdb
+
+Date            Jun  7, 2018
+Start Time      09:44:15
+End Time        09:44:16
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      09:45:36
+End Time        09:45:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      13:15:48
+End Time        13:38:12
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  4, 2019
+Start Time      15:26:07
+End Time        15:39:27
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  5, 2019
+Start Time      09:28:48
+End Time        09:44:16
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  5, 2019
+Start Time      14:00:20
+End Time        14:01:02
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   8052            1   You cannot execute SavePartial until the ID items
+  48000            1   Invalid expression (%s) in QSF File              
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  5, 2019
+Start Time      14:01:11
+End Time        14:10:21
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  6, 2019
+Start Time      14:25:41
+End Time        15:11:57
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+  99990            3   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> E:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      12:04:09
+End Time        12:05:25
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+  99990            2   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+<File>          FICHSAPART=
+
+Date            Mar  7, 2019
+Start Time      20:13:14
+End Time        20:15:23
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+  99990            1   Operator entered a value out of range            
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> H:\ENQBASE05\ENQBASE05\CFCRTM\CFCRTMHH.csdb
+
+Date            Mar  7, 2019
+Start Time      20:20:14
+End Time        20:20:26
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\ENQBASE05\CFCRTM_CE\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\ENQBASE05\CFCRTM_CE\CFCRTMCH.csdb
+External        MICS6HH=<<CSPro DB>> E:\Test\0\CFCRTMHH.csdb
+
+Date            Mar  8, 2019
+Start Time      11:27:28
+End Time        11:27:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            1   Invalid expression (%s) in QSF File              
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

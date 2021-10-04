@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=MODULE32
+Name=MODULE32
+AppType=Batch
+[AppCode]
+File=.\Module32.bch.apc
+[Message]
+File=.\Module32.bch.mgf
+[Order]
+File=.\Module32.ord
+[Dictionary Types]
+Dict-Type=..\..\Dicts\EPMU1M32.dcf,Input,.\Module32.ord

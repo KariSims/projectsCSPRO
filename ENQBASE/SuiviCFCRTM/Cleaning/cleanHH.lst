@@ -1,0 +1,1304 @@
+﻿Application     C:\ENQBASE\SuiviCFCRTM\Cleaning\cleanHH.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\OutputMod\ModuleHH.csdb                                                                                                                                                                                                                                                 
+<Output>        <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\OutputMod\ModuleHHc1.csdb                                                                                                                                                                                                                                               
+
+Date            May 13, 2019
+Start Time      09:34:32
+End Time        09:34:35
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |   38406 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |     640 Messages (       0 U,     640 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |       1903   |          0   |       1903  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+*** Case [3519] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+*** Case [2503] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+*** Case [2818] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+*** Case [2817] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+*** Case [7506] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+*** Case [2124] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+*** Case [6910] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+*** Case [7608] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+*** Case [1706] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+*** Case [1409] has 64 messages (0 E / 64 W / 0U)      
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W  1007 pas d'occurrence:% n (% d)--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+    W 34090 impossible d'attribuer la valeur% s aucun enregistrement dans le
+              cas--% p
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1007           30   pas d'occurrence:% n (% d)--% p                  
+  34090          610   impossible d'attribuer la valeur% s aucun enregis
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

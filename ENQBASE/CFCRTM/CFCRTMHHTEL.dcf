@@ -1,0 +1,284 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=CFCRTMHHTEL
+Name=CFCRTMHHTEL_DICT
+RecordTypeStart=1
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=CFCRTMHHTEL Level
+Name=CFCRTMHHTEL_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Numéro de la grappe
+Name=TID01
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=TID02
+Start=6
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne de la personne
+Name=TID03
+Start=8
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne de la personne
+Name=TID03_VS1
+Value=1:50
+
+[Record]
+Label=CFCRTMHHTEL Record
+Name=CFCRTMHHTEL_REC
+RecordTypeValue='TEL'
+RecordLen=76
+
+[Item]
+Label=Nom de la personne
+Name=TEL00
+Start=10
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Avez-vous un téléphone ?
+Name=TEL01
+Start=35
+Len=1
+
+[ValueSet]
+Label=Avez-vous un téléphone ?
+Name=TEL01_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Num TEL1
+Name=TEL02
+Start=36
+Len=9
+ZeroFill=Yes
+
+[Item]
+Label=Avez-vous un autre TEL
+Name=TEL03
+Start=45
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avez-vous un autre TEL
+Name=TEL03_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Num TEL2
+Name=TEL04
+Start=46
+Len=9
+ZeroFill=Yes
+
+[Item]
+Label=Sexe de l'Individu
+Name=TEL05
+Start=55
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Sexe de l'Individu
+Name=TEL05_VS1
+Value=1;Masculin
+Value=2;Féminin
+
+[Item]
+Label=Code de l'enquêteur
+Name=TEL06
+Start=56
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview
+Name=TEL07
+Start=58
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview
+Name=TEL07D
+Start=58
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview
+Name=TEL07D_VS1
+Value=1:31
+
+[Item]
+Label=Mois de l'interview
+Name=TEL07M
+Start=60
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=TEL07M_VS1
+Value=1;janvier
+Value=2;février
+Value=3;mars
+Value=4;avril
+Value=5;mai
+Value=6;juin
+Value=7;juillet
+Value=8;août
+Value=9;septembre
+Value=10;octobre
+Value=11;novembre
+Value=12;décembre
+
+[Item]
+Label=Année de l'interview
+Name=TEL07Y
+Start=62
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview
+Name=TEL07Y_VS1
+Value=2015:2020
+
+[Item]
+Label=Répondant du ménage
+Name=TEL08
+Start=66
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Répondant du ménage
+Name=TEL08_VS1
+Value=1;OUI, DEJA INTERVIEWEE
+Value=2;NON, PREMIERE INTERVIEW
+
+[Item]
+Label=Consentement
+Name=TEL09
+Start=67
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement
+Name=TEL09_VS1
+Value=1;OUI, PERMISSION EST DONNEE
+Value=2;NON, PERMISSION N’EST PAS DONNEE
+
+[Item]
+Label=Temps du début de l'interview
+Name=TEL11
+Start=68
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure
+Name=TEL11H
+Start=68
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure
+Name=TEL11H_VS1
+Value=6:23
+Value=99;NON REPONSE
+
+[Item]
+Label=Début de l'interview - Minutes
+Name=TEL11M
+Start=70
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes
+Name=TEL11M_VS1
+Value=0:59
+Value=99;NON REPONSE
+
+[Item]
+Label=Temps de la fin de l'interview
+Name=TEL12
+Start=72
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure
+Name=TEL12H
+Start=72
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure
+Name=TEL12H_VS1
+Value=6:23
+Value=99;NON REPONSE
+
+[Item]
+Label=Fin de l'interview - Minutes
+Name=TEL12M
+Start=74
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes
+Name=TEL12M_VS1
+Value=0:59
+Value=99;NON REPONSE
+
+[Item]
+Label=Résultat de l'interview
+Name=TEL10
+Start=76
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Résultat de l'interview
+Name=TEL10_VS1
+Value=1;COMPLETE
+Value=2;PAS A LA MAISON
+Value=3;REFUSE
+Value=4;PARTIELLEMENT COMPLETE
+Value=5;EN INCAPACITE
+Value=6;PAS DE CONSENTEMENT D’UN ADULTE POUR CETTE REPONDANTE DE 15-17 ANS
+Value=9;Autre

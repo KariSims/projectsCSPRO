@@ -1,0 +1,15 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=TABCE
+Name=TABCE
+AppType=Tabulation
+[External Dictionaries]
+File=.\TabCE02.xtb.wrk.dcf
+[AppCode]
+File=.\TabCE02.xtb.apc
+[Message]
+File=.\TabCE02.xtb.mgf
+[TabSpecs]
+File=.\TabCE02.xts
+[Dictionary Types]
+Dict-Type=.\TabCE02.xtb.wrk.dcf,Working

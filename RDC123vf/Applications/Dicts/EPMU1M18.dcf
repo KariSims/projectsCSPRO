@@ -1,0 +1,1724 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Module 18
+Name=EPMU1M18
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Languages]
+FRA=Francais
+LIN=Lingala
+SWA=Swahili
+
+[Level]
+Label=Module 18 questionnaire
+Name=M18
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=M181
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=M182
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro enquêteur
+Name=M18INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M183
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M183_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS DU MODULE 19
+Name=MODM18
+RecordTypeValue='M18'
+RecordLen=153
+
+[Item]
+Label=Code Enquêteur|Numéro Enquêteur
+Name=M18HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur|Numéro Superviseur
+Name=M185
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview|Date d'interview
+Name=M186
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview|Jour d'interview
+Name=M186J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview|Jour d'interview
+Name=M186J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de l'interview|Mois d'interview
+Name=M186M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=M186M_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Année de l'interview|Année d'interview
+Name=M186A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview|Année d'interview
+Name=M186A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu|Milieu de résidence
+Name=M187
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu|Milieu de résidence
+Name=M187_VS1
+Value=1;URBAIN
+
+[Item]
+Label=Province|Province
+Name=M188
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province|Province
+Name=M188_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps dudébut de l'interview|Temps début de l' interview
+Name=M189
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M189H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M189H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M189M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M189M_VS1
+Value=0:59
+
+[Item]
+Label=L'heure de la fin de l'interview|Temps de fin de l'interview
+Name=M1810
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M1810H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M1810H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M1810M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M1810M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement |Consentement
+Name=M1811
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement |Consentement
+Name=M1811_VS1
+Value=1;OUI, PERMISSION DONNEE|OUI, PERMISSION DONNEE|نعم، تم إعطاء الإذن
+Value=2;NON, PERMISSION PAS DONNEE |NON, PERMISSION PAS DONNEE|لا، لم يتم إعطاء الإذن
+
+[Item]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M1817
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M1817_VS1
+Value=1;COMPLETE|COMPLETE|أُنجزت المقابلة
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|PAS DE MEMBRE DU MENAGE A LA MAISON OU PAS DE REPONDANT DU MENAGE COMPETENT A LA MAISON AU MOMENT DE LA VISITE|لا يوجد أي فرد من أفراد الأسرة المعيشية أو مستجيب كفؤ في المنزل للإجابة وقت الزيارة
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE DE TEMPS|الأسرة بأكملها غير متواجدة في المسكن لمدة زمنية طويلة
+Value=4;REFUS|REFUS|رفضت الأسرة إجراء المقابلة
+Value=5;LOGEMENT VIDE|LOGEMENT VIDE OU ADRESSE N’EST PAS CELLE D’UN LOGEMENT|المسكن فارغ أو العنوان ليس مسكن
+Value=6;LOGEMENT DETRUIT|LOGEMENT DETRUIT|المسكن هدم
+Value=7;LOGEMENT PAS TROUVE|LOGEMENT PAS TROUVE|لم يتم العثور على المسكن
+Value=96;AUTRE
+
+[Item]
+Label=Nom du chef de ménage|Nom du chef de ménage
+Name=M18NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M18ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M18FIN
+Start=122
+Len=1
+
+[ValueSet]
+Label=Finish
+Name=M18FIN_VS1
+Value=1;Revisiter le questionnaire
+Value=2;Ajouter les  notes
+Value=3;Savegarder questionnaire et terminer
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer
+
+[Item]
+Label=Au cours des trois dernières années, avez-vous été directement expos
+Name=C01A
+Start=124
+Len=1
+
+[ValueSet]
+Label=Au cours des trois dernières années, avez-vous été directement expos
+Name=C01A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Nombre de chocs au cours des trois dernières années
+Name=C02A
+Start=125
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de chocs au cours des trois dernières années
+Name=C02A_VS1
+Value=1;1 choc
+Value=2;2 chocs
+Value=3;3 chocs
+Value=4;4 chocs
+Value=5;Tous les 5 chocs
+
+[Item]
+Label=Répondant
+Name=REPONDANT
+Start=127
+Len=2
+
+[ValueSet]
+Label=Répondant
+Name=REPONDANT_VS1
+Value=1;Chef de ménage|Mukolo ndako
+Value=2;2 ième membre
+Value=3;3 ième membre
+Value=4;4 ième membre
+Value=5;5 ième membre
+Value=6;6 ième membre
+Value=7;7 ième membre
+Value=8;8 ième membre
+Value=9;9 ième membre
+Value=10;10 ième membre
+Value=11;11 ième membre
+Value=12;12 ième membre
+Value=13;13 ième membre
+Value=14;14 ième membre
+Value=15;15 ième membre
+Value=16;16 ième membre
+Value=17;17 ième membre
+Value=18;18 ième membre
+Value=19;19 ième membre
+Value=20;20 ième membre
+Value=21;21 ième membre
+Value=22;22 ième membre
+Value=23;23 ième membre
+Value=24;24 ième membre
+Value=25;25 ième membre
+Value=26;26 ième membre
+Value=27;27 ième membre
+Value=28;28 ième membre
+Value=29;29 ième membre
+Value=30;30 ième membre
+Value=31;31 ième membre
+Value=32;32 ième membre
+Value=33;33 ième membre
+Value=34;34 ième membre
+Value=35;35 ième membre
+Value=36;36 ième membre
+Value=37;37 ième membre
+Value=38;38 ième membre
+Value=39;39 ième membre
+Value=40;40 ième membre
+Value=41;41 ième membre
+Value=42;42 ième membre
+Value=43;43 ième membre
+Value=44;44 ième membre
+Value=45;45 ième membre
+Value=46;46 ième membre
+Value=47;47 ième membre
+Value=48;48 ième membre
+Value=49;49 ième membre
+Value=50;50 ième membre
+
+[Item]
+Label=Répondant
+Name=REPONDANT_B
+Start=129
+Len=25
+DataType=Alpha
+
+[Record]
+Label=MODULE 18 : CHOC NATUREL FREQUENT
+Name=MODCH1
+RecordTypeValue='CNF'
+Required=No
+MaxRecords=25
+RecordLen=189
+
+[Item]
+Label=numéro de ligne choc naturel
+Name=C1_ID
+Start=14
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=numéro de ligne choc naturel
+Name=C1_ID_VS1
+Value=1:25
+
+[Item]
+Label=Nom du choc naturel
+Name=C01
+Start=16
+Len=1
+
+[ValueSet]
+Label=Nom du choc naturel
+Name=C01_VS1
+Value=1;Inondation|Mayi etondaki|Mafuriko
+Image=..\..\Reference\icons\inondation.png
+Value=2;Glissement de terrain|Mabele ebukanaki|Weka
+Image=..\..\Reference\icons\erosion.png
+Value=3;Incendie|Moto epelaki makasi|moto
+Image=..\..\Reference\icons\incendie.png
+Value=4;Tempête|Mupepe ya makasi|dhoruba
+Image=..\..\Reference\icons\tempete.png
+Value=5;Erosion
+Image=..\..\Reference\icons\erosion.png
+
+[Item]
+Label=Nom du choc naturel
+Name=C1A_NOM
+Start=17
+Len=12
+DataType=Alpha
+
+[Item]
+Label=Nombre de chocs au cours des trois dernières années
+Name=C02
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de chocs au cours des trois dernières années
+Name=C02_VS1
+Value=1;1 fois
+Value=2;2 fois
+Value=3;3 fois
+Value=4;4 fois
+Value=5;5 fois
+Value=6;6 fois
+Value=7;7 fois
+Value=8;8 fois
+Value=9;9 fois
+Value=10;10 fois
+Value=11;11 fois
+Value=12;12 fois
+Value=13;13 fois
+Value=14;14 fois
+Value=15;15 fois
+Value=16;16 fois
+Value=17;17 fois
+Value=18;18 fois
+Value=19;19 fois
+Value=20;20 fois
+Value=21;21 fois
+Value=22;22 fois
+Value=23;23 fois
+Value=24;24 fois
+Value=25;25 fois
+Value=26;26 fois
+Value=27;27 fois
+Value=28;28 fois
+Value=29;29 fois
+Value=30;30 fois
+Value=31;31 fois
+Value=32;32 fois
+Value=33;33 fois
+Value=34;34 fois
+Value=35;35 fois
+Value=36;36 fois
+Value=37;37 fois
+Value=38;38 fois
+Value=39;39 fois
+Value=40;40 fois
+Value=41;41 fois
+Value=42;42 fois
+Value=43;43 fois
+Value=44;44 fois
+Value=45;45 fois
+Value=46;46 fois
+Value=47;47 fois
+Value=48;48 fois
+Value=49;49 fois
+Value=50;50 fois
+
+[Item]
+Label=En quelle année ce [Choc] est-il apparu?
+Name=C03
+Start=31
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=En quelle année ce [Choc] est-il apparu?
+Name=C03_VS1
+Value=2018;Année 2018
+Value=2017;Année 2017
+Value=2016;Année 2016
+Value=2015;Année 2015
+
+[Item]
+Label=En quel mois ce [choc] est-il apparu?
+Name=C04
+Start=35
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=En quel mois ce [choc] est-il apparu?
+Name=C04_VS1
+Value=1;Janvier|Sanza ya liboso (Janv)
+Value=2;Février|Sanza ya mibale (Fév)
+Value=3;Mars|Sanza ya misato (Mars)
+Value=4;Avril|Sanza ya mineyi (Avr)
+Value=5;Mai|Sanza ya mitano (Mai)
+Value=6;Juin|Sanza ya motoba(Juin)
+Value=7;Juillet|Sanza ya sambo(Juillet)
+Value=8;Août|Sanza ya mwambe(Août)
+Value=9;Septembre|Sanza ya libwa (Sept)
+Value=10;Octobre|Sanza ya zomi (Oct)
+Value=11;Novembre|Sanza ya zomi na moko(Nov)
+Value=12;Decembre|Sanza ya zomi na mibale(Dec)
+Value=98;Ne sait pas|Ayebi Te
+
+[Item]
+Label=En plus de ce [Choc], quels autres facteurs étaient présents?
+Name=C05
+Start=37
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Inondation
+Name=C05_VS1
+Value=1;Glissement de terrain
+Value=2;Eboulement
+Value=3;Forte pluie
+Value=4;Forte pluie avec vent
+Value=5;Glissement de terrain + Eboulement
+Value=6;Glissement de terrain + Forte pluie
+Value=7;Glissement de terrain + Forte pluie avec vent
+Value=8;Eboulement + Forte pluie
+Value=9;Eboulement + Forte pluie avec vent
+Value=10;Glissement de terrain + Eboulement + Forte pluie
+Value=11;Glissement de terrain + Forte pluie avec vent + Eboulement
+
+[ValueSet]
+Label=Glissement de terrain
+Name=C05_VS2
+Value=2;Eboulement
+Value=3;Forte pluie
+Value=4;Forte pluie avec vent
+Value=8;Eboulement + Forte pluie
+Value=9;Eboulement + Forte pluie avec vent
+
+[ValueSet]
+Label=Incendie
+Name=C05_VS3
+Value=12;Chaleur
+Value=13;Vent
+Value=14;Chaleur + vent
+
+[ValueSet]
+Label=Tempete
+Name=C05_VS4
+Value=1;Glissement de terrain
+Value=2;Eboulement
+Value=3;Forte pluie
+Value=4;Forte pluie avec vent
+Value=5;Glissement de terrain + Eboulement
+Value=6;Glissement de terrain + Forte pluie
+Value=7;Glissement de terrain + Forte pluie avec vent
+Value=8;Eboulement + Forte pluie
+Value=9;Eboulement + Forte pluie avec vent
+Value=10;Glissement de terrain + Eboulement + Forte pluie
+Value=11;Glissement de terrain + Forte pluie avec vent + Eboulement
+
+[Item]
+Label=Qu'est ce qui a été affecté par ce choc?
+Name=C06
+Start=39
+Len=15
+DataType=Alpha
+
+[ValueSet]
+Label=Qu'est ce qui a été affecté par ce choc?
+Name=C06_VS1
+Value='A              ';Maison|Ndako|nyumba
+Image=..\..\Reference\icons\maison.png
+Value='B              ';Patrimoine/actif|Bozui|Huriti / kazi
+Value='C              ';Route/rue|Balabala / Nzela|Njiya/ Mtaa
+Image=..\..\Reference\icons\route_rue.png
+Value='D              ';Installation/équipement d'eau (robinet,reservoir,tuyau)|Bisika to biloko ya ko tokela mayi (pompe, tuyau ya mayi, libulu )|Ufungaji / vifaa vya maji (bomba, tangi, bomba)
+Image=..\..\Reference\icons\equipement_eau.png
+Value='E              ';Installations sanitaires|WC, Kikoso na bisika ya kosukola maboko|Vifaa vya usafi
+Image=..\..\Reference\icons\instal_sanitaire.png
+Value='F              ';Lieu de travail|Bisika ya musala|Fasi ya Kazi
+Image=..\..\Reference\icons\lieu_trav.png
+Value='G              ';Ecoles|Kelasi|Shuli
+Image=..\..\Reference\icons\ecole.png
+Value='H              ';Electricité|Lotiliki|Umeme
+Image=..\..\Reference\icons\Electricite.png
+Value='I              ';Prix des produits de première necessité|Talo ya bilia lokola (lipa, loso, fufu, épices, etc)|Bei ya bidhaa za umuhimu wa kwanza
+Value='J              ';Eau de boisson|Mayi ya ko mela|Kunywa maji
+Image=..\..\Reference\icons\eaudeboiss.png
+Value='K              ';Disponibilité de nourriture et autre|Komonana ya Bilia pe biloko misusu na wenze|Upatikanaji wa chakula na nyingine
+Image=..\..\Reference\icons\disponibilité_repas.png
+Value='L              ';Disponibilité du carburant (essence, diesel, kerosene)|Komonana ya carburant (essence, diesel, kerosene)|Upatikanaji wa mafuta (petroli, dizeli, mafuta)
+Image=..\..\Reference\icons\disp_carbur.png
+Value='M              ';Maladie dans le ménage|Bokono na libota|Ugonjwa katika kaya
+Image=..\..\Reference\icons\maladie.png
+Value='N              ';Production Agricole (champ, jardin, bétail)|Biloko ya bilanga (champ, jardin, bétail)|Uzalishaji wa Kilimo (shamba, bustani, mifugo)
+Image=..\..\Reference\icons\Agricole2.png
+Value='X              ';Autre|Eloko mususu|nyingine
+Image=..\..\Reference\icons\autre.PNG
+
+[Item]
+Label=La maison
+Name=C06A
+Start=39
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Le patrimoine / actifs
+Name=C06B
+Start=40
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=La route / rue
+Name=C06C
+Start=41
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Les installations / équipement d'eau (robinet, réservoir, tuyau)
+Name=C06D
+Start=42
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Installations sanitaires
+Name=C06E
+Start=43
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Lieu de travail
+Name=C06F
+Start=44
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Ecoles
+Name=C06G
+Start=45
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Electricité
+Name=C06H
+Start=46
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Les prix des produits de première nécessité
+Name=C06I
+Start=47
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Eau de boisson
+Name=C06J
+Start=48
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Disponibilité de nourriture
+Name=C06K
+Start=49
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Disponibilité du carburant (essence, diesel)
+Name=C06L
+Start=50
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Maladie dans le ménage
+Name=C06M
+Start=51
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Production agricole
+Name=C06N
+Start=52
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Autre
+Name=C06X
+Start=53
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Est-ce que vous ou l'un des membres de votre ménage a perdu des jours de travail à cause de ce choc?
+Name=C07
+Start=54
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que vous ou l'un des membres de votre ménage a perdu des jours de travail à cause de ce choc?
+Name=C07_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Qui dans le ménage a perdu le plus grand nombre de jours de travail à cause de ce choc? CODE
+Name=C08A
+Start=55
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Qui dans le ménage a perdu le plus grand nombre de jours de travail à cause de ce choc? CODE
+Name=C08A_VS1
+Value=1;Chef de ménage|Mukolo ndako
+Value=2;2 ième membre
+Value=3;3 ième membre
+Value=4;4 ième membre
+Value=5;5 ième membre
+Value=6;6 ième membre
+Value=7;7 ième membre
+Value=8;8 ième membre
+Value=9;9 ième membre
+Value=10;10 ième membre
+Value=11;11 ième membre
+Value=12;12 ième membre
+Value=13;13 ième membre
+Value=14;14 ième membre
+Value=15;15 ième membre
+Value=16;16 ième membre
+Value=17;17 ième membre
+Value=18;18 ième membre
+Value=19;19 ième membre
+Value=20;20 ième membre
+Value=21;21 ième membre
+Value=22;22 ième membre
+Value=23;23 ième membre
+Value=24;24 ième membre
+Value=25;25 ième membre
+Value=26;26 ième membre
+Value=27;27 ième membre
+Value=28;28 ième membre
+Value=29;29 ième membre
+Value=30;30 ième membre
+Value=31;31 ième membre
+Value=32;32 ième membre
+Value=33;33 ième membre
+Value=34;34 ième membre
+Value=35;35 ième membre
+Value=36;36 ième membre
+Value=37;37 ième membre
+Value=38;38 ième membre
+Value=39;39 ième membre
+Value=40;40 ième membre
+Value=41;41 ième membre
+Value=42;42 ième membre
+Value=43;43 ième membre
+Value=44;44 ième membre
+Value=45;45 ième membre
+Value=46;46 ième membre
+Value=47;47 ième membre
+Value=48;48 ième membre
+Value=49;49 ième membre
+Value=50;50 ième membre
+
+[Item]
+Label=Qui dans le ménage a perdu le plus grand nombre de jours de travail à cause de ce choc? NOM
+Name=C08
+Start=57
+Len=12
+DataType=Alpha
+
+[Item]
+Label=Combien de jours de travail [Nom] a-t-il perdu?
+Name=C09
+Start=69
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de jours de travail [Nom] a-t-il perdu?
+Name=C09_VS1
+Value=1;1 Jour|Mokolo Moko|Siku moja
+Value=2;2 Jours|Mikolo Mibale|Siku mbili
+Value=3;3 Jours|Mikolo Misato|Siku tatu
+Value=4;4 Jours|Mikolo Mineyi|Siku nne
+Value=5;5 Jours|Mikolo Mitano|Siku tano
+Value=6;6 Jours|Mikolo Motoba|Siku sita
+Value=7;7 Jours|Mikolo Sambo|Siku saba
+Value=8;8 Jours|Mikolo Mwambe|Siku nane
+Value=9;9 Jours|Mikolo Libwa|Siku tisa
+Value=10;10 Jours|Mikolo Zomi|Siku kumi
+Value=11;11 Jours|Mikolo zomi na moko|Siku kumi na moja
+Value=12;12 Jours|Mikolo zomi na mibale|Siku kumi na mbili
+Value=13;13 Jours|Mikolo zomi na misatu|Siku kumi na tatu
+Value=14;14 Jours|Mikolo zomi na mineyi|Siku kumi na nne
+Value=15;15 Jours|Mikolo zomi na mitano|Siku kumi na tano
+Value=16;16 Jours|Mikolo zomi na motoba|Siku kumi na sita
+Value=17;17 Jours|Mikolo zomi na sambo|Siku kumi na saba
+Value=18;18 Jours|Mikolo zomi na mwambe|Siku kumi na nane
+Value=19;19 Jours|Mikolo zomi na libwa|Siku kumi na tisa
+Value=20;20 Jours|Tuku mibale|Siku ishirini
+Value=21;21 Jours|Tuku mibale na moko|Siku ishirini na moja
+Value=22;22 Jours|Tuku mibale na mibale|Siku ishirini na mbili
+Value=23;23 Jours|Tuku mibale na misatu|Siku ishirini na tatu
+Value=24;24 Jours|Tuku mibale na mineyi|Siku ishirini na nne
+Value=25;25 Jours|Tuku mibale na mitano|Siku ishirini na tano
+Value=26;26 Jours|Tuku mibale na motoba|Siku ishirini na sita
+Value=27;27 Jours|Tuku mibale na sambo|Siku ishirini na saba
+Value=28;28 Jours|Tuku mibale na mwambe|Siku ishirini na nane
+Value=29;29 Jours|Tuku mibale na libwa|Siku ishirini na tisa
+Value=30;30 Jours|Tuku misatu|Thelathini
+Value=31;31 Jours|Tuku misatu na moko|Thelathini na moja
+Value=32;32 Jours|Tuku misatu na mibale|Thelathini na mbili
+Value=33;33 Jours|Tuku misatu na misatu|Thelathini na tatu
+Value=34;34 Jours|Tuku misatu na mineyi|Thelathini na nne
+Value=35;35 Jours|Tuku misatu na mitano|Thelathini na tano
+Value=36;36 Jours|Tuku misatu na motoba|Thelathini na sita
+Value=37;37 Jours|Tuku misatu na sambo|Thelathini na saba
+Value=38;38 Jours|Tuku misatu na mwambe|Thelathini na nane
+Value=39;39 Jours|Tuku misatu na libwa|Thelathini na tisa
+Value=40;40 Jours|Tuku mineyi|Arobaini
+Value=41;41 Jours|Tuku mineyi na moko|Arobaini na moja
+Value=42;42 Jours|Tuku mineyi na mibale|Arobaini na mbili
+Value=43;43 Jours|Tuku mineyi na misatu|Arobaini na tatu
+Value=44;44 Jours|Tuku mineyi na mineyi|Arobaini na nne
+Value=45;45 Jours|Tuku mineyi na mitano|Arobaini na tano
+Value=46;46 Jours|Tuku mineyi na motoba|Arobaini na sita
+Value=47;47 Jours|Tuku mineyi na sambo|Arobaini na saba
+Value=48;48 Jours|Tuku mineyi na mwambe|Arobaini na nane
+Value=49;49 Jours|Tuku mineyi na libwa|Arobaini na tisa
+Value=50;50 Jours|Tuku mitano|Hamsini
+Value=51;51 Jours|Tuku mitano na moko|Hamsini na moja
+Value=52;52 Jours|Tuku mitano na mibale|Hamsini na mbili
+Value=53;53 Jours|Tuku mitano na misatu|Hamsini na tatu
+Value=54;54 Jours|Tuku mitano na mineyi|Hamsini na nne
+Value=55;55 Jours|Tuku mitano na mitano|Hamsini na tano
+Value=56;56 Jours|Tuku mitano na motoba|Hamsini na sita
+Value=57;57 Jours|Tuku mitano na sambo|Hamsini na saba
+Value=58;58 Jours|Tuku mitano na mwambe|Hamsini na nane
+Value=59;59 Jours|Tuku mitano na libwa|Hamsini na tisa
+Value=60;60 Jours|Tuku motoba|Sitini
+Value=61;61 Jours|Tuku motoba na moko|Sitini na moja
+Value=62;62 Jours|Tuku motoba na mibale|Sitini na mbili
+Value=63;63 Jours|Tuku motoba na misato|Sitini na tatu
+Value=64;64 Jours|Tuku motoba na mineyi|Sitini na nne
+Value=65;65 Jours|Tuku motoba na mitano|Sitini na tano
+Value=66;66 Jours|Tuku motoba na motoba|Sitini na sita
+Value=67;67 Jours|Tuku motoba na sambo|Sitini na saba
+Value=68;68 Jours|Tuku motoba na mwambe|Sitini na nane
+Value=69;69 Jours|Tuku motoba na libwa|Sitini na tisa
+Value=70;70 Jours|Tuku sambo|Sabini
+Value=71;71 Jours|Tuku sambo na moko|Sabini na moja
+Value=72;72 Jours|Tuku sambo na mibale|Sabini na mbili
+Value=73;73 Jours|Tuku sambo na misatu|Sabini na tatu
+Value=74;74 Jours|Tuku sambo na mineyi|Sabini na nne
+Value=75;75 Jours|Tuku sambo na mitano|Sabini na tano
+Value=76;76 Jours|Tuku sambo na motoba|Sabini na sita
+Value=77;77 Jours|Tuku sambo na sambo|Sabini na saba
+Value=78;78 Jours|Tuku sambo na mwambe|Sabini na nane
+Value=79;79 Jours|Tuku sambo na libwa|Sabini na tisa
+Value=80;80 Jours|Tuku mwambe|Therehe
+Value=81;81 Jours|Tuku mwambe na moko|Therehe na moja
+Value=82;82 Jours|Tuku mwambe na mibale|Therehe na mbili
+Value=83;83 Jours|Tuku mwambe na misato|Therehe na tatu
+Value=84;84 Jours|Tuku mwambe na mineyi|Therehe na nne
+Value=85;85 Jours|Tuku mwambe na mitano|Therehe na tano
+Value=86;86 Jours|Tuku mwambe na motoba|Therehe na sita
+Value=87;87 Jours|Tuku mwambe na sambo|Therehe na saba
+Value=88;88 Jours|Tuku mwambe na mwambe|Therehe na nane
+Value=89;89 Jours|Tuku mwambe na libwa|Therehe na tisa
+Value=90;90 Jours et plus|Tuku libwa pe koleka|siku tisini au zaidi
+
+[Item]
+Label=Quelle était la principale raison ?
+Name=C10
+Start=71
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quelle était la principale raison ?
+Name=C10_VS1
+Value=1; Inondation ou routes endommagées|Mayi etondaki to Ba nzela ebebaki|Mafuriko au barabara zilizoharibiwa
+Image=..\..\Reference\icons\inondation.png
+Value=2; Lieu de travail endommagé|Esika ya mosala ebbebaki|Kazi ya kazi imeharibiwa
+Image=..\..\Reference\icons\bureau_vendalisé.png
+Value=3;Travaux de réparation de la maison|Mosala ya kobongi|Kazi ya kutengeneza nyumba
+Image=..\..\Reference\icons\repar_maison.png
+Value=4;S'occuper des enfants|Ko fanda na bana|Jihadharini watoto
+Image=..\..\Reference\icons\soccuper.png
+Value=5; Nettoyer la maison|Ko kombola ndaku|Safi nyumba
+Image=..\..\Reference\icons\netoyer_maison.png
+
+[Item]
+Label=Qui est le second membre du ménage a avoir perdu le plus de jours de travail à cause de ce choc? CODE
+Name=C11A
+Start=72
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Qui est le second membre du ménage a avoir perdu le plus de jours de travail à cause de ce choc? CODE
+Name=C11A_VS1
+Value=1;Chef de ménage|Mukolo ndaku
+Value=2;2 ième membre
+Value=3;3 ième membre
+Value=4;4 ième membre
+Value=5;5 ième membre
+Value=6;6 ième membre
+Value=7;7 ième membre
+Value=8;8 ième membre
+Value=9;9 ième membre
+Value=10;10 ième membre
+Value=11;11 ième membre
+Value=12;12 ième membre
+Value=13;13 ième membre
+Value=14;14 ième membre
+Value=15;15 ième membre
+Value=16;16 ième membre
+Value=17;17 ième membre
+Value=18;18 ième membre
+Value=19;19 ième membre
+Value=20;20 ième membre
+Value=21;21 ième membre
+Value=22;22 ième membre
+Value=23;23 ième membre
+Value=24;24 ième membre
+Value=25;25 ième membre
+Value=26;26 ième membre
+Value=27;27 ième membre
+Value=28;28 ième membre
+Value=29;29 ième membre
+Value=30;30 ième membre
+Value=31;31 ième membre
+Value=32;32 ième membre
+Value=33;33 ième membre
+Value=34;34 ième membre
+Value=35;35 ième membre
+Value=36;36 ième membre
+Value=37;37 ième membre
+Value=38;38 ième membre
+Value=39;39 ième membre
+Value=40;40 ième membre
+Value=41;41 ième membre
+Value=42;42 ième membre
+Value=43;43 ième membre
+Value=44;44 ième membre
+Value=45;45 ième membre
+Value=46;46 ième membre
+Value=47;47 ième membre
+Value=48;48 ième membre
+Value=49;49 ième membre
+Value=50;50 ième membre
+
+[Item]
+Label=Qui est le second membre du ménage a avoir perdu le plus de jours de travail à cause de ce choc? NOM
+Name=C11
+Start=74
+Len=12
+DataType=Alpha
+
+[Item]
+Label=Combien de jours de travail [Nom] a-t-il perdu?
+Name=C12
+Start=86
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de jours de travail [Nom] a-t-il perdu?
+Name=C12_VS1
+Value=1;1 Jour|Mokolo Moko|Siku moja
+Value=2;2 Jours|Mikolo Mibale|Siku mbili
+Value=3;3 Jours|Mikolo Misato|Siku tatu
+Value=4;4 Jours|Mikolo Mineyi|Siku nne
+Value=5;5 Jours|Mikolo Mitano|Siku tano
+Value=6;6 Jours|Mikolo Motoba|Siku sita
+Value=7;7 Jours|Mikolo Sambo|Siku saba
+Value=8;8 Jours|Mikolo Mwambe|Siku nane
+Value=9;9 Jours|Mikolo Libwa|Siku tisa
+Value=10;10 Jours|Mikolo Zomi|Siku kumi
+Value=11;11 Jours|Mikolo zomi na moko|Siku kumi na moja
+Value=12;12 Jours|Mikolo zomi na mibale|Siku kumi na mbili
+Value=13;13 Jours|Mikolo zomi na misatu|Siku kumi na tatu
+Value=14;14 Jours|Mikolo zomi na mineyi|Siku kumi na nne
+Value=15;15 Jours|Mikolo zomi na mitano|Siku kumi na tano
+Value=16;16 Jours|Mikolo zomi na motoba|Siku kumi na sita
+Value=17;17 Jours|Mikolo zomi na sambo|Siku kumi na saba
+Value=18;18 Jours|Mikolo zomi na mwambe|Siku kumi na nane
+Value=19;19 Jours|Mikolo zomi na libwa|Siku kumi na tisa
+Value=20;20 Jours|Tuku mibale|Siku ishirini
+Value=21;21 Jours|Tuku mibale na moko|Siku ishirini na moja
+Value=22;22 Jours|Tuku mibale na mibale|Siku ishirini na mbili
+Value=23;23 Jours|Tuku mibale na misatu|Siku ishirini na tatu
+Value=24;24 Jours|Tuku mibale na mineyi|Siku ishirini na nne
+Value=25;25 Jours|Tuku mibale na mitano|Siku ishirini na tano
+Value=26;26 Jours|Tuku mibale na motoba|Siku ishirini na sita
+Value=27;27 Jours|Tuku mibale na sambo|Siku ishirini na saba
+Value=28;28 Jours|Tuku mibale na mwambe|Siku ishirini na nane
+Value=29;29 Jours|Tuku mibale na libwa|Siku ishirini na tisa
+Value=30;30 Jours|Tuku misatu|Thelathini
+Value=31;31 Jours|Tuku misatu na moko|Thelathini na moja
+Value=32;32 Jours|Tuku misatu na mibale|Thelathini na mbili
+Value=33;33 Jours|Tuku misatu na misatu|Thelathini na tatu
+Value=34;34 Jours|Tuku misatu na mineyi|Thelathini na nne
+Value=35;35 Jours|Tuku misatu na mitano|Thelathini na tano
+Value=36;36 Jours|Tuku misatu na motoba|Thelathini na sita
+Value=37;37 Jours|Tuku misatu na sambo|Thelathini na saba
+Value=38;38 Jours|Tuku misatu na mwambe|Thelathini na nane
+Value=39;39 Jours|Tuku misatu na libwa|Thelathini na tisa
+Value=40;40 Jours|Tuku mineyi|Arobaini
+Value=41;41 Jours|Tuku mineyi na moko|Arobaini na moja
+Value=42;42 Jours|Tuku mineyi na mibale|Arobaini na mbili
+Value=43;43 Jours|Tuku mineyi na misatu|Arobaini na tatu
+Value=44;44 Jours|Tuku mineyi na mineyi|Arobaini na nne
+Value=45;45 Jours|Tuku mineyi na mitano|Arobaini na tano
+Value=46;46 Jours|Tuku mineyi na motoba|Arobaini na sita
+Value=47;47 Jours|Tuku mineyi na sambo|Arobaini na saba
+Value=48;48 Jours|Tuku mineyi na mwambe|Arobaini na nane
+Value=49;49 Jours|Tuku mineyi na libwa|Arobaini na tisa
+Value=50;50 Jours|Tuku mitano|Hamsini
+Value=51;51 Jours|Tuku mitano na moko|Hamsini na moja
+Value=52;52 Jours|Tuku mitano na mibale|Hamsini na mbili
+Value=53;53 Jours|Tuku mitano na misatu|Hamsini na tatu
+Value=54;54 Jours|Tuku mitano na mineyi|Hamsini na nne
+Value=55;55 Jours|Tuku mitano na mitano|Hamsini na tano
+Value=56;56 Jours|Tuku mitano na motoba|Hamsini na sita
+Value=57;57 Jours|Tuku mitano na sambo|Hamsini na saba
+Value=58;58 Jours|Tuku mitano na mwambe|Hamsini na nane
+Value=59;59 Jours|Tuku mitano na libwa|Hamsini na tisa
+Value=60;60 Jours|Tuku motoba|Sitini
+Value=61;61 Jours|Tuku motoba na moko|Sitini na moja
+Value=62;62 Jours|Tuku motoba na mibale|Sitini na mbili
+Value=63;63 Jours|Tuku motoba na misato|Sitini na tatu
+Value=64;64 Jours|Tuku motoba na mineyi|Sitini na nne
+Value=65;65 Jours|Tuku motoba na mitano|Sitini na tano
+Value=66;66 Jours|Tuku motoba na motoba|Sitini na sita
+Value=67;67 Jours|Tuku motoba na sambo|Sitini na saba
+Value=68;68 Jours|Tuku motoba na mwambe|Sitini na nane
+Value=69;69 Jours|Tuku motoba na libwa|Sitini na tisa
+Value=70;70 Jours|Tuku sambo|Sabini
+Value=71;71 Jours|Tuku sambo na moko|Sabini na moja
+Value=72;72 Jours|Tuku sambo na mibale|Sabini na mbili
+Value=73;73 Jours|Tuku sambo na misatu|Sabini na tatu
+Value=74;74 Jours|Tuku sambo na mineyi|Sabini na nne
+Value=75;75 Jours|Tuku sambo na mitano|Sabini na tano
+Value=76;76 Jours|Tuku sambo na motoba|Sabini na sita
+Value=77;77 Jours|Tuku sambo na sambo|Sabini na saba
+Value=78;78 Jours|Tuku sambo na mwambe|Sabini na nane
+Value=79;79 Jours|Tuku sambo na libwa|Sabini na tisa
+Value=80;80 Jours|Tuku mwambe|Therehe
+Value=81;81 Jours|Tuku mwambe na moko|Therehe na moja
+Value=82;82 Jours|Tuku mwambe na mibale|Therehe na mbili
+Value=83;83 Jours|Tuku mwambe na misato|Therehe na tatu
+Value=84;84 Jours|Tuku mwambe na mineyi|Therehe na nne
+Value=85;85 Jours|Tuku mwambe na mitano|Therehe na tano
+Value=86;86 Jours|Tuku mwambe na motoba|Therehe na sita
+Value=87;87 Jours|Tuku mwambe na sambo|Therehe na saba
+Value=88;88 Jours|Tuku mwambe na mwambe|Therehe na nane
+Value=89;89 Jours|Tuku mwambe na libwa|Therehe na tisa
+Value=90;90 Jours et plus|Tuku libwa pe koleka|siku tisini au zaidi
+
+[Item]
+Label=Quelle était la principale raison ?
+Name=C13
+Start=88
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quelle était la principale raison ?
+Name=C13_VS1
+Value=1; Inondation ou routes endommagées|Mayi etondaki to Ba nzela ebebaki|Mafuriko au barabara zilizoharibiwa
+Image=..\..\Reference\icons\inondation.png
+Value=2; Lieu de travail endommagé|Esika ya mosala ebbebaki|Kazi ya kazi imeharibiwa
+Image=..\..\Reference\icons\bureau_vendalisé.png
+Value=3;Travaux de réparation de la maison|Mosala ya kobongi|Kazi ya kutengeneza nyumba
+Image=..\..\Reference\icons\repar_maison.png
+Value=4;S'occuper des enfants|Ko fanda na bana|Jihadharini watoto
+Image=..\..\Reference\icons\soccuper.png
+Value=5; Nettoyer la maison|Ko kombola ndaku|Safi nyumba
+Image=..\..\Reference\icons\netoyer_maison.png
+
+[Item]
+Label=Es ce que vous ou un membre de votre ménage a réparé la maison après le choc?
+Name=C14
+Start=89
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Es ce que vous ou un membre de votre ménage a réparé la maison après le choc?
+Name=C14_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Qui dans le ménage a réparé  la maison?
+Name=C15A
+Start=90
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Qui dans le ménage a réparé  la maison?
+Name=C15A_VS1
+Value=1;Chef de ménage|Mukolo ndako
+Value=2;2 ième membre
+Value=3;3 ième membre
+Value=4;4 ième membre
+Value=5;5 ième membre
+Value=6;6 ième membre
+Value=7;7 ième membre
+Value=8;8 ième membre
+Value=9;9 ième membre
+Value=0;10 ième membre
+Value=1;11 ième membre
+Value=2;12 ième membre
+Value=3;13 ième membre
+Value=4;14 ième membre
+Value=5;15 ième membre
+Value=6;16 ième membre
+Value=7;17 ième membre
+Value=8;18 ième membre
+Value=9;19 ième membre
+Value=0;20 ième membre
+Value=1;21 ième membre
+Value=2;22 ième membre
+Value=3;23 ième membre
+Value=4;24 ième membre
+Value=5;25 ième membre
+Value=6;26 ième membre
+Value=7;27 ième membre
+Value=8;28 ième membre
+Value=9;29 ième membre
+Value=0;30 ième membre
+Value=1;31 ième membre
+Value=2;32 ième membre
+Value=3;33 ième membre
+Value=4;34 ième membre
+Value=5;35 ième membre
+Value=6;36 ième membre
+Value=7;37 ième membre
+Value=8;38 ième membre
+Value=9;39 ième membre
+Value=0;40 ième membre
+Value=1;41 ième membre
+Value=2;42 ième membre
+Value=3;43 ième membre
+Value=4;44 ième membre
+Value=5;45 ième membre
+Value=6;46 ième membre
+Value=7;47 ième membre
+Value=8;48 ième membre
+Value=9;49 ième membre
+Value=0;50 ième membre
+
+[Item]
+Label=Qui dans le ménage a réparé la maison?
+Name=C15
+Start=92
+Len=12
+DataType=Alpha
+
+[Item]
+Label=Quelle a été la valeur approximative des réparations?
+Name=C16
+Start=104
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quelle a été la valeur approximative des réparations?
+Name=C16_VS1
+Value=0:9999998
+Value=9999999;Manquant|Ezangi|A sidjui
+
+[Item]
+Label=Est-ce qu'après les réparations la maison a retrouvé son état d'avant le choc ?
+Name=C17
+Start=114
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce qu'après les réparations la maison a retrouvé son état d'avant le choc ?
+Name=C17_VS1
+Value=1;Oui, totalement réparée|Iyo, Bo bongisaki mobimba|Ndio, umeandaliwa kabisa
+Image=..\..\Reference\icons\OK.png
+Value=2;En cours de réparation|Bazo bongisa nano|Katika mchakato wa ukarabati
+Image=..\..\Reference\icons\en_cours_reparation.PNG
+Value=3;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Avez-vous ou un membre du ménage perdu des actifs pendant le choc?
+Name=C18
+Start=115
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avez-vous ou un membre du ménage perdu des actifs pendant le choc?
+Name=C18_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Perte en vies humaines
+Name=C18A
+Start=116
+Len=1
+
+[ValueSet]
+Label=Perte en vies humaines
+Name=C18A_VS1
+Value=1;Oui|Iyo|Ndiyo
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Quels affaires avez-vous ou [Nom] perdu?
+Name=C19
+Start=117
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Quels affaires avez-vous ou [Nom] perdu?
+Name=C19_VS1
+Value='A      ';Tout perdu|Nionso Ebungaki|Wote waliopotea
+Image=..\..\Reference\icons\tout_perdu.png
+Value='B      ';Les meubles|Ba kiti, Ba mesa, ba mbetu na biloko misusu ya mabaya|Samani
+Image=..\..\Reference\icons\meuble.png
+Value='C      ';Les appareils électroménagers|Biloko ya misala ya ndaku oyo esalaka na lotiliki|Vifaa
+Image=..\..\Reference\icons\electr_mena.png
+Value='D      ';Des vêtements|Bilamba|Nguo
+Image=..\..\Reference\icons\dispo_vetem.png
+Value='E      ';Des documents administratifs|Mikanda ya mosala, kelasi pe misusu|Nyaraka za utawala
+Image=..\..\Reference\icons\Doc_admin.png
+Value='F      ';Les fournitures scolaires|Mikanda ya Kelasi|Vifaa vya shule
+Image=..\..\Reference\icons\fournit_scolaire.png
+Value='G      ';Autres affaires|Biloko misusu|Biashara nyingine
+Image=..\..\Reference\icons\dispo_march.png
+
+[Item]
+Label=Quels sont les meubles que vous avez perdus?
+Name=C19A
+Start=124
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=Quels sont les meubles que vous avez perdus?
+Name=C19A_VS1
+Value='A        ';Armoire
+Value='B        ';Chaise en plastique
+Value='C        ';Table
+Value='D        ';Lit
+Value='E        ';Matelas
+Value='F        ';salle à manger
+Value='G        ';Autres meubles (objects de décoration)
+Value='H        ';Garde-robe
+Value='I        ';Chaises Fauteuil
+
+[Item]
+Label=Quels sont les appareils électroménagers que vous avez perdus ?
+Name=C19B
+Start=133
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Quels sont les appareils électroménagers que vous avez perdus ?
+Name=C19B_VS1
+Value='A       ';Cuisinière électrique
+Value='B       ';Congélateur
+Value='C       ';Réchaud électrique, rotisoires, fours électrique
+Value='D       ';Ventilateur
+Value='E       ';Réfrigérateur
+Value='F       ';Climatiseur
+Value='G       ';Fer à repasser
+Value='H       ';Motoculteur
+
+[Item]
+Label=Quels sont les autres affaires que vous aviez perdues ?
+Name=C19C
+Start=141
+Len=24
+DataType=Alpha
+
+[ValueSet]
+Label=Quels sont les autres affaires que vous aviez perdues ?
+Name=C19C_VS1
+Value='A                       ';Tracteur
+Value='B                       ';Motopompe
+Value='C                       ';Groupe électrogène
+Value='D                       ';Brouette
+Value='E                       ';Voiture privée
+Value='F                       ';Voiture de fonction
+Value='G                       ';Camionnette
+Value='H                       ';Cyclomoteur/Vélomoteur
+Value='I                       ';Bicyclette
+Value='J                       ';Pousse-pousse
+Value='K                       ';Téléphone fixe
+Value='L                       ';Téléphone portable
+Value='M                       ';Appareil TV
+Value='N                       ';Radio
+Value='O                       ';CD/DVD
+Value='P                       ';Camera
+Value='Q                       ';Imprimante
+Value='R                       ';Onduleur
+Value='S                       ';Micro-ordinateur
+Value='T                       ';Pirogue sans moteur
+Value='U                       ';Pirogue motorisée
+Value='V                       ';ilet de pêche
+Value='W                       ';Antenne parabolique
+Value='X                       ';Décodeur
+
+[Item]
+Label=Est-ce que le revenu de votre ménage à changer à cause du choc?
+Name=C20
+Start=165
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que le revenu de votre ménage à changer à cause du choc?
+Name=C20_VS1
+Value=1;Oui, baisse|Iyo, ekiti|Ndiyo, kupungua
+Image=..\..\Reference\icons\baisse.jpg
+Value=2;Oui, augmentation|Iyo, Emati|Ndiyo, ongezeko
+Image=..\..\Reference\icons\hausse3.PNG
+Value=3;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Quelle en etait la principale raison de cette baisse?
+Name=C20A
+Start=166
+Len=1
+
+[ValueSet]
+Label=Quelle en etait la principale raison de cette baisse?
+Name=C20A_VS1
+Value=1;Perte d'un emploi|Kolongwa na mosala|Kupoteza kazi
+Image=..\..\Reference\icons\perte_emploi.png
+Value=2;Perte d'une activité non agricole du ménage|Kolongwa na mosala ya bureau|Kupoteza shughuli zisizo za kilimo za kaya
+Image=..\..\Reference\icons\perte_ate_non_agri.PNG
+Value=3;Perte de marchandises||Kupoteza bidhaa
+Image=..\..\Reference\icons\perte_marchandise.png
+Value=4;Perte de jours de travail||Kupoteza siku za kazi
+Image=..\..\Reference\icons\perte_jour_travail.PNG
+Value=5;Perte d'argent||Kupoteza fedha
+Image=..\..\Reference\icons\perte_argent.png
+
+[Item]
+Label=Est-ce que le revenu du ménage a retouvé son niveau d'avant le choc?
+Name=C20B
+Start=167
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que le revenu du ménage a retouvé son niveau d'avant le choc?
+Name=C20B_VS1
+Value=1;Oui, Totalement|Iyo, mobimba|Ndiyo, kabisa
+Image=..\..\Reference\icons\OK.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Est-ce que les prix des aliments que vous achetez ont été affectés par le choc?
+Name=C21
+Start=168
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que les prix des aliments que vous achetez ont été affectés par le choc?
+Name=C21_VS1
+Value=1;Oui, Baisse|Talo Ekiti|kushuka
+Image=..\..\Reference\icons\baisse.jpg
+Value=2;Oui, Augmentation|Talo Emati|kuongeza
+Image=..\..\Reference\icons\hausse3.PNG
+Value=3;Non|To sombaki biloko misusu na esika ya ba oyo to salelaka|kubadilishwa na vyakula vingine vya bei nafuu
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Est-ce que la consommation alimentaire de votre ménage a retrouvé le même niveau qu'avant le choc?
+Name=C21A
+Start=169
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que la consommation alimentaire de votre ménage a retrouvé le même niveau qu'avant le choc?
+Name=C21A_VS1
+Value=1;Oui, Totalement|Iyo, mobimba|Ndiyo, kabisa
+Image=..\..\Reference\icons\OK.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Est-ce que vos activités agricoles, de jardinnage ou d'élevage de bétail ont été affectées par le choc?
+Name=C21B
+Start=170
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que vos activités agricoles, de jardinnage ou d'élevage de bétail ont été affectées par le choc?
+Name=C21B_VS1
+Value=1;Oui, négativement|Iyo, na ndenge ya mabe|Ndio, vibaya
+Image=..\..\Reference\icons\Oui_négativement.PNG
+Value=2;Oui, positivement|Iyo, na ndenge ya malamu|Ndio, vyema
+Image=..\..\Reference\icons\hausse.PNG
+Value=3;Pas d'impact|Esalaki eloko te|Hakuna athari
+Image=..\..\Reference\icons\pas_impact.PNG
+Value=4;Pas d'agriculture/jardinnage/élevage de bétail dans ce ménage|To salaka bilanga te, to bokolaka bibwele te|Hakuna kilimo / bustani / ufugaji wa mifugo
+Image=..\..\Reference\icons\pas_agricul.PNG
+
+[Item]
+Label=Quelle a été la plus importante réponse que votre ménage a eu face au choc?
+Name=C22
+Start=171
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quelle a été la plus importante réponse que votre ménage a eu face au choc?
+Name=C22_VS1
+Value=1;Utiliser l'épargne|Ko salela ekonzo|Tumia akiba
+Image=..\..\Reference\icons\epargne.png
+Value=2;Emprunter de l'argent|Ko zwa niongo ya mbongo|Kukopa pesa
+Image=..\..\Reference\icons\emprunter.PNG
+Value=3;Réduire les dépenses alimentaires|Ko kitisa mbongo ya kosomba biloko yako lia|Kupunguza gharama za chakula
+Image=..\..\Reference\icons\beaucoup baisse.jpg
+Value=4;Réduire les dépenses non alimentaires|Ko kitisa mbongo ya kosomba biloko mususu|Kupunguza matumizi yasiyo ya chakula
+Image=..\..\Reference\icons\beaucoup baisse.jpg
+Value=5;Réduire les dépenses d'éducation (moins de 5 ans)|Ko kitisa mbongo ya kelasi ya bana oyo ba komi na mbula mitano te|Kupunguza matumizi ya elimu kwa watoto chini ya 5 ans
+Image=..\..\Reference\icons\beaucoup baisse.jpg
+Value=6;Déménager chez des parents/amis|Ko kenda ko fanda epayi ya ba boti|Kuhamia kwa wazazi / marafiki
+Image=..\..\Reference\icons\demenagere.png
+Value=7;Avoir plus d'un travail|Ko zala na mosala moko kaka te|Uwe na kazi zaidi ya moja
+Image=..\..\Reference\icons\travailleur_propre_compte2.PNG
+Value=8;Envoyer les enfants (moins de 15 ans) travailler|Ko tinda bana oyo ba leki nayino mbula zomi na mitano te ba kende ko sala mosala|Tuma watoto chini ya 15 wanaofanya kazi
+Value=9;Autre a preciser|Eloko mususu ya ko bakisa|Nyingine kutaja
+Image=..\..\Reference\icons\autres.PNG
+
+[Item]
+Label=Quelle a été la deuxième plus importante réponse que votre ménage a eu face au choc?
+Name=C22A
+Start=173
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quelle a été la deuxième plus importante réponse que votre ménage a eu face au choc?
+Name=C22A_VS1
+Value=1;Utiliser l'épargne|Ko salela ekonzo|Tumia akiba
+Image=..\..\Reference\icons\epargne.png
+Value=2;Emprunter de l'argent|Ko zwa niongo ya mbongo|Kukopa pesa
+Image=..\..\Reference\icons\emprunter.PNG
+Value=3;Réduire les dépenses alimentaires|Ko kitisa mbongo ya kosomba biloko yako lia|Kupunguza gharama za chakula
+Image=..\..\Reference\icons\beaucoup baisse.jpg
+Value=4;Réduire les dépenses non alimentaires|Ko kitisa mbongo ya kosomba biloko mususu|Kupunguza matumizi yasiyo ya chakula
+Image=..\..\Reference\icons\beaucoup baisse.jpg
+Value=5;Réduire les dépenses d'éducation (moins de 5 ans)|Ko kitisa mbongo ya kelasi ya bana oyo ba komi na mbula mitano te|Kupunguza matumizi ya elimu kwa watoto chini ya 5 ans
+Image=..\..\Reference\icons\beaucoup baisse.jpg
+Value=6;Déménager chez des parents/amis|Ko kenda ko fanda epayi ya ba boti|Kuhamia kwa wazazi / marafiki
+Image=..\..\..\Users\PRINS_~1\AppData\Reference\icons\demenagere.png
+Value=7;Avoir plus d'un travail|Ko zala na mosala moko kaka te|Uwe na kazi zaidi ya moja
+Image=..\..\..\Users\PRINS_~1\AppData\Reference\icons\travailleur_propre_compte2.PNG
+Value=8;Envoyer les enfants (moins de 15 ans) travailler|Ko tinda bana oyo ba leki nayino mbula zomi na mitano te ba kende ko sala mosala|Tuma watoto chini ya 15 wanaofanya kazi
+Value=0;Pas d'autre réponse
+Value=9;Autre a preciser|Eloko mususu ya ko bakisa|Nyingine kutaja
+Image=..\..\Reference\icons\autres.PNG
+
+[Item]
+Label=Est-ce que votre ménage a reçu un quelconque avertissement sur la survenue de ce choc?
+Name=C23
+Start=175
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que votre ménage a reçu un quelconque avertissement sur la survenue de ce choc?
+Name=C23_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Si oui, de qui vous est venu cette information?
+Name=C24
+Start=176
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Si oui, de qui vous est venu cette information?
+Name=C24_VS1
+Value=1;Avertissement de la communauté|Likebisi ya bandeko ya zinga zinga|Onyo la jamii
+Image=..\..\Reference\icons\avertis_communaute.png
+Value=2;Alerte par téléphone|Likebisi ya lombango na nzela ya singa|Tahadhari ya simu
+Image=..\..\Reference\icons\telephone.png
+Value=3;Réseau local|Internet ya pene pene |Mtandao wa cable wa ndani
+Image=..\..\Reference\icons\cable_reso_local.png
+Value=4;Radio/TV
+Image=..\..\Reference\icons\Tv_radio.png
+Value=5;Chef de quartier/zone|Mokonzi ya Quartier|Meneja wa Wilaya / Eneo la
+Image=..\..\Reference\icons\autorite_locale.PNG
+Value=6;Police|Polici|Polisi
+Image=..\..\Reference\icons\police.png
+Value=7;Sapeur pompier (service anti incendie)|Pulusu ya ko boma moto|Firefighter
+Image=..\..\Reference\icons\sapeurs_pompiers.png
+
+[Item]
+Label=Combien de temps avant le choc avez-vous reçu cette information?
+Name=C25
+Start=177
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de temps avant le choc avez-vous reçu cette information?
+Name=C25_VS1
+Value=1;Moins de 15 minutes|Esalaki minute zomi na mitano te|Chini ya dakika 15
+Value=2; Moins d'une heure avant le choc|Esalaki ngonga moko te yambo likama ekoma|Chini ya saa kabla ya mshtuko
+Value=3;12 heures avant le choc|Esalaki ngonga zomi na mibale te yambo likama ekoma|Masaa 12 kabla ya mshtuko
+Value=4;24 heures avant le choc|Esalaki ngonga tuku mibale na mineyi te yambo likama ekoma|Masaa 24 kabla ya mshtuko
+Value=5; 48 heures avant  le choc|Esalaki mikolo misato te yambo likama ekoma|Masaa 48 kabla ya mshtuko
+
+[Item]
+Label=Est-ce que votre ménage a reçu une quelconque assistance relative à la survenue de ce choc?
+Name=C26
+Start=178
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que votre ménage a reçu une quelconque assistance relative à la survenue de ce choc?
+Name=C26_VS1
+Value=1;Oui|Iyo|Ndio
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non|Te|Hapana
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=quel moment avez  vous reçu cette assistance?
+Name=C27
+Start=179
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=quel moment avez  vous reçu cette assistance?
+Name=C27_VS1
+Value='A  ';Avant
+Value='B  ';Pendant
+Value='C  ';Après
+
+[Item]
+Label=Qui vous a assisté ?
+Name=C28
+Start=182
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Qui vous a assisté ?
+Name=C28_VS1
+Value='A     '; Gouvernement|Bulamatari (l'Etat)|serikali
+Image=..\..\Reference\icons\Gouvernance 02.png
+Value='B     ';Autorité locale|Bakonzi ya Quartier, mboka to ya zinga zinga|Mamlaka ya Mitaa
+Image=..\..\Reference\icons\autorite_locale.PNG
+Value='C     ';Organisation nationale/internationale|Ba ONG ya mboka pe ya ba paya ya libanda ya mboka|Shirika la Taifa / Kimataifa
+Image=..\..\Reference\icons\organisation_inter.PNG
+Value='D     ';Organisation communautaire|Lisanga ya lisungi ya quartier, avenu, eglise, mosala, |Jumuiya ya shirika
+Image=..\..\Reference\icons\ONG.png
+Value='E     ';Amis et voisins|Baninga pe ndeko ya zinga zinga|Marafiki na majirani
+Image=..\..\Reference\icons\voisins.PNG
+Value='X     ';Autre|Batu misusu|nyingine
+Image=..\..\Reference\icons\autres.PNG
+
+[Item]
+Label=Le Gouvernement
+Name=C28A
+Start=182
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Les Autorités locales
+Name=C28B
+Start=183
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Les ONG nationales/inyternationales
+Name=C28C
+Start=184
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Les Organisations communautaires
+Name=C28D
+Start=185
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Les amis et voisins
+Name=C28E
+Start=186
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Autre
+Name=C28X
+Start=187
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Autre Choc
+Name=AUTRE
+Start=188
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autre Choc
+Name=AUTRE_VS1
+Value=1;Oui
+Image=..\..\Reference\icons\Oui.png
+Value=2;Non
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Y'a-t-il un autre membre du ménage qui a perdu plus de nombre de jours de travail ?
+Name=C10A
+Start=189
+Len=1
+
+[ValueSet]
+Label=Y'a-t-il un autre membre du ménage qui a perdu plus de nombre de jours de travail ?
+Name=C10A_VS1
+Value=1;Oui
+Value=2;Non

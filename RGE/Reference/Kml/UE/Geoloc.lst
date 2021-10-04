@@ -1,0 +1,30 @@
+﻿Application     C:\RDCRGE\Applications\Supervisor\Kml\UE\Geoloc.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\Users\nn\Documents\CE_20\EQ20.csdb                                                                                                                                                                                                                                                          
+<Output>        <<CSPro DB>> C:\RDCRGE\Applications\Supervisor\Kml\UE\nn.csdb                                                                                                                                                                                                                                               
+<File>          CARTOKML=
+<File>          FTEMP=
+<File>          FICHSAPART=
+
+Date            Aug 29, 2019
+Start Time      15:16:52
+End Time        15:16:56
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |    1941 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |        407   |          0   |        407  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+﻿[CSPro Application]
+Version=CSPro 7.4
+Label=RGE
+Name=RGE
+AppType=DataEntry
+OperatorID=No
+PartialSave=Yes
+AutoPartialSaveMinutes=5
+CAPI=Yes
+CAPIFont1=-040 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+CAPIFont2=-035 0000 0000 0000 0400 0255 0000 0000 0000 0003 0002 0001 0018 Baskerville Old Face
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+CenterForms=Yes
+CreateListing=No
+CreateLog=No
+ParadataCollection=AllEvents
+ParadataRecordInitialPropertyValues=Yes
+ParadataDeviceStateMinutes=5
+[External Dictionaries]
+File=..\Dicts\Clusters.dcf
+File=..\Dicts\Tasks.dcf
+File=..\Dicts\RGEZD.dcf
+[AppCode]
+File=.\RGE.ent.apc
+Include=..\Common\GlobalVars.apc
+Include=..\Common\CommandWrappers.apc
+[Message]
+File=.\RGE.ent.mgf
+[Help]
+File=.\RGE.ent.qsf
+[Forms]
+File=.\RGE.fmf
+[Dictionary Types]
+Dict-Type=..\Dicts\RGE.dcf,Input,.\RGE.fmf
+Dict-Type=..\Dicts\Clusters.dcf,External
+Dict-Type=..\Dicts\Tasks.dcf,External
+Dict-Type=..\Dicts\RGEZD.dcf,External

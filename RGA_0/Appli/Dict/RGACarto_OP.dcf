@@ -1,0 +1,224 @@
+﻿[Dictionary]
+Version=CSPro 7.5
+Label=Carto
+Name=OPCARTO_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+SecurityOptions=4F4893A3E5E2322ED8F4F3D0811F50D5BD09D47C7BDB9766D68445841C047230
+
+[Level]
+Label=Carto Level
+Name=OPCARTO_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Province
+Name=OPID1
+Start=2
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Territoire/Ville
+Name=OPID2
+Start=4
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Secteur/Chefferie/commune rurale/Commune urbaine
+Name=OPID3
+Start=7
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Groupement/Quartier
+Name=OPID4
+Start=10
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Zone de travail du RGA
+Name=OPZT
+Start=13
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numero du village
+Name=OPNVILLAGE
+Start=16
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=Carto Record
+Name=OPCARTO_REC
+RecordTypeValue='2'
+MaxRecords=500
+RecordLen=120
+
+[Item]
+Label=N° du site enquete dans le village
+Name=OPNUM
+Start=19
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nom de l'OP
+Name=OPNAME
+Start=22
+Len=50
+DataType=Alpha
+
+[Item]
+Label=N° du point GPS
+Name=OPPGPS
+Start=72
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Latitude
+Name=OPLAT
+Start=75
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude
+Name=OPLONG
+Start=85
+Len=11
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Niveau de saisie
+Name=OPNS
+Start=96
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Niveau de saisie
+Name=OPNS_VS1
+Value=0;Non dénombré
+Value=1;En cours de dénombrement
+Value=2;Dénombré
+Value=3;En cours de modification
+Value=4;Village n'existe plus
+
+[Item]
+Label=Date du debut de l'interview
+Name=OPDDEBUT
+Start=97
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Heure du debut de l'interview
+Name=OPHDEBUT
+Start=105
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Date de fin de l'interview
+Name=OPDFIN
+Start=109
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Heure de fin de l'interview
+Name=OPHFIN
+Start=117
+Len=4
+ZeroFill=Yes
+
+[Record]
+Label=Carto
+Name=OPCARTO
+RecordTypeValue='1'
+RecordLen=183
+
+[Item]
+Label=Province
+Name=OPPROVN
+Start=19
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Territoire/Ville
+Name=OPTERRITN
+Start=44
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Secteur/Chefferie/commune rurale/Commune urbaine
+Name=OPSECTN
+Start=74
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Groupement/Quartier
+Name=OPGROUPN
+Start=104
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Nom du Village
+Name=OPVILLAGEN
+Start=134
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Nombre Total des OP dans le village
+Name=OPNBR
+Start=164
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre des OP denombrées dans le village
+Name=OPNBRDEN
+Start=167
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre des OP en cours dans le village
+Name=OPNBREC
+Start=170
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre des OP non denombrées dans le village
+Name=OPNBRNDEN
+Start=173
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date
+Name=OPDATE
+Start=176
+Len=8
+ZeroFill=Yes

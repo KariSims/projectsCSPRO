@@ -1,0 +1,15 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=TABHH
+Name=TABHH
+AppType=Tabulation
+[External Dictionaries]
+File=.\TabHH.xtb.wrk.dcf
+[AppCode]
+File=.\TabHH.xtb.apc
+[Message]
+File=.\TabHH.xtb.mgf
+[TabSpecs]
+File=.\TabHH.xts
+[Dictionary Types]
+Dict-Type=.\TabHH.xtb.wrk.dcf,Working

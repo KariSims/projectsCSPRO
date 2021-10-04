@@ -1,0 +1,729 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=MODULE 26: DEPENSES DE  LOISIRS, SPECTACLES, CULTURE AU COURS DES  12 DERNIERS MOIS
+Name=EPMU1M26
+RecordTypeStart=11
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=français
+LIN=lingala
+SWA=swahili
+
+[Level]
+Label=MODULE 26: DEPENSES DE  LOISIRS, SPECTACLES, CULTURE AU COURS DES  12 DERNIERS MOIS questionnaire
+Name=M26
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=M261
+Start=1
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ménage
+Name=M262
+Start=4
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro enquêteur
+Name=M26INT
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne
+Name=M263
+Start=9
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne
+Name=M263_VS1
+Value=0
+
+[Record]
+Label=PANNEAU D'INFORMATIONS DU MODULE 26
+Name=MODM26
+RecordTypeValue='M26'
+RecordLen=135
+
+[Item]
+Label=Code Enquêteur|Numéro Enquêteur
+Name=M26HINT
+Start=14
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur|Numéro Superviseur
+Name=M265
+Start=17
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview|Date d'interview
+Name=M266
+Start=20
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview|Jour d'interview
+Name=M266J
+Start=20
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview|Jour d'interview
+Name=M266J_VS1
+Value=1:31
+
+[Item]
+Label=Mois de l'interview|Mois d'interview
+Name=M266M
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview|Mois d'interview
+Name=M266M_VS1
+Value=1:12
+
+[Item]
+Label=Année de l'interview|Année d'interview
+Name=M266A
+Start=24
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview|Année d'interview
+Name=M266A_VS1
+Value=2018:2019
+
+[Item]
+Label=Milieu|Milieu de résidence
+Name=M267
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Milieu|Milieu de résidence
+Name=M267_VS1
+Value=1;URBAIN
+
+[Item]
+Label=Province|Province
+Name=M268
+Start=29
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province|Province
+Name=M268_VS1
+Value=10;Kinshasa
+
+[Item]
+Label=Temps dudébut de l'interview|Temps début de l' interview
+Name=M269
+Start=31
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M269H
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure|Début de l' interview - Heure
+Name=M269H_VS1
+Value=6:23
+
+[Item]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M269M
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes|Début de l'interview - Minutes
+Name=M269M_VS1
+Value=0:59
+
+[Item]
+Label=L'heure de la fin de l'interview|Temps de fin de l'interview
+Name=M2610
+Start=35
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M2610H
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure|Fin  de l'interview - Heure
+Name=M2610H_VS1
+Value=6:23
+
+[Item]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M2610M
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes|Fin de l'nterview - Minutes
+Name=M2610M_VS1
+Value=0:59
+
+[Item]
+Label=Consentement |Consentement
+Name=M2611
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement |Consentement
+Name=M2611_VS1
+Value=1;OUI, PERMISSION DONNEE|iyo,andimi|ndiyo,ruhusa iliyotolewa
+Image=..\..\Reference\icons\06_Oui_permissionlas.png
+Value=2;NON, PERMISSION PAS DONNEE |te,aboyi|hapana, ruhusa haipatikani
+Image=..\..\Reference\icons\06_non_permissionlas.png
+
+[Item]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M2617
+Start=40
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Resultat d'interview|Résultat de l’enquête du Questionnaire Ménage
+Name=M2617_VS1
+Value=1;COMPLETE|esili|kamili
+Value=2;PAS DE MEMBRE DU MENAGE A LA MAISON|mutu moko te ya libota aza na lopango|hakuna mwanachama wa nyumbani nyumbani
+Value=3;MENAGE ENTIER ABSENT POUR UNE LONGUE PERIODE|ndangu mubinga eza te pona tango molayi|kaya nzima haipo kwa muda mrefu
+Value=4;REFUS|aboyi|kukataa
+Value=5;LOGEMENT VIDE|ndaku ya pamba|nyumba tupu
+Value=6;LOGEMENT DETRUIT|ndaku ebebi|kuharibiwa kwa makazi
+Value=7;LOGEMENT PAS TROUVE|ndaku bamoni te|nyumba haikupatikana
+Value=96;AUTRE|mususu|nyingine
+
+[Item]
+Label=Nom du chef de ménage|Nom du chef de ménage
+Name=M26NAME
+Start=42
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Adresse du Ménage
+Name=M26ADDR
+Start=82
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=M26FIN
+Start=122
+Len=1
+
+[ValueSet]
+Label=Finish
+Name=M26FIN_VS1
+Value=1;Revisiter le questionnaire|lekisa lisusu misu na ba mituna|Pitia upya dodoso
+Image=..\..\Reference\icons\arrow-58-xxl_mod26.png
+Value=2;Ajouter les  notes|bakisa makomi|Ongeza maelezo
+Image=..\..\Reference\icons\notes_mod26.png
+Value=3;Savegarder questionnaire et terminer|bomba ba mituna pe esili|Hifadhi dodoso na kumaliza
+Image=..\..\Reference\icons\sauvegarder_mod26.png
+
+[Item]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL
+Start=123
+Len=1
+DataType=Alpha
+
+[ValueSet]
+Label=Introduction au liste des membres du ménage
+Name=INTROHL_VS1
+Value=1;Continuer|koba|kuendelea
+
+[Item]
+Label=Nombre de ligne
+Name=LOISQ01
+Start=124
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Total Loisirs
+Name=LOISQTOT
+Start=126
+Len=10
+ZeroFill=Yes
+
+[Record]
+Label=MODULE 26: DEPENSES DE  LOISIRS, SPECTACLES, CULTURE AU COURS DES  12 DERNIERS MOIS
+Name=LOISIRS
+RecordTypeValue='DEL'
+MaxRecords=99
+RecordLen=123
+
+[Item]
+Label=Numéro de ligne
+Name=LOISQ02
+Start=14
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Libelles produits saisis
+Name=LOISQ03S
+Start=16
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Libelles produits NAEMA
+Name=LOISQ03N
+Start=56
+Len=40
+DataType=Alpha
+
+[Item]
+Label=Code du produit
+Name=LOISQ03
+Start=96
+Len=6
+
+[ValueSet]
+Label=Code du produit
+Name=LOISQ03_VS1
+Value=91101;Radio cassettes, Magnétophone à bandes et à cassettes, électrophones
+Value=91102;Téléviseur tous les types
+Value=91103;Compact disque ou lecteurs de disques compacts, chaines stéréo
+Value=91104;Radio, radio-reveilles
+Value=91105;Vidéo
+Value=91106;Magnétoscope
+Value=91107;Autoradio
+Value=91108;Accessoires audio-vidéo et autres équipements audio-vidéo n.d.a
+Value=91109;Réparation du matériel audio-vidéo
+Value=91201;Appareils photo
+Value=91202;Cameras, caméras vidéo et caméscopes
+Value=91203;Jumelles
+Value=91204;Microscopes, télescopes et boussoles
+Value=91205;Projecteurs de films et de diapositives, agrandisseurs et matériel de développement et accessoires
+Value=91206;Autre équipement photographique et cinématographique n.d.a.
+Value=91301;Ordinateur individuel, écran de visualisation, imprimantes et accessoires connexes divers
+Value=91302;Calculatrices, Calculettes
+Value=91303;Machines à écrire, machine de traitement de texte
+Value=91304;Autres équipement de traitement de l’information
+Value=91401;Bandes et cassettes audio, cassettes vidéo (vierges)
+Value=91402;Bandes vidéo
+Value=91403;Bandes et cassettes audio enregistrées, Cassettes vidéo enregistrées, disquettes et CD-ROM enregistrées
+Value=91404;Disques et Disque compact, Disquettes et CD-ROM pour magnétophones à bandes et à cassettes, magnétoscopes et ordinateurs individuels
+Value=91405;Pellicule, chargeur et disque photographiques et cinématographique (vierges)
+Value=91406;Autres supports d'enregistrement pour l'image et le son n.d.a
+Value=91501;Réparation du matériel audiovisuel
+Value=91502;Réparation du matériel photographique
+Value=91503;Réparation de matériel de traitement de l’information
+Value=92101;Avions, planeurs, …
+Value=92102;Bateaux
+Value=92103;Moteurs hors bord
+Value=92104;Chevaux et poneys, véhicules hippomobiles et accessoires connexes
+Value=92105;Autres gros matériel récréatif et sportif n.d.a.
+Value=92201;Instrument de musique de tous types et de toutes tailles
+Value=92202;Tables de billard, de ping-pong
+Value=92203;Table de kikeur
+Value=92301;Entretien et réparation des autres biens durables à fonction récréative et culturelle
+Value=92302;Stationnement de bateau en port de plaisance, services de hangar pour avions privés
+Value=93101;Ballon
+Value=93102;Jeux de cartes, jeux de société, jeux d’échecs, jeux vidéo
+Value=93103;Balles de Tennis
+Value=93104;Jouets de tous types (poupées, bibelots, voitures, train, masques, …)
+Value=93105;Articles de philatélie (timbres) et autres articles de collection
+Value=93106;Réparation des jeux et jouets
+Value=93107;Autres jeux et jouets, articles de sport n.d.a (logiciel de jeu vidéo, cassettes et CD-ROM de jeux vidéo
+Value=93201;Balles, volants, filets, raquettes, clubs de golf, perches, poids, disques javelots, …
+Value=93202;Parachutes et équipements connexes
+Value=93203;Armes à feu et munitions pour la chasse, le sport et l’autodéfense
+Value=93204;Cannes à pêche et autres articles de pêche
+Value=93205;Matériel de camping : sacs de couchage, matelas pneumatiques, réchaud de camping, tentes, etc …
+Value=93206;Autres articles de sport n.d.a.
+Value=93301;Plantes, arbustes et arbrisseau, bulbes, tubercules, graines, gazon en plaques
+Value=93302;Engrais, compost, tourbes, terreaux et terres horticoles
+Value=93303;Pots, bacs//
+Value=93304;Arbres de Noël naturels et artificiels //
+Value=93401;Animaux de compagnie //
+Value=93402;Produits vétérinaires et aliments pour animaux de compagnie
+Value=93403;Articles pour animaux (colliers, laisses, niches, cages à oiseaux, aquarium, litière pour chats, etc…
+Value=93501;Services vétérinaires
+Value=93502;Autres services pour animaux de compagnie, toilettage, garde, tatouage et dressage
+Value=94101;Stade de football
+Value=94102;Piscines, terrains de golf, Gymnases et autres centres de culture physique
+Value=94103;Match de basket-ball
+Value=94104;Fêtes foraines et parcs d’attraction
+Value=94105;Manèges, balançoires et autres équipements de terrain de jeux pour enfants
+Value=94106;Location de matériel et accessoires de sport et de loisirs (avions, Bâteaux, chevaux, etc…)
+Value=94107;Cours particuliers et collectifs de danse, de musique, natation, échecs, dans cadre extrascolaire
+Value=94211;Cinéma
+Value=94212;Concert, music-halls, opéras, cirques, spectacles de sons et lumière
+Value=94213;Théâtre
+Value=94214;Bibliothèque, musée, galerie d’art, salles d’exposition
+Value=94215;Autres services de cinéma, théâtre et concert n.d.a
+Value=94221;Jardin zoologique, parcs nationaux, jardins botaniques monuments historiques, aquariums
+Value=94222;Service de photographe (développement de pellicules tirage et agrandissement de photographies, réalisation de portraits et photographies de mariage, etc.
+Value=94223;Location de cassettes, cassettes vidéo, chaînes musicales, télévision
+Value=94224;Abonnement à des chaînes de télévision et radio
+Value=94225;Autres services récréatifs et culturels n.d.a
+Value=94300;Location pour animation à l'occasion des fêtes
+Value=94301;Billet de PMU
+Value=94302;Loteries par grattage et tirage, tombolas, etc…
+Value=94303;Autres services de jeux de hasard (Casinos, …)
+Value=95101;Livres et manuels scolaires
+Value=95102;Atlas, dictionnaires, encyclopédies, guides et partitions
+Value=95103;Albums de découpage et albums pour enfants
+Value=95104;La reliure d’ouvrages
+Value=95105;Autres livres n.d.a
+Value=95201;Journaux locaux
+Value=95202;Journal hebdomadaire
+Value=95203;Jeune Afrique intelligent
+Value=95204;Journaux mensuels
+Value=95205;Autres presse et périodiques n.d.a
+Value=95301;Catalogues et imprimés publicitaires
+Value=95302;Affiches, cartes postales, calendriers
+Value=95303;Cartes de visite et de vœux, faire-part et autres cartes pré imprimés
+Value=95304;Cartes et globes
+Value=95411;Cahiers, blocs notes, carnets de notes, livre comptable
+Value=95412;Perforateur a papier, ciseaux à papier, agrafeuses, colles, agrafes, trombones, punaises
+Value=95413;Bic bleu (fabrication locale), stylos
+Value=95414;Crayon à gomme, autres crayons, gommes, taille-crayons
+Value=95415;Lattes, Equerres, compas
+Value=95416;Rames de papier duplicateur A4
+Value=95417;Enveloppes
+Value=95418;Articles de dessin (papier, carton, peinture, crayons à dessin, pinceaux)
+Value=95419;Autres articles de papeterie et de dessin n.d.a (Cartouches d’encre pour photocopieuses et imprimantes, stencils, papier carbone, ruban, …)
+Value=95421;Bics, stylos Crayons, Crayons à gomme, Gommes
+Value=95422;Taille-crayons
+Value=95423;Lattes, équerres
+Value=95424;Cahiers quadrillés et lignés cahier de dessin
+Value=95425;Journal de classe, Cahier de communication
+Value=95426;Cartable
+Value=95427;Autres fournitures scolaires n.d.a (Ardoise, touche, craie, règles à calcul, instruments de géométrie
+Value=96001;Tous les frais touristiques (transport, nourriture, hébergement guide, et.)
+
+[Item]
+Label=Montant total de cette dépense
+Name=LOISQ04
+Start=102
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=Montant total de cette dépense
+Name=LOISQ04_VS1
+Value=0:9999999999
+
+[Item]
+Label=Nombre d'unités achetées par achat
+Name=LOISQ05
+Start=112
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre d'unités achetées par achat
+Name=LOISQ05_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+Value=32;32
+Value=33;33
+Value=34;34
+Value=35;35
+Value=36;36
+Value=37;37
+Value=38;38
+Value=39;39
+Value=40;40
+Value=41;41
+Value=42;42
+Value=43;43
+Value=44;44
+Value=45;45
+Value=46;46
+Value=47;47
+Value=48;48
+Value=49;49
+Value=50;50
+Value=51;51
+Value=52;52
+Value=53;53
+Value=54;54
+Value=55;55
+Value=56;56
+Value=57;57
+Value=58;58
+Value=59;59
+Value=60;60
+Value=61;61
+Value=62;62
+Value=63;63
+Value=64;64
+Value=65;65
+Value=66;66
+Value=67;67
+Value=68;68
+Value=69;69
+Value=70;70
+Value=71;71
+Value=72;72
+Value=73;73
+Value=74;74
+Value=75;75
+Value=76;76
+Value=77;77
+Value=78;78
+Value=79;79
+Value=80;80
+Value=81;81
+Value=82;82
+Value=83;83
+Value=84;84
+Value=85;85
+Value=86;86
+Value=87;87
+Value=88;88
+Value=89;89
+Value=90;90
+Value=91;91
+Value=92;92
+Value=93;93
+Value=94;94
+Value=95;95
+Value=96;96
+Value=97;97
+Value=98;98
+Value=99;99
+
+[Item]
+Label=Unité
+Name=LOISQ06
+Start=114
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Unité
+Name=LOISQ06_VS1
+Value=1;Piece
+Value=3;Unité
+Value=4;Tarif
+Value=5;Nombre de fois
+Value=6;Paquet manufacture
+Value=7;Boite manufacture
+Value=8;Sachet manufacture
+Value=9;Paquet non manufacture
+Value=10;Boite non manufacture
+Value=11;Sachet non manufacture
+Value=76;Sac
+Value=98;Service
+Value=666;Autre
+
+[Item]
+Label=Mode d'acquisition
+Name=LOISQ07
+Start=117
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mode d'acquisition
+Name=LOISQ07_VS1
+Value=0;Cadeau donné
+Image=..\..\Reference\icons\cadeau donné24las.png
+Value=1;Cadeau reçu
+Image=..\..\Reference\icons\cadeau re‡ulas.png
+Value=2;Bien ou service autoproduit
+Image=..\..\Reference\icons\biens ou services autoproduitslas.png
+Value=3;Au près d'un vendeur ambulant
+Image=..\..\Reference\icons\achat_ambulantlas.png
+Value=4;à domicile
+Image=..\..\Reference\icons\AchataDomicile.png
+Value=5;Au marché public
+Image=..\..\Reference\icons\achat au marche_las (2).PNG
+Value=6;Dans un autre lieu informel
+Image=..\..\Reference\icons\AutreLieuInformel.png
+Value=7;Dans un supermarché
+Image=..\..\Reference\icons\achat au supermarch_las (2).PNG
+Value=8;Dans un magasin ou un atelier
+Image=..\..\Reference\icons\achat dans un magasinlas.png
+Value=9;Au secteur public ou parapublic
+Image=..\..\Reference\icons\secteur public ou parapublic_mod26.PNG
+Value=10;Dans un autre lieu d'achat formel
+Image=..\..\Reference\icons\autre lieu d achatlas.png
+Value=11; à l'étranger
+Image=..\..\Reference\icons\achat_etrangerlas.png
+
+[Item]
+Label=Raison principale
+Name=LOISQ08
+Start=119
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Raison principale
+Name=LOISQ08_VS1
+Value=1;Bien / service moins cher
+Image=..\..\Reference\icons\bien ou service moins cherslas.png
+Value=2;Meilleure qualité
+Value=3;Vendeur fait du crédit
+Image=..\..\Reference\icons\vendeur fait du creditlas.png
+Value=4;Vendeur proche / pratique
+Image=..\..\Reference\icons\vendeur proche24las.png
+Value=5;Accueillant/ ami famille
+Image=..\..\Reference\icons\vendeur accueillantlas.png
+Value=6;Spécialisé / pas ailleurs
+Value=7;Autre raison
+
+[Item]
+Label=Raison principale des cadeaux
+Name=LOISQ08A
+Start=120
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Raison principale des cadeaux
+Name=LOISQ08A_VS1
+Value=1;Maladie
+Image=..\..\Reference\icons\maladielas.png
+Value=2;Décès, funéraille
+Image=..\..\Reference\icons\decèslas.png
+Value=3;Levée de deuil
+Image=..\..\Reference\icons\decèslas.png
+Value=4;Naissance
+Image=..\..\Reference\icons\bebe-naissance vivante_splas.png
+Value=5;Baptême, mariage ou autre cérémonie
+Image=..\..\Reference\icons\bapteme ou mariagelas.png
+Value=6;Consommation courante
+Image=..\..\Reference\icons\Consommation courante_mod_19_25las.png
+Value=7;Investissement
+Image=..\..\Reference\icons\investissement_mod19_25las.png
+Value=8;Autre
+
+[Item]
+Label=Origine du produit
+Name=LOISQ09
+Start=121
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Origine du produit
+Name=LOISQ09_VS1
+Value=1;Local
+Image=..\..\Reference\icons\AgenceGouv.png
+Value=2;Importé
+Image=..\..\Reference\icons\importé_mod19_25las.png
+Value=3;Ne sait pas
+Image=..\..\Reference\icons\Ne sait pas_mod19_25las.png
+Value=4;Non concerné|Etali yango te|Sio wasiwasi
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Etat du produit
+Name=LOISQ10
+Start=122
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Etat du produit
+Name=LOISQ10_VS1
+Value=1;Neuf
+Image=..\..\Reference\icons\neuf.m23las.png
+Value=2;Usagé
+Image=..\..\Reference\icons\usagElas.png
+Value=3;Non concerné|Etali yango te|Sio wasiwasi
+Image=..\..\Reference\icons\Non.png
+
+[Item]
+Label=Autre dépense de loisirs
+Name=LOISQAUTR
+Start=123
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autre dépense de loisirs
+Name=LOISQAUTR_VS1
+Value=1;Oui
+Image=..\..\Reference\icons\06_ouilas.png
+Value=2;Non
+Image=..\..\Reference\icons\06_nonlas.png

@@ -1,0 +1,205 @@
+﻿+FR} {messages en français}
+{ HH questionnaire error messages }
+ 0009 D Grappe %03d, Ménage %02d, %2d
+ 0010 D Numéro de la grappe invalide
+ 0011 D %s identification incorrecte
+ 0012 D Date d'interview impossible %s
+ 0016 D Problème avec la combinaison Jour, / Mois /, Année  %s
+ 0019 D Numéro d'enquêteur incorrect
+{ HH level, HH feuille de membres du ménage  }
+
+ 0030 D Age et date de naissance incohérents
+ 0031 D L'âge du membre du ménage ne peut pas être NSP ou pas de réponse
+ 0060 W Veuillez confirmer si le sexe du conjoint %s (%s) est le même que le sexe de %s (%s)
+ 0061 W Le %s du chef de ménage avec le sexe %d est supérieur à 1 = %s dans la liste du ménage
+ 0070 D Le chef de ménage doit être à la ligne numéro 1
+ 0071 W Le conjoint dans la rangée %s du chef de ménage dans la rangée %d devrait être du sexe opposé au Chef de ménage %s
+ 0072 W Le chef de ménage est inférieur à %02d ans de plus que son enfant (HL1 = %02d)
+ 0073 W Le chef de ménage est inférieur à %02d ans plus ancien que son petit-fils (HL1 = %02d)
+ 0074 W Le chef de ménage est inférieur à %02d ans plus jeune que son parent (HL1 = %02d)
+ 0075 W Le chef de ménage dont lenumero de ligne #%d a moins de 15 ans (%d)
+ 0080 D %s numéro de ligne (%s = %02d) supérieur au nombre d'membres du ménage (HH11 = %02d)
+ 0081 D %s numéro de ligne (%s = %02d) est identique au numéro de ligne de l'enfant (HL1 = %02d)
+ 0082 W HL1 = %02d: Soit le sexe (HL4 = %01d) ou l'âge (HL6 = %02d) de %s (%s = %02d) incorrect
+
+{Niveau HH, module Éducation}
+  0090 W Niveau et degré d'éducation incohérents
+  0091 D Niveau de scolarité actuel (ED10A = %02d) supérieur au plus haut niveau (ED5A = %02d)
+  0092 D Enseignement actuel (ED10B = %02d) supérieur à la plus haute (ED5B = %02d)
+  0093 D Niveau de scolarité de l'année précédente (ED16A = %02d) supérieur au plus haut niveau (ED5A =%02d)
+  0094 D Année d'études de l'année précédente (ED16B =%02d) supérieure à la plus élevée (ED5B =%02d)
+  0095 D Enseignement de l'année précédente (ED16A / B =%02d /%02d) supérieur à l'année en cours (ED10A / B =%02d /%02d)
+  0096 D Enseignement de l'année précédente (ED8A / B =%02d /%02d) inférieur à l'année en cours (ED6A / B =%02d /%02d) moins un
+  0097 D Niveau de scolarité actuel (ED10B =%02d) inférieur à la plus élevée (ED5B =%02d)  { HH level, HH characteristics }
+  0101 D Si le ménage possède des animaux (HC17 = 1), l'une des réponses HC18 doit être égale à une valeur non nulle
+  0102 W Réponse incompatible avec la réponse précédente: le ménage a déclaré n'avoir pas d'électricité
+  0103 W Niveau  d'éducation et âge incohérents
+  0104 W Classe / année d'étude et âge incohérents
+  0105 W Type de cuisinière %s incomptable avec le typed e carburant %s
+  
+ {Niveau ménage, module de discipline enfant}
+  0301 D Nombre total d'enfants âgés de 1 à 17 ans ne sont pas d'accord avec le nombre d'inscrits de HH (%d)
+  0302 D Rang de l'enfant (SL9 =%02d) supérieur au nombre d'enfants de 1 à 17 ans (SL6 =%02d) *** modifié
+  0303 D Si seulement un enfant âgé de 1 à 17 ans, son rang doit être égal à 1
+  0304 D Numéro de ligne (SL9B =%02d) supérieur au nombre de membres du ménage (HH11 =%02d) *** modifié
+  0305 D Ce membre du ménage (HL6 =%02d) n'est pas éligible.
+  0306 D Numéro de ligne (%02d) différent du numéro de ligne dans le module de sélection (SL9 =%02d)
+
+{ ITN - Moustiquaire }
+ 
+0201 D Le numero ligne de membre (TN12=%02d) de ménage du ménage qui a dormisous la moustiquaire dépasse le nombre de membre du ménage (%d membres du ménage)  
+ 
+0202 D Le membre est déjà listé comme ayant dormi sous cette moustiquaire
+ 
+0203 D Cette personne (%02d) considérée ayant dormi sous moustiquaire la nuit passée n'a pas dormi dans le ménage (HL7=%1d)
+ 
+0204 D Cette personne (TN12=%02d) est déjà citée comme ayant dormi sous une autre moustiquaire
+ 
+0205 W Le nombre de personnes dormant sous la moustiquaire est incohérent avec la question précédente
+0206 D La moustiquaire ne peut pas être trempée avant son obtention par le ménage (TN4 =%2d et TN9 =%2d)
+0299	Êtes-vous sûr de ce nombre (%d) de moustiquaires donné ?
+
+ {FR+}
+{Biomarqueurs}
+ 
+0470 D Consentement de l'anémie "%s" (TSB208=%01d), ainsi TSB213=%4.1f devrait être %s
+ 
+0474 D Consentement du test de paludisme "%s" (TSB210=%1d), ainsi %s=%s devrait être %s, si non corriger  TSB210 conséquemment
+ 
+0494 E Pour manquant mettre un " ? " en première position seulement (%5s)
+ 
+0473 W Taux d'hémoglobine non plausible %4.1f , vérifier les erreurs de saisie
+0495 E Séquence de caractères du code à barre (%5s) incorrecte
+ 
+0496 E Champ de contrôle (dernier caractère) du code à barre (%5s) incorrect
+{Biomarqueurs}
+
+{ WQ  - qualité de l'eau }
+0501 D S'il vous plaît vérifier les dates, le test d'eau ne peut pas se produire avant Questionnaire de ménage
+0502 D Code de résultat = 01 (Terminé) mais l'autorisation dans WQ8 ou HH44 était 'Pas donné' - Vérifiez s'il vous plaît
+0503 D Le code de résultat n'est pas 01 (Non terminé) mais l'autorisation dans WQ8 ou HH44 était 'donné' - Veuillez vérifier
+0504 D Si le verre d'eau n'est pas fourni (WQ10 <> 1), vous devez revenir à WQ31 et enregistrer 03
+0505 W Vérifiez les dates, les résultats des tests d'eau doivent être enregistrés 24 heures après l'incubation
+0506 W Vérifiez les dates, les résultats des tests d'eau  ne peuvent plus être enregistrés 6 jours après l'incubation
+ 
+{Messages d'erreur du questionnaire de la femme}
+1000 D Numéro de ligne de la femme incorrecte; Le prochain questionnaire attendu est pour la ligne% 02d
+1001 W Femme trop jeune ou trop âgée pour être interviewée
+1002 W L'âge de la femme (WB2 =%02d) différent du ménage (HL6 =%02d)
+1003 W L'âge de la femme et sa date de naissance incohérente
+1004 W Le mois de naissance de la femme (WB1M =%02d) différent du mois de naissance du ménage (HL5M =%02d)
+1005 W L'année de naissance de la femme (WB1Y =%04d) différente de l'année de naissance du ménage (HL5Y =%04d)
+1011 W La fréquentation scolaire est différente dans le ménage (ED4 =%02d) et les questionnaires féminins (WB5 =%02d)
+1012 W Niveau de scolarité de la femme différent dans le ménage (ED5A s% =%02d) que son questionnaire femme(WB6A s% =%02d)
+1013 W Niveau de scolarité de la femme différent dans le ménage (ED5B s% =%02d) que son questionnaire s% (WB6B =%02d)
+1014 W Niveau et degré d'éducation incohérents
+1015 W Année de fin d'année / année différente dans le ménage (ED6 =%01d) que son questionnaire (WB7 =%01d)
+1016 W La fréquentation scolaire est différente dans le ménage (ED15 =%02d) et les questionnaires féminins (WB11 =%02d)
+1017 W Niveau de scolarité de la femme différent dans le ménage (ED16A s% =%02d) que son questionnaire femme(WB12A s% =%02d)
+1101 W Date de naissance du premier enfant avant l'âge %1d
+1102 W Date de naissance du premier enfant après la date de l'entrevue
+1103 W avait la première naissance quand moins de 02 ans
+1110 D Nombre de garçons et de filles doit être supérieur à zéro %s = 1
+1111 D Nombre d'enfants nés (CM11 = %d) ne correspond pas aux réponses additionnées (%d)
+1112 D Probe et corrigez CM2-CM10 si nécessaire
+1121 W Date de naissance du dernier enfant avant l'âge %1d
+1122 W Date de naissance du dernier enfant après la date de l'entrevue
+1123 W La date de naissance du seul enfant doit être la même dans CM2 et CM12
+1124 W Date de naissance du dernier enfant avant la date de naissance du premier enfant
+1131 D La date de naissance du dernier enfant a duré les 2 dernières années
+1132 D Aucune naissance au cours des 2 dernières années
+1140 D Code de naissance multiple incorrect
+1141 W L'enfant a un sexe différent chez le ménage (HL4 = %1d, BH3 = %1d)
+1142 D Date de naissance de l'enfant après la date de l'entrevue
+1143 D La date de naissance de l'enfant et du jumeau est différente
+1144 D Date de naissance de l'enfant non dans l'ordre
+1145 D L'enfant doit être codé comme une naissance multiple s'il est né à la même date que l'enfant précédent
+1146 D L'âge de l'enfant et l'âge des jumeaux différents
+1147 E L'âge de l'enfant n'est pas conforme à la date de naissance
+1148 W L'enfant a un âge ou un sexe différent dans le ménage (HL6 = %02d, BH3 / BH6 = %02d)
+1149 D Numéro de l'unité domestique invalide
+1150 W L'enfant a une mère différente dans le ménage (HL14 = %02d, Ligne Femme = %02d)
+1151 D Numéro de l'enfant à partir du ménage déjà utilisé
+1152 W Mère a un enfant %02d inscrit dans le ménage, mais pas dans l'historique des naissances
+1153 E Âge au décès invalide pour les unités = 9
+1154 D Âge au décès %d hors gamme %1d-%2d pour les unités = %s
+1155 W Âge au décès et date de naissance incohérente: dc = %04d, décès =%03d, date d'entrevue =%04d
+1156 D %s incohérent:%s = %02d, count = %02d
+1157 W Intervalle entre naissance %02d (%02d /%04d) et naissance %02d (%02d /%04d) trop petit
+1158 E Des naissances vivantes supplémentaires doivent être enregistrées
+1159 D Âge au décès déclaré 12 mois ou 1 an. Sonde pour déterminer le nombre exact de mois.
+1201 W La dernière dose de tétanos avant la dernière grossesse est venue lorsque la femme a moins de 02 ans
+1301 D Réponses spéciales incohérentes
+1401 W Selon DOB (WB1 =%02d /%04d) et DOM (%02d /%04d), femme inférieure à l'âge %02d lorsqu'elle est mariée
+1601 W Mère (age = %02d) moins de %02d ans supérieur à la fille (%s =%02d)
+1602 W Nombre de filles (FG9 =%02d) différent du nombre total de filles en CM5 / 7B (% 02d)
+1603 W Age à la circoncision (FG7 =%d) plus grand que l'âge actuel (WB2 =%2d) *** Ajouté
+1604 W Age à la fille (F13 =%d) différent de l'âge trouvé dans l'histoire de la naissance (Ligne% d. Age =%d) *** Ajouté
+1701 W L'âge au mariage (MA9 =%02d) dépasse l'âge actuel du répondant (WB2 =%02d)
+1801 W L'âge de la femme au premier sexe (SB1 =%02d) supérieur à son âge actuel (WB2 =%02d)
+1802 W Age maximum au dernier sexe (WB2-SB3N = %02d) plus jeune que l'âge au premier sexe (SB1 = %02d)
+1803 D Le nombre total de partenaires à vie (SB15 =%02d) doit être supérieur au nombre de partenaires au cours des 12 derniers mois (SB14 =%02d)
+1810 E Jamais eu du sexe, mais a des enfants ou est actuellement enceinte *** Ajouté
+1811 W Jamais eu du sexe, mais était en union ou a vécu avec un homme *** Ajouté
+1901 E Âge à la première %s l'utilisation excède l'âge actuel (%d -%d) *** Ajouté
+1902 W Le bilan de santé postnatal (PN12U =%d et PN12N =%d) doit être après avoir quitté l'établissement de santé (PN2U =%d et PN2U =%d)
+1903 W Postnatal health check (PN21U =%d et PN21N =%d) doit être après avoir quitté l'établissement de santé (PN2U =%d et PN2U =%d)
+2100 D Vérifiez, et corrigez si nécessaire, le nombre total de naissances, puis insérez la nouvelle naissance
+2101 Vérifiez et corrigez le nombre total de naissances avant d'insérer une nouvelle naissance 
+
+{Messages d'erreur de questionnaire pour enfants}
+ 2000 D Numéro de ligne de l'enfant incorrect; Le questionnaire suivant prévu est pour enfant en ligne %02d
+ 2001 W Enfant trop jeune ou trop vieux pour être interviewé
+ 2002 W L'âge de l'enfant (AG2 =%02d) et l'âge dans le ménage (HL6 =%02d) différent
+ 2003 W Âge de l'enfant incompatible avec la date de naissance
+ 2004 D Le numéro de ligne du gardien (UF6 =%02d) doit être identique au ménage (HL15 =%02d) *** Changé
+ 2005 W Mois de naissance de l'enfant (AG1M =%02d) différent du mois de naissance dans la liste des ménages (HL5M =%02d)
+ 2006 W Année de naissance de l'enfant (AG1Y =%04d) différente de l'année de naissance dans la liste des ménages (HL5Y =%04d)
+ 2701 W Date de %s vaccin (%02d /%02d /%04d) invalide
+ 2702 W Date de %s de vaccination (%02d /%02d /%04d) après la date d'entrevue (UF8 =%02d /%02d /%04d)
+ 2703 W Date de %s de vaccination (%02d /%02d /%04d) avant la date de naissance (AG1 =%02d /%02d /%04d)
+ 2704 W Date de %s de vaccination (%02d /%02d /%04d) avant la date de %s de vaccination (%02d /%02d /%04d)
+ 2710 W Le code pour au moins un vaccin doit être de 66 ou la réponse dans IM5 devrait être "Non"
+ 2750 W La carte de vaccination  est affichée (IM1 =%d) mais aucune vaccination n'a été enregistrée (BCG-Vit.A, tout à zéro). *** Ajoutée
+ 2801 W Poids hors gamme prévu pour l'âge de l'enfant %d mois
+ 2802 W Hauteur (longueur) hors gamme prévue pour l'âge de l'enfant %d mois
+ 2803 W Les enfants de moins de 2 ans sont généralement mesurés couchés, 2+ debout
+ 2804 W Hauteur et poids sont hors gamme attendue
+ 2805 W Résultat de mesure (AN2 =%d) incompatible avec la mesure enregistrée en AN3 et AN4
+ 2829 W L'enfant a un mois de naissance différent dans le ménage (HL5M =%1d, BH4M =%1d)
+ 2830 W L'enfant a une année de naissance différente dans le ménage (HL5Y =%1d, BH4Y =%1d)
+ 
+{Messages d'erreur du questionnaire de l'homme}
+ 3000 D Numéro de ligne de l'homme incorrect; le prochain questionnaire attendu est pour la ligne homme %02d
+ 3001 W Homme trop jeune ou trop vieux pour être interviewé
+ 3002 W L'âge de l'homme (WB2 =%02d) différent du ménage (HL6 =%02d)
+ 3003 W L'âge de l'homme et sa date de naissance incohérente
+ 3004 W Le mois de naissance de l'homme (MWB1M =%02d) différent du mois de naissance du ménage (HL5M =%02d)
+ 3005 W Année de naissance de l'homme (MWB1Y =%04d) différente de l'année de naissance du ménage (HL5Y =%04d)
+ 3011 W La fréquentation scolaire est différente dans le ménage (%s =%d) et les questionnaires masculins (%s =%d)
+ 3012 W Le niveau d'éducation de l'homme différent dans le ménage (%s = %d) que son questionnaire (%s =%d)
+ 3013 W Niveau de scolarité de l'homme différent dans le ménage (%s =%d) que son questionnaire (%s =%d)
+ 3014 W Niveau et grade de l'éducation incohérent
+ 3015 W L'achèvement de l'année / l'année de l'homme dans le ménage (ED6 =%01d) que son questionnaire (MWB7 =%01d)
+ 3103 W A eu le premier enfant quand moins de% 02 ans
+ 3110 D Nombre de garçons et de filles doit être supérieur à zéro %s = 1
+ 3111 D Le nombre d'enfants jamais nés n'est pas d'accord avec les réponses additionnées (%d)
+ 3121 W Date de naissance du dernier enfant avant l'âge %1d
+ 3122 W Date de naissance du dernier enfant après la date de l'entrevue
+ 3401 W Selon DOB (MWB1 =%02d /%04d) et DOM (%02d /%04d), homme inférieur à l'âge %02d lorsqu'il est marié
+ 3701 W L'âge au mariage (MMA9 =%02d) dépasse l'âge actuel du répondant (MWB2 =%02d)
+ 3801 W L'âge de l'homme au premier sexe (MSB1 =%02d) supérieur à son âge actuel (MWB2 =%02d)
+ 3802 W Âge maximal au dernier sexe (MWB2-MSB3N =%02d) plus jeune que l'âge au premier sexe (MSB1 =%02d)
+ 3803 D Le nombre total de partenaires à vie (MSB15 =%02d) doit être supérieur au nombre de partenaires au cours des 12 derniers mois (MSB14 =%02d)
+ 3810 E Jamais eu le sexe, mais a eu des enfants
+ 3811 W Jamais eu du sexe, mais était en union ou a vécu avec une femme
+ 3901 E L'âge au premier %s dépasse l'âge actuel (%d -%d) 
+ 
+{Messages d'erreur utilisés tout au long}
+  9980 Enregistrer les modifications?
+  9990 D L'heure de fin est avant l'heure de début. Vérifiez la valeur saisie
+  9991 D Enregistrez le nom
+  9992 D Unité et nombre incohérents; vérifier les instructions de codage du questionnaire
+  9995 D Si "Personne / Non reponse" circulait, ne peut pas sélectionner d'autres réponses alpha
+  9996 D Réponse "Ne sait pas" incompatible avec d'autres réponses
+  9998 D Code donné pour la variable alpha non acceptable

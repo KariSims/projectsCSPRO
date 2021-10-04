@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=COMPILWM
+Name=COMPILWM
+AppType=Batch
+[AppCode]
+File=.\CompilWM.bch.apc
+[Message]
+File=.\CompilWM.bch.mgf
+[Order]
+File=.\CompilWM.ord
+[Dictionary Types]
+Dict-Type=.\CFCRTMConcat.dcf,Input,.\CompilWM.ord

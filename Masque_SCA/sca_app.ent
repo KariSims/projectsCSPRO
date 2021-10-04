@@ -1,0 +1,15 @@
+﻿[CSPro Application]
+Version=CSPro 6.2
+Label=SCA_APP
+Name=SCA_APP
+AppType=DataEntry
+[AppCode]
+File=.\sca_app.ent.apc
+[Message]
+File=.\sca_app.ent.mgf
+[Help]
+File=.\sca_app.ent.qsf
+[Forms]
+File=.\sca_app.fmf
+[Dictionary Types]
+Dict-Type=.\masque_sca.dcf,Input,.\sca_app.fmf

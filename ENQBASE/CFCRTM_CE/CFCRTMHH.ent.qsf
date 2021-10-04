@@ -1,0 +1,1442 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.2
+
+[LANGUAGES]
+FRA=French
+
+[QUESTION]
+Field=MICS6HH.ED1
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28\lang2057 ED1\b0 . Num\'e9ro de ligne\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED10A
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED10\b0 . Durant l\rquote ann\'e9e scolaire actuelle (2018-2019), quel est le niveau d'\'e9tude que \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a fr\'e9quent\'e9\~?\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED10B
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED10\b0 . Durant l\rquote ann\'e9e scolaire actuelle (2018-2019), quel est la classe/ann\'e9e de \cf2\f1\fs40 %xED10A%\cf1\f0\fs28  que \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a fr\'e9quent\'e9e\~?\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED15
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED15\b0 . A n\rquote importe quel moment de l\rquote ann\'e9e scolaire pr\'e9c\'e9dente (2017-2018), est-ce que \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a fr\'e9quent\'e9 l\rquote\'e9cole ou  un programme d\rquote\'e9ducation pr\'e9scolaire ?\par
+FRA=
+FRA=\pard\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED16A
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED16\b0 . Durant l\rquote ann\'e9e scolaire pr\'e9c\'e9dente (2017-2018), quel est le niveau d'\'e9tude que \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a fr\'e9quent\'e9\~?\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED16B
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED16\b0 . Durant l\rquote ann\'e9e scolaire pr\'e9c\'e9dente (2017-2018), quel est la classe/ann\'e9e de \cf2\f1\fs40 %xED16A%\cf1\f0\fs28  que \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a fr\'e9quent\'e9e\~?\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED2
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED2\b0 . Nom et \'e2ge.\par
+FRA=\par
+FRA=
+FRA=\pard Copier les noms et \'e2ges de tous les membres du m\'e9nage \'e0 partir de HL2 et HL6 ci-dessous et sur la page suivante de ce module \lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED3
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED3\b0 . Ag\'e9 de 3 ans ou plus \lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED4
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED4\b0 . \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a-t-il/elle d\'e9j\'e0 fr\'e9quent\'e9 l\rquote\'e9cole ou un programme d\rquote\'e9ducation pr\'e9scolaire ?\par
+FRA=
+FRA=\pard\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED5A
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED5\b0 . Quel est le plus haut niveau d\rquote\'e9cole que \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a fr\'e9quent\'e9 \lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED5B
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED5\b0 . Quel est le plus haut niveau de classe/ann\'e9e de \cf2 %xED5A%\cf1  que \cf3\f1\fs40 %ED2%\cf1\f0\fs28  a fr\'e9quent\'e9 ?\par
+FRA=
+FRA=\pard\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED6
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED6\b0 . Est-ce que  \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a termin\'e9 cette (classe/ann\'e9e)\~?\par
+FRA=
+FRA=\pard\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED7
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED7\b0 . Ag\'e9 de 3-24 ans?\par
+FRA=
+FRA=\pard\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED8
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED8\b0 . V\'e9rifier ED4 : \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a d\'e9j\'e0 fr\'e9quent\'e9 l\rquote\'e9cole ou le pr\'e9scolaire\par
+FRA=
+FRA=\pard\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.ED9
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 ED9\b0 . A n\rquote importe quel moment de l'ann\'e9e scolaire actuelle (2018-2019) est-ce que \cf2\f1\fs40 %ED2%\cf1\f0\fs28  a fr\'e9quent\'e9 l\rquote\'e9cole ou un programme d\rquote\'e9ducation pr\'e9scolaire ?\par
+FRA=
+FRA=\pard\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC10A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC10A\b0 . Est-ce qu\rquote un membre de m\'e9nage poss\'e8de \b Une montre\b0 ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC10B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC10B\b0 . Est-ce qu\rquote un membre de m\'e9nage poss\'e8de \b Une bicyclette/V\'e9lo ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\b0\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC10C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC10C\b0 . Est-ce qu\rquote un membre de m\'e9nage poss\'e8de \b Une mobylette/moto ou un scooter ?\cf0\f1\fs20\par
+FRA=\b0\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC10D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx944\cf1\b\f0\fs28 HC10D\b0 . Est-ce qu\rquote un membre de m\'e9nage poss\'e8de \b Une charrette tir\'e9e par un animal ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\b0\par
+FRA= \par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC10E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC10E\b0 . Est-ce qu\rquote un membre de m\'e9nage poss\'e8de \b Une voiture, un camion ou une camionnette ?\cf0\f1\fs20\par
+FRA=\b0\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC10F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC10F\b0 . Est-ce qu\rquote un membre de m\'e9nage poss\'e8de \b Un bateau \'e0 moteur?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\b0\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC10G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC10G\b0 . Est-ce que votre m\'e9nage poss\'e8de votre ce qu\rquote un membre de \b Une pirogue ou une baleini\'e8re \'e0 moteur?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\b0\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC10H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC10H\b0 . Est-ce qu\rquote un membre de m\'e9nage poss\'e8de \b Une pirogue \'e0 pagaie\b0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC11\b0 . Est-ce qu\rquote un membre de ce m\'e9nage a \b un ordinateur \b0 ?\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC12\b0 . Est-ce qu\rquote un membre de ce m\'e9nage a \b un t\'e9l\'e9phone mobile\b0  \f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC13
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\b\scaps\f0\fs36 HC13\b0 . \b Avez-vous acc\'e8s \'e0 Internet \'e0 la maison\b0  ?\cf1\scaps0\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\f0\fs28 HC14\b0 . Est-ce que vous ou quelqu\rquote un d\rquote autre vivant dans ce m\'e9nage est \b propri\'e9taire \b0 de ce logement\~?\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC15\b0 . Est-ce qu\rquote un membre de ce m\'e9nage poss\'e8de de la terre qui peut \'eatre utilis\'e9e pour l\rquote agriculture?\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\f0\fs28 HC16\b0 . Combien d\rquote hectares de terres agricoles les membres de votre m\'e9nage poss\'e8dent-ils ? \par
+FRA=
+FRA=\pard Si moins d\rquote un hectare, enregistrer \lquote 00\rquote .\par
+FRA=\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC17\b0 . Est-ce que ce m\'e9nage poss\'e8de du b\'e9tail, des troupeaux, d\rquote autres animaux de ferme ou de la volaille\~? \f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC18A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC18A\b0 . Combien de \b Vaches laiti\'e8res ou taureaux\b0  votre m\'e9nage poss\'e8de-t-il ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f2\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC18B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC18B\b0 . Combien d\rquote Autre gros b\'e9tail votre m\'e9nage poss\'e8de-t-il\~?\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC18C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC18C\b0 . Combien de\b  Chevaux, \'e2nes ou mules\b0  votre m\'e9nage poss\'e8de-t-il ? \par
+FRA=\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC18D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC18D\b0 . Combien de Ch\'e8vres  votre m\'e9nage poss\'e8de-t-il ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC18E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC18E\b0 . Combien de \b Moutons  \b0 votre m\'e9nage poss\'e8de-t-il ?\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC18F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC18F\b0 . Combien de \b Volaille  \b0 votre m\'e9nage poss\'e8de-t-il ?\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC18G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC18G\b0 . Combien de \b\lang1033 Cochons\~\lang1036  \b0 votre m\'e9nage poss\'e8de-t-il ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC18H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC18H\b0 . Combien de \b\lang1033 Lapins\~\lang1036  \b0 votre m\'e9nage poss\'e8de-t-il ?\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC18I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC18I\b0 . Combien de \b\lang1033 Cobayes (cochons d\rquote Inde)\b0\lang1036  votre m\'e9nage poss\'e8de-t-il \lang1033\~?\lang1036\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC19
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC19\b0 . Est-ce qu\rquote un membre de ce m\'e9nage a un compte\~en banque ?\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC3\b0 . Combien de pi\'e8ces les membres de ce m\'e9nage utilisent-ils habituellement pour dormir ? \f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\scaps\f0\fs40 HC4\b0\fs28 . \fs32 RENSEIGNE LE\fs28  \scaps0 Mat\'e9riau principal du sol du logement.\scaps\par
+FRA=\scaps0\tab Enregistrer l\rquote observation.\par
+FRA=\tab Si l\rquote observation n\rquote est pas possible, demander au r\'e9pondant de vous dire quel est le mat\'e9riau principal du sol du logement \par
+FRA=
+FRA=\pard\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\scaps\f0\fs40 HC5\b0\fs28 . \scaps0 Mat\'e9riau principal du toit.Enregistrer l\rquote observation.\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\scaps\f0\fs40 HC6\b0\fs28 . \scaps0 Mat\'e9riau principal des murs ext\'e9rieurs.\scaps\par
+FRA=
+FRA=\pard\scaps0\tab\cf2\lang2057 Enregistrer l\rquote observation.\cf1\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC7A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC7A\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage\~: \b Une ligne de t\'e9l\'e9phone fixe ?\b0\f1\fs65\lang2060\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC7B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC7B\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage\~: \b Une radio \b0 ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC7C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC7C\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage\~: \b Une lampe \'e0 p\'e9trole\b0\~?\cf0\f1\fs20\par
+FRA=\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC7D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC7D\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage\~: \b Une horloge\b0\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC7E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC7E\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage\~: \b Un lit\b0\~?\cf0\f1\fs20\par
+FRA=\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC7F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC7F\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage\~: \b Une table\b0  ?\cf0\f1\fs20\par
+FRA=\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC7G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC7G\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage\~: \b Une chaise\b0\~?\cf0\f1\fs20\par
+FRA=\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC7H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC7H\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage\~: \b Un canap\'e9\b0\~?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC7I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC7I\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage\~: \b Une armoire\b0\~?\cf0\f1\fs20\par
+FRA=\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC8
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC8\b0 . Avez-vous \b l\rquote\'e9lectricit\'e9 \b0 dans votre m\'e9nage ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC9A\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage : \b Une t\'e9l\'e9vision\b0 ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9B
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC9B\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage : \b Un r\'e9frig\'e9rateur\b0 ?\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9C
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC9C\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage : \b Une cuisini\'e8re/un r\'e9chaud\cf0\b0\f1\fs20\par
+FRA=\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9D
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC9D\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage : \b Une machine \'e0 laver\cf0\f1\fs20\par
+FRA=\b0\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9E
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC9E\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage :\b  Un fer \'e0 repasser\cf0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\b0\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9F
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs28 HC9F\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage : Un \b ventilateur\b0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9G
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC9G\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage : \b Un chauffe-eau\b0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9H
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC9H\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage : \b Four micro-ondes\cf0\b0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9I
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC9I\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage : Un \b Lecteur DVD\cf0\b0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HC9J
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tx502\cf1\b\f0\fs28 HC9J\b0 . Est-ce qu\rquote il y a dans ce m\'e9nage :  \b Un Climatiseur ?\cf0\b0\f1\fs20\par
+FRA=
+FRA=\pard\cf1\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang2057 HH1. Num\'e9ro de grappe :\f1\fs15\lang1036\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\f0\fs24\par
+FRA=  \cf1\f1\fs52 HH11. Heure de d\'e9but devl'interview : \par
+FRA=                                                     Heure :   Minutes:  \par
+FRA=\par
+FRA=                                                                                             \par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red255\green0\blue0;\red0\green255\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24 HH12\b0 . Bonjour, je m\rquote appelle (\b\i votre nom\b0\i0 ). Nous travaillons pour le Minist\'e8re de la Sant\'e9. Nous menons une \'e9tude sur la situation des m\'e9nages, des femmes et des enfants. Je voudrais discuter avec vous de ces sujets. L\rquote entretien prend environ \cf1\highlight2 20\cf0\highlight0  minutes. A la suite de cela, je pourrais avoir besoin de mener d\rquote autres entretiens avec vous ou avec d\rquote autres membres de votre m\'e9nage. Toutes les informations que nous obtiendrons resteront strictement confidentielles et anonymes. Si vous ne voulez pas r\'e9pondre \'e0 une question ou voulez stopper l\rquote entretien, merci de me le faire savoir. Puis-je commencer maintenant\~? \b\scaps\f1\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH13
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\par
+FRA=\f1\fs40 HH13. \scaps Enregistrer l\rquote heure de la fin de l\rquote entretien. \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 HH14.\scaps0  Langue du questionnaire.\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 HH15.\scaps0  Langue de l\rquote enqu\'eate\lang2057 .\f1\fs28\lang1036\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 HH16. \scaps0 Langue maternelle du/de le/la r\'e9pondant(e).\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 HH17\scaps . Avez-vous eu besoin d\rquote un traducteur pour n\rquote importe \par
+FRA=                 quelle partie de ce questionnaire ?\scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\lang2057 HH2. Num\'e9ro du m\'e9nage :\cf0\b\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\tqr\tldot\tx3942\tqr\tx5181\cf1\f0\fs28 HH3. Code de l\rquote enqu\'eateur:\cf0\f1\fs20\par
+FRA=
+FRA=\pard\b\fs24\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH33
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Cambria;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fnil\fprq2\fcharset2 Wingdings;}{\f4\fnil\fcharset2 Symbol;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\b\f0\fs32 HH33\b0 . Dans le cadre de l\rquote enqu\'eate, nous interrogeons \'e9galement des femmes de 15-49 ans. On demande \'e0 chaque personne la permission de l\rquote enqu\'eater. Un de nos enqu\'eateurs conduira ces entretiens.  \par
+FRA=\b\par
+FRA=\b0 Pour les filles de 15-17 ans, nous devons aussi obtenir la permission d\rquote un adulte pour les enqu\'eater. Ainsi que mentionn\'e9 auparavant, toutes les informations que nous obtiendrons resteront strictement confidentielles et anonymes. \par
+FRA=\fs20\par
+FRA=\cf1\f1\fs40 Est-ce que nous pouvons enqu\'eater (Nom(s) de la/des fille(s) de 15-17 ans) plus tard ?\par
+FRA=\cf0\f0\fs20\par
+FRA=
+FRA=\pard{\pntext\f4\'B7\tab}{\*\pn\pnlvlblt\pnf4\pnindent0{\pntxtb\'B7}}\nowidctlpar\fi-360\li504\sl276\slmult1\i\f2\lquote OUI\rquote  pour toutes les filles de 15-17 ans \f3\lang2057\'f0\f2\lang1036  Continuer avec HH40.\par
+FRA=
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\par
+FRA=
+FRA=\pard{\pntext\f4\'B7\tab}{\*\pn\pnlvlblt\pnf4\pnindent0{\pntxtb\'B7}}\nowidctlpar\fi-360\li504\sl276\slmult1\lquote NON\rquote  pour au moins une fille de 15-17 ans et \lquote OUI\rquote  pour au moins une fille de 15-17 ans \f3\lang2057\'f0\f2\lang1036  Entourer \lquote 06\rquote  dans WM17 \cf1 (\cf0 et aussi \'e0 UF17\cf1 ) \cf0 pour les questionnaires individuels pour lesquels le consentement d\rquote un adulte n\rquote a pas \'e9t\'e9 donn\'e9. Puis continuer avec  HH40.\par
+FRA=
+FRA=\pard\nowidctlpar\sl276\slmult1\par
+FRA=
+FRA=\pard{\pntext\f4\'B7\tab}{\*\pn\pnlvlblt\pnf4\pnindent0{\pntxtb\'B7}}\nowidctlpar\fi-360\li504\sl276\slmult1\cf1\i0\scaps\f1\fs28\lquote NON\rquote\fs20  \scaps0 pour toutes les filles de 15-17ans\scaps\f3\lang2057\'f0\f1\lang1036  \scaps0 Entourer \lquote 06\rquote  dans WM17 (et aussi \'e0 UF17) pour les questionnaires \par
+FRA=
+FRA=\pard             individuels pour lesquels le consentement d\rquote un adulte n\rquote a pas \'e9t\'e9 donn\'e9. Puis continuer avec HH40\cf0\f2\fs24 .\par
+FRA=\par
+FRA=\scaps\f0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 HH4. Code du chef d\rquote\'e9quipe :\cf0\b\f1\fs20\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH46
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\tqr\tldot\tx9965\cf1\f0\fs52 HH46. R\'e9sultat de l\rquote enqu\'eate du Questionnaire M\'e9nage:\cf0\i\f1\fs20\par
+FRA=
+FRA=\pard\cf1\i0\f2\fs28     \par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH47
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40 HH47: Num\'e9ro de la ligne du r\'e9pondant au Questionnaire M\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH48
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\lang2057 HH48. \b0\caps membres du menage : Nombre Total \b\scaps\caps0\f1\lang1036\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH49
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40\lang2057 HH49. \caps femmes de 15-49 ans: Nombre Total \caps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 HH5. Jour / Mois / Ann\'e9e de l\rquote entretien\cf0\b\f1\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH51
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40\lang2057 HH51. \caps\lang1036 enfants de moins de 5 ans : \lang2057 Nombre Total \caps0\lang1036\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH53
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40\lang2057 HH53. \caps femmes de 15-49 ans: Nombre complete \caps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH55
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs40\lang2057 HH55. \caps\lang1036 enfants de moins de 5 ans: \lang2057 Nombre complete \caps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH66
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang2060{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs65 HH66.\fs48  Chosissez la ville dans laquelle vous travaillez.\fs65\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH67
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang2060{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs65 HH67.\fs48  Chosissez la Zone de sant\'e9 dans laquelle vous travaillez.\fs65\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH68
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang2060{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs65 HH68.\fs48  Chosissez l'Aire de sant\'e9 dans laquelle vous travaillez.\fs65\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH69
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang2060{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs65 HH69.\fs48  Chosissez le village dans lequel vous travaillez.\fs65\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH6A
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\scaps\f0\fs24 HH6A\b0 . \i Type de groupe :\b\i0\scaps0\f1\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HH7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\scaps\f0\fs24 HH7\b0 . Zone de sant\'e9 (Province) :\cf1\scaps0\f1\fs15\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HHNAME
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24 HHNAME. Nom du chef de m\'e9nage\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL1
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fnil\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs52 HL1. Num\'e9ro de la ligne\f1\fs15\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL10
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL10: Encercler le num\'e9ro de ligne si ag\'e9 de 0 - 4 ans\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL11
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\scaps\caps\f0\fs40 HL11\b0 . \scaps0\caps0 Ag\'e9 de  0-17 ans\~?\par
+FRA=
+FRA=\pard\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL12
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL12. Est-ce que la m\'e8re biologique de \cf2\fs32 %HL2%\cf1\fs28  est vivante ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL13
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL13. Est-ce que la m\'e8re biologique de \cf2\fs32 %HL2%\cf1\fs28  vit dans ce m\'e9nage\~? \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL14
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL14. Enregistrer le num\'e9ro de ligne de la m\'e8re.\cf0\b\caps\f1\fs16\par
+FRA=
+FRA=\pard\cf1\b0\caps0\f0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL16
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL16. Est-ce que le p\'e8re biologique de \cf2\fs32 %HL2%\cf1\fs28  est vivant ?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL17
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\scaps\f0\fs40 HL17\b0\fs28 . \scaps0 Est-ce que le p\'e8re biologi-que de \cf2\fs32 %HL2%\cf1\fs28  vit dans ce m\'e9nage\scaps\~\scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL18
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL18. Enregistrer le num\'e9ro de ligne du p\'e8re.\caps\par
+FRA=
+FRA=\pard\caps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL2
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL2. Tout d'abord, dites-moi s'il vous pla\'eet le nom de chaque personne qui vit habituellement ici, en commen\'e7ant par le chef de m\'e9nage.\par
+FRA=
+FRA=\pard\scaps Insister pour les membres du m\'e9nage suppl\'e9men-taires.\scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL20
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\b\f0\fs28 HL20\b0 . Copier le num\'e9ro de ligne de la m\'e8re de HL14. Si blanc, demander\par
+FRA=Qui est le/la gardien/ne principal/e de \cf2\fs32 %HL2%\cf1\fs28 ?\par
+FRA=
+FRA=\pard Si personne pour un enfant de 15-17 ans, enregistrer \lquote 90\rquote .\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL3
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL3. Quel est le lien de parent\'e9 de \cf2\fs32 %HL2%\cf1\fs28  avec le chef de m\'e9nage\~ \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL4
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL4. Est-ce que \cf2\fs32 %HL2%\cf1\fs28  de sexe masculin ou f\'e9minin\~?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL5
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\par
+FRA=
+FRA=\pard\widctlpar HL5. Quelle est la date de naissance de \cf2\fs32 %HL2%\cf1\fs28  ?\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL5M
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL5M. Donnez le mois de naissance de \cf2\fs32 %HL2%\cf1\fs28 .\par
+FRA=
+FRA=\pard\cf0\b\f1\fs16\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL5Y
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL5Y. Donnez l'Ann\'e9e de naissance de \cf2\fs32 %HL2%\cf1\fs28 .\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL6
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL6. Quel \'e2ge a \cf2\fs32 %HL2%\cf1\fs28  ?Enregistrer en ann\'e9es r\'e9voluesSi 95 ans ou plus,  enregistrer \lquote 95\rquote .\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL7
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\cf1\f0\fs28 HL7. Est-ce que \cf2\fs32 %HL2%\cf1\fs28  a dormi ici la nuit derni\'e8re?\par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL8
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28 HL8. Encercler le num\'e9ro de ligne si c\rquote est une femme de 15-49 ans\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HL9
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\par
+FRA=
+FRA=\pard\widctlpar\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HLN
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\lang2057\par
+FRA= \cf1\b0\f1\fs52 HLN: Num\'e9ro de la ligne\cf0\b\f0\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HW1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 HW1. Nous aimerions savoir o\'f9 les membres de ce m\'e9nage se lavent \par
+FRA=            les mains. Pouvez-vous SVP, me montrer o\'f9 les membres de votre \par
+FRA=            m\'e9nage se lavent le plus souvent les mains ?  \par
+FRA=\cf0\f1\fs20\par
+FRA=
+FRA=\pard\keep\keepn\widctlpar\fi-144\li144\sl276\slmult1\i\scaps\f2\fs24 Enregistrer le r\'e9sultat et l\rquote observation.\cf1\i0\scaps0\fs28  \par
+FRA=
+FRA=\pard\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HW2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\froman\fprq2\fcharset0 Cambria;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\cf1\f0\fs28\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\f1\fs40 HW2. Observer la pr\'e9sence d\rquote eau au lieu de lavage des mains.\par
+FRA=\cf0\f2\fs20\par
+FRA=
+FRA=\pard\i\scaps\f0\fs24 V\'e9rifier que le robinet/la pompe, la bassine/le seau, le r\'e9servoir d\rquote eau ou autres objets \par
+FRA=similaires ont/ contiennent de l\rquote eau.\cf1\i0\scaps0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HW3
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 HW3. Y a-t-il du savon, de la lessive ou de la  cendre/boue/sable sur le lieu de lavage des mains ?\scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HW4
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\b\scaps\f0\fs36 HW4. \b0 O\'f9 est-ce que vous ou les autres membres de votre m\'e9nage\b  \b0 vous lavez-vous le plus souvent les mains\~? \cf1\scaps0\f1\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HW5
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 HW5. Avez-vous du savon, de la lessive ou de la  cendre/boue/sable dans votre maison pour vous laver les mains ?\scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HW6
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 HW6. Pouvez-vous me le montrer SVP? \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HW7
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 HW7. Enregistrer votre observation.\par
+FRA=\cf0\i\f1\fs20              \par
+FRA=                   Entourer tout ce qui s'applique\par
+FRA=\par
+FRA=\par
+FRA=
+FRA=\pard\b\i0\caps                    \cf1\b0\caps0\f2\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HX0
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\lang2057\par
+FRA= \fs48 HX0\fs24 . \cf1\b0\scaps\fs40\lang1033 Y at-il un autre membre du m\'e9nage?\cf2\i\scaps0\lang1036\par
+FRA=Insister pour les membres du m\'e9nage suppl\'e9mentaires\cf1\i0\lang1033\par
+FRA=\cf0\b\fs24\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HX1
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue255;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\lang2057\par
+FRA= \cf1\b0\i\fs40 HX1.  Num\'e9ro de ligne\cf0\b\i0\fs24\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HX2
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\lang2057\par
+FRA= \fs48 HX2\fs24 . \cf1\b0\fs40\lang1036 Nom du membre du m\'e9nage:\cf0\b\fs24\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HX3
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red0\green64\blue128;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\lang2057\par
+FRA= \cf1\fs40\lang1036 HX3.\b0  Veuillez renseigner le lien de parent\'e9 de \cf2 % HX2%\cf1  avec le chef de ce m\'e9nage ?\cf0\b\fs24\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.HX4
+Occurrences=1:50
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+FRA=\pard\b\f0\fs24\lang2057\par
+FRA= \cf1\fs40\lang1036 HX4\b0 . Est-ce que \lang2057 %HX2%\lang1036  de sexe masculin ou f\'e9minin\~?\cf0\b\fs24\lang2057\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\scaps\f0\fs40 TN1\b0 . Est-ce qu\rquote il y a des moustiquaires pour dormir dans votre m\'e9nage\~? \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN10
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\caps\f0\fs40 TN\scaps\caps0 10\b0 . Avez-vous obtenu LA moustiquaire \scaps0 N\'b0 \cf2 %TNLN%\cf1  \scaps  au cours d\rquote une des campagnes de distribution locale de masse de (2016, 2017 ou 2018)\~; durant une consultation pr\'e9natale ou durant une visite de vaccination\~?\scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN12
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\scaps\f0\fs40 TN12\b0 . O\'f9 avez-vous eu cette moustiquaire \scaps0 N\'b0 \cf2 %TNLN%\cf1  \scaps  ? \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN13
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\scaps\f0\fs40 TN13\b0 . Est-ce que quelqu\rquote un a dormi sous LA moustiquaire \scaps0 N\'b0 \cf2 %TNLN%\cf1  \scaps  la nuit derni\'e8re ? \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN15_1
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\f0\fs40 TN15\b0 . Qui a dormi sous la moustiquaire N\'b0 \cf2 %TNLN%\cf1   la nuit derni\'e8re\~?\par
+FRA=\f1\fs28\par
+FRA=\tab Enregistrer les num\'e9ros de ligne des personnes sur la LISTE DES MEMBRES DU MENAGE\par
+FRA=\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li288\sl276\slmult1 Si la personne qui a dormi sous la moustiquaire n\rquote est pas dans la LISTE DES MEMBRES DU MENAGE, \scaps enregistrer \lquote 00\rquote .\scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN15_2
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\f0\fs40 TN15\b0 . Qui a dormi sous la moustiquaire N\'b0 \cf2 %TNLN%\cf1   la nuit derni\'e8re\~?\par
+FRA=\par
+FRA=\f1\fs28\tab Enregistrer les num\'e9ros de ligne des personnes sur la LISTE DES MEMBRES DU MENAGE\par
+FRA=\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li288\sl276\slmult1 Si la personne qui a dormi sous la moustiquaire n\rquote est pas dans la LISTE DES MEMBRES DU MENAGE, \scaps enregistrer \lquote 00\rquote .\scaps0\par
+FRA=
+FRA=\pard\cf0\b\f2\fs20\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN15_3
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\f0\fs40 TN15\b0 . Qui a dormi sous la moustiquaire N\'b0 \cf2 %TNLN%\cf1   la nuit derni\'e8re\~?\par
+FRA=\f1\fs28\par
+FRA=\tab Enregistrer les num\'e9ros de ligne des personnes sur la LISTE DES MEMBRES DU MENAGE\par
+FRA=\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li288\sl276\slmult1 Si la personne qui a dormi sous la moustiquaire n\rquote est pas dans la LISTE DES MEMBRES DU MENAGE, \scaps enregistrer \lquote 00\rquote .\scaps0\par
+FRA=
+FRA=\pard\cf0\b\f2\fs20\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN15_4
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\froman\fprq2\fcharset0 Times New Roman;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\f0\fs40 TN15\b0 . Qui a dormi sous la moustiquaire N\'b0 \cf2 %TNLN%\cf1  la nuit derni\'e8re\~?\par
+FRA=\f1\fs28\par
+FRA=\tab Enregistrer les num\'e9ros de ligne des personnes sur la LISTE DES MEMBRES DU MENAGE\par
+FRA=\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li288\sl276\slmult1 Si la personne qui a dormi sous la moustiquaire n\rquote est pas dans la LISTE DES MEMBRES DU MENAGE, \scaps enregistrer \lquote 00\rquote .\scaps0\par
+FRA=
+FRA=\pard\cf0\b\f2\fs20\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\scaps\f0\fs40 TN2\b0 . Combien de moustiquaires avez-vous dans votre m\'e9nage\~? \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN3
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\b\f0\fs40 TN3\b0 . \scaps Demander au r\'e9pondant de vous montrer les moustiquaires du m\'e9nage \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN4
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\f0\fs40 TN4\b0 . Depuis combien de mois votre m\'e9nage a cette moustiquaire N\'b0 \cf2 %TNLN%\cf1  ?\par
+FRA=
+FRA=\pard\scaps\tab Si moins d\rquote un mois, enregistrer \lquote 00\rquote .\scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.TN5
+Occurrences=1:10
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\b\scaps\f0\fs40 TN5\b0 . \scaps0 Observer ou demander la marque de la moustiquaire N\'b0 \cf2 %TNLN%\cf1  ?\par
+FRA=\cf0\scaps\f1\fs20\par
+FRA=
+FRA=\pard\scaps0\f2\fs24\tab\i\scaps Si la marque est inconnue et si observation de la moustiquaire n\rquote est pas  possible, montrer des photos des diff\'e9rents types et marques de moustiquaires au r\'e9pondant\cf1\i0\scaps0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.WS1
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 WS1. Quelle est la source principale d\rquote eau de boisson utilis\'e9e par \par
+FRA=             les membres de votre m\'e9nage ?\par
+FRA=\cf0\f1\fs20\par
+FRA=
+FRA=\pard\keep\keepn\widctlpar\fi-144\li144\sl276\slmult1\i\f2\tab S\cf1\i0\fs28 i pas clair, insister pour identifier le lieu d\rquote o\'f9 les membres de ce m\'e9nage collectent le plus souvent leur eau de boisson (point de collecte). \cf0\i\fs20\par
+FRA=
+FRA=\pard\cf1\i0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.WS11
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 WS11. Quel type de toilettes les membres de ce m\'e9nage \par
+FRA=              utilisent-ils\~habituellement ? \par
+FRA=\par
+FRA=
+FRA=\pard\widctlpar\fi-216\li360\f1\fs28\tab Si \ldblquote chasse d\rquote eau\rdblquote  ou \ldblquote chasse d\rquote eau manuelle\rdblquote , demander :\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\tab O\'f9 vont les eaux us\'e9es ?\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li288\sl276\slmult1 Si pas possible de d\'e9terminer, demander la\par
+FRA=
+FRA=\pard\cf0\b\caps\fs20 permission d\rquote observer les locaux. \cf1\b0\caps0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.WS12
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 WS12. Est-ce vos \cf2 %xWS11%\cf1  ont d\'e9j\'e0 \'e9t\'e9 vid\'e9es\~? \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.WS13
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\widctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 WS13. La derni\'e8re fois que les toilettes ont \'e9t\'e9 vid\'e9es o\'f9 le contenu a-t-il \'e9t\'e9 mis ? \par
+FRA=\f1\fs28\par
+FRA=
+FRA=\pard\widctlpar\fi-144\li288\sl276\slmult1 Insister :\par
+FRA=
+FRA=\pard\cf0\scaps\fs24 Est-ce que cela a \'e9t\'e9 enlev\'e9 par un prestataire de service ?  \cf1\scaps0\fs28\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.WS14
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 WS14. O\'f9 est-ce que vos toilettes sont situ\'e9es\~? \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.WS15
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 WS15. Partagez-vous ces toilettes avec des personnes qui ne sont pas membres de votre m\'e9nage\~? \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.WS16
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 WS16. Partagez-vous ces toilettes avec des personnes qui sont membres d\rquote autres m\'e9nages que vous connaissez ou s\rquote agit-il de toilettes publiques ouvertes \'e0 tous ?\scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.WS17
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\cf1\scaps\f0\fs40 WS17. Combien de m\'e9nages au total, y compris le v\'f4tre, se partagent ces toilettes ?        \scaps0\par
+FRA=}
+
+[QUESTION]
+Field=MICS6HH.WS2
+FRA={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Arial;}}
+FRA={\colortbl ;\red0\green0\blue0;}
+FRA={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+FRA=\pard\nowidctlpar\fi-144\li144\sl276\slmult1\cf1\f0\fs40 WS2. Quelle est la source principale d\rquote eau utilis\'e9e par les membres de ce  \par
+FRA=            m\'e9nage pour d\rquote autres besoins comme cuisiner ou se laver les mains ? \cf0\f1\fs20\tab\par
+FRA=
+FRA=\pard\i\scaps\f2\fs24 Si pas clair, insister pour identifier le lieu o\'f9 les membres du m\'e9nage collectent le plus souvent l\rquote eau pour leurs autres besoins. \cf1\i0\scaps0\fs28\par
+FRA=}
+

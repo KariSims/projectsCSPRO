@@ -1,0 +1,13 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMWM.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\WMENQ11.csdb
+External        MICS6HH=<<CSPro DB>> C:\ENQBASE\SuiviCFCRTM\Alldata\HHENQ11.csdb
+
+Date            May 11, 2019
+Start Time      02:06:38
+End Time        02:06:59
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

@@ -1,0 +1,3994 @@
+﻿[Dictionary]
+Version=CSPro 6.2
+Label=masque_sca
+Name=MASQUE_SCA_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=masque_sca questionnaire
+Name=MASQUE_SCA_QUEST
+
+[IdItems]
+
+[Item]
+Label=01 Localite
+Name=LOC
+Start=2
+Len=1
+
+[ValueSet]
+Label=01 Localite
+Name=LOC_VS1
+Value=1;ABOBO
+Value=2;YOPOUGON
+Value=3;COCODY
+Value=4;BASSAM
+Value=5;ABENGOUROU
+Value=6;ABOISSO
+Value=7;BOUAKE
+Value=8;DIVO
+Value=9;KOROGHO
+
+[Item]
+Label=02 Numero du questionnaire
+Name=NUM_QUEST
+Start=3
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=Superviseur_Enqueteur
+Name=SUP_ENQ
+RecordTypeValue='1'
+RecordLen=80
+
+[Item]
+Label=Code Agent de saisie
+Name=AS
+Start=6
+Len=2
+
+[ValueSet]
+Label=Code Agent de saisie
+Name=AS_VS1
+Value=1;Akia Sosthene
+Value=2;Ouedraogo Alizeta
+Value=3;Koffi Marie Chantal
+Value=4;Amian Ornella
+Value=5;Ano Christelle
+Value=6;Kimou
+Value=7;Ako Marie-David
+Value=8;Bahan Luxia
+Value=9;Ly Alpha
+Value=10;Appienou Christ
+Value=11;Niango
+
+[Item]
+Label=Nom du superviseur
+Name=NOM_SUP
+Start=8
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Code du superviseur
+Name=CODE_SUP
+Start=38
+Len=1
+
+[ValueSet]
+Label=Code du superviseur
+Name=CODE_SUP_VS1
+Value=1;KOUASSI JEROME
+Value=2;YEBOUA DESIRE
+Value=3;KONE MADELEINE
+
+[Item]
+Label=Nom de l'agent enqueteur
+Name=NOM_ENQ
+Start=39
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Code de l'agent enqueteur
+Name=CODE_ENQ
+Start=69
+Len=2
+
+[ValueSet]
+Label=Code de l'agent enqueteur
+Name=CODE_ENQ_VS1
+Value=1;KOUASSI JEROME
+Value=2;YEBOUA DESIRE
+Value=3;KONE MADELEINE
+Value=4;APPOUTIN YVON
+Value=5;KOFFI YEMINA
+Value=6;KOUAME REGINA
+Value=7;BASSA JOHANNE
+Value=8;KOUASSI LOUIS
+Value=9;ACHO  LAUREN
+Value=10;Mme COULIBALY NAMARO
+
+[Item]
+Label=Jour de passage
+Name=JOUR_PASS
+Start=71
+Len=2
+
+[Item]
+Label=Heure de debut
+Name=HEURE_DEB
+Start=73
+Len=2
+
+[Item]
+Label=Minute de debut
+Name=MIN_DEB
+Start=75
+Len=2
+
+[Item]
+Label=Heure de fin
+Name=HEURE_FIN
+Start=77
+Len=2
+
+[Item]
+Label=Minute de fin
+Name=MIN_FIN
+Start=79
+Len=2
+
+[Record]
+Label=Repondant
+Name=REPONDANT
+RecordTypeValue='2'
+RecordLen=44
+
+[Item]
+Label=Nom du repondant
+Name=NOM_REP
+Start=6
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Numero de telephone
+Name=NUM_TEL
+Start=36
+Len=8
+
+[Item]
+Label=Sexe du repondant
+Name=SEXE_REP
+Start=44
+Len=1
+
+[ValueSet]
+Label=Sexe du repondant
+Name=SEXE_REP_VS1
+Value=1;Masculin
+Value=2;Feminin
+
+[Record]
+Label=Section A
+Name=SECTION_A
+RecordTypeValue='3'
+RecordLen=104
+
+[Item]
+Label=QA1 Quel est le type de votre activité ?
+Name=QA1
+Start=6
+Len=1
+
+[ValueSet]
+Label=QA1 Quel est le type de votre activité ?
+Name=QA1_VS1
+Value=1;Distributeur
+Value=2;Revendeur
+Value=3;Détaillant
+Value=4;Entreprise BTP
+Value=5;Briquetier
+Value=6;Transporteur
+Value=7;Particulier
+
+[Item]
+Label=QA2 Quel est le nom de votre entreprise ?
+Name=QA2
+Start=7
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QA3 Quelle est l’activité principale de votre entreprise ?
+Name=QA3
+Start=37
+Len=1
+
+[ValueSet]
+Label=QA3 Quelle est l’activité principale de votre entreprise ?
+Name=QA3_VS1
+Value=1;Vente de matériaux de construction
+Value=2;Fabrication et vente
+Value=3;Transport
+Value=4;Construction
+Value=5;Autres
+
+[Item]
+Label=QA3_X Autre à  précisser
+Name=QA3_X
+Start=38
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QA4 Depuis combien de temps commercialisez-vous ou utilisez-vous le ciment cuirasse ?
+Name=QA4
+Start=68
+Len=2
+
+[Item]
+Label=QA5 Continuez-vous à traiter avec la SCA (ciment cuirasse) ?
+Name=QA5
+Start=70
+Len=1
+
+[ValueSet]
+Label=QA5 Continuez-vous à traiter avec la SCA (ciment cuirasse) ?
+Name=QA5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QA6 Si non, pourquoi ?
+Name=QA6
+Start=71
+Len=1
+
+[ValueSet]
+Label=QA6 Si non, pourquoi ?
+Name=QA6_VS1
+Value=1;A cause du prix
+Value=2;Plus d'avantage chez les concurrents
+Value=3;A cause de la qualite
+Value=4;Les camionneurs/dépôts revendent plus cher
+Value=5;Autres
+
+[Item]
+Label=QA6_X Autre à  precisser
+Name=QA6_X
+Start=72
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QA7 Quelle est la taille de votre activité en termes de chiffre d’affaires ?
+Name=QA7
+Start=102
+Len=1
+
+[ValueSet]
+Label=QA7 Quelle est la taille de votre activité en termes de chiffre d’affaires ?
+Name=QA7_VS1
+Value=1;Moins de 500.000 frs
+Value=2;500.000 frs a 1.000.000 frs
+Value=3;1.000.000 frs a 5.000.000 frs
+Value=4;5.000.000 frs a 25.000.000 frs
+Value=5;25.000.000 frs a 100.000.000 frs
+Value=6;100.000.000 frs et plus
+
+[Item]
+Label=QA7_A Periode chiffre d'affaire
+Name=QA7_A
+Start=103
+Len=1
+
+[ValueSet]
+Label=QA7_A Periode chiffre d'affaire
+Name=QA7_A_VS1
+Value=1;Mois
+Value=2;Année
+
+[Item]
+Label=QA8 Quelle est la période de grandes activités ?
+Name=QA8
+Start=104
+Len=1
+
+[ValueSet]
+Label=QA8 Quelle est la période de grandes activités ?
+Name=QA8_VS1
+Value=1;Toute l'année
+Value=2;Saison sèche
+Value=3;Saison des pluies
+Value=4;Lorsqu'il y a des opportunites
+
+[Record]
+Label=Section B
+Name=SECTION_B
+RecordTypeValue='4'
+RecordLen=531
+
+[Item]
+Label=QB1 Quelles sociétés de fabrication de ciment connaissez- vous ?
+Name=QB1
+Start=6
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=QB1 Quelles sociétés de fabrication de ciment connaissez- vous ?
+Name=QB1_VS1
+Value='A      ';SOCIMAT (ciment bélier)
+Value='B      ';CIMAF
+Value='C      ';CIM IVOIRE (ciment lion)
+Value='D      ';CIMENT TURC
+Value='E      ';SOCIM
+Value='F      ';CIMENT CUIRASSE (SCA)
+Value='X      ';Autre à préciser
+
+[Item]
+Label=QB1_A SOCIMAT (ciment bélier)
+Name=QB1_A
+Start=13
+Len=1
+
+[ValueSet]
+Label=QB1_A SOCIMAT (ciment bélier)
+Name=QB1_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB1_B CIMAF
+Name=QB1_B
+Start=14
+Len=1
+
+[ValueSet]
+Label=QB1_B CIMAF
+Name=QB1_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB1_C CIM IVOIRE (ciment lion)
+Name=QB1_C
+Start=15
+Len=1
+
+[ValueSet]
+Label=QB1_C CIM IVOIRE (ciment lion)
+Name=QB1_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB1_D CIMENT TURC
+Name=QB1_D
+Start=16
+Len=1
+
+[ValueSet]
+Label=QB1_D CIMENT TURC
+Name=QB1_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB1_E SOCIM
+Name=QB1_E
+Start=17
+Len=1
+
+[ValueSet]
+Label=QB1_E SOCIM
+Name=QB1_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB1_F CIMENT CUIRASSE (SCA)
+Name=QB1_F
+Start=18
+Len=1
+
+[ValueSet]
+Label=QB1_F CIMENT CUIRASSE (SCA)
+Name=QB1_F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB1_X Autre à préciser
+Name=QB1_X
+Start=19
+Len=1
+
+[ValueSet]
+Label=QB1_X Autre à préciser
+Name=QB1_X_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB1_XX Precision
+Name=QB1_XX
+Start=20
+Len=20
+DataType=Alpha
+
+[Item]
+Label=QB2 Quelles sont celles chez qui vous vous approvisionnez ?
+Name=QB2
+Start=40
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=QB2 Quelles sont celles chez qui vous vous approvisionnez ?
+Name=QB2_VS1
+Value='A      ';SOCIMAT (ciment bélier)
+Value='B      ';CIMAF
+Value='C      ';CIM IVOIRE (ciment lion)
+Value='D      ';CIMENT TURC
+Value='E      ';SOCIM
+Value='F      ';CIMENT CUIRASSE (SCA)
+Value='X      ';Autre à préciser
+
+[Item]
+Label=QB2_A SOCIMAT (ciment bélier)
+Name=QB2_A
+Start=47
+Len=1
+
+[ValueSet]
+Label=QB2_A SOCIMAT (ciment bélier)
+Name=QB2_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB2_B CIMAF
+Name=QB2_B
+Start=48
+Len=1
+
+[ValueSet]
+Label=QB2_B CIMAF
+Name=QB2_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB2_C CIM IVOIRE (ciment lion)
+Name=QB2_C
+Start=49
+Len=1
+
+[ValueSet]
+Label=QB2_C CIM IVOIRE (ciment lion)
+Name=QB2_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB2_D CIMENT TURC
+Name=QB2_D
+Start=50
+Len=1
+
+[ValueSet]
+Label=QB2_D CIMENT TURC
+Name=QB2_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB2_E SOCIM
+Name=QB2_E
+Start=51
+Len=1
+
+[ValueSet]
+Label=QB2_E SOCIM
+Name=QB2_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB2_F CIMENT CUIRASSE (SCA)
+Name=QB2_F
+Start=52
+Len=1
+
+[ValueSet]
+Label=QB2_F CIMENT CUIRASSE (SCA)
+Name=QB2_F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB2_X Autre à préciser
+Name=QB2_X
+Start=53
+Len=1
+
+[ValueSet]
+Label=QB2_X Autre à préciser
+Name=QB2_X_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB2_XX Precision
+Name=QB2_XX
+Start=54
+Len=20
+DataType=Alpha
+
+[Item]
+Label=QB3_A1 Rang SOCIMAT
+Name=QB3_A1
+Start=74
+Len=1
+
+[ValueSet]
+Label=QB3_A1 Rang SOCIMAT
+Name=QB3_A1_VS1
+Value=1;1 er
+Value=2;2 ème
+Value=3;3 ème
+Value=4;4 ème
+Value=5;5 ème
+Value=6;6 ème
+Value=7;7 ème
+
+[Item]
+Label=QB3_A2 Raisons SOCIMAT
+Name=QB3_A2
+Start=75
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=QB3_A2 Raisons SOCIMAT
+Name=QB3_A2_VS1
+Value='A          ';Meilleure qualité
+Value='B          ';Bonne qualité
+Value='C          ';Qualité moyenne
+Value='D          ';Forte demande (mieux connu)
+Value='E          ';Faible demande (moins connu)
+Value='F          ';Prix (très) élevé
+Value='G          ';Prix abordable
+Value='H          ';Lorsque le préféré manque
+Value='I          ';Disponible
+Value='J          ';Rare
+Value='K          ';RAS
+
+[Item]
+Label=QB3_A2A Meilleure qualité
+Name=QB3_A2A
+Start=86
+Len=1
+
+[ValueSet]
+Label=QB3_A2A Meilleure qualité
+Name=QB3_A2A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2B Bonne qualité
+Name=QB3_A2B
+Start=87
+Len=1
+
+[ValueSet]
+Label=QB3_A2B Bonne qualité
+Name=QB3_A2B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2C Qualité moyenne
+Name=QB3_A2C
+Start=88
+Len=1
+
+[ValueSet]
+Label=QB3_A2C Qualité moyenne
+Name=QB3_A2C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2D Forte demande (mieux connu)
+Name=QB3_A2D
+Start=89
+Len=1
+
+[ValueSet]
+Label=QB3_A2D Forte demande (mieux connu)
+Name=QB3_A2D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2E Faible demande (moins connu)
+Name=QB3_A2E
+Start=90
+Len=1
+
+[ValueSet]
+Label=QB3_A2E Faible demande (moins connu)
+Name=QB3_A2E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2F Prix (très) élevé
+Name=QB3_A2F
+Start=91
+Len=1
+
+[ValueSet]
+Label=QB3_A2F Prix (très) élevé
+Name=QB3_A2F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2G Prix abordable
+Name=QB3_A2G
+Start=92
+Len=1
+
+[ValueSet]
+Label=QB3_A2G Prix abordable
+Name=QB3_A2G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2H Lorsque le préféré manque
+Name=QB3_A2H
+Start=93
+Len=1
+
+[ValueSet]
+Label=QB3_A2H Lorsque le préféré manque
+Name=QB3_A2H_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2I Disponible
+Name=QB3_A2I
+Start=94
+Len=1
+
+[ValueSet]
+Label=QB3_A2I Disponible
+Name=QB3_A2I_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2J Rare
+Name=QB3_A2J
+Start=95
+Len=1
+
+[ValueSet]
+Label=QB3_A2J Rare
+Name=QB3_A2J_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_A2K RAS
+Name=QB3_A2K
+Start=96
+Len=1
+
+[ValueSet]
+Label=QB3_A2K RAS
+Name=QB3_A2K_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B1 Rang CIMAF
+Name=QB3_B1
+Start=97
+Len=1
+
+[ValueSet]
+Label=QB3_B1 Rang CIMAF
+Name=QB3_B1_VS1
+Value=1;1 er
+Value=2;2 ème
+Value=3;3 ème
+Value=4;4 ème
+Value=5;5 ème
+Value=6;6 ème
+Value=7;7 ème
+
+[Item]
+Label=QB3_B2 Raisons CIMAF
+Name=QB3_B2
+Start=98
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=QB3_B2 Raisons CIMAF
+Name=QB3_B2_VS1
+Value='A          ';Meilleure qualité
+Value='B          ';Bonne qualité
+Value='C          ';Qualité moyenne
+Value='D          ';Forte demande (mieux connu)
+Value='E          ';Faible demande (moins connu)
+Value='F          ';Prix (très) élevé
+Value='G          ';Prix abordable
+Value='H          ';Lorsque le préféré manque
+Value='I          ';Disponible
+Value='J          ';Rare
+Value='K          ';RAS
+
+[Item]
+Label=QB3_B2A Meilleure qualité
+Name=QB3_B2A
+Start=109
+Len=1
+
+[ValueSet]
+Label=QB3_B2A Meilleure qualité
+Name=QB3_B2A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2B Bonne qualité
+Name=QB3_B2B
+Start=110
+Len=1
+
+[ValueSet]
+Label=QB3_B2B Bonne qualité
+Name=QB3_B2B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2C Qualité moyenne
+Name=QB3_B2C
+Start=111
+Len=1
+
+[ValueSet]
+Label=QB3_B2C Qualité moyenne
+Name=QB3_B2C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2D Forte demande (mieux connu)
+Name=QB3_B2D
+Start=112
+Len=1
+
+[ValueSet]
+Label=QB3_B2D Forte demande (mieux connu)
+Name=QB3_B2D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2E Faible demande (moins connu)
+Name=QB3_B2E
+Start=113
+Len=1
+
+[ValueSet]
+Label=QB3_B2E Faible demande (moins connu)
+Name=QB3_B2E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2F Prix (très) élevé
+Name=QB3_B2F
+Start=114
+Len=1
+
+[ValueSet]
+Label=QB3_B2F Prix (très) élevé
+Name=QB3_B2F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2G Prix abordable
+Name=QB3_B2G
+Start=115
+Len=1
+
+[ValueSet]
+Label=QB3_B2G Prix abordable
+Name=QB3_B2G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2H Lorsque le préféré manque
+Name=QB3_B2H
+Start=116
+Len=1
+
+[ValueSet]
+Label=QB3_B2H Lorsque le préféré manque
+Name=QB3_B2H_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2I Disponible
+Name=QB3_B2I
+Start=117
+Len=1
+
+[ValueSet]
+Label=QB3_B2I Disponible
+Name=QB3_B2I_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2J Rare
+Name=QB3_B2J
+Start=118
+Len=1
+
+[ValueSet]
+Label=QB3_B2J Rare
+Name=QB3_B2J_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_B2K RAS
+Name=QB3_B2K
+Start=119
+Len=1
+
+[ValueSet]
+Label=QB3_B2K RAS
+Name=QB3_B2K_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C1 Rang CIM IVOIRE
+Name=QB3_C1
+Start=120
+Len=1
+
+[ValueSet]
+Label=QB3_C1 Rang CIM IVOIRE
+Name=QB3_C1_VS1
+Value=1;1 er
+Value=2;2 ème
+Value=3;3 ème
+Value=4;4 ème
+Value=5;5 ème
+Value=6;6 ème
+Value=7;7 ème
+
+[Item]
+Label=QB3_C2 Raisons CIM IVOIRE
+Name=QB3_C2
+Start=121
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=QB3_C2 Raisons CIM IVOIRE
+Name=QB3_C2_VS1
+Value='A          ';Meilleure qualité
+Value='B          ';Bonne qualité
+Value='C          ';Qualité moyenne
+Value='D          ';Forte demande (mieux connu)
+Value='E          ';Faible demande (moins connu)
+Value='F          ';Prix (très) élevé
+Value='G          ';Prix abordable
+Value='H          ';Lorsque le préféré manque
+Value='I          ';Disponible
+Value='J          ';Rare
+Value='K          ';RAS
+
+[Item]
+Label=QB3_C2A Meilleure qualité
+Name=QB3_C2A
+Start=132
+Len=1
+
+[ValueSet]
+Label=QB3_C2A Meilleure qualité
+Name=QB3_C2A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2B Bonne qualité
+Name=QB3_C2B
+Start=133
+Len=1
+
+[ValueSet]
+Label=QB3_C2B Bonne qualité
+Name=QB3_C2B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2C Qualité moyenne
+Name=QB3_C2C
+Start=134
+Len=1
+
+[ValueSet]
+Label=QB3_C2C Qualité moyenne
+Name=QB3_C2C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2D Forte demande (mieux connu)
+Name=QB3_C2D
+Start=135
+Len=1
+
+[ValueSet]
+Label=QB3_C2D Forte demande (mieux connu)
+Name=QB3_C2D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2E Faible demande (moins connu)
+Name=QB3_C2E
+Start=136
+Len=1
+
+[ValueSet]
+Label=QB3_C2E Faible demande (moins connu)
+Name=QB3_C2E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2F Prix (très) élevé
+Name=QB3_C2F
+Start=137
+Len=1
+
+[ValueSet]
+Label=QB3_C2F Prix (très) élevé
+Name=QB3_C2F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2G Prix abordable
+Name=QB3_C2G
+Start=138
+Len=1
+
+[ValueSet]
+Label=QB3_C2G Prix abordable
+Name=QB3_C2G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2H Lorsque le préféré manque
+Name=QB3_C2H
+Start=139
+Len=1
+
+[ValueSet]
+Label=QB3_C2H Lorsque le préféré manque
+Name=QB3_C2H_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2I Disponible
+Name=QB3_C2I
+Start=140
+Len=1
+
+[ValueSet]
+Label=QB3_C2I Disponible
+Name=QB3_C2I_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2J Rare
+Name=QB3_C2J
+Start=141
+Len=1
+
+[ValueSet]
+Label=QB3_C2J Rare
+Name=QB3_C2J_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_C2K RAS
+Name=QB3_C2K
+Start=142
+Len=1
+
+[ValueSet]
+Label=QB3_C2K RAS
+Name=QB3_C2K_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D1 Rang CIMENT TURC
+Name=QB3_D1
+Start=143
+Len=1
+
+[ValueSet]
+Label=QB3_D1 Rang CIMENT TURC
+Name=QB3_D1_VS1
+Value=1;1 er
+Value=2;2 ème
+Value=3;3 ème
+Value=4;4 ème
+Value=5;5 ème
+Value=6;6 ème
+Value=7;7 ème
+
+[Item]
+Label=QB3_D2 Raisons CIMENT TURC
+Name=QB3_D2
+Start=144
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=QB3_D2 Raisons CIMENT TURC
+Name=QB3_D2_VS1
+Value='A          ';Meilleure qualité
+Value='B          ';Bonne qualité
+Value='C          ';Qualité moyenne
+Value='D          ';Forte demande (mieux connu)
+Value='E          ';Faible demande (moins connu)
+Value='F          ';Prix (très) élevé
+Value='G          ';Prix abordable
+Value='H          ';Lorsque le préféré manque
+Value='I          ';Disponible
+Value='J          ';Rare
+Value='K          ';RAS
+
+[Item]
+Label=QB3_D2A Meilleure qualité
+Name=QB3_D2A
+Start=155
+Len=1
+
+[ValueSet]
+Label=QB3_D2A Meilleure qualité
+Name=QB3_D2A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2B Bonne qualité
+Name=QB3_D2B
+Start=156
+Len=1
+
+[ValueSet]
+Label=QB3_D2B Bonne qualité
+Name=QB3_D2B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2C Qualité moyenne
+Name=QB3_D2C
+Start=157
+Len=1
+
+[ValueSet]
+Label=QB3_D2C Qualité moyenne
+Name=QB3_D2C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2D Forte demande (mieux connu)
+Name=QB3_D2D
+Start=158
+Len=1
+
+[ValueSet]
+Label=QB3_D2D Forte demande (mieux connu)
+Name=QB3_D2D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2E Faible demande (moins connu)
+Name=QB3_D2E
+Start=159
+Len=1
+
+[ValueSet]
+Label=QB3_D2E Faible demande (moins connu)
+Name=QB3_D2E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2F Prix (très) élevé
+Name=QB3_D2F
+Start=160
+Len=1
+
+[ValueSet]
+Label=QB3_D2F Prix (très) élevé
+Name=QB3_D2F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2G Prix abordable
+Name=QB3_D2G
+Start=161
+Len=1
+
+[ValueSet]
+Label=QB3_D2G Prix abordable
+Name=QB3_D2G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2H Lorsque le préféré manque
+Name=QB3_D2H
+Start=162
+Len=1
+
+[ValueSet]
+Label=QB3_D2H Lorsque le préféré manque
+Name=QB3_D2H_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2I Disponible
+Name=QB3_D2I
+Start=163
+Len=1
+
+[ValueSet]
+Label=QB3_D2I Disponible
+Name=QB3_D2I_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2J Rare
+Name=QB3_D2J
+Start=164
+Len=1
+
+[ValueSet]
+Label=QB3_D2J Rare
+Name=QB3_D2J_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_D2K RAS
+Name=QB3_D2K
+Start=165
+Len=1
+
+[ValueSet]
+Label=QB3_D2K RAS
+Name=QB3_D2K_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E1 Rang SOCIM
+Name=QB3_E1
+Start=166
+Len=1
+
+[ValueSet]
+Label=QB3_E1 Rang SOCIM
+Name=QB3_E1_VS1
+Value=1;1 er
+Value=2;2 ème
+Value=3;3 ème
+Value=4;4 ème
+Value=5;5 ème
+Value=6;6 ème
+Value=7;7 ème
+
+[Item]
+Label=QB3_E2 Raisons SOCIM
+Name=QB3_E2
+Start=167
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=QB3_E2 Raisons SOCIM
+Name=QB3_E2_VS1
+Value='A          ';Meilleure qualité
+Value='B          ';Bonne qualité
+Value='C          ';Qualité moyenne
+Value='D          ';Forte demande (mieux connu)
+Value='E          ';Faible demande (moins connu)
+Value='F          ';Prix (très) élevé
+Value='G          ';Prix abordable
+Value='H          ';Lorsque le préféré manque
+Value='I          ';Disponible
+Value='J          ';Rare
+Value='K          ';RAS
+
+[Item]
+Label=QB3_E2A Meilleure qualité
+Name=QB3_E2A
+Start=178
+Len=1
+
+[ValueSet]
+Label=QB3_E2A Meilleure qualité
+Name=QB3_E2A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2B Bonne qualité
+Name=QB3_E2B
+Start=179
+Len=1
+
+[ValueSet]
+Label=QB3_E2B Bonne qualité
+Name=QB3_E2B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2C Qualité moyenne
+Name=QB3_E2C
+Start=180
+Len=1
+
+[ValueSet]
+Label=QB3_E2C Qualité moyenne
+Name=QB3_E2C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2D Forte demande (mieux connu)
+Name=QB3_E2D
+Start=181
+Len=1
+
+[ValueSet]
+Label=QB3_E2D Forte demande (mieux connu)
+Name=QB3_E2D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2E Faible demande (moins connu)
+Name=QB3_E2E
+Start=182
+Len=1
+
+[ValueSet]
+Label=QB3_E2E Faible demande (moins connu)
+Name=QB3_E2E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2F Prix (très) élevé
+Name=QB3_E2F
+Start=183
+Len=1
+
+[ValueSet]
+Label=QB3_E2F Prix (très) élevé
+Name=QB3_E2F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2G Prix abordable
+Name=QB3_E2G
+Start=184
+Len=1
+
+[ValueSet]
+Label=QB3_E2G Prix abordable
+Name=QB3_E2G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2H Lorsque le préféré manque
+Name=QB3_E2H
+Start=185
+Len=1
+
+[ValueSet]
+Label=QB3_E2H Lorsque le préféré manque
+Name=QB3_E2H_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2I Disponible
+Name=QB3_E2I
+Start=186
+Len=1
+
+[ValueSet]
+Label=QB3_E2I Disponible
+Name=QB3_E2I_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2J Rare
+Name=QB3_E2J
+Start=187
+Len=1
+
+[ValueSet]
+Label=QB3_E2J Rare
+Name=QB3_E2J_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_E2K RAS
+Name=QB3_E2K
+Start=188
+Len=1
+
+[ValueSet]
+Label=QB3_E2K RAS
+Name=QB3_E2K_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F1 Rang CIMENT CUIRASSE
+Name=QB3_F1
+Start=189
+Len=1
+
+[ValueSet]
+Label=QB3_F1 Rang CIMENT CUIRASSE
+Name=QB3_F1_VS1
+Value=1;1 er
+Value=2;2 ème
+Value=3;3 ème
+Value=4;4 ème
+Value=5;5 ème
+Value=6;6 ème
+Value=7;7 ème
+
+[Item]
+Label=QB3_F2 Raisons CIMENT CUIRASSE
+Name=QB3_F2
+Start=190
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=QB3_F2 Raisons CIMENT CUIRASSE
+Name=QB3_F2_VS1
+Value='A          ';Meilleure qualité
+Value='B          ';Bonne qualité
+Value='C          ';Qualité moyenne
+Value='D          ';Forte demande (mieux connu)
+Value='E          ';Faible demande (moins connu)
+Value='F          ';Prix (très) élevé
+Value='G          ';Prix abordable
+Value='H          ';Lorsque le préféré manque
+Value='I          ';Disponible
+Value='J          ';Rare
+Value='K          ';RAS
+
+[Item]
+Label=QB3_F2A Meilleure qualité
+Name=QB3_F2A
+Start=201
+Len=1
+
+[ValueSet]
+Label=QB3_F2A Meilleure qualité
+Name=QB3_F2A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2B Bonne qualité
+Name=QB3_F2B
+Start=202
+Len=1
+
+[ValueSet]
+Label=QB3_F2B Bonne qualité
+Name=QB3_F2B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2C Qualité moyenne
+Name=QB3_F2C
+Start=203
+Len=1
+
+[ValueSet]
+Label=QB3_F2C Qualité moyenne
+Name=QB3_F2C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2D Forte demande (mieux connu)
+Name=QB3_F2D
+Start=204
+Len=1
+
+[ValueSet]
+Label=QB3_F2D Forte demande (mieux connu)
+Name=QB3_F2D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2E Faible demande (moins connu)
+Name=QB3_F2E
+Start=205
+Len=1
+
+[ValueSet]
+Label=QB3_F2E Faible demande (moins connu)
+Name=QB3_F2E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2F Prix (très) élevé
+Name=QB3_F2F
+Start=206
+Len=1
+
+[ValueSet]
+Label=QB3_F2F Prix (très) élevé
+Name=QB3_F2F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2G Prix abordable
+Name=QB3_F2G
+Start=207
+Len=1
+
+[ValueSet]
+Label=QB3_F2G Prix abordable
+Name=QB3_F2G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2H Lorsque le préféré manque
+Name=QB3_F2H
+Start=208
+Len=1
+
+[ValueSet]
+Label=QB3_F2H Lorsque le préféré manque
+Name=QB3_F2H_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2I Disponible
+Name=QB3_F2I
+Start=209
+Len=1
+
+[ValueSet]
+Label=QB3_F2I Disponible
+Name=QB3_F2I_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2J Rare
+Name=QB3_F2J
+Start=210
+Len=1
+
+[ValueSet]
+Label=QB3_F2J Rare
+Name=QB3_F2J_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_F2K RAS
+Name=QB3_F2K
+Start=211
+Len=1
+
+[ValueSet]
+Label=QB3_F2K RAS
+Name=QB3_F2K_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X1 Rang Autre
+Name=QB3_X1
+Start=212
+Len=1
+
+[ValueSet]
+Label=QB3_X1 Rang Autre
+Name=QB3_X1_VS1
+Value=1;1 er
+Value=2;2 ème
+Value=3;3 ème
+Value=4;4 ème
+Value=5;5 ème
+Value=6;6 ème
+Value=7;7 ème
+
+[Item]
+Label=QB3_X2 Raisons Autre
+Name=QB3_X2
+Start=213
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=QB3_X2 Raisons Autre
+Name=QB3_X2_VS1
+Value='A          ';Meilleure qualité
+Value='B          ';Bonne qualité
+Value='C          ';Qualité moyenne
+Value='D          ';Forte demande (mieux connu)
+Value='E          ';Faible demande (moins connu)
+Value='F          ';Prix (très) élevé
+Value='G          ';Prix abordable
+Value='H          ';Lorsque le préféré manque
+Value='I          ';Disponible
+Value='J          ';Rare
+Value='K          ';RAS
+
+[Item]
+Label=QB3_X2A Meilleure qualité
+Name=QB3_X2A
+Start=224
+Len=1
+
+[ValueSet]
+Label=QB3_X2A Meilleure qualité
+Name=QB3_X2A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2B Bonne qualité
+Name=QB3_X2B
+Start=225
+Len=1
+
+[ValueSet]
+Label=QB3_X2B Bonne qualité
+Name=QB3_X2B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2C Qualité moyenne
+Name=QB3_X2C
+Start=226
+Len=1
+
+[ValueSet]
+Label=QB3_X2C Qualité moyenne
+Name=QB3_X2C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2D Forte demande (mieux connu)
+Name=QB3_X2D
+Start=227
+Len=1
+
+[ValueSet]
+Label=QB3_X2D Forte demande (mieux connu)
+Name=QB3_X2D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2E Faible demande (moins connu)
+Name=QB3_X2E
+Start=228
+Len=1
+
+[ValueSet]
+Label=QB3_X2E Faible demande (moins connu)
+Name=QB3_X2E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2F Prix (très) élevé
+Name=QB3_X2F
+Start=229
+Len=1
+
+[ValueSet]
+Label=QB3_X2F Prix (très) élevé
+Name=QB3_X2F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2G Prix abordable
+Name=QB3_X2G
+Start=230
+Len=1
+
+[ValueSet]
+Label=QB3_X2G Prix abordable
+Name=QB3_X2G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2H Lorsque le préféré manque
+Name=QB3_X2H
+Start=231
+Len=1
+
+[ValueSet]
+Label=QB3_X2H Lorsque le préféré manque
+Name=QB3_X2H_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2I Disponible
+Name=QB3_X2I
+Start=232
+Len=1
+
+[ValueSet]
+Label=QB3_X2I Disponible
+Name=QB3_X2I_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2J Rare
+Name=QB3_X2J
+Start=233
+Len=1
+
+[ValueSet]
+Label=QB3_X2J Rare
+Name=QB3_X2J_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB3_X2K RAS
+Name=QB3_X2K
+Start=234
+Len=1
+
+[ValueSet]
+Label=QB3_X2K RAS
+Name=QB3_X2K_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB4 A quelle fréquence avez-vous recours à la SCA pour vous approvisionner ?
+Name=QB4
+Start=235
+Len=1
+
+[ValueSet]
+Label=QB4 A quelle fréquence avez-vous recours à la SCA pour vous approvisionner ?
+Name=QB4_VS1
+Value=1;Toujours
+Value=2;Regulierement
+Value=3;Parfois
+Value=4;Rarement
+
+[Item]
+Label=QB5 Pourquoi pas « toujours »  ou « régulièrement »?
+Name=QB5
+Start=236
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=QB5 Pourquoi pas « toujours »  ou « régulièrement »?
+Name=QB5_VS1
+Value='A    ';Dépend du client
+Value='B    ';Dépend du prix
+Value='C    ';Lent à sécher
+Value='D    ';Difficultés pour s’approvisionner
+Value='X    ';Autre
+
+[Item]
+Label=QB5_A Dépend du client
+Name=QB5_A
+Start=241
+Len=1
+
+[ValueSet]
+Label=QB5_A Dépend du client
+Name=QB5_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB5_B Dépend du prix
+Name=QB5_B
+Start=242
+Len=1
+
+[ValueSet]
+Label=QB5_B Dépend du prix
+Name=QB5_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB5_C Lent à sécher
+Name=QB5_C
+Start=243
+Len=1
+
+[ValueSet]
+Label=QB5_C Lent à sécher
+Name=QB5_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB5_D Difficultés pour s’approvisionner
+Name=QB5_D
+Start=244
+Len=1
+
+[ValueSet]
+Label=QB5_D Difficultés pour s’approvisionner
+Name=QB5_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB5_X Difficultés pour s’approvisionner
+Name=QB5_X
+Start=245
+Len=1
+
+[ValueSet]
+Label=QB5_X Difficultés pour s’approvisionner
+Name=QB5_X_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB5_XX Autre a preciser
+Name=QB5_XX
+Start=246
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QB6 Quels types de ciment connaissez-vous ?
+Name=QB6
+Start=276
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=QB6 Quels types de ciment connaissez-vous ?
+Name=QB6_VS1
+Value='A    ';Ciment CPJ 32.5
+Value='B    ';Ciment CPJ 42.5
+Value='C    ';Ciment CPA 42.5
+Value='D    ';Ciment CHF
+Value='X    ';Autres à préciser
+
+[Item]
+Label=QB6_A Ciment CPJ 32.5
+Name=QB6_A
+Start=281
+Len=1
+
+[ValueSet]
+Label=QB6_A Ciment CPJ 32.5
+Name=QB6_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB6_B Ciment CPJ 42.5
+Name=QB6_B
+Start=282
+Len=1
+
+[ValueSet]
+Label=QB6_B Ciment CPJ 42.5
+Name=QB6_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB6_C Ciment CPA 42.5
+Name=QB6_C
+Start=283
+Len=1
+
+[ValueSet]
+Label=QB6_C Ciment CPA 42.5
+Name=QB6_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB6_D Ciment CHF
+Name=QB6_D
+Start=284
+Len=1
+
+[ValueSet]
+Label=QB6_D Ciment CHF
+Name=QB6_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB6_X Autres à préciser
+Name=QB6_X
+Start=285
+Len=1
+
+[ValueSet]
+Label=QB6_X Autres à préciser
+Name=QB6_X_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB6_XX Precision
+Name=QB6_XX
+Start=286
+Len=20
+DataType=Alpha
+
+[Item]
+Label=QB7 Quelles sont ceux que vous utilisez ?
+Name=QB7
+Start=306
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=QB7 Quelles sont ceux que vous utilisez ?
+Name=QB7_VS1
+Value='A    ';Ciment CPJ 32.5
+Value='B    ';Ciment CPJ 42.5
+Value='C    ';Ciment CPA 42.5
+Value='D    ';Ciment CHF
+Value='X    ';Autres à préciser
+
+[Item]
+Label=QB7_A Ciment CPJ 32.5
+Name=QB7_A
+Start=311
+Len=1
+
+[ValueSet]
+Label=QB7_A Ciment CPJ 32.5
+Name=QB7_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB7_B Ciment CPJ 42.5
+Name=QB7_B
+Start=312
+Len=1
+
+[ValueSet]
+Label=QB7_B Ciment CPJ 42.5
+Name=QB7_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB7_C Ciment CPA 42.5
+Name=QB7_C
+Start=313
+Len=1
+
+[ValueSet]
+Label=QB7_C Ciment CPA 42.5
+Name=QB7_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB7_D Ciment CHF
+Name=QB7_D
+Start=314
+Len=1
+
+[ValueSet]
+Label=QB7_D Ciment CHF
+Name=QB7_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB7_X Autres à préciser
+Name=QB7_X
+Start=315
+Len=1
+
+[ValueSet]
+Label=QB7_X Autres à préciser
+Name=QB7_X_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB7_XX Precision
+Name=QB7_XX
+Start=316
+Len=20
+DataType=Alpha
+
+[Item]
+Label=QB8 Quels sont les différents points de vente où vous achetez vos ciments?
+Name=QB8
+Start=336
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=QB8 Quels sont les différents points de vente où vous achetez vos ciments?
+Name=QB8_VS1
+Value='A       ';Dépôts
+Value='B       ';Détaillants
+Value='C       ';Marché
+Value='D       ';Distributeurs
+Value='E       ';Revendeurs
+Value='F       ';Transporteurs
+Value='G       ';Usine
+Value='X       ';Autre
+
+[Item]
+Label=QB8_A Dépôts
+Name=QB8_A
+Start=344
+Len=1
+
+[ValueSet]
+Label=QB8_A Dépôts
+Name=QB8_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB8_B Détaillants
+Name=QB8_B
+Start=345
+Len=1
+
+[ValueSet]
+Label=QB8_B Détaillants
+Name=QB8_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB8_C Marché
+Name=QB8_C
+Start=346
+Len=1
+
+[ValueSet]
+Label=QB8_C Marché
+Name=QB8_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB8_D Distributeur
+Name=QB8_D
+Start=347
+Len=1
+
+[ValueSet]
+Label=QB8_D Distributeur
+Name=QB8_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB8_E Revendeur
+Name=QB8_E
+Start=348
+Len=1
+
+[ValueSet]
+Label=QB8_E Revendeur
+Name=QB8_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB8_F Transporteur
+Name=QB8_F
+Start=349
+Len=1
+
+[ValueSet]
+Label=QB8_F Transporteur
+Name=QB8_F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB8_G Usine
+Name=QB8_G
+Start=350
+Len=1
+
+[ValueSet]
+Label=QB8_G Usine
+Name=QB8_G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB8_X Autre à préciser
+Name=QB8_X
+Start=351
+Len=1
+
+[ValueSet]
+Label=QB8_X Autre à préciser
+Name=QB8_X_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB8_XX Precision
+Name=QB8_XX
+Start=352
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QB9_A Dépôts
+Name=QB9_A
+Start=382
+Len=1
+
+[ValueSet]
+Label=QB9_A Dépôts
+Name=QB9_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB9_B Détaillants
+Name=QB9_B
+Start=383
+Len=1
+
+[ValueSet]
+Label=QB9_B Détaillants
+Name=QB9_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB9_C Marché
+Name=QB9_C
+Start=384
+Len=1
+
+[ValueSet]
+Label=QB9_C Marché
+Name=QB9_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB9_D Distributeur
+Name=QB9_D
+Start=385
+Len=1
+
+[ValueSet]
+Label=QB9_D Distributeur
+Name=QB9_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB9_E Revendeur
+Name=QB9_E
+Start=386
+Len=1
+
+[ValueSet]
+Label=QB9_E Revendeur
+Name=QB9_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB9_F Transporteur
+Name=QB9_F
+Start=387
+Len=1
+
+[ValueSet]
+Label=QB9_F Transporteur
+Name=QB9_F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB8_G Usine
+Name=QB9_G
+Start=388
+Len=1
+
+[ValueSet]
+Label=QB8_G Usine
+Name=QB9_G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB9_X Autre à préciser
+Name=QB9_X
+Start=389
+Len=1
+
+[ValueSet]
+Label=QB9_X Autre à préciser
+Name=QB9_X_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB9_XX Autre à préciser
+Name=QB9_XX
+Start=390
+Len=20
+DataType=Alpha
+
+[ValueSet]
+Label=QB9_XX Autre à préciser
+Name=QB9_XX_VS1
+Value='1                   ';Oui
+Value='2                   ';Non
+
+[Item]
+Label=QB10 Avez-vous une préférence entre le ciment CPJ 42.5 et le ciment CPJ 32.5?
+Name=QB10
+Start=410
+Len=1
+
+[ValueSet]
+Label=QB10 Avez-vous une préférence entre le ciment CPJ 42.5 et le ciment CPJ 32.5?
+Name=QB10_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB11_A Si Oui, lequel?
+Name=QB11_A
+Start=411
+Len=1
+
+[ValueSet]
+Label=QB11_A Si Oui, lequel?
+Name=QB11_A_VS1
+Value=1;Ciment CPJ 42.5
+Value=2;Ciment CPJ 32.5
+
+[Item]
+Label=QB11_B Raisons
+Name=QB11_B
+Start=412
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=QB11_B Raisons
+Name=QB11_B_VS1
+Value='A     ';Meilleur dosage
+Value='B     ';Moins cher
+Value='C     ';Sèche vite
+Value='D     ';Plus de brouettes/briques
+Value='E     ';Forte demande
+Value='X     ';Autre
+
+[Item]
+Label=QB11_BA Meilleur dosage
+Name=QB11_BA
+Start=418
+Len=1
+
+[ValueSet]
+Label=QB11_BA Meilleur dosage
+Name=QB11_BA_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB11_BB Moins cher
+Name=QB11_BB
+Start=419
+Len=1
+
+[ValueSet]
+Label=QB11_BB Moins cher
+Name=QB11_BB_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB11_BC Sèche vite
+Name=QB11_BC
+Start=420
+Len=1
+
+[ValueSet]
+Label=QB11_BC Sèche vite
+Name=QB11_BC_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB11_BD Plus de brouettes/briques
+Name=QB11_BD
+Start=421
+Len=1
+
+[ValueSet]
+Label=QB11_BD Plus de brouettes/briques
+Name=QB11_BD_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB11_BE Forte demande
+Name=QB11_BE
+Start=422
+Len=1
+
+[ValueSet]
+Label=QB11_BE Forte demande
+Name=QB11_BE_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB11_BX Autre
+Name=QB11_BX
+Start=423
+Len=1
+
+[ValueSet]
+Label=QB11_BX Autre
+Name=QB11_BX_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB11_BXX Autre
+Name=QB11_BXX
+Start=424
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QB12_A1 SOCIMAT Qualité
+Name=QB12_A1
+Start=454
+Len=1
+
+[ValueSet]
+Label=QB12_A1 SOCIMAT Qualité
+Name=QB12_A1_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_A2 SOCIMAT Prix
+Name=QB12_A2
+Start=455
+Len=1
+
+[ValueSet]
+Label=QB12_A2 SOCIMAT Prix
+Name=QB12_A2_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_A3 SOCIMAT Respect du poids
+Name=QB12_A3
+Start=456
+Len=1
+
+[ValueSet]
+Label=QB12_A3 SOCIMAT Respect du poids
+Name=QB12_A3_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_A4 SOCIMAT Solidité de l’emballage
+Name=QB12_A4
+Start=457
+Len=1
+
+[ValueSet]
+Label=QB12_A4 SOCIMAT Solidité de l’emballage
+Name=QB12_A4_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_A5 SOCIMAT Design
+Name=QB12_A5
+Start=458
+Len=1
+
+[ValueSet]
+Label=QB12_A5 SOCIMAT Design
+Name=QB12_A5_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_B1 CIMAF Qualité
+Name=QB12_B1
+Start=459
+Len=1
+
+[ValueSet]
+Label=QB12_B1 CIMAF Qualité
+Name=QB12_B1_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_B2 CIMAF Prix
+Name=QB12_B2
+Start=460
+Len=1
+
+[ValueSet]
+Label=QB12_B2 CIMAF Prix
+Name=QB12_B2_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_B3 CIMAF Respect du poids
+Name=QB12_B3
+Start=461
+Len=1
+
+[ValueSet]
+Label=QB12_B3 CIMAF Respect du poids
+Name=QB12_B3_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_B4 CIMAF Solidité de l’emballage
+Name=QB12_B4
+Start=462
+Len=1
+
+[ValueSet]
+Label=QB12_B4 CIMAF Solidité de l’emballage
+Name=QB12_B4_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_B5 CIMAF Design
+Name=QB12_B5
+Start=463
+Len=1
+
+[ValueSet]
+Label=QB12_B5 CIMAF Design
+Name=QB12_B5_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_C1 CIM IVOIRE  Qualité
+Name=QB12_C1
+Start=464
+Len=1
+
+[ValueSet]
+Label=QB12_C1 CIM IVOIRE  Qualité
+Name=QB12_C1_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_C2 CIM IVOIRE  Prix
+Name=QB12_C2
+Start=465
+Len=1
+
+[ValueSet]
+Label=QB12_C2 CIM IVOIRE  Prix
+Name=QB12_C2_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_C3 CIM IVOIRE  Respect du poids
+Name=QB12_C3
+Start=466
+Len=1
+
+[ValueSet]
+Label=QB12_C3 CIM IVOIRE  Respect du poids
+Name=QB12_C3_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_C4 CIM IVOIRE  Solidité de l’emballage
+Name=QB12_C4
+Start=467
+Len=1
+
+[ValueSet]
+Label=QB12_C4 CIM IVOIRE  Solidité de l’emballage
+Name=QB12_C4_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_C5 CIM IVOIRE  Design
+Name=QB12_C5
+Start=468
+Len=1
+
+[ValueSet]
+Label=QB12_C5 CIM IVOIRE  Design
+Name=QB12_C5_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_D1 CIMENT TURC  Qualité
+Name=QB12_D1
+Start=469
+Len=1
+
+[ValueSet]
+Label=QB12_D1 CIMENT TURC  Qualité
+Name=QB12_D1_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_D2 CIMENT TURC  Prix
+Name=QB12_D2
+Start=470
+Len=1
+
+[ValueSet]
+Label=QB12_D2 CIMENT TURC  Prix
+Name=QB12_D2_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_D3 CIMENT TURC  Respect du poids
+Name=QB12_D3
+Start=471
+Len=1
+
+[ValueSet]
+Label=QB12_D3 CIMENT TURC  Respect du poids
+Name=QB12_D3_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_D4 CIMENT TURC Solidité de l’emballage
+Name=QB12_D4
+Start=472
+Len=1
+
+[ValueSet]
+Label=QB12_D4 CIMENT TURC Solidité de l’emballage
+Name=QB12_D4_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_D5 CIMENT TURC  Design
+Name=QB12_D5
+Start=473
+Len=1
+
+[ValueSet]
+Label=QB12_D5 CIMENT TURC  Design
+Name=QB12_D5_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_E1 SOCIM  Qualité
+Name=QB12_E1
+Start=474
+Len=1
+
+[ValueSet]
+Label=QB12_E1 SOCIM  Qualité
+Name=QB12_E1_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_E2 SOCIM Prix
+Name=QB12_E2
+Start=475
+Len=1
+
+[ValueSet]
+Label=QB12_E2 SOCIM Prix
+Name=QB12_E2_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_E3 SOCIM  Respect du poids
+Name=QB12_E3
+Start=476
+Len=1
+
+[ValueSet]
+Label=QB12_E3 SOCIM  Respect du poids
+Name=QB12_E3_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_E4 SOCIM Solidité de l’emballage
+Name=QB12_E4
+Start=477
+Len=1
+
+[ValueSet]
+Label=QB12_E4 SOCIM Solidité de l’emballage
+Name=QB12_E4_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_E5 SOCIM  Design
+Name=QB12_E5
+Start=478
+Len=1
+
+[ValueSet]
+Label=QB12_E5 SOCIM  Design
+Name=QB12_E5_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_F1 CIMENT CUIRASSE   Qualité
+Name=QB12_F1
+Start=479
+Len=1
+
+[ValueSet]
+Label=QB12_F1 CIMENT CUIRASSE   Qualité
+Name=QB12_F1_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_F2 CIMENT CUIRASSE  Prix
+Name=QB12_F2
+Start=480
+Len=1
+
+[ValueSet]
+Label=QB12_F2 CIMENT CUIRASSE  Prix
+Name=QB12_F2_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_F3 CIMENT CUIRASSE   Respect du poids
+Name=QB12_F3
+Start=481
+Len=1
+
+[ValueSet]
+Label=QB12_F3 CIMENT CUIRASSE   Respect du poids
+Name=QB12_F3_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_F4 CIMENT CUIRASSE  Solidité de l’emballage
+Name=QB12_F4
+Start=482
+Len=1
+
+[ValueSet]
+Label=QB12_F4 CIMENT CUIRASSE  Solidité de l’emballage
+Name=QB12_F4_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB12_F5 CIMENT CUIRASSE   Design
+Name=QB12_F5
+Start=483
+Len=1
+
+[ValueSet]
+Label=QB12_F5 CIMENT CUIRASSE   Design
+Name=QB12_F5_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QB13 Améliorations
+Name=QB13
+Start=484
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=QB13 Améliorations
+Name=QB13_VS1
+Value='A        ';Diminuer le prix
+Value='B        ';Renforcer l’emballage
+Value='C        ';Veiller à la disponibilité du produit
+Value='D        ';Améliorer le dosage
+Value='E        ';Réguler le prix dans la chaîne de distribution
+Value='F        ';Ouvrir des dépôts
+Value='G        ';Respecter les poids
+Value='H        ';Différencier les emballages des types de ciment
+Value='X        ';Autres
+
+[Item]
+Label=QB13_A Diminuer le prix
+Name=QB13_A
+Start=493
+Len=1
+
+[ValueSet]
+Label=QB13_A Diminuer le prix
+Name=QB13_A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB13_B Renforcer l’emballage
+Name=QB13_B
+Start=494
+Len=1
+
+[ValueSet]
+Label=QB13_B Renforcer l’emballage
+Name=QB13_B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB13_C Veiller à la disponibilité du produit
+Name=QB13_C
+Start=495
+Len=1
+
+[ValueSet]
+Label=QB13_C Veiller à la disponibilité du produit
+Name=QB13_C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB13_D Améliorer le dosage
+Name=QB13_D
+Start=496
+Len=1
+
+[ValueSet]
+Label=QB13_D Améliorer le dosage
+Name=QB13_D_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB13_E Réguler le prix dans la chaîne de distribution
+Name=QB13_E
+Start=497
+Len=1
+
+[ValueSet]
+Label=QB13_E Réguler le prix dans la chaîne de distribution
+Name=QB13_E_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB13_F Ouvrir des dépôts
+Name=QB13_F
+Start=498
+Len=1
+
+[ValueSet]
+Label=QB13_F Ouvrir des dépôts
+Name=QB13_F_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB13_G Respecter les poids
+Name=QB13_G
+Start=499
+Len=1
+
+[ValueSet]
+Label=QB13_G Respecter les poids
+Name=QB13_G_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB13_H Différencier les emballages des types de ciment
+Name=QB13_H
+Start=500
+Len=1
+
+[ValueSet]
+Label=QB13_H Différencier les emballages des types de ciment
+Name=QB13_H_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB13_X Autres
+Name=QB13_X
+Start=501
+Len=1
+
+[ValueSet]
+Label=QB13_X Autres
+Name=QB13_X_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QB13_XX Autres à préciser
+Name=QB13_XX
+Start=502
+Len=30
+DataType=Alpha
+
+[Record]
+Label=Section C
+Name=SECTION_C
+RecordTypeValue='5'
+RecordLen=381
+
+[Item]
+Label=QC1 Communication (accueil, contacts avec nos services …)
+Name=QC1
+Start=6
+Len=1
+
+[ValueSet]
+Label=QC1 Communication (accueil, contacts avec nos services …)
+Name=QC1_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QC1_A Causes de non satisfaction
+Name=QC1_A
+Start=7
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=QC1_A Causes de non satisfaction
+Name=QC1_A_VS1
+Value='A       ';Accueil non satisfaisant
+Value='B       ';Pas assez de dépôts
+Value='C       ';Traitement lent des réclammations
+Value='D       ';Mauvaise organisation du système de distribution
+Value='E       ';Délais non respectés
+Value='F       ';Certains clients privilégiés
+Value='G       ';Tricherie dans le poids
+Value='X       ';Autre
+
+[Item]
+Label=QC1_A1 Accueil non satisfaisant
+Name=QC1_A1
+Start=15
+Len=1
+
+[ValueSet]
+Label=QC1_A1 Accueil non satisfaisant
+Name=QC1_A1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC1_A2 Pas assez de dépôts
+Name=QC1_A2
+Start=16
+Len=1
+
+[ValueSet]
+Label=QC1_A2 Pas assez de dépôts
+Name=QC1_A2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC1_A3 Traitement lent des réclammations
+Name=QC1_A3
+Start=17
+Len=1
+
+[ValueSet]
+Label=QC1_A3 Traitement lent des réclammations
+Name=QC1_A3_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC1_A4 Mauvaise organisation du système de distribution
+Name=QC1_A4
+Start=18
+Len=1
+
+[ValueSet]
+Label=QC1_A4 Mauvaise organisation du système de distribution
+Name=QC1_A4_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC1_A5 Délais non respectés
+Name=QC1_A5
+Start=19
+Len=1
+
+[ValueSet]
+Label=QC1_A5 Délais non respectés
+Name=QC1_A5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC1_A6 Certains clients privilégiés
+Name=QC1_A6
+Start=20
+Len=1
+
+[ValueSet]
+Label=QC1_A6 Certains clients privilégiés
+Name=QC1_A6_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC1_A7 Tricherie dans le poids
+Name=QC1_A7
+Start=21
+Len=1
+
+[ValueSet]
+Label=QC1_A7 Tricherie dans le poids
+Name=QC1_A7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC1_AX Autre
+Name=QC1_AX
+Start=22
+Len=1
+
+[ValueSet]
+Label=QC1_AX Autre
+Name=QC1_AX_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC1_AXX Autre a preciser
+Name=QC1_AXX
+Start=23
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QC2 Réponses à vos attentes
+Name=QC2
+Start=53
+Len=1
+
+[ValueSet]
+Label=QC2 Réponses à vos attentes
+Name=QC2_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QC2_A Causes de non satisfaction
+Name=QC2_A
+Start=54
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=QC2_A Causes de non satisfaction
+Name=QC2_A_VS1
+Value='A       ';Accueil non satisfaisant
+Value='B       ';Pas assez de dépôts
+Value='C       ';Traitement lent des réclammations
+Value='D       ';Mauvaise organisation du système de distribution
+Value='E       ';Délais non respectés
+Value='F       ';Certains clients privilégiés
+Value='G       ';Tricherie dans le poids
+Value='X       ';Autre
+
+[Item]
+Label=QC2_A1 Accueil non satisfaisant
+Name=QC2_A1
+Start=62
+Len=1
+
+[ValueSet]
+Label=QC2_A1 Accueil non satisfaisant
+Name=QC2_A1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC2_A2 Pas assez de dépôts
+Name=QC2_A2
+Start=63
+Len=1
+
+[ValueSet]
+Label=QC2_A2 Pas assez de dépôts
+Name=QC2_A2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC2_A3 Traitement lent des réclammations
+Name=QC2_A3
+Start=64
+Len=1
+
+[ValueSet]
+Label=QC2_A3 Traitement lent des réclammations
+Name=QC2_A3_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC2_A4 Mauvaise organisation du système de distribution
+Name=QC2_A4
+Start=65
+Len=1
+
+[ValueSet]
+Label=QC2_A4 Mauvaise organisation du système de distribution
+Name=QC2_A4_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC2_A5 Délais non respectés
+Name=QC2_A5
+Start=66
+Len=1
+
+[ValueSet]
+Label=QC2_A5 Délais non respectés
+Name=QC2_A5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC2_A6 Certains clients privilégiés
+Name=QC2_A6
+Start=67
+Len=1
+
+[ValueSet]
+Label=QC2_A6 Certains clients privilégiés
+Name=QC2_A6_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC2_A7 Tricherie dans le poids
+Name=QC2_A7
+Start=68
+Len=1
+
+[ValueSet]
+Label=QC2_A7 Tricherie dans le poids
+Name=QC2_A7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC2_AX Autre
+Name=QC2_AX
+Start=69
+Len=1
+
+[ValueSet]
+Label=QC2_AX Autre
+Name=QC2_AX_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC2_AXX Autre a preciser
+Name=QC2_AXX
+Start=70
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QC3 Disponibilité du ciment cuirasse dans les points de ventes
+Name=QC3
+Start=100
+Len=1
+
+[ValueSet]
+Label=QC3 Disponibilité du ciment cuirasse dans les points de ventes
+Name=QC3_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QC3_A Causes de non satisfaction
+Name=QC3_A
+Start=101
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=QC3_A Causes de non satisfaction
+Name=QC3_A_VS1
+Value='A       ';Accueil non satisfaisant
+Value='B       ';Pas assez de dépôts
+Value='C       ';Traitement lent des réclammations
+Value='D       ';Mauvaise organisation du système de distribution
+Value='E       ';Délais non respectés
+Value='F       ';Certains clients privilégiés
+Value='G       ';Tricherie dans le poids
+Value='X       ';Autre
+
+[Item]
+Label=QC3_A1 Accueil non satisfaisant
+Name=QC3_A1
+Start=109
+Len=1
+
+[ValueSet]
+Label=QC3_A1 Accueil non satisfaisant
+Name=QC3_A1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC3_A2 Pas assez de dépôts
+Name=QC3_A2
+Start=110
+Len=1
+
+[ValueSet]
+Label=QC3_A2 Pas assez de dépôts
+Name=QC3_A2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC3_A3 Traitement lent des réclammations
+Name=QC3_A3
+Start=111
+Len=1
+
+[ValueSet]
+Label=QC3_A3 Traitement lent des réclammations
+Name=QC3_A3_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC3_A4 Mauvaise organisation du système de distribution
+Name=QC3_A4
+Start=112
+Len=1
+
+[ValueSet]
+Label=QC3_A4 Mauvaise organisation du système de distribution
+Name=QC3_A4_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC3_A5 Délais non respectés
+Name=QC3_A5
+Start=113
+Len=1
+
+[ValueSet]
+Label=QC3_A5 Délais non respectés
+Name=QC3_A5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC3_A6 Certains clients privilégiés
+Name=QC3_A6
+Start=114
+Len=1
+
+[ValueSet]
+Label=QC3_A6 Certains clients privilégiés
+Name=QC3_A6_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC3_A7 Tricherie dans le poids
+Name=QC3_A7
+Start=115
+Len=1
+
+[ValueSet]
+Label=QC3_A7 Tricherie dans le poids
+Name=QC3_A7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC3_AX Autre
+Name=QC3_AX
+Start=116
+Len=1
+
+[ValueSet]
+Label=QC3_AX Autre
+Name=QC3_AX_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC3_AXX Autre a preciser
+Name=QC3_AXX
+Start=117
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QC4 Organisation des dépôts (accès, horaires, environnement …)
+Name=QC4
+Start=147
+Len=1
+
+[ValueSet]
+Label=QC4 Organisation des dépôts (accès, horaires, environnement …)
+Name=QC4_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QC4_A Causes de non satisfaction
+Name=QC4_A
+Start=148
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=QC4_A Causes de non satisfaction
+Name=QC4_A_VS1
+Value='A       ';Accueil non satisfaisant
+Value='B       ';Pas assez de dépôts
+Value='C       ';Traitement lent des réclammations
+Value='D       ';Mauvaise organisation du système de distribution
+Value='E       ';Délais non respectés
+Value='F       ';Certains clients privilégiés
+Value='G       ';Tricherie dans le poids
+Value='X       ';Autre
+
+[Item]
+Label=QC4_A1 Accueil non satisfaisant
+Name=QC4_A1
+Start=156
+Len=1
+
+[ValueSet]
+Label=QC4_A1 Accueil non satisfaisant
+Name=QC4_A1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC4_A2 Pas assez de dépôts
+Name=QC4_A2
+Start=157
+Len=1
+
+[ValueSet]
+Label=QC4_A2 Pas assez de dépôts
+Name=QC4_A2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC4_A3 Traitement lent des réclammations
+Name=QC4_A3
+Start=158
+Len=1
+
+[ValueSet]
+Label=QC4_A3 Traitement lent des réclammations
+Name=QC4_A3_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC4_A4 Mauvaise organisation du système de distribution
+Name=QC4_A4
+Start=159
+Len=1
+
+[ValueSet]
+Label=QC4_A4 Mauvaise organisation du système de distribution
+Name=QC4_A4_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC4_A5 Délais non respectés
+Name=QC4_A5
+Start=160
+Len=1
+
+[ValueSet]
+Label=QC4_A5 Délais non respectés
+Name=QC4_A5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC4_A6 Certains clients privilégiés
+Name=QC4_A6
+Start=161
+Len=1
+
+[ValueSet]
+Label=QC4_A6 Certains clients privilégiés
+Name=QC4_A6_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC4_A7 Tricherie dans le poids
+Name=QC4_A7
+Start=162
+Len=1
+
+[ValueSet]
+Label=QC4_A7 Tricherie dans le poids
+Name=QC4_A7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC4_AX Autre
+Name=QC4_AX
+Start=163
+Len=1
+
+[ValueSet]
+Label=QC4_AX Autre
+Name=QC4_AX_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC4_AXX Autre a preciser
+Name=QC4_AXX
+Start=164
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QC5 Qualité des services de livraison (quantité respectée, produits en bon état, comportements des livreurs …)
+Name=QC5
+Start=194
+Len=1
+
+[ValueSet]
+Label=QC5 Qualité des services de livraison (quantité respectée, produits en bon état, comportements des livreurs …)
+Name=QC5_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QC5_A Causes de non satisfaction
+Name=QC5_A
+Start=195
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=QC5_A Causes de non satisfaction
+Name=QC5_A_VS1
+Value='A       ';Accueil non satisfaisant
+Value='B       ';Pas assez de dépôts
+Value='C       ';Traitement lent des réclammations
+Value='D       ';Mauvaise organisation du système de distribution
+Value='E       ';Délais non respectés
+Value='F       ';Certains clients privilégiés
+Value='G       ';Tricherie dans le poids
+Value='X       ';Autre
+
+[Item]
+Label=QC5_A1 Accueil non satisfaisant
+Name=QC5_A1
+Start=203
+Len=1
+
+[ValueSet]
+Label=QC5_A1 Accueil non satisfaisant
+Name=QC5_A1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC5_A2 Pas assez de dépôts
+Name=QC5_A2
+Start=204
+Len=1
+
+[ValueSet]
+Label=QC5_A2 Pas assez de dépôts
+Name=QC5_A2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC5_A3 Traitement lent des réclammations
+Name=QC5_A3
+Start=205
+Len=1
+
+[ValueSet]
+Label=QC5_A3 Traitement lent des réclammations
+Name=QC5_A3_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC5_A4 Mauvaise organisation du système de distribution
+Name=QC5_A4
+Start=206
+Len=1
+
+[ValueSet]
+Label=QC5_A4 Mauvaise organisation du système de distribution
+Name=QC5_A4_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC5_A5 Délais non respectés
+Name=QC5_A5
+Start=207
+Len=1
+
+[ValueSet]
+Label=QC5_A5 Délais non respectés
+Name=QC5_A5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC5_A6 Certains clients privilégiés
+Name=QC5_A6
+Start=208
+Len=1
+
+[ValueSet]
+Label=QC5_A6 Certains clients privilégiés
+Name=QC5_A6_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC5_A7 Tricherie dans le poids
+Name=QC5_A7
+Start=209
+Len=1
+
+[ValueSet]
+Label=QC5_A7 Tricherie dans le poids
+Name=QC5_A7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC5_AX Autre
+Name=QC5_AX
+Start=210
+Len=1
+
+[ValueSet]
+Label=QC5_AX Autre
+Name=QC5_AX_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC5_AXX Autre a preciser
+Name=QC5_AXX
+Start=211
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QC6 Délai de livraison (de chargement)
+Name=QC6
+Start=241
+Len=1
+
+[ValueSet]
+Label=QC6 Délai de livraison (de chargement)
+Name=QC6_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QC6_A Causes de non satisfaction
+Name=QC6_A
+Start=242
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=QC6_A Causes de non satisfaction
+Name=QC6_A_VS1
+Value='A       ';Accueil non satisfaisant
+Value='B       ';Pas assez de dépôts
+Value='C       ';Traitement lent des réclammations
+Value='D       ';Mauvaise organisation du système de distribution
+Value='E       ';Délais non respectés
+Value='F       ';Certains clients privilégiés
+Value='G       ';Tricherie dans le poids
+Value='X       ';Autre
+
+[Item]
+Label=QC6_A1 Accueil non satisfaisant
+Name=QC6_A1
+Start=250
+Len=1
+
+[ValueSet]
+Label=QC6_A1 Accueil non satisfaisant
+Name=QC6_A1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC6_A2 Pas assez de dépôts
+Name=QC6_A2
+Start=251
+Len=1
+
+[ValueSet]
+Label=QC6_A2 Pas assez de dépôts
+Name=QC6_A2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC6_A3 Traitement lent des réclammations
+Name=QC6_A3
+Start=252
+Len=1
+
+[ValueSet]
+Label=QC6_A3 Traitement lent des réclammations
+Name=QC6_A3_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC6_A4 Mauvaise organisation du système de distribution
+Name=QC6_A4
+Start=253
+Len=1
+
+[ValueSet]
+Label=QC6_A4 Mauvaise organisation du système de distribution
+Name=QC6_A4_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC6_A5 Délais non respectés
+Name=QC6_A5
+Start=254
+Len=1
+
+[ValueSet]
+Label=QC6_A5 Délais non respectés
+Name=QC6_A5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC6_A6 Certains clients privilégiés
+Name=QC6_A6
+Start=255
+Len=1
+
+[ValueSet]
+Label=QC6_A6 Certains clients privilégiés
+Name=QC6_A6_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC6_A7 Tricherie dans le poids
+Name=QC6_A7
+Start=256
+Len=1
+
+[ValueSet]
+Label=QC6_A7 Tricherie dans le poids
+Name=QC6_A7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC6_AX Autre
+Name=QC6_AX
+Start=257
+Len=1
+
+[ValueSet]
+Label=QC6_AX Autre
+Name=QC6_AX_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC6_AXX Autre a preciser
+Name=QC6_AXX
+Start=258
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QC7 Traitement des réclamations
+Name=QC7
+Start=288
+Len=1
+
+[ValueSet]
+Label=QC7 Traitement des réclamations
+Name=QC7_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QC7_A Causes de non satisfaction
+Name=QC7_A
+Start=289
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=QC7_A Causes de non satisfaction
+Name=QC7_A_VS1
+Value='A       ';Accueil non satisfaisant
+Value='B       ';Pas assez de dépôts
+Value='C       ';Traitement lent des réclammations
+Value='D       ';Mauvaise organisation du système de distribution
+Value='E       ';Délais non respectés
+Value='F       ';Certains clients privilégiés
+Value='G       ';Tricherie dans le poids
+Value='X       ';Autre
+
+[Item]
+Label=QC7_A1 Accueil non satisfaisant
+Name=QC7_A1
+Start=297
+Len=1
+
+[ValueSet]
+Label=QC7_A1 Accueil non satisfaisant
+Name=QC7_A1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC7_A2 Pas assez de dépôts
+Name=QC7_A2
+Start=298
+Len=1
+
+[ValueSet]
+Label=QC7_A2 Pas assez de dépôts
+Name=QC7_A2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC7_A3 Traitement lent des réclammations
+Name=QC7_A3
+Start=299
+Len=1
+
+[ValueSet]
+Label=QC7_A3 Traitement lent des réclammations
+Name=QC7_A3_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC7_A4 Mauvaise organisation du système de distribution
+Name=QC7_A4
+Start=300
+Len=1
+
+[ValueSet]
+Label=QC7_A4 Mauvaise organisation du système de distribution
+Name=QC7_A4_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC7_A5 Délais non respectés
+Name=QC7_A5
+Start=301
+Len=1
+
+[ValueSet]
+Label=QC7_A5 Délais non respectés
+Name=QC7_A5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC7_A6 Certains clients privilégiés
+Name=QC7_A6
+Start=302
+Len=1
+
+[ValueSet]
+Label=QC7_A6 Certains clients privilégiés
+Name=QC7_A6_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC7_A7 Tricherie dans le poids
+Name=QC7_A7
+Start=303
+Len=1
+
+[ValueSet]
+Label=QC7_A7 Tricherie dans le poids
+Name=QC7_A7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC7_AX Autre
+Name=QC7_AX
+Start=304
+Len=1
+
+[ValueSet]
+Label=QC7_AX Autre
+Name=QC7_AX_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC7_AXX Autre a preciser
+Name=QC7_AXX
+Start=305
+Len=30
+DataType=Alpha
+
+[Item]
+Label=QC8 Position du ciment cuirasse par rapport à la concurrence
+Name=QC8
+Start=335
+Len=1
+
+[ValueSet]
+Label=QC8 Position du ciment cuirasse par rapport à la concurrence
+Name=QC8_VS1
+Value=1;Insatisfait
+Value=2;Moyennement satisfait
+Value=3;Satisfait
+Value=4;Très satisfait
+
+[Item]
+Label=QC8_A Causes de non satisfaction
+Name=QC8_A
+Start=336
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=QC8_A Causes de non satisfaction
+Name=QC8_A_VS1
+Value='A       ';Accueil non satisfaisant
+Value='B       ';Pas assez de dépôts
+Value='C       ';Traitement lent des réclammations
+Value='D       ';Mauvaise organisation du système de distribution
+Value='E       ';Délais non respectés
+Value='F       ';Certains clients privilégiés
+Value='G       ';Tricherie dans le poids
+Value='X       ';Autre
+
+[Item]
+Label=QC8_A1 Accueil non satisfaisant
+Name=QC8_A1
+Start=344
+Len=1
+
+[ValueSet]
+Label=QC8_A1 Accueil non satisfaisant
+Name=QC8_A1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC8_A2 Pas assez de dépôts
+Name=QC8_A2
+Start=345
+Len=1
+
+[ValueSet]
+Label=QC8_A2 Pas assez de dépôts
+Name=QC8_A2_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC8_A3 Traitement lent des réclammations
+Name=QC8_A3
+Start=346
+Len=1
+
+[ValueSet]
+Label=QC8_A3 Traitement lent des réclammations
+Name=QC8_A3_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC8_A4 Mauvaise organisation du système de distribution
+Name=QC8_A4
+Start=347
+Len=1
+
+[ValueSet]
+Label=QC8_A4 Mauvaise organisation du système de distribution
+Name=QC8_A4_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC8_A5 Délais non respectés
+Name=QC8_A5
+Start=348
+Len=1
+
+[ValueSet]
+Label=QC8_A5 Délais non respectés
+Name=QC8_A5_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC8_A6 Certains clients privilégiés
+Name=QC8_A6
+Start=349
+Len=1
+
+[ValueSet]
+Label=QC8_A6 Certains clients privilégiés
+Name=QC8_A6_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC8_A7 Tricherie dans le poids
+Name=QC8_A7
+Start=350
+Len=1
+
+[ValueSet]
+Label=QC8_A7 Tricherie dans le poids
+Name=QC8_A7_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC8_AX Autre
+Name=QC8_AX
+Start=351
+Len=1
+
+[ValueSet]
+Label=QC8_AX Autre
+Name=QC8_AX_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=QC8_AXX Autre a preciser
+Name=QC8_AXX
+Start=352
+Len=30
+DataType=Alpha

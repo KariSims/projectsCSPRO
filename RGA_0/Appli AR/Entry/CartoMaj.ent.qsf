@@ -1,0 +1,185 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.5
+
+[LANGUAGES]
+EN=English
+
+[QUESTION]
+Field=CARTO_DICT.RGACA01
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Code de la Province\fs16\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA02
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Code du territoire\fs16\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA03
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Code du Secteur\fs16\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA04
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Code du Groupement\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA05
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Num\'e9ro de la ZT\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA06
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Numero du village\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA07
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Nom du village\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA08
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Nombres des OP dans le village\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA09
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Latitude du Village\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA10
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 longitude du Village\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA11
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 N\'b0 du site dans le village\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA12
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Nom de l'OP\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA13
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 N\'b0 du point GPS\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA14
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Latitude l'OP\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA15
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Longitude l'OP\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA16
+Occurrences=1:500
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Niveau de saisie\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA21
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Nom de la Province\fs16\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA22
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Nom du territoire\fs16\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA23
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Nom du Secteur\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA24
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Nom du Groupement\par
+EN=}
+
+[QUESTION]
+Field=CARTO_DICT.RGACA25
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Date\par
+EN=}
+

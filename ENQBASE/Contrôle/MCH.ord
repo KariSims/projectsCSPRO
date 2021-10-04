@@ -1,0 +1,60 @@
+﻿[FormFile]
+Version=CSPro 7.2
+Name=EXPCFCRT_FF
+Label=EXPCFCRTM
+DefaultTextFont=-013 0000 0000 0000 0700 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+FieldEntryFont=0018 0000 0000 0000 0600 0000 0000 0000 0000 0000 0000 0000 0000 Courier New
+Type=OperatorControlled
+  
+[Dictionaries]
+File=.\MCH.dcf
+  
+[Form]
+Name=FORM000
+Label=(Id Items)
+Level=1
+Size=300,300
+  
+Item=EXPCFCRT_ID
+  
+[EndForm]
+  
+[Form]
+Name=FORM001
+Label=EXPCFCRT Record
+Level=1
+Size=300,300
+  
+  
+[EndForm]
+  
+[Level]
+Name=EXPCFCRT_LEVEL
+Label=EXPCFCRT Level
+  
+[Group]
+Required=Yes
+Name=IDS0_EDT
+Label=(Id Items)
+Form=1
+LogicControl=No
+Max=1
+  
+[Field]
+Name=EXPCFCRT_ID
+Item=EXPCFCRT_ID,EXPCFCRT_DICT
+Form=1
+  
+[EndGroup]
+  
+[Group]
+Required=Yes
+Name=EXPCFCRT_REC_EDT
+Label=EXPCFCRT Record
+Form=2
+LogicControl=No
+Type=Record
+TypeName=EXPCFCRT_REC
+Max=1
+[EndGroup]
+  

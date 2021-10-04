@@ -1,0 +1,421 @@
+infix dictionary using "C:\ENQBASE\SUIVICFCRTM\DBCONCAT\WMDB.DAT" {
+1 lines
+    byte     wm1         1:   1-2   
+    byte     wm2         1:   3-4   
+    byte     wm3         1:   5-6   
+    str      wm3a        1:   7-86  
+    byte     wm4         1:  87-87  
+    byte     wm5         1:  88-89  
+    long     wm6         1:  90-97  
+    byte     wm6d        1:  98-99  
+    byte     wm6m        1: 100-101 
+    int      wm6y        1: 102-105 
+    byte     wm8         1: 106-106 
+    byte     wm9         1: 107-107 
+    byte     wm17        1: 108-109 
+    int      wm7         1: 110-113 
+    byte     wm7h        1: 114-115 
+    byte     wm7m        1: 116-117 
+    int      wm10        1: 118-121 
+    byte     wm10h       1: 122-123 
+    byte     wm10m       1: 124-125 
+    byte     wm11        1: 126-126 
+    byte     wm12        1: 127-127 
+    byte     wm13        1: 128-128 
+    byte     wm14        1: 129-129 
+    byte     wm15        1: 130-130 
+    byte     wmhint      1: 131-132 
+    long     wb3         1: 133-138 
+    byte     wb3m        1: 139-140 
+    int      wb3y        1: 141-144 
+    byte     wb4         1: 145-146 
+    byte     wb5         1: 147-147 
+    byte     wb6a        1: 148-149 
+    byte     wb6b        1: 150-151 
+    byte     wb7         1: 152-152 
+    byte     wb9         1: 153-153 
+    byte     wb10a       1: 154-155 
+    byte     wb10b       1: 156-157 
+    byte     wb11        1: 158-158 
+    byte     wb12a       1: 159-160 
+    byte     wb12b       1: 161-162 
+    byte     wb14        1: 163-163 
+    byte     wb18        1: 164-164 
+    str      wb19        1: 165-188 
+    str      wb19a       1: 189-192 
+    str      wb19b       1: 193-196 
+    str      wb19c       1: 197-200 
+    str      wb19d       1: 201-204 
+    str      wb19x       1: 205-208 
+    str      wb19nr      1: 209-212 
+    int      wdoi        1: 213-216 
+    int      wb1c        1: 217-220 
+    byte     wb1f        1: 221-221 
+    byte     wb2c        1: 222-223 
+    byte     wage        1: 224-224 
+    int      wb3c        1: 225-228 
+    byte     wb3f        1: 229-229 
+    byte     wb4c        1: 230-231 
+    byte     cm1         1: 232-232 
+    byte     cm8         1: 233-233 
+    long     cm15c       1: 234-239 
+    byte     cm15cm      1: 240-241 
+    int      cm15cy      1: 242-245 
+    str      cm18        1: 246-325 
+    byte     cm17        1: 326-326 
+    byte     cm18a       1: 327-328 
+    byte     mn1a        1: 329-329 
+    byte     mn1b        1: 330-330 
+    byte     mn2         1: 331-331 
+    str      mn3         1: 332-359 
+    str      mn3a        1: 360-363 
+    str      mn3c        1: 364-367 
+    str      mn3d        1: 368-371 
+    str      mn3f        1: 372-375 
+    str      mn3g        1: 376-379 
+    str      mn3x        1: 380-383 
+    str      mn3nr       1: 384-387 
+    byte     mn4u        1: 388-388 
+    byte     mn4n        1: 389-390 
+    byte     mn5         1: 391-392 
+    byte     mn6a        1: 393-393 
+    byte     mn6b        1: 394-394 
+    byte     mn6c        1: 395-395 
+    byte     mn7         1: 396-396 
+    byte     mn8         1: 397-397 
+    byte     mn9         1: 398-398 
+    byte     mn11        1: 399-399 
+    byte     mn12        1: 400-400 
+    byte     mn14        1: 401-402 
+    byte     mn16        1: 403-403 
+    byte     mn17        1: 404-405 
+    str      mn18        1: 406-421 
+    str      mn18a       1: 422-425 
+    str      mn18b       1: 426-429 
+    str      mn18x       1: 430-433 
+    str      mn18nr      1: 434-437 
+    str      mn19        1: 438-473 
+    str      mn19a       1: 474-477 
+    str      mn19c       1: 478-481 
+    str      mn19d       1: 482-485 
+    str      mn19f       1: 486-489 
+    str      mn19g       1: 490-493 
+    str      mn19h       1: 494-497 
+    str      mn19x       1: 498-501 
+    str      mn19y       1: 502-505 
+    str      mn19nr      1: 506-509 
+    byte     mn20        1: 510-511 
+    byte     mn21        1: 512-512 
+    byte     mn22        1: 513-513 
+    byte     mn23        1: 514-514 
+    byte     mn24        1: 515-515 
+    byte     mn25        1: 516-516 
+    int      mn26        1: 517-519 
+    byte     mn26u       1: 520-520 
+    byte     mn26n       1: 521-522 
+    byte     mn28        1: 523-523 
+    byte     mn29        1: 524-524 
+    byte     mn30        1: 525-525 
+    str      mn31        1: 526-557 
+    str      mn31a       1: 558-561 
+    str      mn31b       1: 562-565 
+    str      mn31c       1: 566-569 
+    str      mn31d       1: 570-573 
+    str      mn31e       1: 574-577 
+    str      mn31x       1: 578-581 
+    str      mn31z       1: 582-585 
+    str      mn31nr      1: 586-589 
+    byte     mn32        1: 590-590 
+    byte     mn33        1: 591-591 
+    byte     mn34a       1: 592-592 
+    float    mn34        1: 593-597 
+    byte     mn35        1: 598-598 
+    byte     mn36        1: 599-599 
+    int      mn37        1: 600-602 
+    byte     mn37u       1: 603-603 
+    byte     mn37n       1: 604-605 
+    byte     mn38        1: 606-606 
+    str      mn39        1: 607-658 
+    str      mn39a       1: 659-662 
+    str      mn39b       1: 663-666 
+    str      mn39c       1: 667-670 
+    str      mn39d       1: 671-674 
+    str      mn39e       1: 675-678 
+    str      mn39f       1: 679-682 
+    str      mn39g       1: 683-686 
+    str      mn39h       1: 687-690 
+    str      mn39i       1: 691-694 
+    str      mn39j       1: 695-698 
+    str      mn39x       1: 699-702 
+    str      mn39y       1: 703-706 
+    str      mn39nr      1: 707-710 
+    int      pn3         1: 711-713 
+    byte     pn3u        1: 714-714 
+    byte     pn3n        1: 715-716 
+    byte     pn4         1: 717-717 
+    byte     pn5         1: 718-718 
+    byte     pn6         1: 719-719 
+    byte     pn8         1: 720-720 
+    byte     pn9         1: 721-721 
+    byte     pn10        1: 722-722 
+    byte     pn11        1: 723-723 
+    byte     pn12        1: 724-724 
+    int      pn13        1: 725-727 
+    byte     pn13u       1: 728-728 
+    byte     pn13n       1: 729-730 
+    str      pn14        1: 731-762 
+    str      pn14a       1: 763-766 
+    str      pn14c       1: 767-770 
+    str      pn14d       1: 771-774 
+    str      pn14f       1: 775-778 
+    str      pn14g       1: 779-782 
+    str      pn14h       1: 783-786 
+    str      pn14x       1: 787-790 
+    str      pn14nr      1: 791-794 
+    byte     pn15        1: 795-796 
+    byte     pn17        1: 797-797 
+    byte     pn19        1: 798-798 
+    byte     pn20        1: 799-799 
+    byte     pn21        1: 800-800 
+    int      pn22        1: 801-803 
+    byte     pn22u       1: 804-804 
+    byte     pn22n       1: 805-806 
+    str      pn23        1: 807-838 
+    str      pn23a       1: 839-842 
+    str      pn23c       1: 843-846 
+    str      pn23d       1: 847-850 
+    str      pn23f       1: 851-854 
+    str      pn23g       1: 855-858 
+    str      pn23h       1: 859-862 
+    str      pn23x       1: 863-866 
+    str      pn23nr      1: 867-870 
+    byte     pn24        1: 871-872 
+    byte     pn25a       1: 873-873 
+    byte     pn25b       1: 874-874 
+    byte     pn25c       1: 875-875 
+    byte     pn27        1: 876-876 
+    byte     pn29        1: 877-877 
+    byte     pn30        1: 878-878 
+    byte     ma1         1: 879-879 
+    byte     ma5         1: 880-880 
+    byte     ma6         1: 881-881 
+    byte     ma7         1: 882-882 
+    long     ma8         1: 883-888 
+    byte     ma8m        1: 889-890 
+    int      ma8y        1: 891-894 
+    byte     tef5        1: 895-895 
+    byte     cas1        1: 896-896 
+    str      cas2        1: 897-940 
+    str      cas2a       1: 941-944 
+    str      cas2b       1: 945-948 
+    str      cas2c       1: 949-952 
+    str      cas2d       1: 953-956 
+    str      cas2e       1: 957-960 
+    str      cas2f       1: 961-964 
+    str      cas2g       1: 965-968 
+    str      cas2h       1: 969-972 
+    str      cas2i       1: 973-976 
+    str      cas2x       1: 977-980 
+    str      cas2z       1: 981-984 
+    byte     cas3        1: 985-985 
+    byte     cas4        1: 986-987 
+    byte     ac1         1: 988-988 
+    byte     ac2         1: 989-989 
+    str      ac3         1: 990-1013
+    str      ac3a        1:1014-1017
+    str      ac3b        1:1018-1021
+    str      ac3c        1:1022-1025
+    str      ac3d        1:1026-1029
+    str      ac3x        1:1030-1033
+    str      ac3z        1:1034-1037
+    byte     ac4         1:1038-1039
+    byte     ac5         1:1040-1041
+    str      ac6         1:1042-1069
+    str      ac6a        1:1070-1073
+    str      ac6b        1:1074-1077
+    str      ac6c        1:1078-1081
+    str      ac6d        1:1082-1085
+    str      ac6e        1:1086-1089
+    str      ac6x        1:1090-1093
+    str      ac6z        1:1094-1097
+    str      dc1         1:1098-1117
+    str      dc1a        1:1118-1121
+    str      dc1b        1:1122-1125
+    str      dc1c        1:1126-1129
+    str      dc1x        1:1130-1133
+    str      dc1z        1:1134-1137
+    byte     dc2         1:1138-1138
+    byte     br1         1:1139-1139
+    byte     br2         1:1140-1140
+    byte     br3         1:1141-1141
+    str      br4         1:1142-1177
+    str      br4a        1:1178-1181
+    str      br4b        1:1182-1185
+    str      br4c        1:1186-1189
+    str      br4d        1:1190-1193
+    str      br4e        1:1194-1197
+    str      br4f        1:1198-1201
+    str      br4g        1:1202-1205
+    str      br4x        1:1206-1209
+    str      br4z        1:1210-1213
+    str      br5         1:1214-1229
+    str      br5a        1:1230-1233
+    str      br5b        1:1234-1237
+    str      br5x        1:1238-1241
+    str      br5z        1:1242-1245
+    byte     br6         1:1246-1246
+    str      br7         1:1247-1294
+    str      br7a        1:1295-1298
+    str      br7b        1:1299-1302
+    str      br7c        1:1303-1306
+    str      br7d        1:1307-1310
+    str      br7e        1:1311-1314
+    str      br7f        1:1315-1318
+    str      br7g        1:1319-1322
+    str      br7h        1:1323-1326
+    str      br7i        1:1327-1330
+    str      br7j        1:1331-1334
+    str      br7x        1:1335-1338
+    str      br7z        1:1339-1342
+    byte     im1         1:1343-1343
+    byte     im2         1:1344-1344
+    str      im3         1:1345-1372
+    str      im3a        1:1373-1376
+    str      im3b        1:1377-1380
+    str      im3c        1:1381-1384
+    str      im3d        1:1385-1388
+    str      im3e        1:1389-1392
+    str      im3x        1:1393-1396
+    str      im3z        1:1397-1400
+    str      im4         1:1401-1468
+    str      im4a        1:1469-1472
+    str      im4b        1:1473-1476
+    str      im4c        1:1477-1480
+    str      im4d        1:1481-1484
+    str      im4e        1:1485-1488
+    str      im4f        1:1489-1492
+    str      im4g        1:1493-1496
+    str      im4h        1:1497-1500
+    str      im4i        1:1501-1504
+    str      im4j        1:1505-1508
+    str      im4k        1:1509-1512
+    str      im4l        1:1513-1516
+    str      im4m        1:1517-1520
+    str      im4n        1:1521-1524
+    str      im4o        1:1525-1528
+    str      im4x        1:1529-1532
+    str      im4z        1:1533-1536
+    byte     im5         1:1537-1537
+    str      im6         1:1538-1577
+    str      im6a        1:1578-1581
+    str      im6b        1:1582-1585
+    str      im6c        1:1586-1589
+    str      im6d        1:1590-1593
+    str      im6e        1:1594-1597
+    str      im6f        1:1598-1601
+    str      im6g        1:1602-1605
+    str      im6h        1:1606-1609
+    str      im6x        1:1610-1613
+    str      im6z        1:1614-1617
+    str      im7         1:1618-1677
+    str      im7a        1:1678-1681
+    str      im7b        1:1682-1685
+    str      im7c        1:1686-1689
+    str      im7d        1:1690-1693
+    str      im7e        1:1694-1697
+    str      im7f        1:1698-1701
+    str      im7g        1:1702-1705
+    str      im7h        1:1706-1709
+    str      im7i        1:1710-1713
+    str      im7j        1:1714-1717
+    str      im7k        1:1718-1721
+    str      im7m        1:1722-1725
+    str      im7n        1:1726-1729
+    str      im7x        1:1730-1733
+    str      im7z        1:1734-1737
+    str      im8         1:1738-1757
+    str      im8a        1:1758-1761
+    str      im8b        1:1762-1765
+    str      im8c        1:1766-1769
+    str      im8x        1:1770-1773
+    str      im8z        1:1774-1777
+    str      im9         1:1778-1801
+    str      im9a        1:1802-1805
+    str      im9b        1:1806-1809
+    str      im9c        1:1810-1813
+    str      im9d        1:1814-1817
+    str      im9x        1:1818-1821
+    str      im9z        1:1822-1825
+    int      im10        1:1826-1829
+    byte     im10u       1:1830-1830
+    byte     im10n       1:1831-1832
+    byte     vit1        1:1833-1833
+    byte     vit2        1:1834-1834
+    str      vit3        1:1835-1862
+    str      vit3a       1:1863-1866
+    str      vit3b       1:1867-1870
+    str      vit3c       1:1871-1874
+    str      vit3d       1:1875-1878
+    str      vit3e       1:1879-1882
+    str      vit3x       1:1883-1886
+    str      vit3z       1:1887-1890
+    byte     vit4        1:1891-1892
+    byte     vit5        1:1893-1894
+    str      vit6        1:1895-1914
+    str      vit6a       1:1915-1918
+    str      vit6b       1:1919-1922
+    str      vit6c       1:1923-1926
+    str      vit6x       1:1927-1930
+    str      vit6z       1:1931-1934
+    byte     dew1        1:1935-1935
+    byte     dew2        1:1936-1936
+    str      dew3        1:1937-1960
+    str      dew3a       1:1961-1964
+    str      dew3b       1:1965-1968
+    str      dew3c       1:1969-1972
+    str      dew3d       1:1973-1976
+    str      dew3x       1:1977-1980
+    str      dew3z       1:1981-1984
+    byte     dew4        1:1985-1986
+    byte     dew5        1:1987-1987
+    byte     dew6        1:1988-1988
+    str      dew7        1:1989-2012
+    str      dew7a       1:2013-2016
+    str      dew7b       1:2017-2020
+    str      dew7c       1:2021-2024
+    str      dew7d       1:2025-2028
+    str      dew7x       1:2029-2032
+    str      dew7z       1:2033-2036
+    byte     san1        1:2037-2038
+    byte     san2        1:2039-2039
+    byte     san3        1:2040-2040
+    str      san4        1:2041-2076
+    str      san4a       1:2077-2080
+    str      san4b       1:2081-2084
+    str      san4c       1:2085-2088
+    str      san4d       1:2089-2092
+    str      san4e       1:2093-2096
+    str      san4f       1:2097-2100
+    str      san4g       1:2101-2104
+    str      san4x       1:2105-2108
+    str      san4z       1:2109-2112
+    byte     san5        1:2113-2113
+    byte     hd1         1:2114-2114
+    str      hd2         1:2115-2138
+    str      hd2a        1:2139-2142
+    str      hd2b        1:2143-2146
+    str      hd2c        1:2147-2150
+    str      hd2d        1:2151-2154
+    str      hd2x        1:2155-2158
+    str      hd2z        1:2159-2162
+    str      hd3         1:2163-2194
+    str      hd3a        1:2195-2198
+    str      hd3b        1:2199-2202
+    str      hd3c        1:2203-2206
+    str      hd3d        1:2207-2210
+    str      hd3e        1:2211-2214
+    str      hd3f        1:2215-2218
+    str      hd3x        1:2219-2222
+    str      hd3z        1:2223-2226
+    byte     hd4         1:2227-2227
+}

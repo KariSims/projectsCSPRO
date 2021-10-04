@@ -1,0 +1,388 @@
+﻿[Dictionary]
+Version=CSPro 7.5
+Label=Equipe
+Name=EQUIPE_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+SecurityOptions=9A3CE800639BB7DC9002B139B4B8CA4F843965E3502BAFAB2F3BEC28B5D834E7
+
+[Level]
+Label=Equipe Level
+Name=EQUIPE_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Province
+Name=RGAEQ01
+Start=2
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Province
+Name=RGAEQ01_VS1
+Value=1;KINSHASA
+Value=2;KONGO CENTRAL
+Value=3;KWAGO
+Value=4;KWILU
+Value=5;MAI-NDOMBE
+Value=6;EQUATEUR
+Value=7;NORD-UBANGI
+Value=8;SUD-UBANGI
+Value=9;MONGALA
+Value=10;TSHUAPA
+Value=11;TSHOPÖ
+Value=12;BAS-UELE
+Value=13;HAUT-UELE
+Value=14;ITURI
+Value=15;NORD-KIVU
+Value=16;SUD-KIVU
+Value=17;MANIEMA
+Value=18;HAUT-KATANGA
+Value=19;HAUT-LOMAMI
+Value=20;LUALABA
+Value=21;TANGANYIKA
+Value=22;LOMAMI
+Value=23;SANKURU
+Value=24;KASAI ORIENTAL
+Value=25;KASAI
+Value=26;KASAI CENTRAL
+
+[Item]
+Label=Territoire / Ville
+Name=RGAEQ02
+Start=4
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Secteur
+Name=RGAEQ03
+Start=7
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Groupement
+Name=RGAEQ04
+Start=10
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Equipe
+Name=RGAEQ05
+Start=13
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=Equipe Record
+Name=EQUIPE_REC
+RecordTypeValue='1'
+MaxRecords=10
+RecordLen=186
+
+[Item]
+Label=Numéro
+Name=RGAEQ10
+Start=16
+Len=1
+ZeroFill=Yes
+
+[Item]
+Label=Code Agent
+Name=RGAEQ11
+Start=17
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=BT adresse
+Name=RGAEQ12
+Start=21
+Len=30
+DataType=Alpha
+
+[Item]
+Label=DID adresse
+Name=RGAEQ13
+Start=51
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Nom de l'Agent
+Name=RGAEQ14
+Start=71
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Post Nom de l'Agent
+Name=RGAEQ15
+Start=96
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Prénom de l'Agent
+Name=RGAEQ16
+Start=121
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Sexe de l'Agent
+Name=RGAEQ17
+Start=146
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Sexe de l'Agent
+Name=RGAEQ17_VS1
+Value=1;Masculin
+Image=..\..\img\modalite\Homme.png
+Value=2;Féminin
+Image=..\..\img\modalite\Femme.png
+
+[Item]
+Label=Age de l'Agent
+Name=RGAEQ18
+Start=147
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Age de l'Agent
+Name=RGAEQ18_VS1
+Value=18;18 ans
+Value=19;19 ans
+Value=20;20 ans
+Value=21;21 ans
+Value=22;22 ans
+Value=23;23 ans
+Value=24;24 ans
+Value=25;25 ans
+Value=26;26 ans
+Value=27;27 ans
+Value=28;28 ans
+Value=29;29 ans
+Value=30;30 ans
+Value=31;31 ans
+Value=32;32 ans
+Value=33;33 ans
+Value=34;34 ans
+Value=35;35 ans
+Value=36;36 ans
+Value=37;37 ans
+Value=38;38 ans
+Value=39;39 ans
+Value=40;40 ans
+Value=41;41 ans
+Value=42;42 ans
+Value=43;43 ans
+Value=44;44 ans
+Value=45;45 ans
+Value=46;46 ans
+Value=47;47 ans
+Value=48;48 ans
+Value=49;49 ans
+Value=50;50 ans
+Value=51;51 ans
+Value=52;52 ans
+Value=53;53 ans
+Value=54;54 ans
+Value=55;55 ans
+Value=56;56 ans
+Value=57;57 ans
+Value=58;58 ans
+Value=59;59 ans
+
+[Item]
+Label=Type de pièce d'identité
+Name=RGAEQ19
+Start=149
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Type de pièce d'identité
+Name=RGAEQ19_VS1
+Value=1;Carte nationale d'identité
+Value=2;Passeport
+Value=3;Permis de conduire
+Value=9;Autre pièce d'identité
+
+[Item]
+Label=Référence de la pièce nationale d'identité
+Name=RGAEQ20
+Start=150
+Len=13
+DataType=Alpha
+
+[Item]
+Label=Rôle
+Name=RGAEQ21
+Start=163
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Rôle
+Name=RGAEQ21_VS1
+Value=0;Controleur
+Value=1;Agent Recenseur
+
+[Item]
+Label=Téléphone Personnel
+Name=RGAEQ22
+Start=164
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Téléphone Personnel
+Name=RGAEQ22_VS1
+Value=40000000:49999999;Airtel
+Image=..\..\..\RGPHAR\img\modalite\airtel-2010-vector-logo.png
+Value=50000000:59999999;Airtel
+Image=..\..\..\RGPHAR\img\modalite\airtel-2010-vector-logo.png
+Value=60000000:69999999;MTN
+Image=..\..\..\RGPHAR\img\modalite\mtn_logo.svg.png
+Value=220000000:229999999;Congo Télécom
+Image=..\..\..\RGPHAR\img\modalite\congo-telecom.png
+Value=0;Pas de numéro
+Image=..\..\..\RGPHAR\img\modalite\no-rouge.png
+
+[Item]
+Label=Téléphone GFU
+Name=RGAEQ23
+Start=173
+Len=9
+ZeroFill=Yes
+
+[ValueSet]
+Label=Téléphone GFU
+Name=RGAEQ23_VS1
+Value=40000000:49999999;Airtel
+Image=..\..\..\RGPHAR\img\modalite\airtel-2010-vector-logo.png
+Value=50000000:59999999;Airtel
+Image=..\..\..\RGPHAR\img\modalite\airtel-2010-vector-logo.png
+Value=60000000:69999999;MTN
+Image=..\..\..\RGPHAR\img\modalite\mtn_logo.svg.png
+Value=220000000:229999999;Congo Télécom
+Image=..\..\..\RGPHAR\img\modalite\congo-telecom.png
+Value=0;Pas de numéro
+Image=..\..\..\RGPHAR\img\modalite\no-rouge.png
+
+[Item]
+Label=ZT assignée
+Name=RGAEQ24
+Start=182
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Méthode de dénombrement
+Name=RGAEQ25
+Start=185
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Méthode de dénombrement
+Name=RGAEQ25_VS1
+Value=1;Uniquement ma Zône de Travail (Classique)
+Value=2;Toutes les Zônes de Travail (Balayage)
+
+[Item]
+Label=Statut
+Name=RGAEQ26
+Start=186
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Statut
+Name=RGAEQ26_VS1
+Value=1;Membre de l'équipe
+Value=2;Membre d'appui
+
+[Record]
+Label=Info
+Name=INFO
+RecordTypeValue='2'
+RecordLen=162
+
+[Item]
+Label=Nombre
+Name=RGAEQ30
+Start=16
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre
+Name=RGAEQ30_VS1
+Value=2;2 Agents (1 Ctr + 1 AR)
+Value=3;3 Agents (1 Ctr + 2 AR)
+Value=4;4 Agents (1 Ctr + 3 AR)
+Value=5;5 Agents (1 Ctr + 4 AR)
+Value=6;6 Agents (1 Ctr + 5 AR)
+Value=7;7 Agents (1 Ctr + 6 AR)
+Value=8;8 Agents (1 Ctr + 7 AR)
+Value=9;9 Agents (1 Ctr + 8 AR)
+
+[Item]
+Label=Date
+Name=RGAEQ31
+Start=17
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Heure
+Name=RGAEQ32
+Start=25
+Len=8
+
+[Item]
+Label=UTC
+Name=RGAEQ33
+Start=33
+Len=15
+ZeroFill=Yes
+
+[Item]
+Label=Province
+Name=RGAEQ34
+Start=48
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Territoire/Ville
+Name=RGAEQ35
+Start=73
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Secteur/Chefferie/commune rurale/Commune urbaine
+Name=RGAEQ36
+Start=103
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Groupement/Quartier
+Name=RGAEQ37
+Start=133
+Len=30
+DataType=Alpha

@@ -1,0 +1,2526 @@
+﻿PROC GLOBAL
+
+{ --------------------------------------------------------------------------- }
+
+
+//set explicit;
+{ Working variables }
+alpha(10) wothrespI;     { Behaviour response interviewer }
+alpha(10) wothrespR;     { Behaviour response respondent}
+alpha(26) alphavar;
+alpha(26) alphanew;
+array codes(50);
+array alpha(50) labels(50);
+alpha(62) alphalst;     { The alphabet }
+alpha(60) medicineCA13; 
+numeric noPartFlag; //flag that allows for partial save
+
+alpha(120) wothresp;     { Other answers response }
+numeric   wothcode;     { Other answers code }
+alpha(120) OTHER;
+numeric inEntry, lb, ldb, maxchild, maxd, mind, prev, hashh, xintnum, xentryhw, xsupnum, xint, xinspect, xmodcent, xrvisit, xmodify, xpartial, HLN ;
+numeric xhintnum, ctrEtF2x,VrfHH3,xMthCH,xYrCH,xDDCH;
+
+Array Alpha tabfem (30,20);
+
+numeric zscoeff,zsr,zsb1,zsb2,zsb3,zsb4,zsb5,zsdz,zst
+,zsdzp,zsfx,zsll,zsul,zsa,zsknot,zsi,zsj,zsk,zsl
+,zsz,zsc,zsy1,zsy2,zsy3,zssd1,zssd2,zshta
+,zspmed,zsv,zshac,zshap,zshaz,zswap,zswaz,zswac,zshtw
+,zswhp,zswhz,zswhc,fhaz,fwaz,fwhz,zsflag,leapday
+,xdays1,xdays2
+,vcheckx,addmode,qmark,totlen,aok,alphsize
+,maxmem,maxnet,hhnum
+,minage,maxage,minab,minam
+,chhlth,chlabl,chlabu,mindi,cln,psu,hhn,err,dd,ss,ddw
+,di,db,diwm,dich,xline,xwomen,xchild,xtemp
+,udob,ldob,ldobfc,udobfc,ldoblc,udoblc,ldofm,udofm
+,hwsex,hwage,hwerr,birthd,birthm,birthy,age,xweight,xheight
+,lastdig
+,a,e,i,j,l,lx,n,t,x,y,found,net
+,xwc,xcc,cdline,kount,opid;
+ numeric verific, chsex;
+ numeric visualIM9;
+ string strpart,CA23str;
+ numeric CA23count; 
+ numeric EnqHomme ;
+ // PDS 18022018
+ numeric Date1, Date2, datdif;
+ 
+ //-----------------------------------------------------------------
+ // sauvegarde des données 
+Function sav()
+	savepartial();
+end;
+
+
+// Quitter
+Function quitter()
+	savepartial();
+	stop(1) ;
+end;
+  function showCalc()
+    execsystem("calc");
+  end;
+
+  { setup basic user bar }
+  function userbase();
+    userbar( clear );
+
+    userbar(add text,"MICS6 RDC 2017: Enfant < 5 ans");
+	userbar(set color,236,254,255);
+	
+    userbar(add spacing,25);	
+    userbar( add button, "<",    do("PreviousField") );
+    userbar( add button, ">",    do("NextField") );
+    userbar( add button, ">>|",  do("AdvanceToEnd") );
+    userbar( add button, "Note", do("EditNote") );
+    userbar( add button, "Lang", do("ChangeLanguage") );
+    userbar( add button, "Calc", showCalc );
+    userbar(add spacing,25);	
+        	
+	userbar(add button,"Sauvegarde", sav());    
+	userbar(add spacing,25);
+	userbar(add text," ");
+	
+	userbar(add button,"Quitter", quitter());    
+	userbar(add spacing,25);
+	userbar(add text," ");
+  end;
+  
+
+{ --------------------------------------------------------------------------- }
+  { Function to ensure proper entry and updating of "Behaviour coding" answers }
+ { function getother( alpha(10) questnum, questocc );
+    { Create alpha id for other answers file }
+    { If your ID is not 7 characters in length, remember to fix the length of the level 1 ID and of OTHID in OTHERS.DCF }
+    OTHID   = concat(edit("999",HH1),edit("99",HH2),edit("99",UF4));
+    OTHQUES = questnum;   { question number }
+    OTHOCC  = questocc;   { occurrence for multiple section/group or
+                                           multipart question }
+    { Get the previous response back if already entered
+      in case of backtabbing or updating }
+    if !loadcase(OTHERS,OTHID,OTHQUES,OTHOCC) then
+      { Otherwise initialize to blanks }
+      BHC1 = " ";
+    endif;
+    wothrespI = BHC1;
+  end;}
+   
+{ --------------------------------------------------------------------------- }
+{ valid
+  Checks that a variable has a valid value.
+  A valid value is less than 96 and not a special value e.g notappl/missing
+  Returns: 1 if valid, 0 if not valid                                        }
+
+function valid(xvar);
+  valid = (!special(xvar) and xvar < 96)
+end;
+
+{ -------------------------------------------------------------------------- }
+{ NAtoZero
+  Converts notappl (and 99 - for child labour module) values to zero while not changing other values.
+  Returns: 0 if input variable is notappl, else returns it unchanged         }
+function NAtoZero(xvar);
+  if xvar = notappl or xvar=99 then
+    xvar = 0
+  endif;
+  NAtoZero = xvar;
+end;
+
+{ -------------------------------------------------------------------------- }
+{ noteq
+  Tests for inequality, but treating NA as zero                              }
+
+  function noteq( xvar, dvar );
+    noteq = (xvar <> NAtoZero(dvar));
+  end;
+
+{ -------------------------------------------------------------------------- }
+{ ndjlba
+  Revised function to adjust dates based on age                              }
+  function ndjlba(lowera,uppera,lowerb,upperb,agetofit)
+    { calculate new possible lower bound for a = lower bound of b - age - 12 months }
+    x = lowerb - 12 * (agetofit + 1);
+    { if new lower bound > upper bound then we have an inconsistency }
+    if x > uppera then
+      x = -1
+    else
+      { if new lower bound is less than upper bound, change new lower bound to be
+        lower bound of b - age - 11 months }
+      if x < uppera then
+        x = x + 1
+      endif;
+      { if new lower bound is less than old lower bound for a, leave with old value }
+      if lowera > x then
+        x = lowera
+      endif
+    endif;
+    { return value of lower bound of a }
+    ndjlba = x
+  end;
+
+{ -------------------------------------------------------------------------- }
+{ badspecial
+  Check special answers for questions with units and numbers
+  !!! make sure to correctly adjust the ranges of the
+      questions involved, for the function to work properly                  }
+  function badspecial( units, number )
+    x = 0;
+    if (units  = 9 & number <= 90) |
+       (units <> 9 & number in 90:98) |
+       (units  > 1 & number = 0  ) then
+      x = 1;
+    endif;
+    badspecial = x;
+  end;
+  
+    { function to clear codes and labels for household members }
+  function clean_labels();
+    do i = 1 while i <= 30 by 1
+      codes(i)  = notappl;
+      labels(i) = "";
+    enddo;
+  end;
+
+    { function to clear codes and labels for household members }
+  function clear_labels();
+    do i = 1 while i <= 30 by 1
+      codes(i)  = notappl;
+      labels(i) = "";
+    enddo;
+  end;
+{ -------------------------------------------------------------------------- }
+{ Anthropometry function         }
+{ Height and Weight Z-score functions }
+
+function zscoef(zsip,zsjp,zskp,zslp);
+  recode zsip:zsjp:zskp:zslp => zscoeff;
+ 1:1:1:1=> 0.461824*100    ;  1:1:1:2=> 0.401257*10     ;  1:1:1:3=>-0.255449        ;  1:1:1:4=> 0.789966*0.01   ;
+ 1:1:2:1=> 0.673630*100    ;  1:1:2:2=> 0.133410*10     ;  1:1:2:3=>-0.421583*0.1    ;  1:1:2:4=> 0.101581*0.01   ;
+ 1:1:3:1=> 0.813173*100    ;  1:1:3:2=> 0.755023        ;  1:1:3:3=> 0.355289*0.01   ;  1:1:3:4=>-0.590137*0.001  ;
+ 1:2:1:1=> 0.504849*100    ;  1:2:1:2=> 0.438155*10     ;  1:2:1:3=>-0.312088        ;  1:2:1:4=> 0.105514*0.1    ;
+ 1:2:2:1=> 0.723318*100    ;  1:2:2:2=> 0.132797*10     ;  1:2:2:3=>-0.271990*0.1    ;  1:2:2:4=> 0.448522*0.001  ;
+ 1:2:3:1=> 0.876453*100    ;  1:2:3:2=> 0.814752        ;  1:2:3:3=>-0.701552*0.01   ;  1:2:3:4=> 0.609604*0.0001 ;
+ 1:3:1:1=> 0.547862*100    ;  1:3:1:2=> 0.475220*10     ;  1:3:1:3=>-0.368845        ;  1:3:1:4=> 0.132042*0.1    ;
+ 1:3:2:1=> 0.773055*100    ;  1:3:2:2=> 0.132163*10     ;  1:3:2:3=>-0.123304*0.1    ;  1:3:2:4=>-0.113662*0.001  ;
+ 1:3:3:1=> 0.939720*100    ;  1:3:3:2=> 0.874997        ;  1:3:3:3=>-0.174451*0.1    ;  1:3:3:4=> 0.693745*0.001  ;
+ 2:1:1:1=> 0.457829*100    ;  2:1:1:2=> 0.367323*10     ;  2:1:1:3=>-0.237212        ;  2:1:1:4=> 0.779334*0.01   ;
+ 2:1:2:1=> 0.653091*100    ;  2:1:2:2=> 0.129719*10     ;  2:1:2:3=>-0.267922*0.1    ;  2:1:2:4=> 0.466010*0.001  ;
+ 2:1:3:1=> 0.803115*100    ;  2:1:3:2=> 0.807980        ;  2:1:3:3=>-0.582173*0.01   ;  2:1:3:4=>-0.184636*0.001  ;
+ 2:2:1:1=> 0.498644*100    ;  2:2:1:2=> 0.393746*10     ;  2:2:1:3=>-0.262999        ;  2:2:1:4=> 0.884779*0.01   ;
+ 2:2:2:1=> 0.704487*100    ;  2:2:2:2=> 0.135350*10     ;  2:2:2:3=>-0.241086*0.1    ;  2:2:2:4=> 0.339627*0.001  ;
+ 2:2:3:1=> 0.864730*100    ;  2:2:3:2=> 0.859488        ;  2:2:3:3=>-0.882537*0.01   ;  2:2:3:4=> 0.322490*0.0001 ;
+ 2:3:1:1=> 0.539292*100    ;  2:3:1:2=> 0.421102*10     ;  2:3:1:3=>-0.290055        ;  2:3:1:4=> 0.995372*0.01   ;
+ 2:3:2:1=> 0.755903*100    ;  2:3:2:2=> 0.140880*10     ;  2:3:2:3=>-0.213041*0.1    ;  2:3:2:4=> 0.210055*0.001  ;
+ 2:3:3:1=> 0.926378*100    ;  2:3:3:2=> 0.911461        ;  2:3:3:3=>-0.118516*0.1    ;  2:3:3:4=> 0.242960*0.001  ;
+ 3:1:1:1=> 0.249740*10     ;  3:1:1:2=> 0.462056        ;  3:1:1:3=> 0.481125*0.1    ;  3:1:1:4=>-0.458894*0.01   ;
+ 3:1:2:1=> 0.601058*10     ;  3:1:2:2=> 0.543800        ;  3:1:2:3=>-0.344885*0.1    ;  3:1:2:4=> 0.973626*0.001  ;
+ 3:1:3:1=> 0.925227*10     ;  3:1:3:2=> 0.136684        ;  3:1:3:3=> 0.562077*0.001  ;  3:1:3:4=>-0.236327*0.0001 ;
+ 3:2:1:1=> 0.326804*10     ;  3:2:1:2=> 0.108795*10     ;  3:2:1:3=>-0.677657*0.1    ;  3:2:1:4=> 0.226565*0.01   ;
+ 3:2:2:1=> 0.784554*10     ;  3:2:2:2=> 0.519450        ;  3:2:2:3=>-0.269840*0.1    ;  3:2:2:4=> 0.738014*0.001  ;
+ 3:2:3:1=> 0.114685*100    ;  3:2:3:2=> 0.190655        ;  3:2:3:3=>-0.415541*0.001  ;  3:2:3:4=>-0.133747*0.0001 ;
+ 3:3:1:1=> 0.420915*10     ;  3:3:1:2=> 0.145910*10     ;  3:3:1:3=>-0.124212        ;  3:3:1:4=> 0.546698*0.01   ;
+ 3:3:2:1=> 0.967299*10     ;  3:3:2:2=> 0.558989        ;  3:3:2:3=>-0.258067*0.1    ;  3:3:2:4=> 0.644479*0.001  ;
+ 3:3:3:1=> 0.137784*100    ;  3:3:3:2=> 0.218043        ;  3:3:3:3=>-0.260545*0.01   ;  3:3:3:4=> 0.106811*0.001  ;
+ 4:1:1:1=> 0.230235*10     ;  4:1:1:2=> 0.545715        ;  4:1:1:3=> 0.131161*0.1    ;  4:1:1:4=>-0.221402*0.01   ;
+ 4:1:2:1=> 0.557059*10     ;  4:1:2:2=> 0.463994        ;  4:1:2:3=>-0.267363*0.1    ;  4:1:2:4=> 0.773006*0.001  ;
+ 4:1:3:1=> 0.862425*10     ;  4:1:3:2=> 0.156261        ;  4:1:3:3=> 0.109190*0.01   ;  4:1:3:4=>-0.898380*0.0001 ;
+ 4:2:1:1=> 0.322751*10     ;  4:2:1:2=> 0.768817        ;  4:2:1:3=>-0.124130*0.1    ;  4:2:1:4=>-0.857452*0.001  ;
+ 4:2:2:1=> 0.720834*10     ;  4:2:2:2=> 0.527256        ;  4:2:2:3=>-0.278471*0.1    ;  4:2:2:4=> 0.752199*0.001  ;
+ 4:2:3:1=> 0.108252*100    ;  4:2:3:2=> 0.183875        ;  4:2:3:3=>-0.767982*0.001  ;  4:2:3:4=> 0.714597*0.00001;
+ 4:3:1:1=> 0.391945*10     ;  4:3:1:2=> 0.115426*10     ;  4:3:1:3=>-0.635733*0.1    ;  4:3:1:4=> 0.176581*0.01   ;
+ 4:3:2:1=> 0.893781*10     ;  4:3:2:2=> 0.582092        ;  4:3:2:3=>-0.317886*0.1    ;  4:3:2:4=> 0.930288*0.001  ;
+ 4:3:3:1=> 0.129529*100    ;  4:3:3:2=> 0.221049        ;  4:3:3:3=> 0.170173*0.01   ;  4:3:3:4=>-0.906913*0.0001 ;
+ 5:1:1:1=> 0.250836*10     ;  5:1:1:2=> 0.681768*0.1    ;  5:1:1:3=> 0.126871*0.1    ;  5:1:1:4=>-0.259413*0.001  ;
+ 5:1:2:1=> 0.763160*10     ;  5:1:2:2=> 0.240094        ;  5:1:2:3=>-0.521241*0.01   ;  5:1:2:4=> 0.150006*0.001  ;
+ 5:1:3:1=> 0.111393*100    ;  5:1:3:2=> 0.198252        ;  5:1:3:3=> 0.288790*0.01   ;  5:1:3:4=>-0.207356*0.0001 ;
+ 5:2:1:1=> 0.314986*10     ;  5:2:1:2=> 0.148592        ;  5:2:1:3=> 0.947678*0.01   ;  5:2:1:4=>-0.205609*0.001  ;
+ 5:2:2:1=> 0.907905*10     ;  5:2:2:2=> 0.258223        ;  5:2:2:3=>-0.471024*0.01   ;  5:2:2:4=> 0.132953*0.001  ;
+ 5:2:3:1=> 0.129763*100    ;  5:2:3:2=> 0.217885        ;  5:2:3:3=> 0.246924*0.01   ;  5:2:3:4=> 0.104389*0.001  ;
+ 5:3:1:1=> 0.409354*10     ;  5:3:1:2=> 0.188963        ;  5:3:1:3=> 0.873912*0.01   ;  5:3:1:4=>-0.193446*0.001  ;
+ 5:3:2:1=> 0.107090*100    ;  5:3:2:2=> 0.283963        ;  5:3:2:3=>-0.460866*0.01   ;  5:3:2:4=> 0.113211*0.001  ;
+ 5:3:3:1=> 0.149874*100    ;  5:3:3:2=> 0.228093        ;  5:3:3:3=> 0.150476*0.01   ;  5:3:3:4=> 0.133490*0.001  ;
+ 6:1:1:1=> 0.260988*10     ;  6:1:1:2=> 0.630037*0.1    ;  6:1:1:3=> 0.115431*0.1    ;  6:1:1:4=>-0.231559*0.001  ;
+ 6:1:2:1=> 0.734790*10     ;  6:1:2:2=> 0.226503        ;  6:1:2:3=>-0.443447*0.01   ;  6:1:2:4=> 0.137357*0.001  ;
+ 6:1:3:1=> 0.107892*100    ;  6:1:3:2=> 0.200373        ;  6:1:3:3=> 0.298280*0.01   ;  6:1:3:4=> 0.891100*0.0001 ;
+ 6:2:1:1=> 0.329545*10     ;  6:2:1:2=> 0.103651        ;  6:2:1:3=> 0.119637*0.1    ;  6:2:1:4=>-0.255793*0.001  ;
+ 6:2:2:1=> 0.889598*10     ;  6:2:2:2=> 0.248036        ;  6:2:2:3=>-0.568606*0.01   ;  6:2:2:4=> 0.181276*0.001  ;
+ 6:2:3:1=> 0.125756*100    ;  6:2:3:2=> 0.219539        ;  6:2:3:3=> 0.410286*0.01   ;  6:2:3:4=>-0.204386*0.0001 ;
+ 6:3:1:1=> 0.393902*10     ;  6:3:1:2=> 0.201926        ;  6:3:1:3=> 0.746380*0.01   ;  6:3:1:4=>-0.178154*0.001  ;
+ 6:3:2:1=> 0.103641*100    ;  6:3:2:2=> 0.262530        ;  6:3:2:3=>-0.482882*0.01   ;  6:3:2:4=> 0.154783*0.001  ;
+ 6:3:3:1=> 0.144278*100    ;  6:3:3:2=> 0.239142        ;  6:3:3:3=> 0.352948*0.01   ;  6:3:3:4=> 0.139341*0.001  ;
+ 7:1:1:1=> 0.322108*100    ;  7:1:1:2=> 0.258812*10     ;  7:1:1:3=>-0.249611        ;  7:1:1:4=> 0.111355*0.1    ;
+ 7:1:2:1=> 0.411588*100    ;  7:1:2:2=> 0.795414        ;  7:1:2:3=>-0.491726*0.1    ;  7:1:2:4=> 0.131269*0.01   ;
+ 7:1:3:1=> 0.458912*100    ;  7:1:3:2=> 0.182354        ;  7:1:3:3=>-0.191581*0.01   ;  7:1:3:4=>-0.463902*0.0001 ;
+ 7:2:1:1=> 0.348510*100    ;  7:2:1:2=> 0.253355*10     ;  7:2:1:3=>-0.235109        ;  7:2:1:4=> 0.101480*0.1    ;
+ 7:2:2:1=> 0.437804*100    ;  7:2:2:2=> 0.808235        ;  7:2:2:3=>-0.524443*0.1    ;  7:2:2:4=> 0.140200*0.01   ;
+ 7:2:3:1=> 0.483499*100    ;  7:2:3:2=> 0.155234        ;  7:2:3:3=>-0.197246*0.01   ;  7:2:3:4=>-0.549570*0.00001;
+ 7:3:1:1=> 0.373458*100    ;  7:3:1:2=> 0.284554*10     ;  7:3:1:3=>-0.312001        ;  7:3:1:4=> 0.150148*0.1    ;
+ 7:3:2:1=> 0.464302*100    ;  7:3:2:2=> 0.723126        ;  7:3:2:3=>-0.417343*0.1    ;  7:3:2:4=> 0.106348*0.01   ;
+ 7:3:3:1=> 0.509357*100    ;  7:3:3:2=> 0.180925        ;  7:3:3:3=>-0.344910*0.01   ;  7:3:3:4=> 0.218012*0.0001 ;
+ 8:1:1:1=> 0.320688*100    ;  8:1:1:2=> 0.210232*10     ;  8:1:1:3=>-0.165974        ;  8:1:1:4=> 0.640051*0.01   ;
+ 8:1:2:1=> 0.400902*100    ;  8:1:2:2=> 0.801885        ;  8:1:2:3=>-0.507646*0.1    ;  8:1:2:4=> 0.138010*0.01   ;
+ 8:1:3:1=> 0.447875*100    ;  8:1:3:2=> 0.179737        ;  8:1:3:3=>-0.108106*0.01   ;  8:1:3:4=>-0.652464*0.0001 ;
+ 8:2:1:1=> 0.342817*100    ;  8:2:1:2=> 0.231444*10     ;  8:2:1:3=>-0.217205        ;  8:2:1:4=> 0.966608*0.01   ;
+ 8:2:2:1=> 0.424368*100    ;  8:2:2:2=> 0.751914        ;  8:2:2:3=>-0.432157*0.1    ;  8:2:2:4=> 0.108307*0.01   ;
+ 8:2:3:1=> 0.471083*100    ;  8:2:3:2=> 0.182624        ;  8:2:3:3=>-0.422515*0.01   ;  8:2:3:4=> 0.400879*0.0001 ;
+ 8:3:1:1=> 0.359806*100    ;  8:3:1:2=> 0.283176*10     ;  8:3:1:3=>-0.317336        ;  8:3:1:4=> 0.154859*0.1    ;
+ 8:3:2:1=> 0.448920*100    ;  8:3:2:2=> 0.696214        ;  8:3:2:3=>-0.385893*0.1    ;  8:3:2:4=> 0.942081*0.001  ;
+ 8:3:3:1=> 0.493177*100    ;  8:3:3:2=> 0.177050        ;  8:3:3:3=>-0.467440*0.01   ;  8:3:3:4=> 0.903841*0.0001 ;
+ 9:1:1:1=> 0.796017*100    ;  9:1:1:2=> 0.725005        ;  9:1:1:3=>-0.394565*0.01   ;  9:1:1:4=> 0.149043*0.0001 ;
+ 9:1:2:1=> 0.133056*1000   ;  9:1:2:2=> 0.406485        ;  9:1:2:3=> 0.115162*0.01   ;  9:1:2:4=> 0.272229*0.0001 ;
+ 9:1:3:1=> 0.147022*1000   ;  9:1:3:2=> 0.549084        ;  9:1:3:3=> 0.360168*0.01   ;  9:1:3:4=>-0.162614*0.001  ;
+ 9:1:4:1=> 0.163870*1000   ;  9:1:4:2=> 0.176161        ;  9:1:4:3=>-0.139606*0.1    ;  9:1:4:4=> 0.257402*0.001  ;
+ 9:2:1:1=> 0.855931*100    ;  9:2:1:2=> 0.837795        ;  9:2:1:3=>-0.533792*0.01   ;  9:2:1:4=> 0.233837*0.0001 ;
+ 9:2:2:1=> 0.146374*1000   ;  9:2:2:2=> 0.532432        ;  9:2:2:3=> 0.265930*0.01   ;  9:2:2:4=>-0.599481*0.0001 ;
+ 9:2:3:1=> 0.163122*1000   ;  9:2:3:2=> 0.530131        ;  9:2:3:3=>-0.273603*0.01   ;  9:2:3:4=>-0.522667*0.0001 ;
+ 9:2:4:1=> 0.176222*1000   ;  9:2:4:2=> 0.129924        ;  9:2:4:3=>-0.838083*0.01   ;  9:2:4:4=> 0.143430*0.001  ;
+ 9:3:1:1=> 0.915767*100    ;  9:3:1:2=> 0.950895        ;  9:3:1:3=>-0.673349*0.01   ;  9:3:1:4=> 0.318732*0.0001 ;
+ 9:3:2:1=> 0.159692*1000   ;  9:3:2:2=> 0.658332        ;  9:3:2:3=> 0.416714*0.01   ;  9:3:2:4=>-0.147054*0.001  ;
+ 9:3:3:1=> 0.179222*1000   ;  9:3:3:2=> 0.511316        ;  9:3:3:3=>-0.906767*0.01   ;  9:3:3:4=> 0.577848*0.0001 ;
+ 9:3:4:1=> 0.188574*1000   ;  9:3:4:2=> 0.831110*0.1    ;  9:3:4:3=>-0.282691*0.01   ;  9:3:4:4=> 0.382714*0.0001 ;
+10:1:1:1=> 0.784609*100    ; 10:1:1:2=> 0.769969        ; 10:1:1:3=>-0.579066*0.01   ; 10:1:1:4=> 0.299200*0.0001 ;
+10:1:2:1=> 0.100071*1000   ; 10:1:2:2=> 0.469370        ; 10:1:2:3=>-0.255930*0.01   ; 10:1:2:4=> 0.298134*0.0001 ;
+10:1:3:1=> 0.131726*1000   ; 10:1:3:2=> 0.564490        ; 10:1:3:3=> 0.388040*0.01   ; 10:1:3:4=>-0.211730*0.001  ;
+10:1:4:1=> 0.144582*1000   ; 10:1:4:2=> 0.384879        ; 10:1:4:3=>-0.113642*0.1    ; 10:1:4:4=> 0.132304*0.001  ;
+10:1:5:1=> 0.149882*1000   ; 10:1:5:2=> 0.810578*0.1    ; 10:1:5:3=> 0.292469*0.01   ; 10:1:5:4=>-0.738429*0.0001 ;
+10:2:1:1=> 0.844872*100    ; 10:2:1:2=> 0.877385        ; 10:2:1:3=>-0.854191*0.01   ; 10:2:1:4=> 0.726632*0.0001 ;
+10:2:2:1=> 0.105083*1000   ; 10:2:2:2=> 0.561061        ; 10:2:2:3=>-0.200222*0.01   ; 10:2:2:4=> 0.171075*0.0001 ;
+10:2:3:1=> 0.144783*1000   ; 10:2:3:2=> 0.560961        ; 10:2:3:3=> 0.200094*0.01   ; 10:2:3:4=>-0.164240*0.001  ;
+10:2:4:1=> 0.157128*1000   ; 10:2:4:2=> 0.373200        ; 10:2:4:3=>-0.982432*0.01   ; 10:2:4:4=> 0.982153*0.0001 ;
+10:2:5:1=> 0.162413*1000   ; 10:2:5:2=> 0.477105*0.1    ; 10:2:5:3=> 0.782933*0.001  ; 10:2:5:4=>-0.217935*0.0001 ;
+10:3:1:1=> 0.905784*100    ; 10:3:1:2=> 0.973526        ; 10:3:1:3=>-0.108372*0.1    ; 10:3:1:4=> 0.109954*0.001  ;
+10:3:2:1=> 0.112999*1000   ; 10:3:2:2=> 0.620169        ; 10:3:2:3=>-0.941330*0.001  ; 10:3:2:4=> 0.461746*0.00001;
+10:3:3:1=> 0.157837*1000   ; 10:3:3:2=> 0.557600        ; 10:3:3:3=> 0.139156*0.001  ; 10:3:3:4=>-0.117406*0.001  ;
+10:3:4:1=> 0.169676*1000   ; 10:3:4:2=> 0.361401        ; 10:3:4:3=>-0.831408*0.01   ; 10:3:4:4=> 0.648912*0.0001 ;
+10:3:5:1=> 0.174939*1000   ; 10:3:5:2=> 0.150850*0.1    ; 10:3:5:3=>-0.130583*0.01   ; 10:3:5:4=> 0.268575*0.0001 ;
+11:1:1:1=> 0.102271*100    ; 11:1:1:2=> 0.110605        ; 11:1:1:3=> 0.502728*0.001  ; 11:1:1:4=>-0.356088*0.00001;
+11:1:2:1=> 0.194677*100    ; 11:1:2:2=> 0.127619        ; 11:1:2:3=>-0.266421*0.001  ; 11:1:2:4=> 0.234381*0.0001 ;
+11:1:3:1=> 0.312284*100    ; 11:1:3:2=> 0.348780        ; 11:1:3:3=> 0.395244*0.01   ; 11:1:3:4=>-0.674519*0.0001 ;
+11:1:4:1=> 0.496166*100    ; 11:1:4:2=> 0.261986        ; 11:1:4:3=>-0.576064*0.01   ; 11:1:4:4=> 0.333672*0.0001 ;
+11:2:1:1=> 0.123424*100    ; 11:2:1:2=> 0.202445        ; 11:2:1:3=>-0.116412*0.01   ; 11:2:1:4=> 0.118225*0.0001 ;
+11:2:2:1=> 0.252964*100    ; 11:2:2:2=> 0.218676        ; 11:2:2:3=> 0.138954*0.01   ; 11:2:2:4=> 0.709375*0.00001;
+11:2:3:1=> 0.449515*100    ; 11:2:3:2=> 0.462032        ; 11:2:3:3=> 0.266641*0.01   ; 11:2:3:4=>-0.629917*0.0001 ;
+11:2:4:1=> 0.663061*100    ; 11:2:4:2=> 0.282610        ; 11:2:4:3=>-0.640439*0.01   ; 11:2:4:4=> 0.619515*0.0001 ;
+11:3:1:1=> 0.154874*100    ; 11:3:1:2=> 0.219986        ; 11:3:1:3=>-0.841307*0.001  ; 11:3:1:4=> 0.189821*0.0001 ;
+11:3:2:1=> 0.340501*100    ; 11:3:2:2=> 0.394048        ; 11:3:2:3=> 0.325883*0.01   ; 11:3:2:4=>-0.164077*0.0001 ;
+11:3:3:1=> 0.658807*100    ; 11:3:3:2=> 0.607904        ; 11:3:3:3=> 0.305441*0.001  ; 11:3:3:4=>-0.377818*0.0001 ;
+11:3:4:1=> 0.915854*100    ; 11:3:4:2=> 0.376078        ; 11:3:4:3=>-0.513514*0.01   ; 11:3:4:4=>-0.177567*0.0001 ;
+12:1:1:1=> 0.958878*10     ; 12:1:1:2=> 0.162168        ; 12:1:1:3=>-0.158785*0.01   ; 12:1:1:4=> 0.141728*0.0001 ;
+12:1:2:1=> 0.166639*100    ; 12:1:2:2=> 0.124691        ; 12:1:2:3=> 0.963245*0.001  ; 12:1:2:4=> 0.307446*0.00001;
+12:1:3:1=> 0.282771*100    ; 12:1:3:2=> 0.273485        ; 12:1:3:3=> 0.151665*0.01   ; 12:1:3:4=>-0.370240*0.0001 ;
+12:1:4:1=> 0.408042*100    ; 12:1:4:2=> 0.163173        ; 12:1:4:3=>-0.381481*0.01   ; 12:1:4:4=> 0.315956*0.0001 ;
+12:2:1:1=> 0.117963*100    ; 12:2:1:2=> 0.219662        ; 12:2:1:3=>-0.262788*0.01   ; 12:2:1:4=> 0.292835*0.0001 ;
+12:2:2:1=> 0.218409*100    ; 12:2:2:2=> 0.220578        ; 12:2:2:3=> 0.264314*0.01   ; 12:2:2:4=>-0.141618*0.0001 ;
+12:2:3:1=> 0.415319*100    ; 12:2:3:2=> 0.384808        ; 12:2:3:3=> 0.940228*0.0001 ; 12:2:3:4=>-0.391686*0.0001 ;
+12:2:4:1=> 0.558876*100    ; 12:2:4:2=> 0.123101        ; 12:2:4:3=>-0.554625*0.01   ; 12:2:4:4=> 0.702252*0.0001 ;
+12:3:1:1=> 0.144385*100    ; 12:3:1:2=> 0.322835        ; 12:3:1:3=>-0.438366*0.01   ; 12:3:1:4=> 0.540144*0.0001 ;
+12:3:2:1=> 0.296945*100    ; 12:3:2:2=> 0.380152        ; 12:3:2:3=> 0.533894*0.01   ; 12:3:2:4=>-0.449181*0.0001 ;
+12:3:3:1=> 0.620215*100    ; 12:3:3:2=> 0.535709        ; 12:3:3:3=>-0.274632*0.01   ; 12:3:3:4=>-0.206170*0.0001 ;
+12:3:4:1=> 0.791280*100    ; 12:3:4:2=> 0.129558        ; 12:3:4:3=>-0.571516*0.01   ; 12:3:4:4=> 0.648512*0.0001 ;
+13:1:1:1=> 0.288221*10     ; 13:1:1:2=> 0.311757        ; 13:1:1:3=>-0.339993*0.01   ; 13:1:1:4=> 0.332712*0.0001 ;
+13:1:2:1=> 0.907104*10     ; 13:1:2:2=> 0.204144        ; 13:1:2:3=>-0.904587*0.001  ; 13:1:2:4=> 0.465496*0.0001 ;
+13:1:3:1=> 0.171038*100    ; 13:1:3:2=> 0.311893        ; 13:1:3:3=> 0.398312*0.01   ; 13:1:3:4=>-0.276662*0.0001 ;
+13:2:1:1=> 0.431260*10     ; 13:2:1:2=> 0.371447        ; 13:2:1:3=>-0.633119*0.01   ; 13:2:1:4=> 0.877037*0.0001 ;
+13:2:2:1=> 0.110122*100    ; 13:2:2:2=> 0.219333        ; 13:2:2:3=> 0.246595*0.001  ; 13:2:2:4=> 0.313171*0.0001 ;
+13:2:3:1=> 0.203336*100    ; 13:2:3:2=> 0.351685        ; 13:2:3:3=> 0.353489*0.01   ; 13:2:3:4=> 0.104383*0.001  ;
+13:3:1:1=> 0.658687*10     ; 13:3:1:2=> 0.352637        ; 13:3:1:3=>-0.345830*0.01   ; 13:3:1:4=> 0.293354*0.0001 ;
+13:3:2:1=> 0.136997*100    ; 13:3:2:2=> 0.234726        ; 13:3:2:3=>-0.125814*0.01   ; 13:3:2:4=> 0.889698*0.0001 ;
+13:3:3:1=> 0.241885*100    ; 13:3:3:2=> 0.473620        ; 13:3:3:3=> 0.808368*0.01   ; 13:3:3:4=> 0.103298*0.001  ;
+14:1:1:1=> 0.303896*10     ; 14:1:1:2=> 0.276098        ; 14:1:1:3=>-0.226928*0.01   ; 14:1:1:4=> 0.201277*0.0001 ;
+14:1:2:1=> 0.982301*10     ; 14:1:2:2=> 0.194286        ; 14:1:2:3=>-0.457785*0.001  ; 14:1:2:4=> 0.537775*0.0001 ;
+14:1:3:1=> 0.147037*100    ; 14:1:3:2=> 0.258573        ; 14:1:3:3=> 0.325286*0.01   ; 14:1:3:4=> 0.168530*0.0001 ;
+14:2:1:1=> 0.430208*10     ; 14:2:1:2=> 0.364667        ; 14:2:1:3=>-0.629446*0.01   ; 14:2:1:4=> 0.835936*0.0001 ;
+14:2:2:1=> 0.118341*100    ; 14:2:2:2=> 0.212702        ; 14:2:2:3=> 0.122896*0.01   ; 14:2:2:4=> 0.201561*0.0001 ;
+14:2:3:1=> 0.176216*100    ; 14:2:3:2=> 0.301222        ; 14:2:3:3=> 0.261973*0.01   ; 14:2:3:4=> 0.121334*0.001  ;
+14:3:1:1=> 0.658206*10     ; 14:3:1:2=> 0.363970        ; 14:3:1:3=>-0.609859*0.01   ; 14:3:1:4=> 0.885250*0.0001 ;
+14:3:2:1=> 0.144026*100    ; 14:3:2:2=> 0.237072        ; 14:3:2:3=> 0.186866*0.01   ; 14:3:2:4=> 0.269321*0.0001 ;
+14:3:3:1=> 0.211715*100    ; 14:3:3:2=> 0.365772        ; 14:3:3:3=> 0.372698*0.01   ; 14:3:3:4=> 0.332188*0.001  ;
+  endrecode;
+  zscoef = zscoeff;
+end;
+
+{ --------------------------------------------------------------------------- }
+{ dabs
+  Returns: the absolute value of input variable                               }
+
+function dabs(dval);
+  if dval < 0 then dval = - dval endif;
+  dabs = dval;
+end;
+
+{ --------------------------------------------------------------------------- }
+{ Anthropometry function }
+function zspct(zssd);
+  if zssd > 9.985 then
+    zspct = 99.9
+  else
+    zsr  =  0.2316419;
+    zsb1 =  0.31938153;
+    zsb2 = -0.356563782;
+    zsb3 =  1.781477937;
+    zsb4 = -1.821255978;
+    zsb5 =  1.330274429;
+    zsdz = dabs(zssd);
+    zst = 1/(1+zsdz*zsr);
+    zsdzp = zsb1*zst+zsb2*zst^2+zsb3*zst^3+zsb4*zst^4+zsb5*zst^5;
+    zsfx = 1/sqrt(8*0.785398163)*exp(-0.5*zsdz^2);
+                   { ATAN(1.0) }
+    zsdzp = zsdzp*zsfx*100;
+    if zssd >= 0 then zsdzp= 100 - zsdzp endif;
+    if zsdzp > 99.8 then zsdzp = 99.8 endif;
+    zspct = zsdzp;
+  endif;
+end;
+
+{ --------------------------------------------------------------------------- }
+{ Anthropometry function }
+function zseval(zsx,zsy);
+  if (zsx < zsll or zsx > zsul) and zsll <> zsul then
+    zseval = 999.9
+  else
+    recode zsi => zsk;
+       9,11,12 => 4;
+            10 => 5;
+               => 3;
+    endrecode;
+    zsj = zsy;
+    zsa = -1;
+    while zsk > 0 and zsa < 0 do
+      recode zsi : zsk => zsknot;
+            1 : 1 =>  0;  1 : 2 =>  9;  1 : 3 => 24;
+            2 : 1 =>  0;  2 : 2 =>  9;  2 : 3 => 24;
+            3 : 1 =>  0;  3 : 2 =>  6;  3 : 3 => 18;
+            4 : 1 =>  0;  4 : 2 =>  6;  4 : 3 => 18;
+            5 : 1 => 49;  5 : 2 => 72;  5 : 3 => 90;
+            6 : 1 => 49;  6 : 2 => 72;  6 : 3 => 90;
+         {  7 : 1 =>  0;  7 : 2 =>  6;  7 : 3 => 18;
+            8 : 1 =>  0;  8 : 2 =>  6;  8 : 3 => 18; }
+            9 : 1 => 24;  9 : 2 =>138;  9 : 3 =>168;  9 : 4 =>204;
+           10 : 1 => 24; 10 : 2 => 54; 10 : 3 =>132; 10 : 4 =>156; 10 : 5 =>192;
+           11 : 1 => 24; 11 : 2 => 96; 11 : 3 =>156; 11 : 4 =>204;
+           12 : 1 => 24; 12 : 2 => 84; 12 : 3 =>144; 12 : 4 =>192;
+           13 : 1 => 55; 13 : 2 => 80; 13 : 3 =>115;
+           14 : 1 => 55; 14 : 2 => 85; 14 : 3 =>108;
+              :   => default;
+      endrecode;
+      if zsi = 10 and zsj = 1 and zsk = 2 then zsknot = 60 endif;
+      zsa = zsx-zsknot;
+      if zsa < 0 then zsk = zsk-1 endif;
+    enddo;
+    if zsk = 0 then zsk = 1 endif;
+    zsl = 4;
+    zsz = 0;
+    while zsl > 0 do
+      zsz = zsz*zsa+zscoef(zsi,zsj,zsk,zsl);
+      zsl = zsl-1;
+    enddo;
+    zseval=zsz;
+  endif;
+end;
+
+{ --------------------------------------------------------------------------- }
+{ Anthropometry function }
+function zscr(zsx,zsms);
+  if ((zsx < zsll or zsx > zsul) and zsll <> zsul) then
+    zsc=9.99
+  else
+    zsy1=zseval(zsx,1);
+    zsy2=zseval(zsx,2);
+    zsy3=zseval(zsx,3);
+    zssd1=(zsy2-zsy1)/1.8807936; if zssd1 < 0 then zssd1 = -zssd1 endif;
+    zssd2=(zsy2-zsy3)/1.8807936; if zssd2 < 0 then zssd2 = -zssd2 endif;
+    if zsll = zsul then
+      zsc=zsy2;
+      zsll=zssd1;
+      zsul=zssd2;
+    else
+      if zsms < zsy2 then
+        zsc=(zsms-zsy2)/zssd1;
+        if zsc < -9.98 then zsc=-9.98 endif;
+      else
+        zsc=(zsms-zsy2)/zssd2;
+        if zsc > 9.98 then zsc=9.98 endif;
+      endif;
+    endif;
+  endif;
+  zscr = zsc;
+end;
+
+{ --------------------------------------------------------------------------- }
+{ Anthropometry function }
+function zsanth(zsage,zssex,zswt,zsht,zsageok)
+  if zssex = 1 or zssex = 2 then
+    if (zsageok = 1 and zsage >= 24) or (zsageok <> 1 and zsht >= 85) then
+      { FELS REFERENCE THROUGH 36 MONTHS      }
+      { CHANGE TO >= 24 FOR REGULAR REFERENCE }
+      zsi=zssex+8
+    else
+      zsi=zssex
+    endif;
+    if zsageok = 1 then
+      { Ht/Age }
+      if zsage < 24 then
+        zshta = zsht;
+        zsll=0; zsul=36;
+      else
+        zshta = zsht {- 1} ;    { Subtract 1 if lying after 24 months !!! }
+        zsll=24; zsul=216;
+      endif;
+      if zsage < zsll or zsage > zsul or
+         zshta > 999 or zshta <= 0.01 then
+        zspmed=999.9;
+        zsc=9.99;
+      else
+        zsv = zseval(zsage,2);
+        zsc = zscr(zsage,zshta);
+        zspmed = (zshta/zsv)*100;
+      endif;
+      zshap=zspmed;
+      zshaz=zsc;
+      zshac=zspct(zsc);
+    endif;
+    { Wt/Age }
+    zsi = zsi + 2;
+    if zsageok = 1 then
+      if zsage < 24 then
+        zsll=0; zsul=36;
+      else
+        zsll=24; zsul=216;
+      endif;
+      if zsage < zsll or zsage > zsul or
+         zswt > 999 or zswt <= 0.01 then
+        zspmed=999.9;
+        zsc=9.99;
+      else
+        zsv = zseval(zsage,2);
+        zsc = zscr(zsage,zswt);
+        zspmed = (zswt/zsv)*100;
+      endif;
+      zswap=zspmed;
+      zswaz=zsc;
+      zswac=zspct(zsc);
+    endif;
+    { Wt/Ht }
+    zsi = zsi + 2;
+    if (zsageok = 1 and zsage < 24) or (zsageok <> 1 and zshtw < 85) then
+      zshtw = zsht;
+      zsll=49; if zssex = 1 then zsul=103 else zsul=101 endif;
+    else
+      zshtw = zsht {- 1} ;      { Subtract 1 if lying after 24 months !!! }
+      zsll=55; if zssex = 1 then zsul=145 else zsul=137 endif;
+    endif;
+    if zshtw < zsll or zshtw > zsul or
+       zswt > 999 or zswt <= 0.01 then
+      zspmed=999.9;
+      zsc=9.99;
+    else
+      zsv = zseval(zshtw,2);
+      zsc = zscr(zshtw,zswt);
+      zspmed = (zswt/zsv)*100;
+    endif;
+    zswhp=zspmed;
+    zswhz=zsc;
+    zswhc=zspct(zsc);
+    if zsageok = 1 then
+      if zsage < 24 then
+        zsll=0; zsul=36;
+      else
+        zsll=24; if zssex = 1 then zsul=138 else zsul=120 endif;
+      endif;
+      if zsage < zsll or zsage > zsul then
+        zswhc=99.9;
+        zswhp=999.9;
+        zswhz=9.99;
+      endif;
+    endif;
+    zsanth = 1;
+  else
+    zshac=99.9;
+    zshap=999.9;
+    zshaz=9.99;
+    zswac=99.9;
+    zswap=999.9;
+    zswaz=9.99;
+    zswhc=99.9;
+    zswhp=999.9;
+    zswhz=9.99;
+    zsanth = 0;
+  endif;
+  fhaz = 0; fwaz = 0; fwhz = 0;
+  if zshaz <= -6.00 or zshaz >= 6.00 then      { h/a out of range }
+    fhaz = 1;
+  endif;
+  if zswaz <= -6.00 or zswaz >= 6.00 then      { w/a out of range }
+    fwaz = 1;
+  endif;
+  if zswhz <= -4.00 or zswhz >= 6.00 then      { w/h out of range }
+    fwhz = 1;
+  endif;
+  if zshaz <  -3.09 and  zswhz >  3.09 then      { height too low  }
+    fhaz = 1; fwhz = 1;
+  endif;
+  if zshaz >   3.09 and  zswhz < -3.09 then      { height too high }
+    fhaz = 1; fwhz = 1;
+  endif;
+  zsflag = 4*fwaz+2*fwhz+fhaz;
+end;
+
+{ --------------------------------------------------------------------------- }
+{ agemth
+  Calculates most accurate age in months possible (used for anthropometry)
+  Input: Birth day, month, year and interview day, month, year
+  Returns:
+	- Childs age in months if birth day, month and year are valid
+	- Childs age in months using 15 as day if only birth month and year are valid
+	- special if only birth year is valid                                        }
+
+  function agemth(xhwbd,xhwbm,xhwby,xhwmd,xhwmm,xhwmy);
+    { if birth month and year and measurement day, month and year are all valid }
+        if valid(xhwbm) and xhwby < 9996 and valid(xhwmd) and valid(xhwmm) and xhwmy < 9996 then
+      { if day of birth inconsistent, don't know or missing }
+      if not(valid(xhwbd)) then
+        { impute day of birth }
+        xhwbd = 15;
+      endif;
+      leapday = (xhwby % 4 = 0);
+      xdays1 = xhwbd;
+      do x = 1 while x < xhwbm
+        recode x        => y;
+           1,3,5,7,8,10 => 31;
+                      2 => 28+leapday;
+               4,6,9,11 => 30;
+        endrecode;
+        xdays1 = xdays1 + y;
+      enddo;
+      leapday = (xhwmy % 4 = 0);
+      xdays2 = xhwmd;
+      do x = 1 while x < xhwmm
+        recode x        => y;
+           1,3,5,7,8,10 => 31;
+                      2 => 28+leapday;
+               4,6,9,11 => 30;
+        endrecode;
+        xdays2 = xdays2 + y;
+      enddo;
+      do x = xhwby while x < xhwmy
+        xdays2 = xdays2 + 365 + (x % 4 = 0);
+      enddo;
+      agemth = int(((xdays2 - xdays1)/30.4375)*100+0.5)/100;
+    else
+      agemth = 9999;
+    endif;
+  end;
+
+{ --------------------------------------------------------------------------- }
+{ vdvalid
+  Checks that date is valid. Used for checking vaccination dates.
+  Missing, dont know etc are considered valid
+  Returns: 0 if valid, otherwise 1				  							  }
+
+function vdvalid(vcheckd,vcheckm,vchecky);
+  vdvalid = 0;
+  { Check day, month and year are consistent }
+  recode    vchecky   : vcheckm               : vcheckd    => vcheckx; { !!! }
+   				 9999 : 99                    : 99         => 1;
+  2008-2019,9996-9999 : 1,3,5,7,8,10,12,96-99 : 1-31,96-99 => 0;
+  2008-2019,9996-9999 : 4,6,9,11              : 1-30,96-99 => 0;
+  2008-2019,9996-9999 : 2                     : 1-28,96-99 => 0;    
+           2008, 2012 : 2                     : 29         => 0;      { leap year }
+              notappl : notappl               : 66         => 0;
+              notappl : notappl               : 44         => 0;
+              notappl : notappl               : 0          => 0;       
+                      :                       :            => 1;
+  endrecode;
+  if vcheckx then
+    vdvalid = 1;
+  endif;
+end;
+
+{ --------------------------------------------------------------------------- }
+{ vdoi
+  Check vaccination date is before date of interview.
+  Returns: 0 if vaccination date is before interview, otherwise 1 }
+function vdoi(vcheckd,vcheckm,vchecky);
+  vdoi = 0;
+  if (vcheckd < 44 and vcheckd > 0) and valid(vcheckm) and vchecky < 9996 then
+    if (cmcode(vcheckm,vchecky) > cmcode(UF7M,UF7Y)) |
+       (cmcode(vcheckm,vchecky) = cmcode(UF7M,UF7Y) and vcheckd > UF7D) then
+      vdoi = 1;
+    endif;
+  elseif valid(vcheckm) and vchecky < 9996 then
+    if (cmcode(vcheckm,vchecky) > cmcode(UF7M,UF7Y)) then
+      vdoi = 1;
+    endif;
+  elseif vchecky < 9996 then
+    if vchecky > UF7Y then
+      vdoi = 1;
+    endif;
+  endif;
+end;
+
+{ --------------------------------------------------------------------------- }
+{ vdob
+  Check vaccination date is after date of birth
+  Returns: 0 if vaccination date is after birth, otherwise 1  }
+function vdob(vcheckd,vcheckm,vchecky);
+  vdob = 0;
+  if valid(UB1D) and valid(UB1M) and UB1Y < 9996 then
+    if vcheckd < 44 and valid(vcheckm) and vchecky < 9996 then
+      if cmcode(vcheckm,vchecky) < cmcode(UB1M,UB1Y) | (cmcode(vcheckm,vchecky) = cmcode(UB1M,UB1Y) and vcheckd < UB1D) then
+        vdob = 1;
+      endif;
+    elseif valid(vcheckm) and vchecky < 9996 and cmcode(vcheckm,vchecky) < cmcode(UB1M,UB1Y) then
+      vdob = 1;
+    elseif vchecky < 9996 and vchecky < UB1Y then
+      vdob = 1;
+    endif;
+  elseif valid(UB1M) and UB1Y < 9996 then
+    if valid(vcheckm) and vchecky < 9996 and cmcode(vcheckm,vchecky) < cmcode(UB1M,UB1Y) then
+      vdob = 1;
+    elseif vchecky < 9996 and vchecky < UB1Y then
+      vdob = 1;
+    endif;
+  elseif UB1Y < 9996 then
+    if vchecky < 9996 and vchecky < UB1Y then
+      vdob = 1;
+    endif;
+  endif;
+end;
+
+  { Check vaccination 1 (e.g., Polio 2) was given before vaccination 2 (e.g., Polio 3) }
+  function vseq(vcheckd1,vcheckm1,vchecky1,vcheckd2,vcheckm2,vchecky2);
+    { 0 = no problem, 1 = inconsistency: vaccination 1's date before vaccination 2's date }
+    vseq = 0;
+    { if vac 1's date has valid day, month and year }
+    if vcheckd1 < 44 and vcheckd1 <> 0 and valid(vcheckm1) and vchecky1 < 9996 then
+      { if vac 2's date has valid day, month and year }
+      if vcheckd2 < 44 and vcheckd2 <> 0 and valid(vcheckm2) and vchecky2 < 9996 then
+        if cmcode(vcheckm2,vchecky2) < cmcode(vcheckm1,vchecky1) |
+          (cmcode(vcheckm2,vchecky2) = cmcode(vcheckm1,vchecky1) and vcheckd2 < vcheckd1) then
+          vseq = 1;
+        endif;
+      { else if vac 2's date has valid month and year only }
+      elseif valid(vcheckm2) and vchecky2 < 9996 then
+        if cmcode(vcheckm2,vchecky2) < cmcode(vcheckm1,vchecky1) then
+          vseq = 1;
+        endif;
+      { else if vac 2's date has valid year only }
+      elseif vchecky2 < 9996 then
+        if vchecky2 < vchecky1 then
+          vseq = 1;
+        endif;
+      endif;
+    { else if vac 1's date has valid month and year only }
+    elseif valid(vcheckm1) and vchecky1 < 9996 then
+      { if vac 2's date has valid month and year only }
+      if valid(vcheckm2) and vchecky2 < 9996 then
+        if cmcode(vcheckm2,vchecky2) < cmcode(vcheckm1,vchecky1) then
+          vseq = 1;
+        endif;
+      { else if vac 2's date has valid year only }
+      elseif vchecky2 < 9996 then
+        if vchecky2 < vchecky1 then
+          vseq = 1;
+        endif;
+      endif;
+    { else if vac 1's date has valid year only }
+    elseif vchecky1 < 9996 then
+      { if vac 2's date has valid year only }
+      if vchecky2 < 9996 then
+        if vchecky2 < vchecky1 then
+          vseq = 1;
+        endif;
+      endif;
+    endif;
+  end;
+
+{ --------------------------------------------------------------------------- }
+{ endmess
+  If user is in addmode, it displays a menu with the options
+  "Review Questionnaire" and "Next Questionnaire"
+  Returns: 1 if user is in addmode or selects Next Questionnaire, 0 otherwise }
+
+function endmess();
+  { Returns true if response is REVIEW }
+  endmess = (addmode and
+             accept(
+               {{+EN} "End of Questionnaire",
+                     "Review Questionnaire",
+                     "Next Questionnaire  ") {EN+}}
+               {FR} "Fin du Questionnaire",
+                     "Vérifier le Questionnaire",
+                     "Questionnaire suivant") {FR}
+
+               {{SP} "Fin del cuestionario",
+                     "Revisar este cuestionario",
+                     "Pasar a próximo cuestionario") {SP}}
+                     <> 2);
+end;
+
+{ --------------------------------------------------------------------------- }
+{ russian_convert
+  Converts a letter from the cyrillic alphabet to the latin alphabet.
+  The convert map is found in separate file									  }
+
+function russian_convert();
+  do l = 1 while l <= length(strip(alphavar))
+    x = pos(alphavar[l:1],"ÀÂÃÄÅÆÇÈÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÝÞß");
+    if x then
+      alphavar[l:1] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"[x:1];
+    endif;
+  enddo;
+end;
+
+{ --------------------------------------------------------------------------- }
+{ Function to check entry of alpha string variables }
+{ alphachk
+  Function to check entry of alpha string variables.
+  Requirement: preceed with the statment alphavar = $
+  Input variables:
+  alphamask - The characters allowed and the order and position of these
+  alphavar (set before calling the function) - the variable to be checked
+
+  Checks that all the characters in the alphavar variable is found in alphamask
+  and that they are in correct order. Repositions the characters before returning.
+  If ? is found in string, makes sure that no other characters are present
+  Returns: Repositioned string if valid, else 0
+
+  Examples:
+  alphavar    alphamask     returns
+  "ABC"		  "ABCDEX"      "ABC   "
+  "AC"		  "ABCDEX"      "A C   "
+  "BEX"		  "ABCDEX"      " B  EX"
+  "?"		  "ABCDEX"      "??????"
+  "J"		  "ABCDEX"      0
+  "ABQ"		  "ABCDEX"      0
+  "?A"		  "ABCDEX"      0
+  "BA"		  "ABCDEX"      0 (wrong order)                 }
+
+function alphachk(alpha(26) alphamask);
+{  russian_convert();}
+  { first remove all blanks, and duplicate question marks }
+  alphanew = "";
+  qmark = 0;
+  lx = 1;
+  do l = 1 while l <= length(strip(alphavar))
+    if alphavar[l:1] <> " " and (alphavar[l:1] <> "?" or not qmark) then
+      alphanew[lx:1] = alphavar[l:1];
+      lx = lx + 1;
+      if alphavar[l:1] = "?" then
+        qmark = 1;
+      endif;
+    endif;
+  enddo;
+  { aok = 0 - string is bad, aok = 1 - string is good }
+  totlen = length(strip(alphamask));
+  aok = 0;           { assume string is bad - for empty string }
+  alphsize = length(strip(alphanew));
+  if alphsize then   { not empty string }
+    { check for "?" as only character }
+    aok = (alphanew[1:1] = "?" and alphsize = 1);
+    if !aok then     { if not a single "?", check string }
+      aok = 1;       { now assume string is good until we know otherwise }
+      l = 1;         { l is position in string of acceptable values }
+      a = 1;         { a is position in input string }
+      { loop while the string is still good and there are more letters }
+      while aok and a <= alphsize do
+        aok = pos(alphanew[a:1],alphamask[l:totlen-l+1]);
+        if aok then     { letter is acceptable }
+          l = l + aok;  { increment l to position after letter in string of acceptable values }
+          a = a + 1     { increment a to next letter in input string }
+        endif;
+      enddo;
+    endif;
+  endif;
+  alphachk = (!aok);    { alphachk = 0 - if string is good, = 1 - if string is bad }
+  { now expand variables }
+  if aok then
+    do l = 1 while l <= length(strip(alphamask))
+      if pos(alphamask[l:1],alphanew) then
+        alphavar[l:1] = alphamask[l:1]
+      elseif pos("?",alphanew) then
+        alphavar[l:1] = "?"
+      else
+        alphavar[l:1] = " "
+      endif;
+    enddo;
+  endif;
+end;
+
+
+  
+ function chk_BarCode( alpha(5) barcode )
+    numeric base, checkdig;
+    { check sequence of characteres }
+    err      = 0;
+    checkdig = 0;
+    if !barcode in "99994":"99996" then
+      if pos("?",barcode) & length(strip(barcode)) <> 1 then
+        err = 1;
+      elseif !pos("?",barcode) then
+        do i = 1 until i > 5 by 2
+          x = pos( barcode[i:1], "ABCDEFGHIJKLMNOPQRSTUVWXYZ" );
+          if !x then
+            err = 1;
+            break;
+          elseif i < 5 then
+            checkdig = checkdig + x-1;
+          endif;
+          if i < 5 then
+            x = pos( barcode[i+1:1], "0123456789" );
+            if !x then
+              err = 2;
+              break;
+            else
+              checkdig = checkdig + x-1;
+            endif;
+          endif;
+        enddo;
+        { Now validate the check digit }
+        if !err then
+          base = 26;
+          while checkdig >= base do
+            checkdig = int(checkdig/base)+checkdig%base;
+          enddo;
+          if barcode[5:1] <> "ABCDEFGHIJKLMNOPQRSTUVWXYZ"[checkdig+1:1] then
+            err = 3;
+          endif;
+        endif;
+      endif;
+    endif;
+    chk_BarCode = err;
+  end;
+  
+//Getting the variable value using varibale name for the currently loaded task
+  {function string getTaskVar(string varName)
+    do i = 1 while i <= maxocc(TASKS.TASK_VARIABLES)
+      if length(strip(TASK_VARNAME(i))) = 0 then
+	    break;
+	  endif;
+      if toupper(strip(varName)) = toupper(strip(TASK_VARNAME(i))) then
+	    getTaskVar = TASK_VARVAL(i);
+	    break;
+  	  endif;
+    enddo;
+  end;}
+
+  //!!AI start
+  function onStop();
+    if noPartFlag | xmodcent then
+      numeric xx1 = errmsg(9980) select("Oui", continue, "Non", continue);
+      if xx1 = 1 then
+        advance;
+      else
+        if !xmodcent then
+          stop(-1);
+        endif;
+      endif;
+    else
+      savepartial();
+      stop(-1);
+    endif;
+  end;
+  //!!AI end
+
+{----------------------------}
+
+function MounthCH();
+	{ Load the case from the household file }
+  clear_labels();
+  
+open( MICS6HH );                                                                                                                              
+    HH1=UF1;
+    HH2=UF2;
+
+HLN=0;
+
+hasHH = loadcase( MICS6HH, HH1, HH2);
+	if !hasHH then
+	  errmsg(0099);
+//	 stop(-1);
+	  
+	else    	
+
+	    j = 1;
+	  	do varying i=1 until i> HH48
+			if HL1(i)=UF3 & (HL10(i)>0) then
+				xMthCH =HL5M(i);
+				xYrCH =HL5Y(i);
+			endif;
+		enddo;
+		
+	endif;
+close (MICS6HH );
+end;
+
+{ clear_labels
+Set value labels for certain questions where the response categories can change }
+
+function NumMom();
+	{ Load the case from the household file }
+  clear_labels();
+  
+open( MICS6HH );                                                                                                                              
+    HH1=UF1;
+    HH2=UF2;
+
+HLN=0;
+
+hasHH = loadcase( MICS6HH, HH1, HH2);
+	if !hasHH then
+	  errmsg(0099);
+//	 stop(-1);
+	  
+	else    	
+
+	    j = 1;
+	    VrfHH3=HH3;
+	  	do varying i=1 until i> HH48
+			if HL1(i)=UF3 & (HL14(i)>0) then
+				ctrEtF2x =HL14(i);
+			endif;  
+		enddo;
+		
+	endif;
+close (MICS6HH );
+end;
+
+{-------------------------------------------------------------------------------}
+
+PROC FL_ENTRYCH
+
+PROC CH
+//!!AI start
+preproc  
+  numeric xxx = 0;//this instruction is needed here, otherwise the code below it doesn't work...
+  if ispartial() then
+    advance to getsymbol(savepartial);
+  endif;
+
+  if xentryhw then
+    advance to AN1;
+  endif;
+postproc
+//!!AI end
+  endlevel;
+PROC UF1
+preproc
+//if hhn <> 0 then
+ //  uf1 = cln;
+ //  uf2 = hhn;
+//endif;
+
+PROC UF3
+preproc
+
+{ Load the case from the household file }
+clear_labels();
+
+open( MICS6HH );                                                                                                                              
+    HH1=UF1;
+    HH2=UF2;
+
+HLN=0;
+
+hasHH = loadcase( MICS6HH, HH1, HH2);
+	if !hasHH then
+//		  errmsg(0009, HH1, HH2,HLN);
+	  stop(-1);
+	  
+	 else
+
+	    j = 1;
+
+	  	do varying i=1 until i> HH48
+			if HL10(i)>0 then
+				labels(j)=strip(HL2(i));
+				codes(j)=HL10(i);
+			   j = j + 1;
+			endif;  
+		enddo;
+		
+	endif;
+close (MICS6HH );
+
+	if j = 1 then
+		errmsg("Aucun enfant de 0 à 5 ans dans le Ménage");
+		stop(-1);
+	endif;
+
+setvalueset(@getsymbol(),codes,labels);
+setcapturetype($,3);
+
+Postproc
+
+	Do varying j = 0 until j >= i
+		if codes(j) = UF3 then
+			UF3N = labels(j);
+		endif;
+	enddo;
+PROC UF4
+preproc
+{ Load the case from the household file }
+  clear_labels();
+
+open( MICS6HH );                                                                                                                              
+    HH1=UF1;
+    HH2=UF2;
+
+HLN=0;
+
+hasHH = loadcase( MICS6HH, HH1, HH2);
+	if !hasHH then
+	  errmsg(0099);
+//	 stop(-1);
+	  
+	else
+	    j = 2;
+		labels(1)=strip("Mère n'est pas dans le ménage");
+		codes(1)=00;
+	  	do varying i=1 until i> HH48
+			if ({HL4(i)=2 &} HL6(i)>15)  then
+				labels(j)=strip(HL2(i));
+				codes(j)=HL1(i);
+			   j = j + 1;
+			endif;  
+		enddo;
+	endif;
+	
+close (MICS6HH );
+setvalueset(@getsymbol(),codes,labels);
+setcapturetype($,3);
+
+Postproc
+
+Do varying j = 0 until j >= i
+	if codes(j) = UF4 then
+		UF4N = labels(j);
+	endif;
+enddo;
+
+NumMom();
+if $<>ctrEtF2x then
+	errmsg("Mère choisie n'est la gardienne de l'enfant dans le ménage, en êtes-vous sûr de la femme choisie")
+	select("Oui, très sûr",continue,"Non",$);
+endif;
+
+PROC UF4N
+preproc
+noinput;
+PROC UF5
+postproc
+NumMom();
+
+if UF5<>VrfHH3 then
+	errmsg("Vous avez saisi un numéro d'agent différent de celui saisi dans le ménage");
+	reenter;
+endif;
+PROC UF7D
+preproc
+{if !xmodcent & !xmodify then
+  UF7D = sysdate( "DD" );
+  UF7M = sysdate( "MM" );
+  UF7M = sysdate( "YYYY" );
+endif;}
+
+if demode() = add then 
+	if special(visualvalue($)) then
+	    x = sysdate();
+	    if UF7D = notappl then UF7D = sysdate( "DD" );endif;
+	    if UF7M = notappl then UF7M = sysdate( "MM" );endif;
+	    if UF7Y = notappl then UF7Y = sysdate( "YYYY" );endif;
+	endif;
+endif;
+
+postproc
+numeric xdate;
+xdate = (((visualvalue(UF7Y)*100)+visualvalue(UF7M))*100)+ UF7D;
+if xdate > sysdate("YYYYMMDD") then 
+errmsg("la date saisie est supérieure à la date du jour ,veuillez régler la date de la tablette");
+//stop(1) ;
+endif;
+PROC UF7Y
+recode  UF7Y  :     UF7M        : UF7D => err;
+    2014-2019 : 1,3,5,7,8,10,12 : 1-31 => 0;
+    2014-2019 : 4,6,9,11        : 1-30 => 0;
+    2014-2019 : 2               : 1-28 => 0;
+              :                 :      => 1;
+endrecode;
+if err then
+  {{EN+} errmsg(0012, {+EN} "Problem with Day/Month/Year combination");   {EN+}}
+
+  {FR} errmsg(0012, 'Problème avec la combinaison jour/mois/année');    {FR}
+    stop(-1);
+endif;
+dich = cmcode(UF7M,UF7Y);
+PROC UF8H
+preproc
+if special(visualvalue($)) then
+  x = systime();
+     if UF8H=notappl then UF8H = int(x / 10000);endif;
+     if UF8M=notappl then UF8M= int(x / 100) % 100;endif;   
+endif;
+PROC UF10
+if $ <> 1 then 
+ skip to UF17;
+endif;
+PROC UB1D
+preproc
+if addmode then
+  savepartial();
+endif;
+
+MounthCH();
+	UB1M=xMthCH;
+	UB1Y=xYrCH;
+PROC UB1M
+{if $ <> HL5M(UF3) then
+  errmsg(2005,$,HL5M(UF3));
+endif;}
+
+
+PROC UB1Y
+{if $ <> HL5Y(UF3) then
+  errmsg(2006,$,HL5Y(UF3));
+endif;}
+
+Date1=((((UF7Y)*100)+UF7M)*100)+UF7D;
+Date2=((((UB1Y)*100)+UB1M)*100)+UB1D;
+
+udob = dich;
+ldob = dich - chhlth*12 - 11;
+{if UB1Y < 9997 then
+  ldob = setlb(UB1M,UB1Y,0);
+  udob = setub(UB1M,UB1Y,9999);
+  
+ errmsg("dich = cmcode(UF7M(%d),UF7Y(%d));    udob(%d) < (%d) ( dich  - chhlth*12 - 11  ) or ldob (%d) > dich (%d) ", UF7M,UF7Y, udob , ( dich  - chhlth*12 - 11  ),  ldob , dich  ) ;
+  
+  if udob < dich - chhlth*12 - 11 or ldob < dich then
+    {+EN} errmsg(2001) select ("Mois de naissance",UB1M, "Année de naissance", UB1Y, "Continuer", continue);{EN+}
+    {{SP} errmsg(2001) select ("Mes de nacimiento",UB1M, "Año de nacimiento", UB1Y, "Continúe", continue);{SP}}
+  endif;
+endif;}
+
+datdif=datediff(Date2,Date1,"y");
+ 
+//	errmsg("âge trouvé = %d",datdif);
+
+if datdif>4 then
+	 {+EN} errmsg(2001) select ("Mois de naissance",UB1M, "Année de naissance", UB1Y, "Continuer", continue);{EN+}
+    {{SP} errmsg(2001) select ("Mes de nacimiento",UB1M, "Año de nacimiento", UB1Y, "Continúe", continue);{SP}}
+
+endif;
+PROC UB2
+{if UB2 <> HL6(UF3) then
+  errmsg(2002,UB2,HL6(UF3));
+endif;}
+datdif=datediff(Date2,Date1,"y");
+ 
+if datdif>4 then
+	 {+EN} errmsg(2001) select ("Mois de naissance",UB1M, "Année de naissance", UB1Y, "Continuer", continue);{EN+}
+    {{SP} errmsg(2001) select ("Mes de nacimiento",UB1M, "Año de nacimiento", UB1Y, "Continúe", continue);{SP}}
+	
+endif;
+
+if $<>datdif then
+		 {+EN} errmsg(2001) select ("Mois de naissance",UB1M, "Année de naissance", UB1Y);{EN+}
+    {{SP} errmsg(2001) select ("Mes de nacimiento",UB1M, "Año de nacimiento", UB1Y, "Continúe", continue);{SP}}
+	reenter;
+endif;
+
+{
+{ Lower bound of CMC date of birth }
+t = adjlba(ldob,udob,dich,dich,UB2);
+if t < 0 then
+  errmsg(2003)
+     {{+SP}select("Edad", $ ,
+               "Año de nacimiento" , UB1Y,
+               "Mes de nacimiento", UB1M,
+               "Día de nacimiento", UB1D);{SP+}}
+  
+       {+FRA}select("Age", $ ,
+               "Année de naissance" , UB1Y,
+               "Mois de naissance", UB1M,
+               "Jour de naissance", UB1D);{EN+}
+  reenter
+else
+  ldob = t
+endif;
+{ Upper bound of CMC date of birth }
+t = adjuba(ldob,udob,dich,dich,UB2);
+if t < 0 then
+  errmsg(2003)
+       {{+SP}select("Edad", $ ,
+               "Año de nacimiento" , UB1Y,
+               "Mes de nacimiento", UB1M,
+               "Día de nacimiento", UB1D);{SP+}}
+    
+      {+EN}select("Age", $ ,
+               "Année de naissance" , UB1Y,
+               "Mois de naissance", UB1M,
+               "Jour de naissance", UB1D);{EN+}
+
+  reenter
+else
+  udob = t
+endif;
+}
+PROC UB6
+
+preproc
+{UB3 filter}
+if UB2 < 3 then
+ skip to UB9;
+endif;
+
+{UB5 filter}
+{if UF4 = HH47 then
+    if ED10A(xline)=0 then 
+        $ = 1;
+        UB7 = 1;
+        set attributes (UB6, UB7) protect;
+        {skip to UB8;}
+    else
+        $ = 2;
+        set attributes (UB6) protect;
+        skip to UB9; 
+    endif;
+endif;}
+
+postproc
+if $ <> 1 then
+    skip to UB9; 
+endif;
+
+PROC UB7
+if $ <> 1 then
+   skip to UB9;
+endif
+PROC UB9
+if $ <> 1 then
+ endgroup; 
+endif;
+PROC UB10
+alphavar = $;
+if alphachk("ABCDX?") then
+  errmsg(9998);
+  reenter
+else
+  $ = alphavar;
+endif;
+
+{ Check "No responde" is only response }
+if pos("?",$) & alphsize > 1 then
+  errmsg(9995);
+  reenter
+endif;
+if pos("X",$) then
+	editnote ();
+endif;
+PROC BR1
+preproc
+if addmode then
+  savepartial();
+endif;
+
+postproc
+if $ < 3 then
+ endgroup; 
+endif;
+PROC BR2
+if $ = 1 then
+ endgroup; 
+endif;
+PROC BD2
+preproc
+if addmode then
+ savepartial();
+endif;
+  
+if UB2 > 2 then
+  endgroup
+endif;
+
+postproc
+if $ <> 1 then
+  skip to BD4
+endif;
+
+PROC BD4
+preproc
+
+  
+if UB2 = 2 then
+  endgroup
+endif;
+PROC BD7D
+if $ <> 1 then
+ skip to BD7E;
+endif;
+PROC BD7E
+if $ <> 1 then
+ skip to BD7X;
+endif;
+PROC BD7X
+{if $ = 1 then 
+    editnote ()
+endif;}
+PROC BD8DUMMY
+preproc
+if UB2 > 1 then
+    endgroup
+endif;
+PROC BD8A
+preproc
+if addmode then
+ savepartial();
+endif;
+
+postproc
+if $ <> 1 then
+ skip to BD8B;
+endif;	
+PROC BD8X
+{if $ = 1 then 
+    editnote ()
+endif;}
+if $=1 then
+	errmsg("Préciser tous les les aliments solides, semi-solides ou mous qui ne correspondent pas aux groupes d’aliments ci-dessus");
+	editnote();
+endif;
+PROC BD9
+  
+preproc
+// Check all BD8 questions have information
+if BD8A = notappl then reenter BD8A; endif;
+if BD8B = notappl then reenter BD8B; endif;
+if BD8C = notappl then reenter BD8C; endif;
+if BD8D = notappl then reenter BD8D; endif;
+if BD8E = notappl then reenter BD8E; endif;
+if BD8F = notappl then reenter BD8F; endif;
+if BD8G = notappl then reenter BD8G; endif;
+if BD8H = notappl then reenter BD8H; endif;
+if BD8I = notappl then reenter BD8I; endif;
+if BD8J = notappl then reenter BD8J; endif;
+if BD8K = notappl then reenter BD8K; endif;
+if BD8L = notappl then reenter BD8L; endif;
+if BD8M = notappl then reenter BD8M; endif;
+if BD8N = notappl then reenter BD8N; endif;
+if BD8O = notappl then reenter BD8O; endif;
+if BD8X = notappl then reenter BD8X; endif;
+
+
+{BD9&BD10 Filter}
+if (BD8A = 1 or BD8B = 1 or BD8C = 1 or BD8D = 1 or BD8E = 1 or BD8F = 1 or
+ BD8G = 1 or BD8H = 1 or BD8I = 1 or BD8J = 1 or BD8K = 1 or BD8L = 1 or 
+ BD8M = 1 or BD8N = 1 or BD8O = 1 or BD8X = 1) or 
+	 
+ (BD8A = 8 and BD8B = 8 and BD8C = 8 and BD8D = 8 and BD8E = 8 and BD8F = 8 and
+ BD8G = 8 and BD8H = 8 and BD8I = 8 and BD8J = 8 and BD8K = 8 and BD8L = 8 and 
+ BD8M = 8 and BD8N = 8 and BD8O = 8 and BD8X = 8) or
+	 
+ (BD8A = 9 and BD8B = 9 and BD8C = 9 and BD8D = 9 and BD8E = 9 and BD8F = 9 and
+ BD8G = 9 and BD8H = 9 and BD8I = 9 and BD8J = 9 and BD8K = 9 and BD8L = 9 and 
+ BD8M = 9 and BD8N = 9 and BD8O = 9 and BD8X = 9) then;
+else
+ endgroup;
+endif;	 
+PROC IM2
+preproc
+if addmode then
+  savepartial();
+endif;
+
+if UB2 > 2 then
+ skip to IM28
+endif; 
+
+postproc
+if $ in 1,3 then
+ skip to IM5;
+endif;
+
+PROC IM5
+preproc
+{IM4 filter}
+if IM2 = 4 then
+ skip to IM11;
+endif;
+
+if IM3 = 2 then
+ skip to IM11;
+endif;
+
+postproc
+if $ = 4 then
+ skip to IM11;
+endif; 
+if $ = 5 then
+ skip to CA1;
+endif;
+
+
+PROC IM6BD
+onfocus;
+visualIM9=visualvalue(IM9);
+postproc:
+if $ in 0,44,66 then
+ IM6BM = $;
+ IM6BY = $*100+$;
+ skip to IM6P0D
+endif;
+
+PROC IM6BY
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "No response";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6BD,IM6BM,IM6BY) then
+  errmsg(2701,"BCG",IM6BD,IM6BM,IM6BY);
+  reenter;
+elseif vdoi(IM6BD,IM6BM,IM6BY) then
+  errmsg(2702,"BCG",IM6BD,IM6BM,IM6BY,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6BD,IM6BM,IM6BY) then
+  errmsg(2703,"BCG",IM6BD,IM6BM,IM6BY,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+
+
+PROC IM6P0D
+if $ in 0,44,66 then
+ IM6P0M = $;
+ IM6P0Y = $*100+$;
+ skip to IM6P1D
+endif;
+PROC IM6P0Y
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6P0D,IM6P0M,IM6P0Y) then
+  errmsg(2701,"Polio (VPO) (à la naissance)",IM6P0D,IM6P0M,IM6P0Y);
+  reenter;
+elseif vdoi(IM6P0D,IM6P0M,IM6P0Y) then
+  errmsg(2702,"Polio (VPO) (à la naissance)",IM6P0D,IM6P0M,IM6P0Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6P0D,IM6P0M,IM6P0Y) then
+  errmsg(2703,"Polio (VPO) (à la naissance)",IM6P0D,IM6P0M,IM6P0Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+PROC IM6P1D
+if $ in 0,44,66 then
+ IM6P1M = $;
+ IM6P1Y = $*100+$;
+ skip to IM6P2D
+endif;
+PROC IM6P1Y
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6P1D,IM6P1M,IM6P1Y) then
+  errmsg(2701,"Polio (VPO) 1",IM6P1D,IM6P1M,IM6P1Y);
+  reenter;
+elseif vdoi(IM6P1D,IM6P1M,IM6P1Y) then
+  errmsg(2702,"Polio (VPO) 1",IM6P1D,IM6P1M,IM6P1Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6P1D,IM6P1M,IM6P1Y) then
+  errmsg(2703,"Polio (VPO) 1",IM6P1D,IM6P1M,IM6P1Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+
+
+if vseq(IM6P0D,IM6P0M,IM6P0Y,IM6P1D,IM6P1M,IM6P1Y) then
+ errmsg(2704,'Polio (VPO)(à la naissance)',IM6P0D,IM6P0M,IM6P0Y,'Polio (VPO) 1',IM6P1D,IM6P1M,IM6P1Y);
+endif;
+PROC IM6P2D
+if $ in 0,44,66 then
+ IM6P2M = $;
+ IM6P2Y = $*100+$;
+ skip to IM6P3D
+endif;
+PROC IM6P2Y
+
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6P2D,IM6P2M,IM6P2Y) then
+  errmsg(2701,"Polio (VPO) 2)",IM6P2D,IM6P2M,IM6P2Y);
+  reenter;
+elseif vdoi(IM6P2D,IM6P2M,IM6P2Y) then
+  errmsg(2702,"Polio (VPO) 2",IM6P2D,IM6P2M,IM6P2Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6P2D,IM6P2M,IM6P2Y) then
+  errmsg(2703,"Polio (VPO) 2",IM6P2D,IM6P2M,IM6P2Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+
+if vseq(IM6P0D,IM6P0M,IM6P0Y,IM6P2D,IM6P2M,IM6P2Y) then
+ errmsg(2704,'Polio (VPO)(à la naissance)',IM6P0D,IM6P0M,IM6P0Y,'Polio (VPO) 2',IM6P2D,IM6P2M,IM6P2Y);
+endif;
+
+if vseq(IM6P1D,IM6P1M,IM6P1Y,IM6P2D,IM6P2M,IM6P2Y) then
+ errmsg(2704,'Polio (VPO) 1',IM6P1D,IM6P1M,IM6P1Y,'Polio (VPO) 2)',IM6P2D,IM6P2M,IM6P2Y);
+endif;
+PROC IM6P3D
+if $ in 0,44,66 then
+ IM6P3M = $;
+ IM6P3Y = $*100+$;
+ skip to IM6ID
+endif;
+PROC IM6P3Y
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6P3D,IM6P3M,IM6P3Y) then
+  errmsg(2701,"Polio (VPO) 3",IM6P3D,IM6P3M,IM6P3Y);
+  reenter;
+elseif vdoi(IM6P3D,IM6P3M,IM6P3Y) then
+  errmsg(2702,"Polio (VPO) 3",IM6P3D,IM6P3M,IM6P3Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6P3D,IM6P3M,IM6P3Y) then
+  errmsg(2703,"Polio (VPO) 3",IM6P3D,IM6P3M,IM6P3Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+
+if vseq(IM6P0D,IM6P0M,IM6P0Y,IM6P3D,IM6P3M,IM6P3Y) then
+ errmsg(2704,'Polio (VPO)(à la naissance)',IM6P0D,IM6P0M,IM6P0Y,'Polio (VPO) 3',IM6P3D,IM6P3M,IM6P3Y);
+endif;
+
+if vseq(IM6P1D,IM6P1M,IM6P1Y,IM6P3D,IM6P3M,IM6P3Y) then
+ errmsg(2704,'Polio (VPO) 1',IM6P1D,IM6P1M,IM6P1Y,'Polio (VPO) 3)',IM6P3D,IM6P3M,IM6P3Y);
+endif;
+
+if vseq(IM6P2D,IM6P2M,IM6P2Y,IM6P3D,IM6P3M,IM6P3Y) then
+ errmsg(2704,'Polio (VPO) 2',IM6P1D,IM6P1M,IM6P1Y,'Polio (VPO) 3', IM6P3D,IM6P3M,IM6P3Y);
+endif;
+PROC IM6ID
+if $ in 0,44,66 then
+ IM6IM = $;
+ IM6IY = $*100+$;
+ skip to IM6PENTA1D
+endif;
+PROC IM6IY
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6ID,IM6IM,IM6IY) then
+  errmsg(2701,"Polio (VPI)",IM6ID,IM6IM,IM6IY);
+  reenter;
+elseif vdoi(IM6ID,IM6IM,IM6IY) then
+  errmsg(2702,"Polio (VPI)",IM6ID,IM6IM,IM6IY,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6ID,IM6IM,IM6IY) then
+  errmsg(2703,"Polio (VPI)",IM6ID,IM6IM,IM6IY,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+PROC IM6PENTA1D
+if $ in 0,44,66 then
+ IM6PENTA1M = $;
+ IM6PENTA1Y = $*100+$;
+ skip to IM6PENTA2D
+endif;
+PROC IM6PENTA1Y
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y) then
+  errmsg(2701,"Pentavalent (DPTHibHepB) 1",IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y);
+  reenter;
+elseif vdoi(IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y) then
+  errmsg(2702,"Pentavalent (DPTHibHepB) 1",IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y) then
+  errmsg(2703,"Pentavalent (DPTHibHepB) 1",IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+PROC IM6PENTA2D
+if $ in 0,44,66 then
+ IM6PENTA2M = $;
+ IM6PENTA2Y = $*100+$;
+ skip to IM6PENTA3D
+endif;
+PROC IM6PENTA2Y
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6PENTA2D,IM6PENTA2M,IM6PENTA2Y) then
+  errmsg(2701,"Pentavalent (DPTHibHepB) 2",IM6PENTA2D,IM6PENTA2M,IM6PENTA2Y);
+  reenter;
+elseif vdoi(IM6PENTA2D,IM6PENTA2M,IM6PENTA2Y) then
+  errmsg(2702,"Pentavalent (DPTHibHepB) 2",IM6PENTA2D,IM6PENTA2M,IM6PENTA2Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6PENTA2D,IM6PENTA2M,IM6PENTA2Y) then
+  errmsg(2703,"Pentavalent (DPTHibHepB) 2",IM6PENTA2D,IM6PENTA2M,IM6PENTA2Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+
+
+if vseq(IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y,IM6PENTA2D,IM6PENTA2M,IM6PENTA2Y) then
+ errmsg(2704,'Pentavalent (DPTHibHepB) 1',IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y,'Pentavalent (DPTHibHepB) 2',IM6PENTA2D,IM6PENTA2M,IM6PENTA2Y);
+endif;
+
+PROC IM6PENTA3D
+if $ in 0,44,66 then
+ IM6PENTA3M = $;
+ IM6PENTA3Y = $*100+$;
+ skip to IM6PCV1D
+endif;
+PROC IM6PENTA3Y
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y) then
+  errmsg(2701,"Pentavalent (DPTHibHepB) 3",IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y);
+  reenter;
+elseif vdoi(IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y) then
+  errmsg(2702,"Pentavalent (DPTHibHepB) 3",IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y) then
+  errmsg(2703,"Pentavalent (DPTHibHepB) 3",IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+
+
+if vseq(IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y,IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y) then
+ errmsg(2704,'Pentavalent (DPTHibHepB) 1',IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y,'Pentavalent (DPTHibHepB) 3',IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y);
+endif;
+
+if vseq(IM6PENTA2D,IM6PENTA2M,IM6PENTA2Y,IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y) then
+ errmsg(2704,'Pentavalent (DPTHibHepB) 2',IM6PENTA1D,IM6PENTA1M,IM6PENTA1Y,'Pentavalent (DPTHibHepB) 3',IM6PENTA3D,IM6PENTA3M,IM6PENTA3Y);
+endif;
+PROC IM6PCV1D
+if $ in 0,44,66 then
+ IM6PCV1M = $;
+ IM6PCV1Y = $*100+$;
+ skip to IM6PCV2D
+endif;
+PROC IM6PCV1Y
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6PCV1D,IM6PCV1M,IM6PCV1Y) then
+  errmsg(2701,"Pneumococcal (Conjugué) 1",IM6PCV1D,IM6PCV1M,IM6PCV1Y);
+  reenter;
+elseif vdoi(IM6PCV1D,IM6PCV1M,IM6PCV1Y) then
+  errmsg(2702,"Pneumococcal (Conjugué) 1",IM6PCV1D,IM6PCV1M,IM6PCV1Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6PCV1D,IM6PCV1M,IM6PCV1Y) then
+  errmsg(2703,"Pneumococcal (Conjugué) 1",IM6PCV1D,IM6PCV1M,IM6PCV1Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+PROC IM6PCV2D
+if $ in 0,44,66 then
+ IM6PCV2M = $;
+ IM6PCV2Y = $*100+$;
+ skip to IM6PCV3D
+endif;
+PROC IM6PCV2Y
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6PCV2D,IM6PCV2M,IM6PCV2Y) then
+  errmsg(2701,"Pneumococcal (Conjugué) 2",IM6PCV2D,IM6PCV2M,IM6PCV2Y);
+  reenter;
+elseif vdoi(IM6PCV2D,IM6PCV2M,IM6PCV2Y) then
+  errmsg(2702,"Pneumococcal (Conjugué) 2",IM6PCV2D,IM6PCV2M,IM6PCV2Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6PCV2D,IM6PCV2M,IM6PCV2Y) then
+  errmsg(2703,"Pneumococcal (Conjugué) 2",IM6PCV2D,IM6PCV2M,IM6PCV2Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+
+if vseq(IM6PCV1D,IM6PCV1M,IM6PCV1Y,IM6PCV2D,IM6PCV2M,IM6PCV2Y) then
+ errmsg(2704,'Pneumococcal (Conjugué) 1',IM6PCV1D,IM6PCV1M,IM6PCV1Y,'Pneumococcal (Conjugué) 2',IM6PCV2D,IM6PCV2M,IM6PCV2Y);
+endif;
+PROC IM6PCV3D
+if $ in 0,44,66 then
+ IM6PCV3M = $;
+ IM6PCV3Y = $*100+$;
+ skip to IM6MD
+endif;
+PROC IM6PCV3Y
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6PCV3D,IM6PCV3M,IM6PCV3Y) then
+  errmsg(2701,"Pneumococcal (Conjugué) 3",IM6PCV3D,IM6PCV3M,IM6PCV3Y);
+  reenter;
+elseif vdoi(IM6PCV3D,IM6PCV3M,IM6PCV3Y) then
+  errmsg(2702,"Pneumococcal (Conjugué) 3",IM6PCV3D,IM6PCV3M,IM6PCV3Y,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6PCV3D,IM6PCV3M,IM6PCV3Y) then
+  errmsg(2703,"Pneumococcal (Conjugué) 3",IM6PCV3D,IM6PCV3M,IM6PCV3Y,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+
+if vseq(IM6PCV1D,IM6PCV1M,IM6PCV1Y,IM6PCV3D,IM6PCV3M,IM6PCV3Y) then
+ errmsg(2704,'Pneumococcal (Conjugué) 1',IM6PCV1D,IM6PCV1M,IM6PCV1Y,'Pneumococcal (Conjugué) 3',IM6PCV3D,IM6PCV3M,IM6PCV3Y);
+endif;
+
+if vseq(IM6PCV2D,IM6PCV2M,IM6PCV2Y,IM6PCV3D,IM6PCV3M,IM6PCV3Y) then
+ errmsg(2704,'Pneumococcal (Conjugué) 2',IM6PCV1D,IM6PCV1M,IM6PCV1Y,'Pneumococcal (Conjugué) 3',IM6PCV3D,IM6PCV3M,IM6PCV3Y);
+endif;
+PROC IM6MD
+if $ in 0,44,66 then
+ IM6MM = $;
+ IM6MY = $*100+$;
+ skip to IM6YD
+endif;
+PROC IM6MY
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6MD,IM6MM,IM6MY) then
+  errmsg(2701,"VAR",IM6MD,IM6MM,IM6MY);
+  reenter;
+elseif vdoi(IM6MD,IM6MM,IM6MY) then
+  errmsg(2702,"VAR",IM6MD,IM6MM,IM6MY,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6MD,IM6MM,IM6MY) then
+  errmsg(2703,"VAR",IM6MD,IM6MM,IM6MY,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+PROC IM6YD
+if $ in 0,44,66 then
+ IM6YM = $;
+ IM6YY = $*100+$;
+ endgroup
+endif;
+PROC IM6YY
+preproc
+onfocus
+clean_labels();
+j = 0;
+do i = UB1Y while i <= UF7Y
+  codes(j) = i;
+  labels(j) = "";
+  j = j + 1;
+enddo;
+codes(j) = 9999;
+labels(j) = "Non reponse";
+setvalueset( @getsymbol(), codes, labels );
+
+postproc
+if vdvalid(IM6YD,IM6YM,IM6YY) then
+  errmsg(2701,"Fièvre jaune",IM6YD,IM6YM,IM6YY);
+  reenter;
+elseif vdoi(IM6YD,IM6YM,IM6YY) then
+  errmsg(2702,"Fièvre jaune",IM6YD,IM6YM,IM6YY,UF7D,UF7M,UF7Y);
+  reenter;
+elseif vdob(IM6YD,IM6YM,IM6YY) then
+  errmsg(2703,"Fièvre jaune",IM6YD,IM6YM,IM6YY,UB1D,UB1M,UB1Y);
+  reenter
+endif;
+
+
+
+
+
+
+
+PROC IM8A
+preproc
+if addmode then
+  savepartial();
+endif;
+{IM7 filter}
+if (IM6BD <>0 and 
+    IM6P0D <>0 and IM6P1D <>0 and IM6P2D <>0 and IM6P3D <>0 and 
+    IM6ID <>0 and 
+    IM6PENTA1D <>0 and IM6PENTA2D <>0 and IM6PENTA3D <>0 and 
+    IM6PCV1D <>0 and IM6PCV2D <>0 and IM6PCV3D <>0 and
+    IM6MD <>0 and
+    IM6YD <>0) then skip to CA1;
+endif;
+PROC IM9
+if $ <>1 then 
+   skip to IM28;
+else
+   if (
+      (IM6BD = 66) or 
+       (IM6P0D =66) or (IM6P1D =66) or (IM6P2D =66) or (IM6P3D =66) or 
+       (IM6ID =66) or 
+       (IM6PENTA1D =66) or (IM6PENTA2D =66 and IM6PENTA3D =66) or 
+       (IM6PCV1D =66) or (IM6PCV2D =66) or (IM6PCV3D =66) or
+       (IM6MD =66) or
+       (IM6YD =66) )
+       then skip to IM28;
+    else 
+        reenter IM6BD;
+    endif
+endif;
+PROC IM14
+preproc
+{filter IM13}
+if IM12A <> 1 and IM12B <> 1 and IM11 <> 1 then
+    skip to IM28;
+endif;
+
+PROC IM16
+if $ <> 1 then
+  skip to IM20;
+endif;
+PROC IM20
+if $ <> 1 then
+  skip to IM22;
+endif;
+PROC IM22
+if $ <> 1 then
+  skip to IM26;
+endif;
+PROC IM29
+preproc
+if IM27 <> notappl then
+   if UB2 = 0 then 
+      endgroup
+   endif;
+{      if (IM14 = 1 and IM16 = 1 and IM17 = 1 and IM18 >= 3 and IM19 = 1 and  IM20 = 1 and IM21 >= 3 and IM22 = 1 and IM23 >= 3 and  IM26 = 1 and IM27 = 1 ) then
+      endgroup; 
+   endif;}
+endif;
+
+
+
+
+
+//postproc
+//alphavar = $;
+// if alphachk("ABCDEFGHIJKLMNOPSQRXZ?") then
+//  errmsg(9998);
+//  reenter
+ // else
+//  $ = alphavar;
+// endif;
+
+//{ Check "DK/Don't remember" is only response }
+//if pos("Z",$) & alphsize > 1 then
+// errmsg(9995);
+// reenter
+//endif;
+
+//{ Check "No responde" is only response }
+//if pos("?",$) & alphsize > 1 then
+// errmsg(9995);
+// reenter
+// endif;
+// if pos("X",$) then
+//  editnote ();
+// endif;
+PROC FORMCA
+
+postproc
+//!!AI start
+if !xmodcent then
+  if !xentryhw then
+    if endmess() then
+       reenter CA1
+    endif;
+{    if special(visualvalue(AN1)) then
+	    endlevel;
+		endgroup;
+    else
+      advance;
+    endif;}
+  endif;
+endif;
+//!!AI end
+PROC CA0A
+preproc
+if addmode then
+  savepartial();
+endif;
+
+postproc  
+if $ > 3 then
+  skip to CA1
+endif;
+PROC CA1
+
+if $ <> 1 then
+  skip to CA14
+endif;
+
+PROC CA5
+if $ <> 1 then
+  skip to CA7A
+endif;
+
+PROC CA6
+alphavar = $;
+if alphachk("ABCDEHIJKLMOPQRX?") then
+  errmsg(9998);
+  reenter
+else
+  $ = alphavar;
+endif;
+
+ { Check "No responde" is only response }
+  if pos("?",$) & alphsize > 1 then
+    errmsg(9995);
+    reenter
+  endif;
+
+if pos("X",$) then
+  editnote ();
+endif;
+PROC CA9
+preproc
+{filter CA8}
+if CA7A<>1 and CA7B<>1 then 
+ skip to CA11
+endif;
+
+postproc
+alphavar = $;
+if alphachk("ABCDEHIJKLMOPQRXZ?") then
+  errmsg(9998);
+  reenter
+else
+  $ = alphavar;
+endif;
+
+{ Check "DK/Don't remember" is only response }
+if pos("Z",$) & alphsize > 1 then
+ errmsg(9995);
+ reenter
+endif;
+
+{ Check "No responde" is only response }
+if pos("?",$) & alphsize > 1 then
+ errmsg(9995);
+ reenter
+endif;
+  
+if pos("H",$) then
+  editnote ();
+endif;
+if pos("X",$) then
+  editnote ();
+endif;
+PROC CA11
+preproc
+{filter CA10}
+if CA7C<>1 then 
+ skip to CA12
+endif;
+
+postproc
+alphavar = $;
+if alphachk("ABCDEHIJKLMOPQRXZ?") then
+  errmsg(9998);
+  reenter
+else
+  $ = alphavar;
+endif;
+
+{ Check "DK/Don't remember" is only response }
+if pos("Z",$) & alphsize > 1 then
+ errmsg(9995);
+ reenter
+endif;
+
+{ Check "No responde" is only response }
+if pos("?",$) & alphsize > 1 then
+ errmsg(9995);
+ reenter
+endif;
+if pos("H",$) then
+  editnote ();
+endif;
+if pos("X",$) then
+  editnote ();
+endif;
+  
+
+PROC CA12
+if $ <> 1 then
+  skip to CA14
+endif;
+
+PROC CA13
+  alphavar = $;
+  if alphachk("ABGHLMNOQX?") then
+    errmsg(9998);
+    reenter
+  else
+    $ = alphavar;
+  endif;
+  
+
+ { Check "No responde" is only response }
+  if pos("?",$) & alphsize > 1 then
+    errmsg(9995);
+    reenter
+  endif;
+if pos("X",$) then
+  editnote ();
+endif;
+
+
+
+
+
+
+PROC CA14
+if $ <> 1 then
+  skip to CA16;
+endif;
+PROC CA17
+if $ <> 1 then 
+ skip to CA20;
+endif;
+PROC CA20
+preproc
+{CA19 filter}
+if CA14 <>1  then 
+     skip to AN1
+ endif;
+
+
+ 
+postproc
+
+ if CA20 <> 1 then 
+ 	skip to CA22;
+ endif;
+PROC CA21
+preproc
+if addmode then
+  savepartial();
+endif;
+  
+{if UB2 < 2 then
+  endgroup;
+endif;}
+
+postproc
+alphavar = $;
+if alphachk("ABCDEHIJKLMOPQRX?") then
+  errmsg(9998);
+  reenter
+else
+  $ = alphavar;
+
+
+
+
+CA23str="";
+If pos("A",$) then CA23str = CA23str + getlabel($,"A")+",";inc(CA23count); endif;
+If pos("B",$) then CA23str = CA23str + getlabel($,"B")+",";inc(CA23count); endif;
+If pos("C",$) then CA23str = CA23str + getlabel($,"C")+",";inc(CA23count); endif;
+If pos("D",$) then CA23str = CA23str + getlabel($,"D")+",";inc(CA23count); endif;
+If pos("E",$) then CA23str = CA23str + getlabel($,"E")+",";inc(CA23count); endif;
+If pos("F",$) then CA23str = CA23str + getlabel($,"F")+",";inc(CA23count); endif;
+If pos("G",$) then CA23str = CA23str + getlabel($,"G")+",";inc(CA23count); endif;
+If pos("H",$) then CA23str = CA23str + getlabel($,"H")+",";inc(CA23count); endif;
+If pos("I",$) then CA23str = CA23str + getlabel($,"I")+",";inc(CA23count); endif;
+If pos("J",$) then CA23str = CA23str + getlabel($,"J")+",";inc(CA23count); endif;
+If pos("K",$) then CA23str = CA23str + getlabel($,"K")+",";inc(CA23count); endif;
+If pos("L",$) then CA23str = CA23str + getlabel($,"L")+","; endif;
+If pos("M",$) then CA23str = CA23str + getlabel($,"M")+","; endif;
+If pos("N",$) then CA23str = CA23str + getlabel($,"N")+","; endif;
+If pos("O",$) then CA23str = CA23str + getlabel($,"O")+","; endif;
+ENDIF;
+
+PROC CA22
+if $ <> 1 then
+  skip to AN1
+endif;
+PROC CA23
+
+
+
+
+CA23str="";
+If pos("A",$) then CA23str = CA23str + getlabel($,"A")+",";inc(CA23count); endif;
+If pos("B",$) then CA23str = CA23str + getlabel($,"B")+",";inc(CA23count); endif;
+If pos("C",$) then CA23str = CA23str + getlabel($,"C")+",";inc(CA23count); endif;
+If pos("D",$) then CA23str = CA23str + getlabel($,"D")+",";inc(CA23count); endif;
+If pos("E",$) then CA23str = CA23str + getlabel($,"E")+",";inc(CA23count); endif;
+If pos("F",$) then CA23str = CA23str + getlabel($,"F")+",";inc(CA23count); endif;
+If pos("G",$) then CA23str = CA23str + getlabel($,"G")+",";inc(CA23count); endif;
+If pos("H",$) then CA23str = CA23str + getlabel($,"H")+",";inc(CA23count); endif;
+If pos("I",$) then CA23str = CA23str + getlabel($,"I")+",";inc(CA23count); endif;
+If pos("J",$) then CA23str = CA23str + getlabel($,"J")+",";inc(CA23count); errmsg("préciser l'anti-paludique"); editnote(); endif;
+If pos("K",$) then CA23str = CA23str + getlabel($,"K")+",";inc(CA23count); endif;
+If pos("L",$) then CA23str = CA23str + getlabel($,"L")+","; endif;
+If pos("M",$) then CA23str = CA23str + getlabel($,"M")+","; endif;
+If pos("N",$) then CA23str = CA23str + getlabel($,"N")+","; endif;
+If pos("O",$) then CA23str = CA23str + getlabel($,"O")+","; endif;
+PROC CA25
+preproc
+{CA24 filter}
+if not (poschar("M",CA23) & pos("L",CA25) & poschar("N",CA23) & poschar("O",CA23)) then
+   skip to CA27;
+endif;
+
+
+postproc
+alphavar = $;
+if alphachk("ABCDEHIJKLMOPQRXZ?") then
+  errmsg(9998);
+  reenter
+else
+  $ = alphavar;
+endif;
+
+{ Check "DK/Don't remember" is only response }
+if pos("Z",$) & alphsize > 1 then
+ errmsg(9995);
+ reenter
+endif;
+
+{ Check "No responde" is only response }
+if pos("?",$) & alphsize > 1 then
+ errmsg(9995);
+ reenter
+endif;
+if pos("H",$) then
+  editnote ();
+endif;
+if pos("X",$) then
+  editnote ();
+endif;
+
+{CA25A filter}
+if !poschar("R",CA23) then
+   skip to CA27;
+endif;
+PROC CA27
+
+preproc
+{CA26 filter}
+if !poschar("ABCDEFHGIJK",CA23) then
+   skip to AN1
+endif;
+
+
+postproc
+alphavar = $;
+if alphachk("ABCDEHIJKLMOPQRXZ?") then
+  errmsg(9998);
+  reenter
+else
+  $ = alphavar;
+endif;
+
+{ Check "DK/Don't remember" is only response }
+if pos("Z",$) & alphsize > 1 then
+ errmsg(9995);
+ reenter
+endif;
+
+{ Check "No responde" is only response }
+if pos("?",$) & alphsize > 1 then
+ errmsg(9995);
+ reenter
+endif;
+if pos("H",$) then
+  editnote ();
+endif;
+if pos("X",$) then
+  editnote ();
+endif;
+PROC AN1
+preproc
+AN1  = UF1;
+AN2  = UF2;
+AN3N = UF3N;
+AN3  = UF3;
+AN4  = UB2;
+AN5N = UF4N;
+AN5  = UF4;
+AN6  = UF5;
+
+PROC AN2
+preproc
+noinput;
+PROC AN3N
+
+preproc
+noinput;
+PROC AN3
+
+preproc
+noinput;
+PROC AN4
+
+preproc
+noinput;
+PROC AN5N
+
+preproc
+noinput;
+PROC AN5
+
+preproc
+noinput;
+PROC AN6
+
+preproc
+noinput;
+PROC AN8
+if $ = 99.6 then
+  editnote ();
+endif;
+if $ > 99.3 then
+  skip to AN11;
+endif;
+
+if $ = 99.3 then
+   skip to AN13D;
+endif;
+
+PROC AN11
+postproc
+
+if $ = 999.6 then
+  editnote ();
+endif;
+
+if $ > 999.3 then
+  skip to AN13D
+endif;
+PROC AN12B
+preproc
+
+numeric twelvemonth,s_tw;
+
+MounthCH();
+
+// Vérification si l'enfant a moins de 6 mois
+
+di=cmcode(UB1M,UB1Y);
+db=cmcode(UF7M,UF7Y);
+
+twelvemonth=(db-di);
+
+if twelvemonth<6 then
+	skip to AN14;
+endif;
+
+
+postproc
+if $<0 then
+	reenter;
+endif;
+PROC AN13Y
+//if endmess() then
+ //reenter AN13Y
+ //else
+// endlevel
+//endif;
+
+
+
+
+// Si c'est un ménage sélectionner pour HOMME arrter l'interview
+// if EnqHomme = 1 then
+ // skip to HF14H ;
+// endif ;
+PROC AN14
+preproc
+
+if $ <> 1 then
+   skip to UF12;
+endif; 
+PROC UF11H
+preproc
+if special(visualvalue($)) then
+  x = systime();
+     if UF11H=notappl then UF11H = int(x / 10000);endif;
+     if UF11M=notappl then UF11M= int(x / 100) % 100;endif;   
+endif;
+PROC UF12
+preproc
+$=1;
+noinput;
+PROC UF14
+if $ = 6 then
+  editnote ();
+endif;
+PROC UF17
+preproc
+if UF10 <> 1 then
+  $ = 3;
+endif;
+
+postproc
+if UF10 <> 1 then
+	if $ = 1 then
+	    {+EN} errmsg ("Code de résultat incompatible avec la permission"); {EN+}
+		{{SP}errmsg("Código de resultado inconsistente con consentimiento");{SP}}
+		reenter;
+	endif;
+elseif UF10 = 1 then
+	if !($ in 1,4) then
+    {+EN} errmsg ("Result code inconsistent with permission"); {EN+}
+
+		{{SP}errmsg("Código de resultado inconsistente con consentimiento");{SP}}
+		reenter;
+	endif;
+endif;
+
+if $ = 96 then
+  editnote ();
+endif;
+
+
+if UF17 <> 1 then
+  if endmess() then
+    reenter UF17
+  else
+    endlevel
+  endif;
+endif;
+
+
+x=errmsg("Avez-vous une observation à renseigner?")
+select("OUI",continue,"Non",continue);
+if x=1 then
+	editnote();
+endif;

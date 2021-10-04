@@ -1,0 +1,411 @@
+﻿[Dictionary]
+Version=CSPro 7.4
+Label=Exported
+Name=EXPORTED_DICT
+RecordTypeStart=1
+RecordTypeLen=3
+Positions=Absolute
+ZeroFill=Yes
+DecimalChar=Yes
+SecurityOptions=E58E3D5CBBD4A472B3CDF3FAA1C5ECDA8832C0B7D4E12BBFCED19B1B93DB0B32
+
+[Level]
+Label=QuestPrice Level
+Name=QUESTPRICE_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Code et Nom de l'Enquêteur
+Name=ID05
+Start=4
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code et Nom de l'Enquêteur
+Name=ID05_VS1
+Value=1;PRINCE SIMBA
+Value=2;CHRIS LELE
+Value=3;PACIFIQUE LUBUNGU
+Value=4;PATRICIA KOTO
+Value=5;JOSUE LEMBA
+
+[Item]
+Label=Code point de collecte
+Name=IPC14
+Start=8
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de Carnet
+Name=ID07
+Start=10
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de Carnet
+Name=ID07_VS1
+Value=1:999
+
+[Record]
+Label=RECORD1
+Name=RECORD1
+RecordTypeValue='IPC'
+RecordLen=510
+
+[Item]
+Label=Province
+Name=ID01
+Start=13
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Ville
+Name=ID02
+Start=16
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Commune
+Name=ID03
+Start=19
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Mois de Collecte
+Name=IP01
+Start=22
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de Collecte
+Name=IP01_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Decembre
+
+[Item]
+Label=Semaine de collecte
+Name=IP02A
+Start=24
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Semaine de collecte
+Name=IP02B
+Start=26
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Code et Nom du Superviseur
+Name=ID06
+Start=30
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Type de point de vente
+Name=IPC15
+Start=33
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Type de point de vente
+Name=IPC15_VS1
+Value=1;SUPER MARCHE
+Value=2;MARCHE
+Value=3;DEPÔT
+Value=4;PORT
+Value=9;Autre à préciser
+
+[Item]
+Label=Caractéristiques du point de vente
+Name=IPC16
+Start=34
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Nombre de produits PV1
+Name=IPC19
+Start=84
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de produits PV1
+Name=IPC19_VS1
+Value=1:999
+
+[Item]
+Label=Nombre de produits PV2
+Name=IPC20
+Start=87
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV3
+Name=IPC21
+Start=90
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV4
+Name=IPC191
+Start=93
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV5
+Name=IPC201
+Start=96
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV6
+Name=IPC211
+Start=99
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV7
+Name=IPC192
+Start=102
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV8
+Name=IPC202
+Start=105
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV9
+Name=IPC212
+Start=108
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV10
+Name=IPC1911
+Start=111
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV11
+Name=IPC2011
+Start=114
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV12
+Name=IPC2111
+Start=117
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV13
+Name=IPC1921
+Start=120
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV14
+Name=IPC2021
+Start=123
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de produits PV15
+Name=IPC2121
+Start=126
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Longitude cg
+Name=IPC66
+Start=129
+Len=11
+Decimal=7
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Latitude cg
+Name=IPC67
+Start=140
+Len=11
+Decimal=7
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude PV2
+Name=IPC68
+Start=151
+Len=11
+Decimal=7
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Latitude PV2
+Name=IPC69
+Start=162
+Len=11
+Decimal=7
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude PV3
+Name=IPC70
+Start=173
+Len=11
+Decimal=7
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Latitude PV3
+Name=IPC71
+Start=184
+Len=11
+Decimal=7
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Nom de Point de collecte
+Name=IPC140
+Start=195
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Variable de FIN
+Name=IPCFIN
+Start=220
+Len=1
+ZeroFill=Yes
+
+[Item]
+Label=Code Variété
+Name=IPC01
+Start=221
+Len=5
+ZeroFill=Yes
+
+[Item]
+Label=Nom de la variété
+Name=IPC02
+Start=226
+Len=100
+DataType=Alpha
+
+[Item]
+Label=Libellé Unité
+Name=IPC03
+Start=326
+Len=15
+DataType=Alpha
+
+[Item]
+Label=Unité du Produit
+Name=IPC03A
+Start=341
+Len=10
+DataType=Alpha
+
+[Item]
+Label=Description structurée du Produits (DSP)
+Name=IPC04
+Start=351
+Len=100
+DataType=Alpha
+
+[Item]
+Label=Remarque sur la visibilité du Produit
+Name=IPC17
+Start=451
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Remarque sur la visibilité du Produit
+Name=IPC17_VS1
+Value=1;En dernier
+Value=2;Disparition temporaire
+Value=3;Disparition définitive
+Value=4;Produit non visible sur ce marché
+Value=5;A Substituer
+Value=6;Supprimer
+
+[Item]
+Label=Relevé 1
+Name=IPC05
+Start=452
+Len=9
+DataType=Alpha
+
+[Item]
+Label=Prix relevé 1
+Name=IPC06
+Start=452
+Len=7
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Prix relevé 1
+Name=IPC06_VS1
+Value=0;Ne pas trouver
+Value=50:9999999
+
+[Item]
+Label=Qte relevé 1
+Name=IPC07
+Start=459
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Autres remarques
+Name=IPC18
+Start=461
+Len=50
+DataType=Alpha

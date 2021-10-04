@@ -1,0 +1,1112 @@
+﻿[TabSpecs]
+Version=CSPro 7.2
+Label=TabATI01
+Name=TABATI01_TF
+GenerateLogic=Yes
+InputDataFilename=E01101123206043001.csdb
+ 
+[Dictionaries]
+File=..\Controle\RGE.dcf
+[TabSetFormat]
+Name=TabSetFmt, default
+ThousandsSeparator=' '
+DecimalSeparator=','
+ZeroMask='-'
+ZeroRoundMask='*'
+Suppressed='SSS'
+DigitGrouping=Thousands
+ZeroBeforeDecimal=Yes
+ForeignKey='Frequency'
+ForeignKey='and'
+ForeignKey='to'
+ForeignKey='Total'
+ForeignKey='Standard Deviation'
+ForeignKey='by'
+ForeignKey='(Percents)'
+ForeignKey='Mean'
+ForeignKey='Maximum'
+ForeignKey='Table'
+ForeignKey='for'
+ForeignKey='Percentile'
+ForeignKey='Mode'
+ForeignKey='Minimum'
+ForeignKey='Proportion'
+ForeignKey='Median'
+ForeignKey='Variance'
+ForeignKey='Percent'
+ForeignKey='Undefined'
+ForeignKey='(Weighted)'
+ForeignKey='Cumulative'
+ForeignKey='<Value has no label>'
+ForeignKey='Number'
+TitleTemplate='Table %s.'
+Continuation=' (continued)'
+MeasurementSystem=MetricUnits
+
+[TableFormat]
+Name=TableFmt, default
+BorderLeft=None
+BorderTop=None
+BorderRight=None
+BorderBottom=None
+LeftLeadering=None
+RightLeadering=None
+ReaderBreak=None
+IncludeSubTitle=No
+IncludePageNote=No
+IncludeEndNote=No
+
+
+[TallyFormat]
+Name=RowTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Counts
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Counts
+
+[TallyStatistic]
+Type=Total
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 1
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 2
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 3
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 4
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 5
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 6
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, 7
+[TallyStatistic]
+Type=Counts
+
+
+[TablePrintFormat]
+Name=TblPrintFmt, default
+TableLayout=LeftStandard
+PageBreakBeforeTable=Yes
+TblHorzCenter=No
+TblVertCenter=No
+PaperType=A4
+PageOrientation=Portrait
+PrinterDevice=Hewlett-Packard HP LaserJet P2035
+PrinterDriver=HP LaserJet P2035 Class Driver
+PrinterOutput=USB001
+MarginTop=2,54
+MarginBottom=2,54
+MarginLeft=2,54
+MarginRight=2,54
+HeaderFrequency=TopOfPage
+
+[DataCellFormat]
+Name=SpannerFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendIndentation=Yes
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=CaptionFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,32
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=StubFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendFont=Yes
+NumDecimals=Zero
+HideZeroRow=Yes
+
+[DataCellFormat]
+Name=DataCellFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=NotApplicable
+LineBottom=NotApplicable
+LineLeft=NotApplicable
+LineRight=NotApplicable
+Hidden=NotApplicable
+SpanCells=NotApplicable
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 1
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Femmes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 2
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Hommes
+ExtendLines=Yes
+HideZeroRow=No
+
+[DataCellFormat]
+Name=SpannerFmt, 3
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Effectif total du personnel permanent
+ExtendLines=Yes
+HideZeroRow=No
+
+[Format]
+Name=TitleFmt, default
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=SubTitleFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=StubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=None
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=SecondaryStubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=HeaderLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&F
+
+[Format]
+Name=HeaderCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=HeaderRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&D
+
+[Format]
+Name=FooterLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=FooterCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=- &P -
+
+[Format]
+Name=FooterRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=PageNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=EndNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=AreaCaption, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+ExtendLines=Yes
+
+[Format]
+Name=TitleFmt, 12
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 01. Répartition des unités économiques recensées par Mode de tenue de comptes selon le Niveau d'instruction du dirigeant
+
+[Format]
+Name=TitleFmt, 13
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 02. Répartition des unités économiques recensées par Tranche de Capital selon la Possession du : Registre de commerce (RC), Numero d"identification Nationale, Possession,  Numéros  d'indentification Fiscal, Numéro de l’Institut National de Sécurité Sociale
+
+[Format]
+Name=TitleFmt, 14
+IndentLeft=0,00
+IndentRight=0,00
+Hidden=No
+SpanCells=NotApplicable
+Custom=Tableau 03. Répartition des unités économiques recensées par Tranche de Capital selon l'Effectif total du personnel permanent  decembre 2018
+
+ 
+[Table]
+Name=TABLE01
+Num=12
+ 
+[Title]
+Label='Table 12. Equipe by Forme juridique de l’entreprise'
+Format=TitleFmt, 12
+GridViewSize=0,90,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Mode de tenue des comptes'
+GridViewSize=369,24,0,0,0,0
+GridViewSize=369,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=CA1_VS1
+Label=Mode de tenue des comptes
+VarType=Dict
+ 
+[Value]
+Label=Comptabilité formelle OHADA
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Comptabilité formelle autre que OHADA
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Comptabilité non formelle (Utilisation des carnets, notes personnelles, etc.
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,40,0,0,0,0
+ 
+[Value]
+Label=Pas de comptabilité écrite
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,23,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CD4_VS1
+Label=Niveau d’instruction du dirigeant d’établissement
+VarType=Dict
+ 
+[Value]
+Label=Sans instruction
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=108,0,0,0,0,0
+ 
+[Value]
+Label=Alphabétisé
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=82,0,0,0,0,0
+ 
+[Value]
+Label=Primaire
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Secondaire
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=79,0,0,0,0,0
+ 
+[Value]
+Label=Supérieur
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+[UnitSpecs]
+[Unit]
+SubTable=Entire Table
+LoopingVarName=
+Weight=
+Value=
+Universe=
+TabLogic=EQUIPE = int(IDAR/10) ;
+[EndUnitSpecs]
+ 
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE01
+Size=5,6
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  10,000000000  7,000000000  17,000000000
+Row=,000000000  ,000000000  1,000000000  25,000000000  12,000000000  38,000000000
+Row=,000000000  ,000000000  1,000000000  35,000000000  19,000000000  55,000000000
+ 
+[Table]
+Name=TABLE13
+Num=13
+ 
+[Title]
+Label=Table 13. Possession de Registre de commerce (RC), Possession Numero d"identification Nationale(IDNAT), Possession de Numéros  d'indentification Fiscal(NIF), Numéro de l’Institut National de Sécurité Sociale (INSS)
+Format=TitleFmt, 13
+GridViewSize=0,133,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label="Capital de l'Unité économique"
+GridViewSize=354,32,0,0,0,0
+GridViewSize=354,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=CAPITAL_VS1
+Label=Capital de l'Unité économique
+VarType=Dict
+ 
+[Value]
+Label=Moins de 500.000 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=500;000 - 999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=1.000.000  -  4.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=5.000.000  -  9.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=10.000.000  -  49.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=50.000.000  -  99.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=100.000.000 - 499.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=500.000.000 -  999.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=1.000.000.000  -  49.999.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=50.000.000.000  -  99.999.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=EP1A1_VS1
+Label=Possession de Registre de commerce (RC)
+VarType=Dict
+Format=ColumnTallyFmt, 1
+ 
+[Value]
+Label=Oui
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Non
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP1B1_VS1
+Label=Possession Numero d"identification Nationale(IDNAT)
+VarType=Dict
+Format=ColumnTallyFmt, 2
+ 
+[Value]
+Label=Oui
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Non
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP1C1_VS1
+Label=Possession de Numéros  d'indentification Fiscal(NIF)
+VarType=Dict
+Format=ColumnTallyFmt, 3
+ 
+[Value]
+Label=Oui
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Non
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP1D1_VS1
+Label=Numéro de l’Institut National de Sécurité Sociale (INSS)
+VarType=Dict
+Format=ColumnTallyFmt, 4
+ 
+[Value]
+Label=Oui
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[Value]
+Label=Non
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=75,0,0,0,0,0
+ 
+[EndVar]
+[UnitSpecs]
+[Unit]
+SubTable=Entire Table
+LoopingVarName=
+Weight=
+Value=
+Universe=
+TabLogic=CAPITAL =  EP5_2C;
+[EndUnitSpecs]
+ 
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE13
+Size=11,8
+Row=,000000000  8,000000000  ,000000000  8,000000000  ,000000000  8,000000000  ,000000000  8,000000000
+Row=,000000000  6,000000000  ,000000000  6,000000000  ,000000000  6,000000000  ,000000000  6,000000000
+Row=,000000000  14,000000000  ,000000000  14,000000000  ,000000000  14,000000000  ,000000000  14,000000000
+Row=,000000000  3,000000000  ,000000000  3,000000000  ,000000000  3,000000000  ,000000000  3,000000000
+Row=,000000000  5,000000000  ,000000000  5,000000000  ,000000000  5,000000000  ,000000000  5,000000000
+Row=,000000000  3,000000000  ,000000000  3,000000000  ,000000000  3,000000000  ,000000000  3,000000000
+Row=,000000000  2,000000000  ,000000000  2,000000000  ,000000000  2,000000000  ,000000000  2,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000  ,000000000
+Row=,000000000  41,000000000  ,000000000  41,000000000  ,000000000  41,000000000  ,000000000  41,000000000
+ 
+[Table]
+Name=TABLE14
+Num=14
+ 
+[Title]
+Label='Table 14. Chiffre d’affaires hors by Effectif total du personnel permanent  decembre 2018, Effectif total du personnel permanent  (Femmes) decembre 2018, Effectif total du personnel permanent  (Hommes) decembre 2018'
+Format=TitleFmt, 14
+GridViewSize=0,171,0,0,0,0
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Chiffre d’affaires hors'
+GridViewSize=233,96,0,0,0,0
+GridViewSize=233,24,0,0,0,0
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=CA_VS1
+Label=Chiffre d’affaires hors
+VarType=Dict
+ 
+[Value]
+Label=Moins de 500.000 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=500;000 - 999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=1.000.000  -  4.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=5.000.000  -  9.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=10.000.000  -  49.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=50.000.000  -  99.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=100.000.000 - 499.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=500.000.000 -  999.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=1.000.000.000  -  49.999.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=50.000.000.000  -  99.999.999.999 FC
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=0,24,0,0,0,0
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=1
+GridViewSize=0,24,0,0,0,0
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=EP4_0_VS1
+Label=Effectif total du personnel permanent  decembre 2018
+VarType=Dict
+Format=SpannerFmt, 3
+Format=ColumnTallyFmt, 5
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=147,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_0F_VS1
+Label=Effectif total du personnel permanent  (Femmes) decembre 2018
+VarType=Dict
+Format=SpannerFmt, 1
+Format=ColumnTallyFmt, 6
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=173,0,0,0,0,0
+ 
+[EndVar]
+ 
+[Variable]
+Name=EP4_0H_VS1
+Label=Effectif total du personnel permanent  (Hommes) decembre 2018
+VarType=Dict
+Format=SpannerFmt, 2
+Format=ColumnTallyFmt, 7
+ 
+[Value]
+Label=Effectif
+TabValueType=VSetValue
+TabValueStatIndex=0
+GridViewSize=152,0,0,0,0,0
+ 
+[EndVar]
+ 
+[UnitSpecs]
+[Unit]
+SubTable=CA_VS1 by EP4_0_VS1
+LoopingVarName=
+Weight=
+Value=EP4_0
+Universe=
+[Unit]
+SubTable=CA_VS1 by EP4_0F_VS1
+LoopingVarName=
+Weight=
+Value=EP4_0F
+Universe=
+[Unit]
+SubTable=CA_VS1 by EP4_0H_VS1
+LoopingVarName=
+Weight=
+Value=EP4_0H
+Universe=
+[EndUnitSpecs]
+ 
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE14
+Size=11,3
+Row=12,000000000  2,000000000  10,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=12,000000000  2,000000000  10,000000000
+ 
+[Level]
+Table=TABLE01
+Table=TABLE13
+Table=TABLE14

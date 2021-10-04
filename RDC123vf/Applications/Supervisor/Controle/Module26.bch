@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=MODULE26
+Name=MODULE26
+AppType=Batch
+[AppCode]
+File=.\Module26.bch.apc
+[Message]
+File=.\Module26.bch.mgf
+[Order]
+File=.\Module26.ord
+[Dictionary Types]
+Dict-Type=..\..\Dicts\EPMU1M26.dcf,Input,.\Module26.ord

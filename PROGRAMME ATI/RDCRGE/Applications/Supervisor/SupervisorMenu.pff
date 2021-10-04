@@ -1,0 +1,33 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Entry
+
+[DataEntryInit]
+FullScreen=NOMENUS
+NoFileOpen=YES
+Interactive=Ask
+
+[Files]
+Application=.\SupervisorMenu.ent
+InputData=..\..\Temp\mNull.dat
+
+[ExternalFiles]
+CLUSTERS=..\..\Reference\carto.dat
+RGEZD=|NONE
+RGE_DICT=|NONE
+TASKS=|NONE
+USERS_DICT=..\..\Reference\Teams.dat
+
+[UserFiles]
+BUFFER1=
+F1=
+FICH=
+FILES=
+FMENU=
+IFSSLOGFILE=
+PFFTEMP=
+TEMPFILE=
+TRANSFERLOGFILE=
+
+[Parameters]
+

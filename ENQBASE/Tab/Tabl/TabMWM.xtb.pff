@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Tabulation
+Operation=All
+
+[Files]
+Application=.\TabMWM.xtb
+InputData=..\basedonnees\ModuleWM.csdb
+OutputTBW=.\TabMWM.xtb.tbw
+Listing=.\TabMWM.xtb.lst
+
+
+[Parameters]
+ViewListing=OnError
+ViewResults=No
+InputOrder=Sequential
+

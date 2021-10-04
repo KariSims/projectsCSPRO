@@ -1,0 +1,932 @@
+﻿[TabSpecs]
+Version=CSPro 7.2
+Label=TabMWM
+Name=TABMWM_TF
+GenerateLogic=Yes
+InputDataFilename=ModuleWM.csdb
+ 
+[Dictionaries]
+File=..\DicsTraite\CFCRTMWM.dcf
+[TabSetFormat]
+Name=TabSetFmt, default
+ThousandsSeparator=' '
+DecimalSeparator=','
+ZeroMask='-'
+ZeroRoundMask='*'
+Suppressed='SSS'
+DigitGrouping=Thousands
+ZeroBeforeDecimal=Yes
+ForeignKey='Frequency'
+ForeignKey='and'
+ForeignKey='to'
+ForeignKey='Total'
+ForeignKey='Standard Deviation'
+ForeignKey='by'
+ForeignKey='(Percents)'
+ForeignKey='Mean'
+ForeignKey='Maximum'
+ForeignKey='Table'
+ForeignKey='for'
+ForeignKey='Percentile'
+ForeignKey='Mode'
+ForeignKey='Minimum'
+ForeignKey='Proportion'
+ForeignKey='Median'
+ForeignKey='Variance'
+ForeignKey='Percent'
+ForeignKey='Undefined'
+ForeignKey='(Weighted)'
+ForeignKey='Cumulative'
+ForeignKey='<Value has no label>'
+ForeignKey='Number'
+TitleTemplate='Table %s.'
+Continuation=' (continued)'
+MeasurementSystem=MetricUnits
+
+[TableFormat]
+Name=TableFmt, default
+BorderLeft=None
+BorderTop=None
+BorderRight=None
+BorderBottom=None
+LeftLeadering=None
+RightLeadering=None
+ReaderBreak=None
+IncludeSubTitle=No
+IncludePageNote=No
+IncludeEndNote=No
+
+
+[TallyFormat]
+Name=RowTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Total
+
+[TallyStatistic]
+Type=Counts
+
+
+[TallyFormat]
+Name=ColumnTallyFmt, default
+IncludeUndefined=No
+DumpUndefined=No
+[TallyStatistic]
+Type=Total
+
+[TallyStatistic]
+Type=Counts
+
+
+[TablePrintFormat]
+Name=TblPrintFmt, default
+TableLayout=LeftStandard
+PageBreakBeforeTable=Yes
+TblHorzCenter=No
+TblVertCenter=No
+PaperType=A4
+PageOrientation=Portrait
+PrinterDevice=OneNote
+PrinterDriver=winspool
+PrinterOutput=Microsoft.Office.OneNote_16001.11425.20094.0_x64__8wekyb3d8bbwe_microsoft.onenoteim_S-1-5-21-279826965-4181105381-2660509351-1001
+MarginTop=2,54
+MarginBottom=2,54
+MarginLeft=2,54
+MarginRight=2,54
+HeaderFrequency=TopOfPage
+
+[DataCellFormat]
+Name=SpannerFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=ColumnHeadFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendIndentation=Yes
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=CaptionFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,32
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+NumDecimals=NotApplicable
+HideZeroRow=No
+
+[DataCellFormat]
+Name=StubFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+ExtendFont=Yes
+NumDecimals=Zero
+HideZeroRow=No
+
+[DataCellFormat]
+Name=DataCellFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=NotApplicable
+LineBottom=NotApplicable
+LineLeft=NotApplicable
+LineRight=NotApplicable
+Hidden=NotApplicable
+SpanCells=NotApplicable
+NumDecimals=Zero
+HideZeroRow=No
+
+[Format]
+Name=TitleFmt, default
+Font=-016 0000 0000 0000 0700 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=SubTitleFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=StubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=None
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=SecondaryStubHead, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Middle
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=Thin
+LineBottom=Thin
+LineLeft=Thin
+LineRight=Thin
+Hidden=No
+SpanCells=NotApplicable
+ExtendLines=Yes
+
+[Format]
+Name=HeaderLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&F
+
+[Format]
+Name=HeaderCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=HeaderRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=&D
+
+[Format]
+Name=FooterLeftFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=FooterCenterFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Center
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=- &P -
+
+[Format]
+Name=FooterRightFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Right
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+Custom=
+
+[Format]
+Name=PageNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=EndNoteFmt, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Top
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=NotApplicable
+
+[Format]
+Name=AreaCaption, default
+Font=-013 0000 0000 0000 0400 0000 0000 0000 0000 0003 0002 0001 0034 Arial
+HorzAlign=Left
+VertAlign=Bottom
+TextColor=0
+FillColor=16777215
+IndentLeft=0,00
+IndentRight=0,00
+LineTop=None
+LineBottom=None
+LineLeft=None
+LineRight=None
+Hidden=No
+SpanCells=No
+ExtendLines=Yes
+
+ 
+[Table]
+Name=TABLE1
+Num=1
+ 
+[Title]
+Label='Table 1. Année de naissance by Naissances vivantes dans les 2 dernières années'
+ 
+[SubTitle]
+Label=''
+ 
+[PageNote]
+Label=''
+ 
+[EndNote]
+Label=''
+ 
+[HeaderLeft]
+Label=''
+ 
+[HeaderCenter]
+Label=''
+ 
+[HeaderRight]
+Label=''
+ 
+[FooterLeft]
+Label=''
+ 
+[FooterCenter]
+Label=''
+ 
+[FooterRight]
+Label=''
+ 
+[StubHead]
+Label='Année de naissance'
+ 
+[SecondaryStubHead]
+Label=''
+ 
+[AreaCaption]
+Label='%AreaName%'
+ 
+[OneRowColTotal]
+Label=''
+ 
+ 
+[Rows]
+ 
+[Variable]
+Name=CM15CY_VS1
+Label=Année de naissance
+VarType=Dict
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=0
+ 
+[Value]
+Label=An 1 950
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 951
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 952
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 953
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 954
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 955
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 956
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 957
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 958
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 959
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 960
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 961
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 962
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 963
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 964
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 965
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 966
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 967
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 968
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 969
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 970
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 971
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 972
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 973
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 974
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 975
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 976
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 977
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 978
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 979
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 980
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 981
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 982
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 983
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 984
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 985
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 986
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 987
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 988
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 989
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 990
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 991
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 992
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 993
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 994
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 995
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 996
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 997
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 998
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 999
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1000
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1001
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1002
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1003
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1004
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1005
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1006
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1007
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1008
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1009
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1010
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1011
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1012
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1013
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1014
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1015
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1016
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1017
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1018
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=An 1 1019
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[EndVar]
+ 
+[Cols]
+ 
+[Variable]
+Name=CM17_FRA
+Label=Naissances vivantes dans les 2 dernières années
+VarType=Dict
+ 
+[Value]
+Label=Total
+TabValueType=Total
+TabValueStatIndex=0
+ 
+[Value]
+Label=PAS DE NAISSNCES VIVANTES DANS LES 3 DERNIERES ANNEES
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[Value]
+Label=UNE OU PLUS NAISSANCES VIVANTES DANS LES 3 DERNIERES ANNEES
+TabValueType=VSetValue
+TabValueStatIndex=1
+ 
+[EndVar]
+[UnitSpecs]
+[Unit]
+SubTable=Entire Table
+LoopingVarName=
+Weight=
+Value=
+Universe=CM15CY>2015
+[EndUnitSpecs]
+ 
+ 
+[Data]
+ 
+[Cells]
+TableName=TABLE1
+Size=71,3
+Row=257,000000000  12,000000000  245,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=,000000000  ,000000000  ,000000000
+Row=44,000000000  6,000000000  38,000000000
+Row=88,000000000  3,000000000  85,000000000
+Row=102,000000000  3,000000000  99,000000000
+Row=23,000000000  ,000000000  23,000000000
+ 
+[Level]
+Table=TABLE1

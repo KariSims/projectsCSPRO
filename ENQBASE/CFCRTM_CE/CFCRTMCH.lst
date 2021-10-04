@@ -1,0 +1,146 @@
+﻿Application     C:\ENQBASE\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<Empty>>
+External        TASKS=<<Empty>>
+External        MICS6HH=<<Empty>>
+<File>          PFFTEMP=
+<File>          IFSSLOGFILE=
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+
+Date            Jan 31, 2019
+Start Time      13:20:33
+End Time        13:21:03
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1010            1   Application error: protected field %n out of rang
+  48000            4   Invalid expression (%s) in QSF File              
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<Empty>>
+External        TASKS=<<Empty>>
+External        MICS6HH=<<Empty>>
+<File>          PFFTEMP=
+<File>          IFSSLOGFILE=
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+
+Date            Jan 31, 2019
+Start Time      13:26:33
+End Time        13:27:24
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            4   Invalid expression (%s) in QSF File              
+  99990            1   Operator entered a value out of range            
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      9       1    -   D Grappe %03d, Ménage %02d, %2d                         -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<Empty>>
+External        TASKS=<<Empty>>
+External        MICS6HH=<<Empty>>
+<File>          PFFTEMP=
+<File>          IFSSLOGFILE=
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+
+Date            Jan 31, 2019
+Start Time      13:31:05
+End Time        13:31:44
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+   1088            2   Invalid subscript: %n(%f) -- %p                  
+   8052            1   You cannot execute SavePartial until the ID items
+  48000            4   Invalid expression (%s) in QSF File              
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<Empty>>
+External        TASKS=<<Empty>>
+External        MICS6HH=<<Empty>>
+<File>          PFFTEMP=
+<File>          IFSSLOGFILE=
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+
+Date            Jan 31, 2019
+Start Time      15:55:04
+End Time        15:55:12
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10102            1   Could not open the data source %s: %s            
+  10106            1   Due to errors, the data source for %s is set to a
+  48000            4   Invalid expression (%s) in QSF File              
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\ENQBASE\CFCRTM\CFCRTMCH.ent
+Type            ENTRY
+Input Data      <<Empty>>
+External        TASKS=<<Empty>>
+External        MICS6HH=<<Empty>>
+<File>          PFFTEMP=
+<File>          IFSSLOGFILE=
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+
+Date            Jan 31, 2019
+Start Time      15:57:23
+End Time        16:06:43
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10102            1   Could not open the data source %s: %s            
+  10106            1   Due to errors, the data source for %s is set to a
+  48000            4   Invalid expression (%s) in QSF File              
+  99990            1   Operator entered a value out of range            
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+   2001       1    -   W Enfant trop jeune ou trop vieux pour être inter       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

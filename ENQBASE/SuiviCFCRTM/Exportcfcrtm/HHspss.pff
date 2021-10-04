@@ -1,0 +1,27 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Batch
+
+[Files]
+Application=.\HHspss.bch
+InputData=..\OutputMod\ModuleHH.csdb|CSPRODB
+OutputData=|NONE
+Listing=.\HHspss.lst
+
+
+[UserFiles]
+HHBR=..\dbconcat\HHBR
+HHDB=..\dbconcat\HHdb
+HHED=..\dbconcat\HHED
+HHLM=..\dbconcat\HHLM
+HHP=..\dbconcat\HHP
+HHTN=..\dbconcat\HHTN
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential
+

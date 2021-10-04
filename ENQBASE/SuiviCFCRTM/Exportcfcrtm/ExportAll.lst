@@ -1,0 +1,36 @@
+﻿Application     C:\ENQBASE\SuiviCFCRTM\Exportcfcrtm\ExportAll.bch
+Type            BATCH
+Input Data      <<Text File>> C:\ENQBASE\SuiviCFCRTM\Concat\NULL.txt                                                                                                                                                                                                                                                        
+<Output>        <<Empty>>                                                                                                                                                                                                                                                                                                   
+
+Date            May 13, 2019
+Start Time      16:03:55
+End Time        16:03:55
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |       1 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       1 Messages (       0 U,       1 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |          1   |          0   |          1  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+*** Case [1] has 1 messages (0 E / 1 W / 0U)        
+    W 10107 avertissement de construction de cas de source de données:% s
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10107            1   avertissement de construction de cas de source de
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Batch
+
+[Files]
+Application=.\Geoloc.bch
+InputData=..\..\..\..\..\Users\nn\Documents\CE_20\EQ20.csdb|CSPRODB
+OutputData=.\nn.csdb|CSPRODB
+Listing=.\Geoloc.lst
+
+
+[UserFiles]
+CARTOKML=
+FICHSAPART=
+FTEMP=
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential
+

@@ -1,0 +1,5148 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=MICS6 Questionnaire Enfant de moins de 5 ans
+Name=MICS6CH
+RecordTypeStart=7
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Languages]
+FRA=French
+
+[Level]
+Label=Enfants
+Name=CH
+
+[IdItems]
+
+[Item]
+Label=Numéro de grappe
+Name=UF1
+Start=1
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de grappe
+Name=UF1_VS1
+Value=1:99
+
+[Item]
+Label=numéro de ménage
+Name=UF2
+Start=3
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne de l'enfant
+Name=UF3
+Start=5
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de la ligne de l'enfant
+Name=UF3_FRA
+Value=1:50
+
+[Record]
+Label=Panneau d'information sur l'enfant
+Name=MODUF
+RecordTypeValue='0UF'
+RecordLen=78
+
+[Item]
+Label=Nom de l'enfant
+Name=UF3N
+Start=10
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Nom de la Mère /Gardien(ne)
+Name=UF4N
+Start=30
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Numèro de la Mère / Gardien(e)
+Name=UF4
+Start=50
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Code Enquêteur
+Name=UF5
+Start=52
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Code Superviseur
+Name=UF6
+Start=54
+Len=1
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'Interview
+Name=UF7
+Start=55
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview
+Name=UF7D
+Start=55
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour d'interview
+Name=UF7D_FRA
+Value=1:31
+
+[Item]
+Label=Mois de l'interview
+Name=UF7M
+Start=57
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=UF7M_VS1
+Value=1;janvier
+Value=2;février
+Value=3;mars
+Value=4;avril
+Value=5;mai
+Value=6;juin
+Value=7;juillet
+Value=8;août
+Value=9;septembre
+Value=10;octobre
+Value=11;novembre
+Value=12;décembre
+
+[Item]
+Label=Année de l'interview
+Name=UF7Y
+Start=59
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview
+Name=UF7Y_FRA
+Value=2016:2020
+
+[Item]
+Label=Un des membres de votre équipe a-t-il déjà interviewé ce répondant sur un autre questionnaire ?
+Name=UF9
+Start=63
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un des membres de votre équipe a-t-il déjà interviewé ce répondant sur un autre questionnaire ?
+Name=UF9_FRA
+Value=1;OUI, DEJA INTERVIEWE
+Value=2;NON, PREMIERE INTERVIEW
+
+[Item]
+Label=Consentement
+Name=UF10
+Start=64
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement
+Name=UF10_FRA
+Value=1;OUI, PERMISSION DONNEE
+Value=2;NON, PERMISSION PAS DONNEE
+
+[Item]
+Label=Résultat de l'interview pour enfant de moins de 5 ans
+Name=UF17
+Start=65
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Résultat de l'interview pour enfant de moins de 5 ans
+Name=UF17_FRA
+Value=1;COMPLETE
+Value=2;PAS A LA MAISON
+Value=3;REFUSE
+Value=4;PARTIELLEMENT COMPLETE
+Value=5;EN INCAPACITE
+Value=6;PAS DE CONSENTEMENT D’UN ADULTE POUR CETTE REPONDANTE AGEE DE 15-17 ANS
+Value=96;AUTRE
+
+[Item]
+Label=Heure de Début de l'Interview
+Name=UF8
+Start=67
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Heure de Début de l'Interview-Heure
+Name=UF8H
+Start=67
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure de Début de l'Interview-Heure
+Name=UF8H_FRA
+Value=6:23
+Value=99;NON REPONSE
+
+[Item]
+Label=Heure de Début de l'Interview-Minutes
+Name=UF8M
+Start=69
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure de Début de l'Interview-Minutes
+Name=UF8M_FRA
+Value=0:59
+Value=99;NON REPONSE
+
+[Item]
+Label=Heure de la Fin Interview
+Name=UF11
+Start=71
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Heure de la Fin Interview-Heure
+Name=UF11H
+Start=71
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure de la Fin Interview-Heure
+Name=UF11H_FRA
+Value=6:23
+Value=99;NON REPONSE
+
+[Item]
+Label=Heure de la Fin Interview-Minutes
+Name=UF11M
+Start=73
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure de la Fin Interview-Minutes
+Name=UF11M_FRA
+Value=0:59
+Value=99;NON REPONSE
+
+[Item]
+Label=Langue du Questionnaire
+Name=UF12
+Start=75
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Langue du Questionnaire
+Name=UF12_FRA
+Value=1;FRANÇAIS
+Value=2;KIKONGO
+Value=3;LINGALA
+Value=4;SWAHILI
+Value=5;TSHILUBA
+Value=6;AUTRE LANGUE
+Value=9;NON REPONSE
+
+[Item]
+Label=Langue de l'interview
+Name=UF13
+Start=76
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Langue de l'interview
+Name=UF13_FRA
+Value=1;FRANÇAIS
+Value=2;KIKONGO
+Value=3;LINGALA
+Value=4;SWAHILI
+Value=5;TSHILUBA
+Value=6;AUTRE LANGUE
+Value=9;NON REPONSE
+
+[Item]
+Label=Langue Maternelle du répondant
+Name=UF14
+Start=77
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Langue Maternelle du répondant
+Name=UF14_FRA
+Value=1;FRANÇAIS
+Value=2;KIKONGO
+Value=3;LINGALA
+Value=4;SWAHILI
+Value=5;TSHILUBA
+Value=6;AUTRE LANGUE
+Value=9;NON REPONSE
+
+[Item]
+Label=Utilisation d'un Interprète
+Name=UF15
+Start=78
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Utilisation d'un Interprète
+Name=UF15_FRA
+Value=1;OUI, QUESTIONNAIRE ENTIER
+Value=2;OUI, PARTIES DU QUESTIONNAIRE
+Value=3;NON, PAS UTILISE
+Value=9;NON REPONSE
+
+[Record]
+Label=Caractéristiques de l'enfant de moins de 5 ans
+Name=MODUB
+RecordTypeValue='0UB'
+Required=No
+RecordLen=28
+
+[Item]
+Label=Date de Naissance de l'enfant
+Name=UB1
+Start=10
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de Naissance de l'enfant
+Name=UB1D
+Start=10
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de Naissance de l'enfant
+Name=UB1D_FRA
+Value=1:31
+Value=98;NSP
+Value=99;Pas de réponse
+
+[Item]
+Label=Mois de Naissance de l'enfant
+Name=UB1M
+Start=12
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de Naissance de l'enfant
+Name=UB1M_FRA
+Value=1:12
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de Naissance de l'enfant
+Name=UB1Y
+Start=14
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de Naissance de l'enfant
+Name=UB1Y_FRA
+Value=2014:2019
+Value=9999;NON REPONSE
+
+[Item]
+Label=Âge de l'enfant
+Name=UB2
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Âge de l'enfant
+Name=UB2_FRA
+Value=0:4;ANNEES
+
+[Item]
+Label=Est-ce que (nom) a déjà fréquenté un programme d’éducation préscolaire, tel que  Ecole maternelle (3-5 ans), Espace Communautaire d’Eveil (ECE, 3-5 ans), Classe pré-primaire (5 ans) ?
+Name=UB6
+Start=19
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a déjà fréquenté un programme d’éducation préscolaire, tel que  Ecole maternelle (3-5 ans), Espace Communautaire d’Eveil (ECE, 3-5 ans), Classe pré-primaire (5 ans) ?
+Name=UB6_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=A n’importe quel moment depuis Septembre 2018, a-t-il/elle assisté à (programmes mentionnés à UB6)?
+Name=UB7
+Start=20
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A n’importe quel moment depuis Septembre 2018, a-t-il/elle assisté à (programmes mentionnés à UB6)?
+Name=UB7_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce qu’il/elle fréquente actuellement un  (programme mentionné à UB6)?
+Name=UB8
+Start=21
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce qu’il/elle fréquente actuellement un  (programme mentionné à UB6)?
+Name=UB8_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) est couvert(e) par une assurance santé ?
+Name=UB9
+Start=22
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) est couvert(e) par une assurance santé ?
+Name=UB9_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Par quel type d’assurance santé (nom) est-il/elle couvert (e) ?
+Name=UB10
+Start=23
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Par quel type d’assurance santé (nom) est-il/elle couvert (e) ?
+Name=UB10_FRA
+Value='A     ';ORGANISATION  MUTUELLE DE SANTE / ASSURANCE SANTE A BASE COMMUNAUTAIRE
+Value='B     ';ASSURANCE SANTE DE L’EMPLOYEUR
+Value='C     ';SECURITE SOCIALE
+Value='D     ';AUTRE ASSURANCE SANTE PRIVEE ACHETEE
+Value='X     ';AUTRE
+Value='?     ';NON REPONSE
+
+[Item]
+Label=Assurance santé:ORGANISATION  MUTUELLE DE SANTE/ ASSURANCE SANTE A BASE COMMUNAUTAIRE
+Name=UB10A
+Start=23
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assurance santé:ORGANISATION  MUTUELLE DE SANTE/ ASSURANCE SANTE A BASE COMMUNAUTAIRE
+Name=UB10A_FRA
+Value='A';ORGANISATION  MUTUELLE DE SANTE/ ASSURANCE SANTE A BASE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assurance santé:ASSURANCE SANTE DE L’EMPLOYEUR
+Name=UB10B
+Start=24
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assurance santé:ASSURANCE SANTE DE L’EMPLOYEUR
+Name=UB10B_FRA
+Value='B';ASSURANCE SANTE DE L’EMPLOYEUR
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assurance santé:SECURITE SOCIALE
+Name=UB10C
+Start=25
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assurance santé:SECURITE SOCIALE
+Name=UB10C_FRA
+Value='C';SECURITE SOCIALE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assurance santé:AUTRE ASSURANCE SANTE PRIVEE ACHETEE
+Name=UB10D
+Start=26
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assurance santé:AUTRE ASSURANCE SANTE PRIVEE ACHETEE
+Name=UB10D_FRA
+Value='D';AUTRE ASSURANCE SANTE PRIVEE ACHETEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assurance santé: Autre
+Name=UB10X
+Start=27
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assurance santé: Autre
+Name=UB10X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assurance santé: Non réponse
+Name=UB10NR
+Start=28
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assurance santé: Manquant
+Name=UB10NR_FRA
+Value=' '
+Value='?';NON REPONSE
+
+[Record]
+Label=Enregistrement des enfants
+Name=MODBR
+RecordTypeValue='0BR'
+Required=No
+RecordLen=12
+
+[Item]
+Label=Est-ce que (nom) a un Acte de naissance ?
+Name=BR1
+Start=10
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a un Acte de naissance ?
+Name=BR1_FRA
+Value=1;OUI, VU
+Value=2;OUI, PAS VU
+Value=3;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=La naissance de (nom) a-t-elle été enregistrée/déclarée auprès de l’état civil ?
+Name=BR2
+Start=11
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La naissance de (nom) a-t-elle été enregistrée/déclarée auprès de l’état civil ?
+Name=BR2_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Savez-vous comment enregistrer la naissance de (nom) ?
+Name=BR3
+Start=12
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Savez-vous comment enregistrer la naissance de (nom) ?
+Name=BR3_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Record]
+Label=Allaitement et Apport alimentaire
+Name=MODBD
+RecordTypeValue='0BD'
+Required=No
+RecordLen=41
+
+[Item]
+Label=Est-ce que (nom) a été allaité ?
+Name=BD2
+Start=10
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a été allaité ?
+Name=BD2_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) est toujours allaité ?
+Name=BD3
+Start=11
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) est toujours allaité ?
+Name=BD3_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu quelque chose au biberon ?
+Name=BD4
+Start=12
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu quelque chose au biberon ?
+Name=BD4_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu des Sels de Réhydratation Orale ou SRO ?
+Name=BD5
+Start=13
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu des Sels de Réhydratation Orale ou SRO ?
+Name=BD5_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu ou mangé des vitamines ou des suppléments minéraux ou n’importe quel médicament ?
+Name=BD6
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu ou mangé des vitamines ou des suppléments minéraux ou n’importe quel médicament ?
+Name=BD6_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : EAU SIMPLE
+Name=BD7A
+Start=15
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : EAU SIMPLE
+Name=BD7A_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : JUS OU BOISSON A BASE DE JUS
+Name=BD7B
+Start=16
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : JUS OU BOISSON A BASE DE JUS
+Name=BD7B_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : BOUILLON CLAIR
+Name=BD7C
+Start=17
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : BOUILLON CLAIR
+Name=BD7C_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : LAIT MATERNISE
+Name=BD7D
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : LAIT MATERNISE
+Name=BD7D_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Combien de fois (nom) a-t-il bu du lait maternisé ?
+Name=BD7D1
+Start=19
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de fois (nom) a-t-il bu du lait maternisé ?
+Name=BD7D1_FRA
+Value=1:6
+Value=7;7+
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : Du lait d’animal, qu’il soit frais en boite ou en poudre ?
+Name=BD7E
+Start=20
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Hier, durant le jour ou la nuit, est-ce que (nom) a bu : Du lait d’animal, qu’il soit frais en boite ou en poudre ?
+Name=BD7E_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Combien de fois (nom) a-t-il bu du lait
+Name=BD7E1
+Start=21
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de fois (nom) a-t-il bu du lait
+Name=BD7E1_FRA
+Value=1:6
+Value=7;7+
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Autres liquides
+Name=BD7X
+Start=22
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autres liquides
+Name=BD7X_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Juste pour être sûre, est-ce que (nom) a mangé du : YAOURT
+Name=BD8A
+Start=23
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Juste pour être sûre, est-ce que (nom) a mangé du : YAOURT
+Name=BD8A_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Combien de fois (nom) a-t-il/elle mangé du yaourt ?
+Name=BD8A1
+Start=24
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de fois (nom) a-t-il/elle mangé du yaourt ?
+Name=BD8A1_FRA
+Value=1:6
+Value=7;7+
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Juste pour être sûre, est-ce que (nom) a mangé du : De la nourriture pour bébé telle que Nan, Protivap, Nutribon, Cérélac, Gerber, Hero, Nestum
+Name=BD8B
+Start=25
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Juste pour être sûre, est-ce que (nom) a mangé du : De la nourriture pour bébé telle que Nan, Protivap, Nutribon, Cérélac, Gerber, Hero, Nestum
+Name=BD8B_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Du pain, riz, pâtes, porridge, ou autres aliments à base de grains ?
+Name=BD8C
+Start=26
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Du pain, riz, pâtes, porridge, ou autres aliments à base de grains ?
+Name=BD8C_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Courge, carotte, citrouille, patate douce qui sont jaune ou orange à l’intérieur ?
+Name=BD8D
+Start=27
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Courge, carotte, citrouille, patate douce qui sont jaune ou orange à l’intérieur ?
+Name=BD8D_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Des pommes de terre, de l’igname, du manioc, de la patate douce ou autre nourriture à base de tubercules
+Name=BD8E
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Des pommes de terre, de l’igname, du manioc, de la patate douce ou autre nourriture à base de tubercules
+Name=BD8E_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=N’importe quel légume à feuilles vert foncé riche en Vit-A comme Epinard, Amarante, Feuille de patate douce, Kikalakasa, Feuille de moringa, Feuille de manioc ?
+Name=BD8F
+Start=29
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=N’importe quel légume à feuilles vert foncé riche en Vit-A comme Epinard, Amarante, Feuille de patate douce, Kikalakasa, Feuille de moringa, Feuille de manioc ?
+Name=BD8F_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Mangues mures ou des papayes mures ou  d’autres fruits locaux riches en Vit-A comme  goyave à chair rouge ?
+Name=BD8G
+Start=30
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mangues mures ou des papayes mures ou  d’autres fruits locaux riches en Vit-A comme  goyave à chair rouge ?
+Name=BD8G_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Tout autre fruit et légume, parmi les plus communément consommés comme Avocat, Aubergine, Tomate, banane, ananas, Pointe-Noire ?
+Name=BD8H
+Start=31
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Tout autre fruit et légume, parmi les plus communément consommés comme Avocat, Aubergine, Tomate, banane, ananas, Pointe-Noire ?
+Name=BD8H_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Du foie, des rognons, du cœur ou autres abats ?
+Name=BD8I
+Start=32
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Du foie, des rognons, du cœur ou autres abats ?
+Name=BD8I_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Toute autre viande comme du bœuf, du porc, de l’agneau, de la chèvre, du poulet, du canard ou des saucisses faites de ces viandes ?
+Name=BD8J
+Start=33
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Toute autre viande comme du bœuf, du porc, de l’agneau, de la chèvre, du poulet, du canard ou des saucisses faites de ces viandes ?
+Name=BD8J_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Des oeufs ?
+Name=BD8K
+Start=34
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Des oeufs ?
+Name=BD8K_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Du poisson ou des crustacés, frais ou séchés ?
+Name=BD8L
+Start=35
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Du poisson ou des crustacés, frais ou séchés ?
+Name=BD8L_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Des haricots, petits pois, lentilles ou noix (arachides, amandes, etc.), y compris toute préparation faite avec ?
+Name=BD8M
+Start=36
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Des haricots, petits pois, lentilles ou noix (arachides, amandes, etc.), y compris toute préparation faite avec ?
+Name=BD8M_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Du fromage ou autre aliment fait avec du lait d’animal
+Name=BD8N
+Start=37
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Du fromage ou autre aliment fait avec du lait d’animal
+Name=BD8N_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Des chenilles, escargots, termites
+Name=BD8O
+Start=38
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Des chenilles, escargots, termites
+Name=BD8O_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Autre aliment solide, semi-solide ou mou ?
+Name=BD8X
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Autre aliment solide, semi-solide ou mou ?
+Name=BD8X_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Combien de fois (nom) a-t-il/elle mangé des aliments solides, semi-solides ou mou hier durant le jour et la nuit ?
+Name=BD9
+Start=40
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de fois (nom) a-t-il/elle mangé des aliments solides, semi-solides ou mou hier durant le jour et la nuit ?
+Name=BD9_FRA
+Value=1:6
+Value=7;7+
+Value=8;DK
+Value=9;NON REPONSE
+
+[Item]
+Label=Dummy for BD8 explanation
+Name=BD8DUMMY
+Start=41
+Len=1
+
+[ValueSet]
+Label=Dummy for BD8 explanation
+Name=BD8DUMMY_FRA
+Value=1;Continuer
+
+[Record]
+Label=Vaccinations
+Name=MODIM
+RecordTypeValue='0IM'
+Required=No
+RecordLen=143
+
+[Item]
+Label=Avez-vous un carnet/carte de vaccinations ou un document d’un agent de santé privé où les vaccinations de (nom) sont enregistrées?
+Name=IM2
+Start=10
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avez-vous un carnet/carte de vaccinations ou un document d’un agent de santé privé où les vaccinations de (nom) sont enregistrées?
+Name=IM2_FRA
+Value=1;OUI, A SEULEMENT UN CARNET/CARTE
+Value=2;OUI, A SEULEMENT UN AUTRE DOCUMENT
+Value=3;OUI, A CARNET/CARTE  ET AUTRE DOCUMENT
+Value=4;NON, N’A NI CARNET/CARTE NI AUTRE DOCUMENT
+Value=9;NON REPONSE
+
+[Item]
+Label=Avez-vous déjà eu un/une carnet/carte de vaccinations ou un document d’un agent de santé privé pour (nom)?
+Name=IM3
+Start=11
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avez-vous déjà eu un/une carnet/carte de vaccinations ou un document d’un agent de santé privé pour (nom)?
+Name=IM3_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Puis-je voir le carnet/carte (et/ou) l’autre document ?
+Name=IM5
+Start=12
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Puis-je voir le carnet/carte (et/ou) l’autre document ?
+Name=IM5_FRA
+Value=1;OUI, CARNET/CARTE SEULEMENT VU
+Value=2;OUI, AUTRE DOCUMENT SEULEMENT VU
+Value=3;OUI, CARNET/CARTE ET AUTRE DOCUMENT VUS
+Value=4;NI CARNET/CARTE NI AUTRE DOCUMENT VU
+Value=5;NON CARTE, CARNET/ CARTE RETNU AU CENTRE DE SANTE
+Value=9;NON REPONSE
+
+[Item]
+Label=Date de vaccination BCG (à la naissance)
+Name=IM6B
+Start=13
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de Vaccination BCG (à la naissance)
+Name=IM6BD
+Start=13
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de Vaccination BCG (à la naissance)
+Name=IM6BD_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination BCG (à la naissance)
+Name=IM6BM
+Start=15
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination BCG (à la naissance)
+Name=IM6BM_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination BCG (à la naissance)
+Name=IM6BY
+Start=17
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination BCG (à la naissance)
+Name=IM6BY_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Polio (VPO) (à la naissance) VPO0
+Name=IM6P
+Start=21
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Polio (VPO) (à la naissance) VPO0
+Name=IM6P0D
+Start=21
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Polio (VPO) (à la naissance) VPO0
+Name=IM6P0D_FR
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Polio (VPO) (à la naissance) VPO0
+Name=IM6P0M
+Start=23
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Polio (VPO) (à la naissance) VPO0
+Name=IM6P0M_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination Polio (VPO) (à la naissance) VPO0
+Name=IM6P0Y
+Start=25
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Polio (VPO) (à la naissance) VPO0
+Name=IM6P0Y_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Polio (VPO) 1 VPO1
+Name=IM6P1
+Start=29
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Polio (VPO) 1 VPO1
+Name=IM6P1D
+Start=29
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Polio (VPO) 1 VPO1
+Name=IM6P1D_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Polio (VPO) 1 VPO1
+Name=IM6P1M
+Start=31
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Polio (VPO) 1 VPO1
+Name=IM6P1M_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination Polio (VPO) 1 VPO1
+Name=IM6P1Y
+Start=33
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Polio (VPO) 1 VPO1
+Name=IM6P1Y_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Polio (VPO) 2 VPO2
+Name=IM6P2
+Start=37
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Polio (VPO) 2 VPO2
+Name=IM6P2D
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Polio (VPO) 2 VPO2
+Name=IM6P2D_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Polio (VPO) 2 VPO2
+Name=IM6P2M
+Start=39
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Polio (VPO) 2 VPO2
+Name=IM6P2M_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination Polio (VPO) 2 VPO2
+Name=IM6P2Y
+Start=41
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Polio (VPO) 2 VPO2
+Name=IM6P2Y_FR
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Polio (VPO) 3 VPO3
+Name=IM6P3
+Start=45
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Polio (VPO) 3 VPO3
+Name=IM6P3D
+Start=45
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Polio (VPO) 3 VPO3
+Name=IM6P3D_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Polio (VPO) 3 VPO3
+Name=IM6P3M
+Start=47
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Polio (VPO) 3 VPO3
+Name=IM6P3M_FRA
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+Value=99;NO RESPONSE
+
+[Item]
+Label=Année de vaccination Polio (VPO) 3 VPO3
+Name=IM6P3Y
+Start=49
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Polio (VPO) 3 VPO3
+Name=IM6P3Y_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Polio (VPI) VPI
+Name=IM6I
+Start=53
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Polio (VPI) VPI
+Name=IM6ID
+Start=53
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Polio (VPI) VPI
+Name=IM6ID_FR
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Polio (VPI) VPI
+Name=IM6IM
+Start=55
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Polio (VPI) VPI
+Name=IM6IM_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccinationPolio (VPI) VPI
+Name=IM6IY
+Start=57
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccinationPolio (VPI) VPI
+Name=IM6IY_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Pentavalent (DTCOQHibHepB) 1 Penta1
+Name=IM6PENTA1
+Start=61
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Pentavalent (DTCOQHibHepB) 1 Penta1
+Name=IM6PENTA1D
+Start=61
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Pentavalent (DTCOQHibHepB) 1 Penta1
+Name=IM6PENTA1D_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Pentavalent (DTCOQHibHepB) 1 Penta1
+Name=IM6PENTA1M
+Start=63
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Pentavalent (DTCOQHibHepB) 1 Penta1
+Name=IM6PENTA1M_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination Pentavalent (DTCOQHibHepB) 1 Penta1
+Name=IM6PENTA1Y
+Start=65
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Pentavalent (DTCOQHibHepB) 1 Penta1
+Name=IM6PENTA1Y_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Pentavalent (DTCOQHibHepB) 2 Penta 2
+Name=IM6PENTA2
+Start=69
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Pentavalent (DTCOQHibHepB) 2 Penta 2
+Name=IM6PENTA2D
+Start=69
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Pentavalent (DTCOQHibHepB) 2 Penta 2
+Name=IM6PENTA2D_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Pentavalent (DTCOQHibHepB) 2 Penta 2
+Name=IM6PENTA2M
+Start=71
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Pentavalent (DTCOQHibHepB) 2 Penta 2
+Name=IM6PENTA2M_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination Pentavalent (DTCOQHibHepB) 2 Penta 2
+Name=IM6PENTA2Y
+Start=73
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Pentavalent (DTCOQHibHepB) 2 Penta 2
+Name=IM6PENTA2Y_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Pentavalent (DTCOQHibHepB) 3 Penta3
+Name=IM6PENTA3
+Start=77
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Pentavalent (DTCOQHibHepB) 3 Penta 3
+Name=IM6PENTA3D
+Start=77
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Pentavalent (DTCOQHibHepB) 3 Penta 3
+Name=IM6PENTA3D_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Pentavalent (DTCOQHibHepB) 3 Penta 3
+Name=IM6PENTA3M
+Start=79
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Pentavalent (DTCOQHibHepB) 3 Penta 3
+Name=IM6PENTA3M_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Annéede vaccination Pentavalent (DTCOQHibHepB) 3 Penta 3
+Name=IM6PENTA3Y
+Start=81
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Annéede vaccination Pentavalent (DTCOQHibHepB) 3 Penta 3
+Name=IM6PENTA3Y_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Pneumococcal (Conjugué) 1 PCV1
+Name=IM6PCV1
+Start=85
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Pneumococcal (Conjugué) 1 PCV1
+Name=IM6PCV1D
+Start=85
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Pneumococcal (Conjugué) 1 PCV1
+Name=IM6PCV1D_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Pneumococcal (Conjugué) 1 PCV1
+Name=IM6PCV1M
+Start=87
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Pneumococcal (Conjugué) 1 PCV1
+Name=IM6PCV1M_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination Pneumococcal (Conjugué) 1 PCV1
+Name=IM6PCV1Y
+Start=89
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Pneumococcal (Conjugué) 1 PCV1
+Name=IM6PCV1Y_FR
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Pneumococcal (Conjugué) 1 PCV2
+Name=IM6PCV2
+Start=93
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Pneumococcal (Conjugué) 1 PCV2
+Name=IM6PCV2D
+Start=93
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Pneumococcal (Conjugué) 1 PCV2
+Name=IM6PCV2D_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Pneumococcal (Conjugué) 1 PCV2
+Name=IM6PCV2M
+Start=95
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Pneumococcal (Conjugué) 1 PCV2
+Name=IM6PCV2M_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination Pneumococcal (Conjugué) 1 PCV2
+Name=IM6PCV2Y
+Start=97
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Pneumococcal (Conjugué) 1 PCV2
+Name=IM6PCV2Y_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Pneumococcal (Conjugué) 1 PCV3
+Name=IM6PCV3
+Start=101
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccinationPneumococcal (Conjugué) 1 PCV3
+Name=IM6PCV3D
+Start=101
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccinationPneumococcal (Conjugué) 1 PCV3
+Name=IM6PCV3D_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Pneumococcal (Conjugué) 1 PCV3
+Name=IM6PCV3M
+Start=103
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Pneumococcal (Conjugué) 1 PCV3
+Name=IM6PCV3M_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination Pneumococcal (Conjugué) 1 PCV3
+Name=IM6PCV3Y
+Start=105
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Pneumococcal (Conjugué) 1 PCV3
+Name=IM6PCV3Y_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination MMR (VAR)
+Name=IM6M
+Start=109
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination MMR (VAR)
+Name=IM6MD
+Start=109
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination MMR (VAR)
+Name=IM6MD_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination MMR (VAR)
+Name=IM6MM
+Start=111
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination MMR (VAR)
+Name=IM6MM_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination MMR (VAR)
+Name=IM6MY
+Start=113
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination MMR (VAR)
+Name=IM6MY_FR
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Date de vaccination Fièvre Jaune (FJ)
+Name=IM6Y
+Start=117
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de vaccination Fièvre Jaune (FJ)
+Name=IM6YD
+Start=117
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de vaccination Fièvre Jaune (FJ)
+Name=IM6YD_FRA
+Value=0;NON SIGNALÉ
+Value=1:31
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Mois de vaccination Fièvre Jaune (FJ)
+Name=IM6YM
+Start=119
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de vaccination Fièvre Jaune (FJ)
+Name=IM6YM_FRA
+Value=0;NON SIGNALÉ
+Value=1:12
+Value=44;ENREGSTRÉ SUR LA CARTE
+Value=66;DECLARÉ PAR LA MAMAN
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de vaccination Fièvre Jaune (FJ)
+Name=IM6YY
+Start=121
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de vaccination Fièvre Jaune (FJ)
+Name=IM6YY_FRA
+Value=0;NON SIGNALÉ
+Value=2012:2018
+Value=4444;ENREGSTRÉ SUR LA CARTE
+Value=6666;DECLARÉ PAR LA MAMAN
+Value=9999;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a participé aux JNV, VPOT, 2016
+Name=IM8A
+Start=125
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a participé aux JNV, VPOT, 2016
+Name=IM8A_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a participé aux JNV, VPOT, 2017
+Name=IM8B
+Start=126
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a participé aux JNV, VPOT, 2017
+Name=IM8B_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=En plus de ce qui est enregistré dans le document que vous nous avez montré, est-ce que (nom) a reçu d’autres vaccinations y compris des vaccinations reçues pendant les campagnes, journées nationales de vaccination qu’on vient de mentionner ?
+Name=IM9
+Start=127
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=En plus de ce qui est enregistré dans le document que vous nous avez montré, est-ce que (nom) a reçu d’autres vaccinations y compris des vaccinations reçues pendant les campagnes, journées nationales de vaccination qu’on vient de mentionner ?
+Name=IM9_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a déjà reçu des vaccinations pour l’empêcher d’attraper des maladies, y compris des vaccinations reçues pendant des campagnes ou des journées nationales de vaccination ?
+Name=IM11
+Start=128
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a déjà reçu des vaccinations pour l’empêcher d’attraper des maladies, y compris des vaccinations reçues pendant des campagnes ou des journées nationales de vaccination ?
+Name=IM11_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a participé aux campagnes ou journées nationales de vaccination suivants Mars 2016, JNV, VPOT
+Name=IM12A
+Start=129
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a participé aux campagnes ou journées nationales de vaccination suivants Mars 2016, JNV, VPOT
+Name=IM12A_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a participé aux campagnes ou journées nationales de vaccination suivants Avril 2017, JNV, VPO
+Name=IM12B
+Start=130
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a participé aux campagnes ou journées nationales de vaccination suivants Avril 2017, JNV, VPO
+Name=IM12B_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a déjà reçu le vaccin du BCG contre la tuberculose – c’est-à-dire une injection faite dans le bras ou l’épaule et qui laisse habituellement une cicatrice ?
+Name=IM14
+Start=131
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a déjà reçu le vaccin du BCG contre la tuberculose – c’est-à-dire une injection faite dans le bras ou l’épaule et qui laisse habituellement une cicatrice ?
+Name=IM14_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que  (nom) a déjà reçu un « vaccin sous forme de gouttes dans la bouche » pour le/la protéger contre la polio ?
+Name=IM16
+Start=132
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que  (nom) a déjà reçu un « vaccin sous forme de gouttes dans la bouche » pour le/la protéger contre la polio ?
+Name=IM16_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que les premières gouttes de Polio ont été données dans les 2 premières semaines après la naissance ?
+Name=IM17
+Start=133
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que les premières gouttes de Polio ont été données dans les 2 premières semaines après la naissance ?
+Name=IM17_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Combien de fois les gouttes de Polio ont été données ?
+Name=IM18
+Start=134
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de fois les gouttes de Polio ont été données ?
+Name=IM18_FRA
+Value=1:7
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=La dernière fois que (nom) a reçu des gouttes de Polio, est-ce qu’il/elle a également reçu une injection pour le protéger contre la Polio ?
+Name=IM19
+Start=135
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La dernière fois que (nom) a reçu des gouttes de Polio, est-ce qu’il/elle a également reçu une injection pour le protéger contre la Polio ?
+Name=IM19_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a déjà reçu le vaccin Pentavalent– c’est-à-dire une injection dans la cuisse pour l’empêcher d’attraper le tétanos, la coqueluche, la diphtérie, l’hépatite B et  l’Haemophilus influenzae de type b ?
+Name=IM20
+Start=136
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a déjà reçu le vaccin Pentavalent– c’est-à-dire une injection dans la cuisse pour l’empêcher d’attraper le tétanos, la coqueluche, la diphtérie, l’hépatite B et  l’Haemophilus influenzae de type b ?
+Name=IM20_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Combien de fois le vaccin Pentavalent a été donné ?
+Name=IM21
+Start=137
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de fois le vaccin Pentavalent a été donné ?
+Name=IM21_FRA
+Value=1:7
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a déjà reçu le vaccin Pneumoccocal Conjugué - PCV– c’est-à-dire une injection dans la cuisse pour l’empêcher d’attraper une maladie pneumococcique, y compris les infections d'oreille et la méningite causée par le pneumocoque?
+Name=IM22
+Start=138
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a déjà reçu le vaccin Pneumoccocal Conjugué - PCV– c’est-à-dire une injection dans la cuisse pour l’empêcher d’attraper une maladie pneumococcique, y compris les infections d'oreille et la méningite causée par le pneumocoque?
+Name=IM22_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Combien de fois le vaccin Pneumoccocal Conjugué PCV a été donné ?
+Name=IM23
+Start=139
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de fois le vaccin Pneumoccocal Conjugué PCV a été donné ?
+Name=IM23_FRA
+Value=1:7
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a déjà reçu le VAR c’est-à-dire une injection dans le bras à l’âge de 9 mois ou plus pour l’empêcher d’attraper la rougeole ?
+Name=IM26
+Start=140
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a déjà reçu le VAR c’est-à-dire une injection dans le bras à l’âge de 9 mois ou plus pour l’empêcher d’attraper la rougeole ?
+Name=IM26_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a déjà reçu une injection contre la Fièvre Jaune c’est-à-dire une injection dans le bras à l’âge de 9 mois ou plus pour l’empêcher d’attraper la Fièvre Jaune ?
+Name=IM27
+Start=141
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a déjà reçu une injection contre la Fièvre Jaune c’est-à-dire une injection dans le bras à l’âge de 9 mois ou plus pour l’empêcher d’attraper la Fièvre Jaune ?
+Name=IM27_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Au cours des 6 derniers mois, est-ce (nom) a reçu la vitamine A
+Name=IM28
+Start=142
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Au cours des 6 derniers mois, est-ce (nom) a reçu la vitamine A
+Name=IM28_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Au cours des 6 derniers mois, est-ce qu (nom) a reçu un traitement de déparasitage au Mébendanzole
+Name=IM29
+Start=143
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Au cours des 6 derniers mois, est-ce qu (nom) a reçu un traitement de déparasitage au Mébendanzole
+Name=IM29_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Record]
+Label=Traitement des maladie
+Name=MODCA
+RecordTypeValue='0CA'
+Required=No
+RecordLen=173
+
+[Item]
+Label=Au cours des derniers 6 mois , avez-vous reçu 1 kit familial d'enfant pour (nom)
+Name=CA0A
+Start=10
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Au cours des derniers 6 mois , avez-vous reçu 1 kit familial d'enfant pour (nom)
+Name=CA0A_FRA
+Value=1;OUI, UNE FOIS
+Value=2;OUI, DEUX FOIS
+Value=3;PAS DANS LES 6 DERNIERS MOIS
+Value=4;JAMAIS RE9U
+Value=8;NSP
+
+[Item]
+Label=Au cours des 6 derniers mois , avez- vous utilisé pour (nom) les médicaments qui se trouvent dans le kit familial
+Name=CA0B
+Start=11
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Au cours des 6 derniers mois , avez- vous utilisé pour (nom) les médicaments qui se trouvent dans le kit familial
+Name=CA0B_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Est-ce que (nom) a eu la diarrhée au cours des deux dernières semaines ?
+Name=CA1
+Start=12
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que (nom) a eu la diarrhée au cours des deux dernières semaines ?
+Name=CA1_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Je voudrais savoir quelle quantité de liquides à boire a été donnée à (nom) durant sa diarrhée
+Name=CA3
+Start=13
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Je voudrais savoir quelle quantité de liquides à boire a été donnée à (nom) durant sa diarrhée
+Name=CA3_FRA
+Value=1;BEAUCOUP MOINS
+Value=2;UN PEU MOINS
+Value=3;A PEU PRES LA MEME CHOSE
+Value=4;PLUS
+Value=5;RIEN A BOIRE
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Pendant que (nom) avait la diarrhée, a-t-il/elle reçut à manger  moins que d’habitude, environ la même quantité, plus que d’habitude ou rien à manger ?
+Name=CA4
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pendant que (nom) avait la diarrhée, a-t-il/elle reçut à manger  moins que d’habitude, environ la même quantité, plus que d’habitude ou rien à manger ?
+Name=CA4_FRA
+Value=1;BEAUCOUP MOINS
+Value=2;UN PEU MOINS
+Value=3;A PEU PRES LA MEME CHOSE
+Value=4;PLUS
+Value=5;A STOPPE L’ALIMENTATION
+Value=6;N’A JAMAIS DONNE A MANGER
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Avez-vous recherché des conseils ou un traitement contre la diarrhée de n’importe quelle source ?
+Name=CA5
+Start=15
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avez-vous recherché des conseils ou un traitement contre la diarrhée de n’importe quelle source ?
+Name=CA5_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Ou avez-vous cherché des conseils ou un traitement ?
+Name=CA6
+Start=16
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=Ou avez-vous cherché des conseils ou un traitement ?
+Name=CA6_FRA
+Value='A                ';HOPITAL GOUVERNEMENTAL
+Value='B                ';CENTRE DE SANTE GOUVERNEMENTAL
+Value='C                ';POSTE DE SANTE GOUVERNEMENTAL
+Value='D                ';AGENT DE SANTE COMMUNAUTAIRE
+Value='E                ';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value='H                ';AUTRE MEDICAL PUBLIC
+Value='I                ';HOPITAL PRIVE / CLINIQUE
+Value='J                ';MEDECIN PRIVE
+Value='K                ';PHARMACIE PRIVEE
+Value='L                ';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value='M                ';CLINIQUE MOBILE
+Value='O                ';AUTRE MEDICAL PRIVE
+Value='P                ';FAMILLE/AMIS
+Value='Q                ';BOUTIQUE/MARCHE/RUE
+Value='R                ';PRATICIEN TRADITIONNEL
+Value='X                ';AUTRE
+Value='?                ';NON REPONSE
+
+[Item]
+Label=Place sought care: HOPITAL GOUVERNEMENTAL
+Name=CA6A
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: HOPITAL GOUVERNEMENTAL
+Name=CA6A_FRA
+Value='A';HOPITAL GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA6B
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA6B_FRA
+Value='B';CENTRE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: POSTE DE SANTE GOUVERNEMENTAL
+Name=CA6C
+Start=18
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: POSTE DE SANTE GOUVERNEMENTAL
+Name=CA6C_FRA
+Value='C';POSTE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: AGENT DE SANTE COMMUNAUTAIRE
+Name=CA6D
+Start=19
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: AGENT DE SANTE COMMUNAUTAIRE
+Name=CA6D_FRA
+Value='D';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA6E
+Start=20
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA6E_FRA
+Value='E';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: AUTRE MEDICAL PUBLIC
+Name=CA6H
+Start=21
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: AUTRE MEDICAL PUBLIC
+Name=CA6H_FRA
+Value='H';AUTRE MEDICAL PUBLIC
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: HOPITAL PRIVE / CLINIQUE
+Name=CA6I
+Start=22
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: HOPITAL PRIVE / CLINIQUE
+Name=CA6I_FRA
+Value='I';HOPITAL PRIVE / CLINIQUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: MEDECIN PRIVE
+Name=CA6J
+Start=23
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: MEDECIN PRIVE
+Name=CA6J_FRA
+Value='J';MEDECIN PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: PHARMACIE PRIVEE
+Name=CA6K
+Start=24
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: PHARMACIE PRIVEE
+Name=CA6K_FRA
+Value='K';PHARMACIE PRIVEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA6L
+Start=25
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA6L_FRA
+Value='L';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: CLINIQUE MOBILE
+Name=CA6M
+Start=26
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: CLINIQUE MOBILE
+Name=CA6M_FRA
+Value='M';CLINIQUE MOBILE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: AUTRE MEDICAL PRIVE
+Name=CA6O
+Start=27
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: AUTRE MEDICAL PRIVE
+Name=CA6O_FRA
+Value='O';AUTRE MEDICAL PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: FAMILLE/AMIS
+Name=CA6P
+Start=28
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: FAMILLE/AMIS
+Name=CA6P_FRA
+Value='P';FAMILLE/AMIS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: BOUTIQUE/MARCHE/RUE
+Name=CA6Q
+Start=29
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: BOUTIQUE/MARCHE/RUE
+Name=CA6Q_FRA
+Value='Q';BOUTIQUE/MARCHE/RUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: PRATICIEN TRADITIONNEL
+Name=CA6R
+Start=30
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: PRATICIEN TRADITIONNEL
+Name=CA6R_FRA
+Value='R';PRATICIEN TRADITIONNEL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: AUTRE
+Name=CA6X
+Start=31
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: AUTRE
+Name=CA6X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Place sought care: Manquant
+Name=CA6NR
+Start=32
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Place sought care: Manquant
+Name=CA6NR_FRA
+Value='?' ' ';NON REPONSE
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : SACHET DE SRO
+Name=CA7A
+Start=33
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : SACHET DE SRO
+Name=CA7A_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : LIQUIDE SRO DEJA PREPARE
+Name=CA7B
+Start=34
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : LIQUIDE SRO DEJA PREPARE
+Name=CA7B_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : ZINC COMPRIMES OU SIROP
+Name=CA7C
+Start=35
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : ZINC COMPRIMES OU SIROP
+Name=CA7C_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : EAU POTABLE
+Name=CA7D
+Start=36
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : EAU POTABLE
+Name=CA7D_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : EAU DE RIZ
+Name=CA7E
+Start=37
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : EAU DE RIZ
+Name=CA7E_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;MANQUANT
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : POTAGE
+Name=CA7F
+Start=38
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : POTAGE
+Name=CA7F_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;MANQUANT
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : LAIT DE COCO
+Name=CA7G
+Start=39
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : LAIT DE COCO
+Name=CA7G_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;MANQUANT
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : LAIT DE SOJA
+Name=CA7H
+Start=40
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : LAIT DE SOJA
+Name=CA7H_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;MANQUANT
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : LAIT DE COURGE
+Name=CA7I
+Start=41
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : LAIT DE COURGE
+Name=CA7I_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;MANQUANT
+
+[Item]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : BOUILLIE
+Name=CA7J
+Start=42
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée est-ce qu’il a eu : BOUILLIE
+Name=CA7J_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;MANQUANT
+
+[Item]
+Label=Quand (nom) a eu la diarrhée/ liquide racine
+Name=CA7K
+Start=43
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quand (nom) a eu la diarrhée/ liquide racine
+Name=CA7K_VS1
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;MANQUANT
+
+[Item]
+Label=Ou avez-vous eu le (SRO mentionné en CA7 [A] et/ou en CA7 [B]) ?
+Name=CA9
+Start=44
+Len=18
+DataType=Alpha
+
+[ValueSet]
+Label=Ou avez-vous eu le (SRO mentionné en CA7 [A] et/ou en CA7 [B]) ?
+Name=CA9_FRA
+Value='A                 ';HOPITAL GOUVERNEMENTAL
+Value='B                 ';CENTRE DE SANTE GOUVERNEMENTAL
+Value='C                 ';POSTE DE SANTE GOUVERNEMENTAL
+Value='D                 ';AGENT DE SANTE COMMUNAUTAIRE
+Value='E                 ';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value='H                 ';AUTRE MEDICAL PUBLIC
+Value='I                 ';HOPITAL PRIVE / CLINIQUE
+Value='J                 ';MEDECIN PRIVE
+Value='K                 ';PHARMACIE PRIVEE
+Value='L                 ';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value='M                 ';CLINIQUE MOBILE
+Value='O                 ';AUTRE MEDICAL PRIVE
+Value='P                 ';FAMILLE/AMIS
+Value='Q                 ';BOUTIQUE/MARCHE/RUE
+Value='R                 ';PRATICIEN TRADITIONNEL
+Value='X                 ';AUTRE
+Value='?                 ';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : HOPITAL GOUVERNEMENTAL
+Name=CA9A
+Start=44
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : HOPITAL GOUVERNEMENTAL
+Name=CA9A_FRA
+Value='A';HOPITAL GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA9B
+Start=45
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA9B_FRA
+Value='B';CENTRE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : POSTE DE SANTE GOUVERNEMENTAL
+Name=CA9C
+Start=46
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : POSTE DE SANTE GOUVERNEMENTAL
+Name=CA9C_FRA
+Value='C';POSTE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : AGENT DE SANTE COMMUNAUTAIRE
+Name=CA9D
+Start=47
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : AGENT DE SANTE COMMUNAUTAIRE
+Name=CA9D_FRA
+Value='D';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA9E
+Start=48
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA9E_FRA
+Value='E';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : AUTRE MEDICAL PUBLIC Précisez
+Name=CA9H
+Start=49
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : AUTRE MEDICAL PUBLIC Précisez
+Name=CA9H_FRA
+Value='H';AUTRE MEDICAL PUBLIC
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : HOPITAL PRIVE / CLINIQUE
+Name=CA9I
+Start=50
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : HOPITAL PRIVE / CLINIQUE
+Name=CA9I_FRA
+Value='I';HOPITAL PRIVE / CLINIQUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : MEDECIN PRIVE
+Name=CA9J
+Start=51
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : MEDECIN PRIVE
+Name=CA9J_FRA
+Value='J';MEDECIN PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : PHARMACIE PRIVEE
+Name=CA9K
+Start=52
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : PHARMACIE PRIVEE
+Name=CA9K_FRA
+Value='K';PHARMACIE PRIVEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA9L
+Start=53
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA9L_FRA
+Value='L';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : CLINIQUE MOBILE
+Name=CA9M
+Start=54
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : CLINIQUE MOBILE
+Name=CA9M_FRA
+Value='M';CLINIQUE MOBILE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : AUTRE MEDICAL PRIVE
+Name=CA9O
+Start=55
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : AUTRE MEDICAL PRIVE
+Name=CA9O_FRA
+Value='O';AUTRE MEDICAL PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : FAMILLE/AMIS
+Name=CA9P
+Start=56
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : FAMILLE/AMIS
+Name=CA9P_FRA
+Value='P';FAMILLE/AMIS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : BOUTIQUE/MARCHE/RUE
+Name=CA9Q
+Start=57
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : BOUTIQUE/MARCHE/RUE
+Name=CA9Q_FRA
+Value='Q';BOUTIQUE/MARCHE/RUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : PRATICIEN TRADITIONNEL
+Name=CA9R
+Start=58
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : PRATICIEN TRADITIONNEL
+Name=CA9R_FRA
+Value='R';PRATICIEN TRADITIONNEL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : AUTRE (préciser)
+Name=CA9X
+Start=59
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : AUTRE (préciser)
+Name=CA9X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l'endroit : NSP / NE SE RAPPELLE PAS
+Name=CA9Z
+Start=60
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l'endroit : NSP / NE SE RAPPELLE PAS
+Name=CA9Z_FRA
+Value='Z';NSP / NE SE RAPPELLE PAS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l'endroit : Manquant
+Name=CA9NR
+Start=61
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l'endroit : Manquant
+Name=CA9NR_FRA
+Value='?' ' ';NON REPONSE
+
+[Item]
+Label=Ou avez-vous eu le zinc ?
+Name=CA11
+Start=62
+Len=18
+DataType=Alpha
+
+[ValueSet]
+Label=Ou avez-vous eu le zinc ?
+Name=CA11_FRA
+Value='A                 ';HOPITAL GOUVERNEMENTAL
+Value='B                 ';CENTRE DE SANTE GOUVERNEMENTAL
+Value='C                 ';POSTE DE SANTE GOUVERNEMENTAL
+Value='D                 ';AGENT DE SANTE COMMUNAUTAIRE
+Value='E                 ';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value='H                 ';AUTRE MEDICAL PUBLIC
+Value='I                 ';HOPITAL PRIVE / CLINIQUE
+Value='J                 ';MEDECIN PRIVE
+Value='K                 ';PHARMACIE PRIVEE
+Value='L                 ';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value='M                 ';CLINIQUE MOBILE
+Value='O                 ';AUTRE MEDICAL PRIVE
+Value='P                 ';FAMILLE/AMIS
+Value='Q                 ';BOUTIQUE/MARCHE/RUE
+Value='R                 ';PRATICIEN TRADITIONNEL
+Value='X                 ';AUTRE
+Value='Z                 ';NSP/ NE SE RAPPELLE PAS
+Value='?                 ';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : HOPITAL GOUVERNEMENTAL
+Name=CA11A
+Start=62
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : HOPITAL GOUVERNEMENTAL
+Name=CA11A_FRA
+Value='A';HOPITAL GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA11B
+Start=63
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA11B_FRA
+Value='B';CENTRE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : POSTE DE SANTE GOUVERNEMENTAL
+Name=CA11C
+Start=64
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : POSTE DE SANTE GOUVERNEMENTAL
+Name=CA11C_FRA
+Value='C';POSTE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : AGENT DE SANTE COMMUNAUTAIRE
+Name=CA11D
+Start=65
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : AGENT DE SANTE COMMUNAUTAIRE
+Name=CA11D_FRA
+Value='D';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA11E
+Start=66
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA11E_FRA
+Value='E';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : AUTRE MEDICAL PUBLIC
+Name=CA11H
+Start=67
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : AUTRE MEDICAL PUBLIC
+Name=CA11H_FRA
+Value='H';AUTRE MEDICAL PUBLIC
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : HOPITAL PRIVE / CLINIQUE
+Name=CA11I
+Start=68
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : HOPITAL PRIVE / CLINIQUE
+Name=CA11I_FRA
+Value='I';HOPITAL PRIVE / CLINIQUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : MEDECIN PRIVE
+Name=CA11J
+Start=69
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : MEDECIN PRIVE
+Name=CA11J_FRA
+Value='J';MEDECIN PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : PHARMACIE PRIVEE
+Name=CA11K
+Start=70
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : PHARMACIE PRIVEE
+Name=CA11K_FRA
+Value='K';	PHARMACIE PRIVEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA11L
+Start=71
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA11L_FRA
+Value='L';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l’endroit : CLINIQUE MOBILE
+Name=CA11M
+Start=72
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l’endroit : CLINIQUE MOBILE
+Name=CA11M_FRA
+Value='M';CLINIQUE MOBILE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l'endroit : AUTRE MEDICAL PRIVE
+Name=CA11O
+Start=73
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l'endroit : AUTRE MEDICAL PRIVE
+Name=CA11O_FRA
+Value='O';AUTRE MEDICAL PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l'endroit : FAMILLE/AMIS
+Name=CA11P
+Start=74
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l'endroit : FAMILLE/AMIS
+Name=CA11P_FRA
+Value='P';	FAMILLE/AMIS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l'endroit : BOUTIQUE/MARCHE/RUE
+Name=CA11Q
+Start=75
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l'endroit : BOUTIQUE/MARCHE/RUE
+Name=CA11Q_FRA
+Value='Q';BOUTIQUE/MARCHE/RUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l'endroit : PRATICIEN TRADITIONNEL
+Name=CA11R
+Start=76
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l'endroit : PRATICIEN TRADITIONNEL
+Name=CA11R_FRA
+Value='R';PRATICIEN TRADITIONNEL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l'endroit : AUTRE (préciser)
+Name=CA11X
+Start=77
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l'endroit : AUTRE (préciser)
+Name=CA11X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l'endroit : NSP / NE SE RAPPELLE PAS
+Name=CA11Z
+Start=78
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l'endroit : NSP / NE SE RAPPELLE PAS
+Name=CA11Z_FRA
+Value='Z';NSP / NE SE RAPPELLE PAS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Nom de l'endroit : Manquant
+Name=CA11NR
+Start=79
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Nom de l'endroit : Manquant
+Name=CA11NR_FRA
+Value='?' ' ';NON REPONSE
+
+[Item]
+Label=Est-ce que quelque chose d’autre a été donnée pour traiter la diarrhée ?
+Name=CA12
+Start=80
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Est-ce que quelque chose d’autre a été donnée pour traiter la diarrhée ?
+Name=CA12_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON RESPONSE
+
+[Item]
+Label=Qu’est-ce qui a été donné en plus pour traiter la diarrhée  ?
+Name=CA13
+Start=81
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=Qu’est-ce qui a été donné en plus pour traiter la diarrhée  ?
+Name=CA13_FRA
+Value='A          ';COMPRIMES OU SIROP: ANTIBIOTIQUE
+Value='B          ';COMPRIMES OU SIROP: ANTIMOTILITE (ANTI-DIARRHEIQUE)
+Value='G          ';COMPRIMES OU SIROP: AUTRE COMPRIME OU SIROP
+Value='H          ';COMPRIMES OU SIROP: COMPRIME OU SIROP INCONNU
+Value='L          ';INJECTION: ANTIBIOTIQUE
+Value='M          ';INJECTION: PAS ANTIBIOTIQUE
+Value='N          ';INJECTION: INJECTION INCONNUE
+Value='O          ';INTRAVEINEUSE (IV)
+Value='Q          ';REMEDE MAISON/ HERBE MEDICINALE
+Value='X          ';AUTRE
+Value='?          ';NON REPONSE
+
+[Item]
+Label=Autre traitement : ANTIBIOTIQUE
+Name=CA13A
+Start=81
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : ANTIBIOTIQUE
+Name=CA13A_FRA
+Value='A';COMPRIMES OU SIROP: ANTIBIOTIQUE
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : ANTIMOTILITE (ANTI-DIARRHEIQUE)
+Name=CA13B
+Start=82
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : ANTIMOTILITE (ANTI-DIARRHEIQUE)
+Name=CA13B_FRA
+Value='B';COMPRIMES OU SIROP: ANTIMOTILITE (ANTI-DIARRHEIQUE)
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : AUTRE COMPRIME OU SIROP
+Name=CA13G
+Start=83
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : AUTRE COMPRIME OU SIROP
+Name=CA13G_FRA
+Value='G';COMPRIMES OU SIROP: AUTRE COMPRIME OU SIROP
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : COMPRIME OU SIROP INCONNU
+Name=CA13H
+Start=84
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : COMPRIME OU SIROP INCONNU
+Name=CA13H_FRA
+Value='H';COMPRIMES OU SIROP: COMPRIME OU SIROP INCONNU
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : ANTIBIOTIQUE
+Name=CA13L
+Start=85
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : ANTIBIOTIQUE
+Name=CA13L_FRA
+Value='L';INJECTION: ANTIBIOTIQUE
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : PAS ANTIBIOTIQUE
+Name=CA13M
+Start=86
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : PAS ANTIBIOTIQUE
+Name=CA13M_FRA
+Value='M';INJECTION: PAS ANTIBIOTIQUE
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : INJECTION INCONNUE
+Name=CA13N
+Start=87
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : INJECTION INCONNUE
+Name=CA13N_FRA
+Value='N';INJECTION: INJECTION INCONNUE
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : INTRAVEINEUSE (IV)
+Name=CA13O
+Start=88
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : INTRAVEINEUSE (IV)
+Name=CA13O_FRA
+Value='O';INTRAVEINEUSE (IV)
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : REMEDE MAISON/ HERBE MEDICINALE
+Name=CA13Q
+Start=89
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : REMEDE MAISON/ HERBE MEDICINALE
+Name=CA13Q_FRA
+Value='Q';REMEDE MAISON/ HERBE MEDICINALE
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : AUTRE
+Name=CA13X
+Start=90
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : AUTRE
+Name=CA13X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON RESPONSE
+
+[Item]
+Label=Autre traitement : NSP / NE SE RAPPELLE PAS
+Name=CA13NR
+Start=91
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Autre traitement : NSP / NE SE RAPPELLE PAS
+Name=CA13NR_FRA
+Value='?' ' ';NON RESPONSE
+
+[Item]
+Label=A n’importe quel moment au cours des deux dernières semaines, est-ce que (nom) a eu de la fièvre ?
+Name=CA14
+Start=92
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A n’importe quel moment au cours des deux dernières semaines, est-ce que (nom) a eu de la fièvre ?
+Name=CA14_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=À n’importe quel moment durant sa maladie, est-ce que (nom) a eu du sang prélevé au bout de son doigt ou au talon pour effectuer un test ?
+Name=CA15
+Start=93
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=À n’importe quel moment durant sa maladie, est-ce que (nom) a eu du sang prélevé au bout de son doigt ou au talon pour effectuer un test ?
+Name=CA15_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=A n’importe quel moment au cours des deux dernières semaines, est-ce que (nom) a eu une maladie avec de la toux ?
+Name=CA16
+Start=94
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A n’importe quel moment au cours des deux dernières semaines, est-ce que (nom) a eu une maladie avec de la toux ?
+Name=CA16_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=A n’importe quel moment au cours des deux dernières semaines, est-ce que (nom) a eu une respiration rapide et forte ou des difficultés à respirer ?
+Name=CA17
+Start=95
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A n’importe quel moment au cours des deux dernières semaines, est-ce que (nom) a eu une respiration rapide et forte ou des difficultés à respirer ?
+Name=CA17_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=La respiration rapide ou les difficultés respiratoires étaient-elles dues à un problème de bronches, ou à un nez bouché ou qui coulait ?
+Name=CA18
+Start=96
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=La respiration rapide ou les difficultés respiratoires étaient-elles dues à un problème de bronches, ou à un nez bouché ou qui coulait ?
+Name=CA18_FRA
+Value=1;PROBLEMES DANS LA POITRINE SEULEMENT
+Value=2;NEZ BLOQUE OU QUI COULAIT
+Value=3;LES DEUX
+Value=6;AUTRE
+Value=8;NSP
+
+[Item]
+Label=Avez-vous recherché des conseils ou un traitement pour la maladie quelque part ?
+Name=CA20
+Start=97
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avez-vous recherché des conseils ou un traitement pour la maladie quelque part ?
+Name=CA20_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché des conseils ou un traitement ?
+Name=CA21
+Start=98
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché des conseils ou un traitement ?
+Name=CA21_FRA
+Value='A                ';HOPITAL GOUVERNEMENTAL
+Value='B                ';CENTRE DE SANTE GOUVERNEMENTAL
+Value='C                ';POSTE DE SANTE GOUVERNEMENTAL
+Value='D                ';AGENT DE SANTE COMMUNAUTAIRE
+Value='E                ';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value='H                ';AUTRE MEDICAL PUBLIC
+Value='I                ';HOPITAL PRIVE / CLINIQUE
+Value='J                ';MEDECIN PRIVE
+Value='K                ';PHARMACIE PRIVEE
+Value='L                ';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value='M                ';CLINIQUE MOBILE
+Value='O                ';AUTRE MEDICAL PRIVE
+Value='P                ';FAMILLE/AMIS
+Value='Q                ';BOUTIQUE/MARCHE/RUE
+Value='R                ';PRATICIEN TRADITIONNEL
+Value='X                ';AUTRE
+Value='?                ';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: HOPITAL GOUVERNEMENTAL
+Name=CA21A
+Start=98
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: HOPITAL GOUVERNEMENTAL
+Name=CA21A_FRA
+Value='A';HOPITAL GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA21B
+Start=99
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA21B_FRA
+Value='B';CENTRE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: POSTE DE SANTE GOUVERNEMENTAL
+Name=CA21C
+Start=100
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: POSTE DE SANTE GOUVERNEMENTAL
+Name=CA21C_FRA
+Value='C';POSTE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: AGENT DE SANTE COMMUNAUTAIRE
+Name=CA21D
+Start=101
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: AGENT DE SANTE COMMUNAUTAIRE
+Name=CA21D_FRA
+Value='D';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA21E
+Start=102
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA21E_FRA
+Value='E';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: AUTRE MEDICAL PUBLIC
+Name=CA21H
+Start=103
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: AUTRE MEDICAL PUBLIC
+Name=CA21H_FRA
+Value='H';AUTRE MEDICAL PUBLIC
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: HOPITAL PRIVE / CLINIQUE
+Name=CA21I
+Start=104
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: HOPITAL PRIVE / CLINIQUE
+Name=CA21I_FRA
+Value='I';HOPITAL PRIVE / CLINIQUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: MEDECIN PRIVE
+Name=CA21J
+Start=105
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: MEDECIN PRIVE
+Name=CA21J_FRA
+Value='J';MEDECIN PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: PHARMACIE PRIVEE
+Name=CA21K
+Start=106
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: PHARMACIE PRIVEE
+Name=CA21K_FRA
+Value='K';PHARMACIE PRIVEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA21L
+Start=107
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA21L_FRA
+Value='L';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: CLINIQUE MOBILE
+Name=CA21M
+Start=108
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: CLINIQUE MOBILE
+Name=CA21M_FRA
+Value='M';CLINIQUE MOBILE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: AUTRE MEDICAL PRIVE
+Name=CA21O
+Start=109
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: AUTRE MEDICAL PRIVE
+Name=CA21O_FRA
+Value='O';AUTRE MEDICAL PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: FAMILLE/AMIS
+Name=CA21P
+Start=110
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: FAMILLE/AMIS
+Name=CA21P_FRA
+Value='P';FAMILLE/AMIS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: Shop / Market / Street
+Name=CA21Q
+Start=111
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: Shop / Market / Street
+Name=CA21Q_FRA
+Value='Q';BOUTIQUE/MARCHE/RUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: PRATICIEN TRADITIONNEL
+Name=CA21R
+Start=112
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: PRATICIEN TRADITIONNEL
+Name=CA21R_FRA
+Value='R';PRATICIEN TRADITIONNEL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: Autre
+Name=CA21X
+Start=113
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: Autre
+Name=CA21X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a recherché conseils ou traitement: Manquant
+Name=CA21NR
+Start=114
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a recherché conseils ou traitement: Manquant
+Name=CA21NR_FRA
+Value='?' ' ';NON REPONSE
+
+[Item]
+Label=A n’importe quel moment de sa maladie, est-ce que (nom) a reçu un médicament pour cette maladie ?
+Name=CA22
+Start=115
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A n’importe quel moment de sa maladie, est-ce que (nom) a reçu un médicament pour cette maladie ?
+Name=CA22_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Quel médicament (nom) a-t-il/elle reçu ?
+Name=CA23
+Start=116
+Len=21
+DataType=Alpha
+
+[ValueSet]
+Label=Quel médicament (nom) a-t-il/elle reçu ?
+Name=CA23_FRA
+Value='A                    ';ANTI-PALUDIQUES: ARTESUNATE + AMODIAQUINE
+Value='B                    ';ANTI-PALUDIQUES: ARTEMETHER + LUMEFANTRINE
+Value='C                    ';ANTI-PALUDIQUES: SP/ FASIDAR
+Value='D                    ';ANTI-PALUDIQUES: CHLOROQUINE
+Value='E                    ';ANTI-PALUDIQUES: AMODIAQUINE
+Value='F                    ';ANTI-PALUDIQUES: QUININE COMPRIMES
+Value='G                    ';ANTI-PALUDIQUES:  QUININES INJECTION/ IV
+Value='H                    ';ANTI-PALUDIQUES: ARTESUNATE  INJECTION/IV
+Value='I                    ';ANTI-PALUDIQUES: ARTESUNATE EN SUPOSITOIRE
+Value='J                    ';ANTI-PALUDIQUES: AUTRE INJECTION/IV
+Value='K                    ';ANTI-PALUDIQUES: AUTRE ANTI-PALUDIQUE
+Value='L                    ';ANTIBIOTIQUES: AMOXICILLIN
+Value='M                    ';ANTIBIOTIQUES: COTRIMOXAZOLE
+Value='N                    ';ANTIBIOTIQUES: AUTRES COMPRIMES OU SIROP ANTIBIOTIQUE
+Value='O                    ';ANTIBIOTIQUES: AUTRE INJECTION/IV ANTIBIOTIQUE
+Value='R                    ';AUTRES MEDICAMENTS: PARACETAMOL/PANADOL/ACETAMINOPHEN
+Value='S                    ';AUTRES MEDICAMENTS: ASPIRINE
+Value='T                    ';AUTRES MEDICAMENTS:IBUPROFEN
+Value='X                    ';AUTRE
+Value='Z                    ';NSP
+Value='?                    ';NON REPONSE
+
+[Item]
+Label=Médicament reçu : ARTESUNATE + AMODIAQUINE
+Name=CA23A
+Start=116
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : ARTESUNATE + AMODIAQUINE
+Name=CA23A_FRA
+Value='A';ANTI-PALUDIQUES: ARTESUNATE  + AMODIAQUINE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : ARTESUNATE+LUMEFANTRINE
+Name=CA23B
+Start=117
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : ARTESUNATE+LUMEFANTRINE
+Name=CA23B_FRA
+Value='B';ANTI-PALUDIQUES: SP / FANSIDAR
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : SP/ FANSIDAR
+Name=CA23C
+Start=118
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : SP/ FANSIDAR
+Name=CA23C_FRA
+Value='C';ANTI-PALUDIQUES: CHLOROQUINE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : CHLOROQUINE
+Name=CA23D
+Start=119
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : CHLOROQUINE
+Name=CA23D_FRA
+Value='D';ANTI-PALUDIQUES: AMODIAQUINE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : AMODIAQUINE
+Name=CA23E
+Start=120
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : AMODIAQUINE
+Name=CA23E_FRA
+Value='E';ANTI-PALUDIQUES: QUININE EN COMPRIMES
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : QUININE COMPERIMES
+Name=CA23F
+Start=121
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : QUININE COMPERIMES
+Name=CA23F_FRA
+Value='F';ANTI-PALUDIQUES: QUININE EN INJECTION/ IV
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : INJECTION/ IV
+Name=CA23G
+Start=122
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : INJECTION/ IV
+Name=CA23G_FRA
+Value='G';ANTI-PALUDIQUES: ARTESUNATE EN SUPPOSITOIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : ARTESUNATE INJECTION/ IV
+Name=CA23H
+Start=123
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : ARTESUNATE INJECTION/ IV
+Name=CA23H_FRA
+Value='H';ANTI-PALUDIQUES: ARTESUNATE AUTRE INJECTION/IV
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu:  ARTESUNATE EN SUPPOSITOIRE
+Name=CA23I
+Start=124
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu:  ARTESUNATE EN SUPPOSITOIRE
+Name=CA23I_FRA
+Value='I';ANTI-PALUDIQUES: ARTESUNATE AUTRE INJECTION/IV
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : AUTRE INJECTION / IV
+Name=CA23J
+Start=125
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : AUTRE INJECTION / IV
+Name=CA23J_FRA
+Value='J';ANTI-PALUDIQUES: ARTESUNATE AUTRE INJECTION/IV
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : AUTRE ANTI-PALUDIQUE
+Name=CA23K
+Start=126
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : AUTRE ANTI-PALUDIQUE
+Name=CA23K_FRA
+Value='K';ANTI-PALUDIQUES: AUTRE ANTI-PALUDIQUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : AMOXICILLIN
+Name=CA23L
+Start=127
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : AMOXICILLIN
+Name=CA23L_FRA
+Value='L';ANTIBIOTIQUES: AMOXICILLIN
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : COTRIMOXAZOLE
+Name=CA23M
+Start=128
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : COTRIMOXAZOLE
+Name=CA23M_FRA
+Value='M';ANTIBIOTIQUES: COTRIMOXAZOLE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : AUTRES COMPRIMES OU SIROP ANTIBIOTIQUE
+Name=CA23N
+Start=129
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : AUTRES COMPRIMES OU SIROP ANTIBIOTIQUE
+Name=CA23N_FRA
+Value='N';ANTIBIOTIQUES: AUTRES COMPRIMES AU SIROP ANTIBIOTIQUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : AUTRE INJECTION/IV ANTIBIOTIQUE
+Name=CA23O
+Start=130
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : AUTRE INJECTION/IV ANTIBIOTIQUE
+Name=CA23O_FRA
+Value='O';ANTIBIOTIQUES: AUTRE INJECTION/IV ANTIBIOTIQUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : PARACETAMOL/PANADOL/ACETAMINONPHEN
+Name=CA23R
+Start=131
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : PARACETAMOL/PANADOL/ACETAMINONPHEN
+Name=CA23R_FRA
+Value='R';PARACETAMOL/PANADOL/ACETAMINOPHEN
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : ASPIRINE
+Name=CA23S
+Start=132
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : ASPIRINE
+Name=CA23S_FRA
+Value='S';ASPIRINE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : IBUPROFEN
+Name=CA23T
+Start=133
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : IBUPROFEN
+Name=CA23T_FRA
+Value='T';IBUPROFEN
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : AUTRE
+Name=CA23X
+Start=134
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : AUTRE
+Name=CA23X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : NSP
+Name=CA23Z
+Start=135
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Médicament reçu : NSP
+Name=CA23Z_FRA
+Value='Z';NSP
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Médicament reçu : Manquant
+Name=CA23NR
+Start=136
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Medicine: Missing
+Name=CA23NR_FRA
+Value='?' ' ';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique  (nom du médicament de CA23, codes L à O)?
+Name=CA25
+Start=137
+Len=18
+DataType=Alpha
+
+[ValueSet]
+Label=Où avez-vous obtenu  (nom du médicament de CA23, codes L à O)?
+Name=CA25_FRA
+Value='A                 ';HOPITAL GOUVERNEMENTAL
+Value='B                 ';CENTRE DE SANTE GOUVERNEMENTAL
+Value='C                 ';POSTE DE SANTE GOUVERNEMENTAL
+Value='D                 ';AGENT DE SANTE COMMUNAUTAIRE
+Value='E                 ';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value='H                 ';AUTRE MEDICAL PUBLIC
+Value='I                 ';HOPITAL PRIVE / CLINIQUE
+Value='J                 ';MEDECIN PRIVE
+Value='K                 ';PHARMACIE PRIVEE
+Value='L                 ';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value='M                 ';CLINIQUE MOBILE
+Value='O                 ';AUTRE MEDICAL PRIVE
+Value='P                 ';FAMILLE/AMIS
+Value='Q                 ';BOUTIQUE/MARCHE/RUE
+Value='R                 ';PRATICIEN TRADITIONNEL
+Value='X                 ';AUTRE
+Value='?                 ';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : HOPITAL GOUVERNEMENTAL
+Name=CA25A
+Start=137
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : HOPITAL GOUVERNEMENTAL
+Name=CA25A_FRA
+Value='A';HOPITAL GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA25B
+Start=138
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA25B_FRA
+Value='B';CENTRE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : POSTE DE SANTE GOUVERNEMENTAL
+Name=CA25C
+Start=139
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : POSTE DE SANTE GOUVERNEMENTAL
+Name=CA25C_FRA
+Value='C';POSTE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : AGENT DE SANTE COMMUNAUTAIRE
+Name=CA25D
+Start=140
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : AGENT DE SANTE COMMUNAUTAIRE
+Name=CA25D_FRA
+Value='D';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA25E
+Start=141
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA25E_FRA
+Value='E';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : AUTRE MEDICAL PUBLIC
+Name=CA25H
+Start=142
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : AUTRE MEDICAL PUBLIC
+Name=CA25H_FRA
+Value='H';AUTRE MEDICAL PUBLIC
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : HOPITAL PRIVE / CLINIQUE
+Name=CA25I
+Start=143
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : HOPITAL PRIVE / CLINIQUE
+Name=CA25I_FRA
+Value='I';HOPITAL PRIVE / CLINIQUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : MEDECIN PRIVE
+Name=CA25J
+Start=144
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : MEDECIN PRIVE
+Name=CA25J_FRA
+Value='J';MEDECIN PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : PHARMACIE PRIVEE
+Name=CA25K
+Start=145
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : PHARMACIE PRIVEE
+Name=CA25K_FRA
+Value='K';PHARMACIE PRIVEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA25L
+Start=146
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA25L_FRA
+Value='L';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : CLINIQUE MOBILE
+Name=CA25M
+Start=147
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : CLINIQUE MOBILE
+Name=CA25M_FRA
+Value='M';CLINIQUE MOBILE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : AUTRE MEDICAL PRIVE
+Name=CA25O
+Start=148
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : AUTRE MEDICAL PRIVE
+Name=CA25O_FRA
+Value='O';AUTRE MEDICAL PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : FAMILLE/AMIS
+Name=CA25P
+Start=149
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : FAMILLE/AMIS
+Name=CA25P_FRA
+Value='P';FAMILLE/AMIS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : BOUTIQUE/MARCHE/RUE
+Name=CA25Q
+Start=150
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : BOUTIQUE/MARCHE/RUE
+Name=CA25Q_FRA
+Value='Q';BOUTIQUE/MARCHE/RUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : PRATICIEN TRADITIONNEL
+Name=CA25R
+Start=151
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : PRATICIEN TRADITIONNEL
+Name=CA25R_FRA
+Value='R';PRATICIEN TRADITIONNEL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : AUTRE
+Name=CA25X
+Start=152
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : AUTRE
+Name=CA25X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : NSP / NE SE RAPPELLE PAS
+Name=CA25Z
+Start=153
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : NSP / NE SE RAPPELLE PAS
+Name=CA25Z_FRA
+Value='Z';NSP / NE SE RAPPELLE PAS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antibiotique : Manquant
+Name=CA25NR
+Start=154
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antibiotique : Manquant
+Name=CA25NR_FRA
+Value='?' ' ';NON REPONSE
+
+[Item]
+Label=L' endroit où on a  obtenu l'antipaludéen (nom du médicament de CA23, codes A à K) ?
+Name=CA27
+Start=155
+Len=18
+DataType=Alpha
+
+[ValueSet]
+Label=L' endroit où on a  obtenu l'antipaludéen (nom du médicament de CA23, codes A à K) ?
+Name=CA27_FRA
+Value='A                 ';HOPITAL GOUVERNEMENTAL
+Value='B                 ';CENTRE DE SANTE GOUVERNEMENTAL
+Value='C                 ';POSTE DE SANTE GOUVERNEMENTAL
+Value='D                 ';AGENT DE SANTE COMMUNAUTAIRE
+Value='E                 ';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value='H                 ';AUTRE MEDICAL PUBLIC
+Value='I                 ';HOPITAL PRIVE / CLINIQUE
+Value='J                 ';MEDECIN PRIVE
+Value='K                 ';PHARMACIE PRIVEE
+Value='L                 ';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value='M                 ';CLINIQUE MOBILE
+Value='O                 ';AUTRE MEDICAL PRIVE
+Value='P                 ';FAMILLE/AMIS
+Value='Q                 ';BOUTIQUE/MARCHE/RUE
+Value='R                 ';PRATICIEN TRADITIONNEL
+Value='X                 ';AUTRE
+Value='?                 ';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : HOPITAL GOUVERNEMENTAL
+Name=CA27A
+Start=155
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : HOPITAL GOUVERNEMENTAL
+Name=CA27A_FRA
+Value='A';HOPITAL GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA27B
+Start=156
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : CENTRE DE SANTE GOUVERNEMENTAL
+Name=CA27B_FRA
+Value='B';CENTRE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen :POSTE DE SANTE GOUVERNEMENTAL
+Name=CA27C
+Start=157
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen :POSTE DE SANTE GOUVERNEMENTAL
+Name=CA27C_FRA
+Value='C';POSTE DE SANTE GOUVERNEMENTAL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : AGENT DE SANTE COMMUNAUTAIRE
+Name=CA27D
+Start=158
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : AGENT DE SANTE COMMUNAUTAIRE
+Name=CA27D_FRA
+Value='D';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen :CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA27E
+Start=159
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen :CLINIQUE MOBILE/STRATEGIE AVANCEE
+Name=CA27E_FRA
+Value='E';CLINIQUE MOBILE/STRATEGIE AVANCEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : AUTRE MEDICAL PUBLIC
+Name=CA27H
+Start=160
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : AUTRE MEDICAL PUBLIC
+Name=CA27H_FRA
+Value='H';AUTRE MEDICAL PUBLIC
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen :HOPITAL PRIVE / CLINIQUE
+Name=CA27I
+Start=161
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen :HOPITAL PRIVE / CLINIQUE
+Name=CA27I_FRA
+Value='I';HOPITAL PRIVE / CLINIQUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen :  MEDECIN PRIVE
+Name=CA27J
+Start=162
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen :  MEDECIN PRIVE
+Name=CA27J_FRA
+Value='J';MEDECIN PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : PHARMACIE PRIVEE
+Name=CA27K
+Start=163
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : PHARMACIE PRIVEE
+Name=CA27K_FRA
+Value='K';PHARMACIE PRIVEE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen :AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA27L
+Start=164
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen :AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Name=CA27L_FRA
+Value='L';AGENT DE SANTE COMMUNAUTAIRE (NON GOUVERNEMENTAL)
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : CLINIQUE MOBILE
+Name=CA27M
+Start=165
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : CLINIQUE MOBILE
+Name=CA27M_FRA
+Value='M';CLINIQUE MOBILE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : AUTRE MEDICAL PRIVE
+Name=CA27O
+Start=166
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : AUTRE MEDICAL PRIVE
+Name=CA27O_FRA
+Value='O';AUTRE MEDICAL PRIVE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : FAMILLE/AMIS
+Name=CA27P
+Start=167
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : FAMILLE/AMIS
+Name=CA27P_FRA
+Value='P';FAMILLE/AMIS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : BOUTIQUE/MARCHE/RUE
+Name=CA27Q
+Start=168
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : BOUTIQUE/MARCHE/RUE
+Name=CA27Q_FRA
+Value='Q';BOUTIQUE/MARCHE/RUE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen :PRATICIEN TRADITIONNEL
+Name=CA27R
+Start=169
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen :PRATICIEN TRADITIONNEL
+Name=CA27R_FRA
+Value='R';PRATICIEN TRADITIONNEL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : AUTRE
+Name=CA27X
+Start=170
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : AUTRE
+Name=CA27X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : NSP / NE SE RAPPELLE PAS
+Name=CA27Z
+Start=171
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : NSP / NE SE RAPPELLE PAS
+Name=CA27Z_FRA
+Value='Z';NSP / NE SE RAPPELLE PAS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où on a obtenu l'antipaludéen : MANQUANT
+Name=CA27NR
+Start=172
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'endroit où on a obtenu l'antipaludéen : MANQUANT
+Name=CA27NR_FRA
+Value='?' ' ';NON REPONSE
+
+[Item]
+Label=A pris le premier médicament après le début de la fièvre
+Name=CA29
+Start=173
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A pris le premier médicament après le début de la fièvre
+Name=CA29_VS1
+Value=0;MEME JOUR
+Value=1;JOUR SUIVANT
+Value=2;2 JOURS APRES LE DEBUT DE LA FIEVRE
+Value=3;3 JOURS OU PLUS APRES LE DEBUT DE LA FIEVRE
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Record]
+Label=Anthropométrie
+Name=MODAN
+RecordTypeValue='0AN'
+Required=No
+RecordLen=107
+
+[Item]
+Label=Numéro de grappe
+Name=AN1
+Start=10
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=numéro du ménage
+Name=AN2
+Start=12
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Nom de l'enfant
+Name=AN3N
+Start=14
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Numero de ligne de l'enfant
+Name=AN3
+Start=34
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Âge de l'enfant
+Name=AN4
+Start=36
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Age de l'enfant
+Name=AN4_FRA
+Value=0:4;ANNEES
+
+[Item]
+Label=Nom de la mère
+Name=AN5N
+Start=37
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Numero de ligne de la mère
+Name=AN5
+Start=57
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numero de l'enquêteur
+Name=AN6
+Start=59
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Nom du mesureur
+Name=AN7N
+Start=62
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Code du mesureur
+Name=AN7
+Start=82
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Pois de l'enfant  (kilogrammes)
+Name=AN8
+Start=85
+Len=4
+Decimal=1
+DecimalChar=Yes
+ZeroFill=Yes
+
+[ValueSet]
+Label=Pois de l'enfant  (kilogrammes)
+Name=AN8_FRA
+Value=0,5:36,0
+Value=99,3;ENFANT PAS PRESENT
+Value=99,4;ENFANT REFUS
+Value=99,5;REPONDANTE REFUSE
+Value=99,6;AUTRE
+Value=99,9;NON REPONSE
+
+[Item]
+Label=Est-ce que l’enfant a été déshabillé jusqu’au   minimum
+Name=AN9
+Start=89
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Child undressed to the minimum
+Name=AN9_ENG
+Value=1;YES
+Value=2;NO, THE CHILD COULD NOT BE UNDRESSED TO THE MINIMUM
+Value=9;NO RESPONSE
+
+[ValueSet]
+Label=Child undressed to the minimum
+Name=AN9_FRA
+Value=1;OUI
+Value=2;NON, L’ENFANT N’A PAS PU ETRE DESHABILLE AU MINIMUM
+Value=9;NON REPONSE
+
+[Item]
+Label=Longueur ou poids de l'enfant (centimetres)
+Name=AN11
+Start=90
+Len=5
+Decimal=1
+DecimalChar=Yes
+ZeroFill=Yes
+
+[ValueSet]
+Label=Longueur ou poids de l'enfant (centimetres)
+Name=AN11_FRA
+Value=36,0:140,0
+Value=999,4;ENFANT REFUSE
+Value=999,5;REPONDANTE REFUSE
+Value=999,6;AUTRE
+Value=999,9;NON REPONSE
+
+[Item]
+Label=Enfant mesuré debout ou couché
+Name=AN12
+Start=95
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Enfant mesuré debout ou couché
+Name=AN12_FRA
+Value=1;COUCHE
+Value=2;DEBOUT
+Value=9;NON REPONS
+
+[Item]
+Label=Date de mesure
+Name=AN13
+Start=96
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de mesure
+Name=AN13D
+Start=96
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de mesure
+Name=AN13D_FRA
+Value=1:31
+
+[Item]
+Label=Mois de mesure
+Name=AN13M
+Start=98
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de mesure
+Name=AN13M_FRA
+Value=1:12
+
+[Item]
+Label=Année de mesure
+Name=AN13Y
+Start=100
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de mesure
+Name=AN13Y_FRA
+Value=2016:2020
+
+[Item]
+Label=Un autre enfant de moins de 5 ans non mesuré
+Name=AN14
+Start=104
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Un autre enfant de moins de 5 ans non mesuré
+Name=AN14_FRA
+Value=1;OUI
+Value=2;Non
+
+[Item]
+Label=MUAC
+Name=AN12B
+Start=105
+Len=3
+ZeroFill=Yes

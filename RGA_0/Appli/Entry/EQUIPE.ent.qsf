@@ -1,0 +1,198 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.5
+
+[LANGUAGES]
+EN=English
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ01
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Selectionner la province\fs16\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ02
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Selectionner le territoire/ville\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ03
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Selectionner Le secteur/commune/chefferie\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ04
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Selectionner le groupement/Quartier\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ05
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Saisir le num\'e9ro de l'\'e9quipe\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ12
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Veuillez saisir le nom de la tablette (Bluetooth) de l'agent\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ13
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Veuillez saisir le DID adresse de l'agent\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ14
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Veuillez saisir le nom de l'agent\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ15
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Veuillez saisir le post-nom de l'agent\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ16
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Veuillez saisir le pr\'e9nom de l'agent\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ17
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Quel est le sexe de %RGAEQ14%  %RGAEQ16%\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ18
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Quel est le sexe de %RGAEQ14%  %RGAEQ16%\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ19
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Quel type de pi\'e8ce d'identit\'e9 %RGAEQ14%  %RGAEQ16%\par
+EN= possede-t-il ?\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ20
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Veuillez saisir la r\'e9f\'e9rence de la pi\'e8ce d'identit\'e9 de %RGAEQ14%  %RGAEQ16%\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ21
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Quel est le r\'f4le de %RGAEQ14%  %RGAEQ16%\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ22
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Veuillez saisir le num\'e9ro de t\'e9l\'e9phone personnel de %RGAEQ14%  %RGAEQ16%\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ23
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Veuillez saisir le num\'e9ro de t\'e9l\'e9phone GFU de %RGAEQ14%  %RGAEQ16%\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ24
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Veuillez saisir le num\'e9ro de la ZT assign\'e9e de %RGAEQ14%  %RGAEQ16%\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ25
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Quel m\'e9thode de denombrement sera utilis\'e9e par %RGAEQ14%  %RGAEQ16% ?\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ26
+Occurrences=1:10
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 Quel est le statut de %RGAEQ14%  %RGAEQ16%\par
+EN=
+EN=\pard  dans l'\'e9quipe ?\par
+EN=}
+
+[QUESTION]
+Field=EQUIPE_DICT.RGAEQ30
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\fs32 A combien \'eates-vous dans votre \'e9quipe au total ?\par
+EN=}
+

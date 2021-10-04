@@ -1,0 +1,22 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Batch
+
+[Files]
+Application=.\Notes.bch
+InputData=..\..\..\Work\E01101118110035013.csdb|CSPRODB
+OutputData=.\FFSH.CSDB|CSPRODB
+Listing=.\Notes.lst
+
+
+[UserFiles]
+HTMLTEMP=.\RZTE.TXT
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential
+

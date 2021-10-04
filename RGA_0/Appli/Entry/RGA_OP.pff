@@ -1,0 +1,10 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Entry
+
+[Files]
+Application=.\RGA_OP.ent
+InputData=..\..\..\RDCRGA\Applications\Dicts\data.csdb
+
+[ExternalFiles]
+CARTO_DICT=|type=None

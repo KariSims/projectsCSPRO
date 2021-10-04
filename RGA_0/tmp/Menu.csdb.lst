@@ -1,0 +1,45 @@
+﻿Application     C:\RGA\Appli\Entry\RGA.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\RGA\tmp\Menu.csdb
+
+Date            Dec 10, 2020
+Start Time      12:52:23
+End Time        12:54:14
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           1         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           1         Operator entered a value out of range                                                      
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RGA\Appli\Entry\MENU.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\RGA\tmp\Menu.csdb
+External        EQUIPE_DICT=<<CSPro DB>> C:\RGA\Appli\Fext\teams.csdb
+
+Date            Dec 10, 2020
+Start Time      18:06:04
+End Time        18:06:06
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RGA\Appli\Entry\MENU.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\RGA\tmp\Menu.csdb
+External        EQUIPE_DICT=<<CSPro DB>> C:\RGA\Appli\Fext\teams.csdb
+
+Date            Dec 11, 2020
+Start Time      12:46:23
+End Time        12:46:28
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

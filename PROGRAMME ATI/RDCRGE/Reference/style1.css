@@ -1,0 +1,312 @@
+html, body
+{
+  margin: 0;
+  font-family:Verdana, Arial, Sans-Serif;
+  background-color:#E0E0E0;
+  font-size:14px;
+  -webkit-print-color-adjust:exact;
+}
+
+div.page {
+        width: 80%;
+        background-color:#ffffff;
+        padding: 8px 38px 8px 38px;
+        margin:auto;
+        /*border:1px solid #888888;*/
+        box-shadow: 2px 2px 3px #bbbbbb;
+        min-width: 400px;
+        max-width:800px;
+        /*transform: rotate(180deg);*/
+}
+
+h1 {
+    font-size:24px;
+    text-align:center;
+    color:navy;
+    background-color:#dddddd;
+    padding-top:8px;
+    padding-bottom:8px;
+    border-radius:8px 8px;
+
+}
+
+h2 {
+  font-size:14px;
+  text-align:center;
+  color:black;
+}
+
+h3 {
+  font-size:14px;
+  color:navy;
+}
+
+
+
+div.separator {
+        position: relative;
+        border-width: 0px;
+	border-style: solid;
+	border-color: #444499;
+        height: 1px;
+        background-color: #aaaaaa;
+        margin: 8px 10px 8px 10px;
+}
+
+ul.list {
+  font-size:18px;
+  color:maroon;
+}
+
+div.progressbar{
+    width:100%;
+    text-align:center;
+    margin-top:10px;
+    margin-bottom:10px;
+    position:relative;
+}
+
+div.progressBarBack{
+    border:1px solid #c0c0c0;
+    background-color:white;
+    box-shadow: 1px 1px 2px #dddddd;
+    height:18px;
+    padding:2px;
+    text-align:left;
+    border-radius:4px 4px;
+}
+
+div.progressBarFront{
+    background-color:navy;
+    height:100%;
+}
+
+table.summarytable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+        width:100%
+}
+table.summarytable th {
+        background: #dddddd;
+	border-width: 1px;
+	padding: 2px;
+	border-style: solid;
+	border-color: #f0f0f0;	
+        text-align:left;
+        color: black;
+}
+table.summarytable td {
+        background: #f0f0f0;
+	border-width: 0px;
+	padding: 2px;
+	border-style: solid;
+	border-color: #999999;
+        text-align: center;
+}
+
+div.sumDiv {
+  width:60%;
+}
+
+table.detailstable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+        width:100%;
+}
+table.detailstable th {
+        background:#dcddc0 url('img/cell-grey1.jpg');
+        background-repeat:repeat-x;
+        font-size:16px;
+	border-width: 0px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #999999;	
+        text-align:left;
+        color: black;
+}
+table.detailstable td {
+        background: white;
+	border-width: 0px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+        text-align: left;
+}
+
+table.detailstable2 {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 0px;
+	border-color: #999999;
+	border-collapse: collapse;
+        width:100%;
+}
+table.detailstable2 th {
+        background: #eeeeee;
+        font-size:16px;
+	border-width: 0px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;	
+        text-align:left;
+        color: black;
+}
+table.detailstable2 td {
+        background: white;
+	border-width: 0px;
+	padding: 0px;
+	border-style: solid;
+	border-color: #666666;
+        text-align: left;
+}
+
+table.detailstable1 {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+        width:100%
+}
+table.detailstable1 th {
+        background: #ddddfd;
+        font-size:11px;
+	border-width: 1px;
+	padding: 2px;
+	border-style: solid;
+	border-color: white;	
+        text-align:center;
+        color: black;
+}
+table.detailstable1 td {
+        background: #f0f0f0;
+        font-size:11px;
+	border-width: 1px;
+	padding: 2px;
+	border-style: solid;
+	border-color: white;
+        text-align: center;
+}
+
+
+div.dateLabel {
+  text-align:right;
+  color:#aaaaaa;
+}
+
+div.redBold {
+  color: red;
+  font-weight: bold;
+  font-size: medium;
+}
+
+div.redBoldNormal {
+  color: red;
+  font-weight: bold;
+}
+
+div.redBoldNormalInline {
+  color: red;
+  font-weight: bold;
+  display: inline;
+}
+
+div.blueBoldNormalInline {
+  color: blue;
+  font-weight: bold;
+  display: inline;
+}
+
+div.grayBoldNormal {
+  color: gray;
+  font-weight: bold;
+}
+
+div.grayBoldNormalInline {
+  color: gray;
+  font-weight: bold;
+  display: inline;
+}
+
+div.logo {
+  background: url('img/ins.png');
+  line-height: 30px;
+  background-size: 222px 30px;
+  background-repeat: no-repeat;
+  background-position: center; 
+  height: 30px;
+}
+
+table.summarytable1 {
+        margin:auto;
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 0px;
+	border-color: #999999;
+	border-collapse: collapse;
+        width:50%
+}
+table.summarytable1 th {
+        background: rgba(0,0,0,0);
+	border-width: 0px;
+	padding: 2px 20px 16px 2px;
+	border-style: solid;
+	border-color: #f0f0f0;	
+        text-align:right;
+        color: black;
+        vertical-align: bottom;
+        white-space: nowrap;
+}
+table.summarytable1 td {
+        background: rgba(0,0,0,0);
+	border-width: 0px;
+	padding: 2px;
+	border-style: solid;
+	border-color: #999999;
+        text-align: center;
+        width:100%;
+        vertical-align: bottom;
+}
+
+table.summarytable2 {
+        margin:auto;
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 0px;
+	border-color: #999999;
+	border-collapse: collapse;
+        width:100%
+}
+table.summarytable2 th {
+        background: #dddddd;
+	border-width: 1px;
+	padding: 2px 12px 2px 12px;
+	border-style: solid;
+	border-color: #f0f0f0;	
+        text-align:left;
+        color: black;
+        vertical-align: bottom;
+        white-space: nowrap;
+}
+table.summarytable2 td {
+        background: #f0f0f0;
+	border-width: 0px;
+	padding: 2px 12px 2px 12px;
+	border-style: solid;
+	border-color: #999999;
+        text-align: left;
+        width:100%;
+        vertical-align: bottom;
+}

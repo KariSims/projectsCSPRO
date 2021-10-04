@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=DONE
+Name=DONE
+AppType=Batch
+[AppCode]
+File=.\DONE.bch.apc
+[Message]
+File=.\DONE.bch.mgf
+[Order]
+File=.\DONE.ord
+[Dictionary Types]
+Dict-Type=.\CFCRTMConcat.dcf,Input,.\DONE.ord

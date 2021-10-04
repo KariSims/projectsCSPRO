@@ -1,0 +1,6121 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=Woman questionnaire
+Name=MICS6WM
+RecordTypeStart=7
+RecordTypeLen=3
+Positions=Relative
+ZeroFill=No
+DecimalChar=No
+
+[Languages]
+FRA=French
+
+[Level]
+Label=Woman
+Name=WM
+
+[IdItems]
+
+[Item]
+Label=Numero de grappe
+Name=WM1
+Start=1
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numero de grappe
+Name=WM1_VS1
+Value=1:99
+
+[Item]
+Label=Numéro de ménage
+Name=WM2
+Start=3
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Numéro de ligne de la mère
+Name=WM3
+Start=5
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro de ligne de la mère
+Name=WM3_FRA
+Value=1:50
+
+[Record]
+Label=Woman's Information Panel
+Name=MODWM
+RecordTypeValue='0WM'
+RecordLen=59
+
+[Item]
+Label=Nom  de la femme
+Name=WM3A
+Start=10
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Numéro du Superviseur
+Name=WM4
+Start=30
+Len=1
+
+[Item]
+Label=Code de l'enquêtrice
+Name=WM5
+Start=31
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Date de l'interview
+Name=WM6
+Start=33
+Len=8
+ZeroFill=Yes
+
+[Item]
+Label=Jour de l'interview
+Name=WM6D
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de l'interview
+Name=WM6D_FRA
+Value=1:31
+
+[Item]
+Label=Mois de l'interview
+Name=WM6M
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de l'interview
+Name=WM6M_VS1
+Value=1;janvier
+Value=2;février
+Value=3;mars
+Value=4;avril
+Value=5;mai
+Value=6;juin
+Value=7;juillet
+Value=8;août
+Value=9;septembre
+Value=10;octobre
+Value=11;novembre
+Value=12;décembre
+
+[Item]
+Label=Année de l'interview
+Name=WM6Y
+Start=37
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de l'interview
+Name=WM6Y_FRA
+Value=2015:2020
+
+[Item]
+Label=Répondant du ménage
+Name=WM8
+Start=41
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Répondant du ménage
+Name=WM8_FRA
+Value=1;OUI, DEJA INTERVIEWEE
+Value=2;NON, PREMIERE INTERVIEW
+
+[Item]
+Label=Consentement
+Name=WM9
+Start=42
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Consentement
+Name=WM9_FRA
+Value=1;OUI, PERMISSION EST DONNEE
+Value=2;NON, PERMISSION N’EST PAS DONNEE
+
+[Item]
+Label=Résultat de l'interview de la femme
+Name=WM17
+Start=43
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Résultat de l'interview de la femme
+Name=WM17_FRA
+Value=1;COMPLETE
+Value=2;PAS A LA MAISON
+Value=3;REFUSE
+Value=4;PARTIELLEMENT COMPLETE
+Value=5;EN INCAPACITE
+Value=6;PAS DE CONSENTEMENT D’UN ADULTE POUR CETTE REPONDANTE DE 15-17 ANS
+Value=96;Autre
+
+[Item]
+Label=Temps du début de l'interview
+Name=WM7
+Start=45
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Début de l'interview - Heure
+Name=WM7H
+Start=45
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Heure
+Name=WM7H_FRA
+Value=6:23
+Value=99;NON REPONSE
+
+[Item]
+Label=Début de l'interview - Minutes
+Name=WM7M
+Start=47
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Début de l'interview - Minutes
+Name=WM7M_FRA
+Value=0:59
+Value=99;NON REPONSE
+
+[Item]
+Label=Temps de la fin de l'interview
+Name=WM10
+Start=49
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Fin de l'interview - Heure
+Name=WM10H
+Start=49
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Heure
+Name=WM10H_FRA
+Value=6:23
+Value=99;NON REPONSE
+
+[Item]
+Label=Fin de l'interview - Minutes
+Name=WM10M
+Start=51
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fin de l'interview - Minutes
+Name=WM10M_FRA
+Value=0:59
+Value=99;NON REPONSE
+
+[Item]
+Label=Interview teminée en privé
+Name=WM11
+Start=53
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Interview teminée en privé
+Name=WM11_FRA
+Value=1;OUI, L’ENTRETIEN ENTIER S’EST DEROULE EN PRIVE
+Value=2;NON, D’AUTRES ETAIENT PRESENTS DURANT TOUT L’ENTRETIEN
+Value=3;NON, D’AUTRES ETAIENT PRESENTS UNE PARTIE DE L’ENTRETIEN
+
+[Item]
+Label=Langue du Questionnaire
+Name=WM12
+Start=54
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Langue du Questionnaire
+Name=WM12_FRA
+Value=1;FRANÇAIS
+Value=2;KIKONGO
+Value=3;LINGALA
+Value=4;SWAHILI
+Value=5;TSHILUBA
+Value=6;AUTRE LANGUE
+Value=9;NON REPONSE
+
+[Item]
+Label=Lange de l'Interview
+Name=WM13
+Start=55
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Lange de l'Interview
+Name=WM13_FRA
+Value=1;FRANÇAIS
+Value=2;KIKONGO
+Value=3;LINGALA
+Value=4;SWAHILI
+Value=5;TSHILUBA
+Value=6;AUTRE LANGUE
+Value=9;NON REPONSE
+
+[Item]
+Label=Langue maternel du répondant
+Name=WM14
+Start=56
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Langue maternel du répondant
+Name=WM14_FRA
+Value=1;FRANÇAIS
+Value=2;KIKONGO
+Value=3;LINGALA
+Value=4;SWAHILI
+Value=5;TSHILUBA
+Value=6;AUTRE LANGUE
+Value=9;NON REPONSE
+
+[Item]
+Label=Usage du traducteur
+Name=WM15
+Start=57
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Usage du traducteur
+Name=WM15_FRA
+Value=1;OUI, QUESTIONNAIRE ENTIER
+Value=2;OUI, PARTIES DU QUESTIONNAIRE
+Value=3;NON, PAS UTILISE
+
+[Item]
+Label=intervieweur du menage
+Name=WMHINT
+Start=58
+Len=2
+
+[Record]
+Label=Woman's Background
+Name=MODWB
+RecordTypeValue='0WB'
+Required=No
+RecordLen=60
+
+[Item]
+Label=Date de naissance de la femme
+Name=WB3
+Start=10
+Len=6
+ZeroFill=Yes
+
+[Item]
+Label=Mois de naissance de la femme
+Name=WB3M
+Start=10
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de naissance de la femme
+Name=WB3M_FRA
+Value=1;JANVIER
+Value=2;FÉVRIER
+Value=3;MARS
+Value=4;AVRIL
+Value=5;MAI
+Value=6;JUIN
+Value=7;JUILLET
+Value=8;AOUT
+Value=9;SEPTEMBRE
+Value=10;OCTOBRE
+Value=11;NOVEMBRE
+Value=12;DECEMBRE
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de naissance de la femme
+Name=WB3Y
+Start=12
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de naissance de la femme
+Name=WB3Y_FRA
+Value=1969:2004
+Value=9998;NSP
+Value=9999;NON REPONSE
+
+[Item]
+Label=Age de la femme
+Name=WB4
+Start=16
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Age de la femme
+Name=WB4_FRA
+Value=15:49
+
+[Item]
+Label=Déjà fréquenté l'école
+Name=WB5
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Déjà fréquenté l'école
+Name=WB5_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Le plus haut niveau d'école fréquenté
+Name=WB6A
+Start=19
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le plus haut niveau d'école fréquenté
+Name=WB6A_FRA
+Value=0;PREPRIMAIRE
+Value=10;PRIMAIRE
+Value=20;SECONDAIRE 1
+Value=31;SECONDAIRE 2 GENER
+Value=32;SECONDAIRE 2 TECHN
+Value=33;SECONDAIRE 2 PROFES
+Value=34;SECONDAIRE 2 ART&M
+Value=40;SUPERIEUR
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=La classe la plus élevéé fréquentée à ce niveau
+Name=WB6B
+Start=21
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=La classe la plus élevéé fréquentée à ce niveau
+Name=WB6B_FRA
+Value=1:8
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Classe completée
+Name=WB7
+Start=23
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Classe completée
+Name=WB7_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Fréquentation à l'école pendant l'année scolaire en cours (2018-2019)
+Name=WB9
+Start=24
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Fréquentation à l'école pendant l'année scolaire en cours (2018-2019)
+Name=WB9_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Niveau fréquienté  pendant l'année scolaire actuelle (2018-2019)
+Name=WB10A
+Start=25
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Niveau fréquienté  pendant l'année scolaire actuelle (2018-2019)
+Name=WB10A_FRA
+Value=0;PREPRIMAIRE
+Value=10;PRIMAIRE
+Value=20;SECONDAIRE 1
+Value=31;SECONDAIRE 2 GENER
+Value=32;SECONDAIRE 2 TECHN
+Value=33;SECONDAIRE 2 PROFES
+Value=34;SECONDAIRE 2 ART&M
+Value=40;SUPERIEUR
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Classe fréquentée pendant l'année scolaire actuelle (2018 - 2019)
+Name=WB10B
+Start=27
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Classe fréquentée pendant l'année scolaire actuelle (2018 - 2019)
+Name=WB10B_FRA
+Value=0:8
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=A fréquenter l'école l'année dernière (2017 - 2018)
+Name=WB11
+Start=29
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A fréquenter l'école l'année dernière (2017 - 2018)
+Name=WB11_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Niveau d'école fréquenté l'année  dernière (2017-2018)
+Name=WB12A
+Start=30
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Niveau d'école fréquenté l'année  dernière (2017-2018)
+Name=WB12A_FRA
+Value=0;PREPRIMAIRE
+Value=10;PRIMAIRE
+Value=20;SECONDAIRE 1
+Value=31;SECONDAIRE 2 GENER
+Value=32;SECONDAIRE 2 TECHN
+Value=33;SECONDAIRE 2 PROFES
+Value=34;SECONDAIRE 2 ART&M
+Value=40;SUPERIEUR
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Classe fréquentée l'année dernière (2017-2018)
+Name=WB12B
+Start=32
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Classe fréquentée l'année dernière (2017-2018)
+Name=WB12B_FRA
+Value=0:8
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Peut lire une partie de la phrase
+Name=WB14
+Start=34
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Peut lire une partie de la phrase
+Name=WB14_FRA
+Value=1;NE PEUT PAS LIRE DU TOUT
+Value=2;CAPABLE DE NE LIRE QUE QUELQUES PARTIES DE LA PHRASE
+Value=3;CAPABLE  DE LIRE TOUTE LA PHRASE
+Value=6;PAS DE PHRASE DANS LE LANGAGE REQUIS/ BRAILLE
+Value=9;NON REPONSE
+
+[Item]
+Label=Couvert par l'assurance maladie
+Name=WB18
+Start=35
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Couvert par l'assurance maladie
+Name=WB18_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Type d'assurance maladie
+Name=WB19
+Start=36
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Type d'assurance maladie
+Name=WB19_FRA
+Value='A     ';ORGANISATION  MUTUELLE DE SANTE/ ASSURANCE SANTE A BASE COMMUNAUTAIRE
+Value='B     ';ASSURANCE SANTE DE L’EMPLOYEUR
+Value='C     ';SECURITE SOCIALE
+Value='D     ';AUTRE ASSURANCE SANTE PRIVEE ACHETEE
+Value='X     ';AUTRE
+Value='?     ';NON REPONSE
+
+[Item]
+Label=Type d'assurance maladie:  Organisation mutuelle de santé/Assurance santé à base communautaire
+Name=WB19A
+Start=36
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Type d'assurance maladie:  Organisation mutuelle de santé/Assurance santé à base communautaire
+Name=WB19A_FRA
+Value=' '
+Value='A';ORGANISATION  MUTUELLE DE SANTE/ ASSURANCE SANTE A BASE COMMUNAUTAIRE
+Value='?';NON REPONSE
+
+[Item]
+Label=Type d'assurance maladie: Assurance santé de l'employeur
+Name=WB19B
+Start=37
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Type d'assurance maladie: Assurance santé de l'employeur
+Name=WB19B_FRA
+Value=' '
+Value='B';ASSURANCE SANTE DE L’EMPLOYEUR
+Value='?';NON REPONSE
+
+[Item]
+Label=Type d'assurance maladie: Sécurité sociale
+Name=WB19C
+Start=38
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Type d'assurance maladie: Sécurité sociale
+Name=WB19C_FRA
+Value=' '
+Value='C';SECURITE SOCIALE
+Value='?';NON REPONSE
+
+[Item]
+Label=Type d'assurance maladie: Autre assurance santé& priv&ée achetée
+Name=WB19D
+Start=39
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Type d'assurance maladie: Autre assurance santé& priv&ée achetée
+Name=WB19D_FRA
+Value=' '
+Value='D';AUTRE ASSURANCE SANTE PRIVEE ACHETEE
+Value='?';NON REPONSE
+
+[Item]
+Label=Type d'assurance maladie:Autre
+Name=WB19X
+Start=40
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Type d'assurance maladie:Autre
+Name=WB19X_FRA
+Value=' '
+Value='X';AUTRE
+Value='?';NON REPONSE
+
+[Item]
+Label=Type d'assurance maladie: Non réponse
+Name=WB19NR
+Start=41
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Type d'assurance maladie: Non réponse
+Name=WB19NR_FRA
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Date d'entretien femmes (CMC)
+Name=WDOI
+Start=42
+Len=4
+
+[Item]
+Label=Date de naissance de la femme (CMC)
+Name=WB1C
+Start=46
+Len=4
+
+[Item]
+Label=Indicateur de date pour WB1
+Name=WB1F
+Start=50
+Len=1
+
+[ValueSet]
+Label=Indicateur de date pour WB1
+Name=WB1F_FRA
+Value=1;Month and year
+Value=2;Month and age -y imp
+Value=3;Year and age - m imp
+Value=4;Y & age - y ignored
+Value=5;Year - a, m imp
+Value=6;Age - y, m imp
+Value=7;Month - a, y imp
+Value=8;None - all imp
+Value=' ';Not applicable
+Name=NOTAPPL,Special
+
+[Item]
+Label=Age de la répondante (calculé)
+Name=WB2C
+Start=51
+Len=2
+
+[Item]
+Label=Age
+Name=WAGE
+Start=53
+Len=1
+
+[ValueSet]
+Label=Age
+Name=WAGE_FRA
+Value=1;15-19
+Value=2;20-24
+Value=3;25-29
+Value=4;30-34
+Value=5;35-39
+Value=6;40-44
+Value=7;45-49
+
+[Item]
+Label=Date de naissance de la femme (CMC)
+Name=WB3C
+Start=54
+Len=4
+
+[Item]
+Label=Indicateur de date pour WB3
+Name=WB3F
+Start=58
+Len=1
+
+[ValueSet]
+Label=Indicateur de date pour WB3
+Name=WB3F_VS1
+Value=1;Month and year
+Value=2;Month and age -y imp
+Value=3;Year and age - m imp
+Value=4;Y & age - y ignored
+Value=5;Year - a, m imp
+Value=6;Age - y, m imp
+Value=7;Month - a, y imp
+Value=8;None - all imp
+Value=' ';Not applicable
+Name=NOTAPPL,Special
+
+[Item]
+Label=Computed age of respondent
+Name=WB4C
+Start=59
+Len=2
+
+[Record]
+Label=Fertility/Birth History
+Name=MODCM
+RecordTypeValue='0CM'
+Required=No
+RecordLen=40
+
+[Item]
+Label=A-t-elle déjà donné naissance
+Name=CM1
+Start=10
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A-t-elle déjà donné naissance
+Name=CM1_FRA
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=A-t-elle déjà eu un enfant né vivant et qui est mort plus tard
+Name=CM8
+Start=11
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A-t-elle déjà eu un enfant né vivant et qui est mort plus tard
+Name=CM8_FRA
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=Date de naissance de votre (dernier) né même si il/elle est décédé
+Name=CM15C
+Start=12
+Len=6
+ZeroFill=Yes
+
+[Item]
+Label=Mois de naissance
+Name=CM15CM
+Start=12
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de naissance
+Name=CM15CM_FRA
+Value=1;JANVIER
+Value=2;FÉVRIER
+Value=3;MARS
+Value=4;AVRIL
+Value=5;MAI
+Value=6;JUIN
+Value=7;JUILLET
+Value=8;AOUT
+Value=9;SEPTEMBRE
+Value=10;OCTOBRE
+Value=11;NOVEMBRE
+Value=12;DECEMBRE
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de naissance
+Name=CM15CY
+Start=14
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de naissance
+Name=CM15CY_VS1
+Value=1950;An 1 950
+Value=1951;An 1 951
+Value=1952;An 1 952
+Value=1953;An 1 953
+Value=1954;An 1 954
+Value=1955;An 1 955
+Value=1956;An 1 956
+Value=1957;An 1 957
+Value=1958;An 1 958
+Value=1959;An 1 959
+Value=1960;An 1 960
+Value=1961;An 1 961
+Value=1962;An 1 962
+Value=1963;An 1 963
+Value=1964;An 1 964
+Value=1965;An 1 965
+Value=1966;An 1 966
+Value=1967;An 1 967
+Value=1968;An 1 968
+Value=1969;An 1 969
+Value=1970;An 1 970
+Value=1971;An 1 971
+Value=1972;An 1 972
+Value=1973;An 1 973
+Value=1974;An 1 974
+Value=1975;An 1 975
+Value=1976;An 1 976
+Value=1977;An 1 977
+Value=1978;An 1 978
+Value=1979;An 1 979
+Value=1980;An 1 980
+Value=1981;An 1 981
+Value=1982;An 1 982
+Value=1983;An 1 983
+Value=1984;An 1 984
+Value=1985;An 1 985
+Value=1986;An 1 986
+Value=1987;An 1 987
+Value=1988;An 1 988
+Value=1989;An 1 989
+Value=1990;An 1 990
+Value=1991;An 1 991
+Value=1992;An 1 992
+Value=1993;An 1 993
+Value=1994;An 1 994
+Value=1995;An 1 995
+Value=1996;An 1 996
+Value=1997;An 1 997
+Value=1998;An 1 998
+Value=1999;An 1 999
+Value=2000;An 1 1000
+Value=2001;An 1 1001
+Value=2002;An 1 1002
+Value=2003;An 1 1003
+Value=2004;An 1 1004
+Value=2005;An 1 1005
+Value=2006;An 1 1006
+Value=2007;An 1 1007
+Value=2008;An 1 1008
+Value=2009;An 1 1009
+Value=2010;An 1 1010
+Value=2011;An 1 1011
+Value=2012;An 1 1012
+Value=2013;An 1 1013
+Value=2014;An 1 1014
+Value=2015;An 1 1015
+Value=2016;An 1 1016
+Value=2017;An 1 1017
+Value=2018;An 1 1018
+Value=2019;An 1 1019
+
+[Item]
+Label=Nom de la dernière naissance
+Name=CM18
+Start=18
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Naissances vivantes dans les 2 dernières années
+Name=CM17
+Start=38
+Len=1
+
+[ValueSet]
+Label=Naissances vivantes dans les 2 dernières années
+Name=CM17_FRA
+Value=0;PAS DE NAISSNCES VIVANTES DANS LES 3 DERNIERES ANNEES
+Value=1;UNE OU PLUS NAISSANCES VIVANTES DANS LES 3 DERNIERES ANNEES
+
+[Item]
+Label=code de la naissance au cours de 2 dernières années
+Name=CM18A
+Start=39
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=code de la naissance au cours de 2 dernières années
+Name=CM18A_VS1
+Value=0:99;VALEURS
+
+[Record]
+Label=Maternal and Newborn Health
+Name=MODMN
+RecordTypeValue='0MN'
+Required=No
+RecordLen=98
+
+[Item]
+Label=Avez-vous reçu le kit d'accouchement lors de votre grossesse de (nom)
+Name=MN1A
+Start=10
+Len=1
+
+[ValueSet]
+Label=Avez-vous reçu le kit d'accouchement lors de votre grossesse de (nom)
+Name=MN1A_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NO REPONSE
+
+[Item]
+Label=Avez-vous utilisé votre kit d'accouchement pour l'accouchement de (nom)
+Name=MN1B
+Start=11
+Len=1
+
+[ValueSet]
+Label=Avez-vous utilisé votre kit d'accouchement pour l'accouchement de (nom)
+Name=MN1B_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NO REPONSE
+
+[Item]
+Label=A reçu les soins prénataux
+Name=MN2
+Start=12
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=A reçu les soins prénataux
+Name=MN2_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NO REPONSE
+
+[Item]
+Label=Fournisseur de soins prénataux
+Name=MN3
+Start=13
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Fournisseur de soins prénataux
+Name=MN3_FRA
+Value='A      ';MEDECIN
+Value='C      ';INFIRMIERE/INFIRMIER
+Value='D      ';ACOUCHEUSE/SAGE FEMME
+Value='F      ';ACCOUCHEUSE TRADITIONNELLE
+Value='G      ';AGENT DE SANTE COMMUNAUTAIRE
+Value='X      ';AUTRE
+Value='?      ';NON REPONSE
+
+[Item]
+Label=Fournisseur de soins prénataux:  Médecin
+Name=MN3A
+Start=13
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Fournisseur de soins prénataux:  Médecin
+Name=MN3A_FRA
+Value='A';MEDECIN
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Fournisseur de soins prénataux:  Infirmière/ Infirmière
+Name=MN3C
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Fournisseur de soins prénataux:  Infirmière/ Infirmière
+Name=MN3C_VS2
+Value='C';INFIRMIERE/INFIRMIER
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Fournisseur de soins prénataux:  Accoucheuse/ sage femme
+Name=MN3D
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Fournisseur de soins prénataux:  Accoucheuse/ sage femme
+Name=MN3D_VS2
+Value='D';ACCOUCHEUSE/SAGE-FEMME
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Fournisseur de soins prénataux: Accoucheuse traditionnelle
+Name=MN3F
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Fournisseur de soins prénataux: Accoucheuse traditionnelle
+Name=MN3F_FRA
+Value='F';ACCOUCHEUSE TRADITIONNELLE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Fournisseur de soins prénataux: Agent de santé communautaire
+Name=MN3G
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Fournisseur de soins prénataux: Agent de santé communautaire
+Name=MN3G_FRA
+Value='G';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Fournisseur de soins prénataux: Autre
+Name=MN3X
+Start=18
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Fournisseur de soins prénataux: Autre
+Name=MN3X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Fournisseur de soins prénataux: Non réponse
+Name=MN3NR
+Start=19
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Fournisseur de soins prénataux: Non réponse
+Name=MN3NR_FRA
+Value='?';NON REPONSE
+Value=' '
+
+[Item]
+Label=Semaines ou mois de grossesse au premier soin prénatal - Unité
+Name=MN4U
+Start=20
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Semaines ou mois de grossesse au premier soin prénatal - Unité
+Name=MN4U_VS1
+Value=1;SEMAINES
+Value=2;MOIS
+Value=9;SPECIAL
+
+[Item]
+Label=Semaines ou mois de grossesse au premier soin prénatal - Nombre
+Name=MN4N
+Start=21
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Semaines ou mois de grossesse au premier soin prénatal - Nombre
+Name=MN4N_VS1
+Value=1:45
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Nombre de fois en consultation prénatale
+Name=MN5
+Start=23
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de fois en consultation prénatale
+Name=MN5_FRA
+Value=1:90
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Tension
+Name=MN6A
+Start=25
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Tension
+Name=MN6A_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Echantillon d'urine
+Name=MN6B
+Start=26
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Echantillon d'urine
+Name=MN6B_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Echantillon de sang
+Name=MN6C
+Start=27
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Echantillon de sang
+Name=MN6C_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Possède une carte de vaccination
+Name=MN7
+Start=28
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Possède une carte de vaccination
+Name=MN7_FRA
+Value=1;OUI (CARNET OU AUTRE DOCUMENT VU)
+Value=2;OUI (CARNET OU AUTRE DOCUMENT PAS VU)
+Value=3;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Injection antitétanique pendant la dernière grossesse
+Name=MN8
+Start=29
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Injection antitétanique pendant la dernière grossesse
+Name=MN8_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Nombre de fois l'injection antitétanique  a été reçue au cours de la dernière grossesse
+Name=MN9
+Start=30
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de fois l'injection antitétanique  a été reçue au cours de la dernière grossesse
+Name=MN9_FRA
+Value=1;1  FOIS
+Value=2;2 FOIS
+Value=3;3 FOIS
+Value=4;4 FOIS
+Value=5;5  FOIS
+Value=6;6 FOIS
+Value=7;7 FOIS
+Value=8;NSP
+
+[Item]
+Label=Injection d'antitétanique avant la dernière grossesse
+Name=MN11
+Start=31
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Injection d'antitétanique avant la dernière grossesse
+Name=MN11_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Nombre de fois l'injection antitétanique  a été reçue avant la dernière grossesse
+Name=MN12
+Start=32
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de fois l'injection antitétanique  a été reçue avant la dernière grossesse
+Name=MN12_FRA
+Value=1:6
+Value=7;7+
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Cela fait combien d'années a été reçu cette injection antitétanique
+Name=MN14
+Start=33
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Cela fait combien d'années a été reçu cette injection antitétanique
+Name=MN14_FRA
+Value=0:19
+Value=99;NON REPONSE
+
+[Item]
+Label=Prise de SP/Fansidar durant la grossesse
+Name=MN16
+Start=35
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Prise de SP/Fansidar durant la grossesse
+Name=MN16_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Nombre de fois que le SP/Fansidar a été pris durant la dernière grossesse
+Name=MN17
+Start=36
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de fois que le SP/Fansidar a été pris durant la dernière grossesse
+Name=MN17_FRA
+Value=0:10
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals ou lors d'une autre visite
+Name=MN18
+Start=38
+Len=4
+DataType=Alpha
+
+[ValueSet]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals ou lors d'une autre visite
+Name=MN18_FRA
+Value='A   ';VISITE PRENATALE
+Value='B   ';VISITE DANS UN AUTRE CENTRE DE SANTE
+Value='X   ';AUTRE SOURCE
+Value='?   ';NON REPONSE
+
+[Item]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals, ou lors d'une autre visite: Visite parentale
+Name=MN18A
+Start=38
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals, ou lors d'une autre visite: Visite parentale
+Name=MN18A_FRA
+Value='A';VISITE PRENATALE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals ou lors d'une autre visite: Visite dans un Centre de santé
+Name=MN18B
+Start=39
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals ou lors d'une autre visite: Visite dans un Centre de santé
+Name=MN18B_FRA
+Value='B';VISITE DANS UN AUTRE CENTRE DE SANTE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals, ou lors d'une autre visite: Autre source
+Name=MN18X
+Start=40
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals, ou lors d'une autre visite: Autre source
+Name=MN18X_FRA
+Value='X';AUTRE SOURCE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals, ou lors d'une autre visite:Non réponse
+Name=MN18NR
+Start=41
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Reçu SP / Fansidar lors d'une visite de soins prénatals, ou lors d'une autre visite:Non réponse
+Name=MN18NR_FRA
+Value='?';NON REPONSE
+Value=' '
+
+[Item]
+Label=Assistance à l'accouchement
+Name=MN19
+Start=42
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement
+Name=MN19_FRA
+Value='A        ';MEDECIN
+Value='C        ';INFIRMIERE/INFIRMIER
+Value='D        ';ACOUCHEUSE/SAGE FEMME
+Value='F        ';ACCOUCHEUSE TRADITIONNELLE
+Value='G        ';AGENT DE SANTE COMMUNAUTAIRE
+Value='H        ';PARENT/AMI
+Value='X        ';AUTRE
+Value='Y        ';PERSONNE
+Value='?        ';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: MEDECIN
+Name=MN19A
+Start=42
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: MEDECIN
+Name=MN19A_FRA
+Value='A';MEDECIN
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: INFIRMIER/INFIRMIERE
+Name=MN19C
+Start=43
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: INFIRMIER/INFIRMIERE
+Name=MN19C_FRA
+Value='C';INFIRMIERE/INFIRMIER
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: ACCOUCHEUSE/SAGE-FEMME
+Name=MN19D
+Start=44
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: ACCOUCHEUSE/SAGE-FEMME
+Name=MN19D_FRA
+Value='D';ACCOUCHEUSE/SAGE-FEMME
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: ACCOUCHEUSE TRADITIONNELLE/MATRONE
+Name=MN19F
+Start=45
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: ACCOUCHEUSE TRADITIONNELLE/MATRONE
+Name=MN19F_FRA
+Value='F';ACCOUCHEUSE TRADITIONNELLE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: AGENT DE SANTE COMMUNAUTAIRE
+Name=MN19G
+Start=46
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: AGENT DE SANTE COMMUNAUTAIRE
+Name=MN19G_FRA
+Value='G';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: PARENT/AMI
+Name=MN19H
+Start=47
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: PARENT/AMI
+Name=MN19H_FRA
+Value='H';PARENT / AMI
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: AUTRE
+Name=MN19X
+Start=48
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: AUTRE
+Name=MN19X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: PERSONNE
+Name=MN19Y
+Start=49
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: PERSONNE
+Name=MN19Y_FRA
+Value='Y';PERSONNE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: NON REPONSE
+Name=MN19NR
+Start=50
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: NON REPONSE
+Name=MN19NR_FRA
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Lieu d'accouchemnt
+Name=MN20
+Start=51
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Lieu d'accouchement
+Name=MN20_FRA
+Value=11;DOMICILE DE L’ENQUETEE
+Value=12;AUTRE DOMICILE
+Value=21;HOPITAL GOUVERNEMENTAL
+Value=22;CLINIQUE / CENTRE DE SANTE GOUV
+Value=23;POSTE DE SANTE GOUVERNEMENTAL
+Value=26;AUTRE PUBLIC
+Value=31;HOPITAL PRIVE
+Value=32;CLINIQUE PRIVEE
+Value=36;MATERNITE PRIVEE
+Value=96;AUTRE PRIVE MEDICAL
+Value=99;NON REPONSE
+
+[Item]
+Label=Accouchemnt par césarienne
+Name=MN21
+Start=53
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Accouchemnt par césarienne
+Name=MN21_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Quand la décision d'accoucher par césarienne a été prise
+Name=MN22
+Start=54
+Len=1
+
+[ValueSet]
+Label=Quand la décision d'accoucher par césarienne a été prise
+Name=MN22_FRA
+Value=1;AVANT LES DOULEURS DE L’ACCOUCHEMENT
+Value=2;APRES LES DOULEURS DE L’ACCOUCHEMENT
+Value=9;NON REPONSE
+
+[Item]
+Label=Après la naissance, le bébé a été placé directement sur la peau nue de la poitrine de la mère
+Name=MN23
+Start=55
+Len=1
+
+[ValueSet]
+Label=Après la naissance, le bébé a été placé directement sur la peau nue de la poitrine de la mère
+Name=MN23_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP/ NE SE SOUVIENT PAS
+Value=9;NON REPONSE
+
+[Item]
+Label=Bébé a été enveloppé avant d'être placé sur la poitrine de la mère
+Name=MN24
+Start=56
+Len=1
+
+[ValueSet]
+Label=Bébé a été enveloppé avant d'être placé sur la poitrine de la mère
+Name=MN24_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP/ NE SE SOUVIENT PAS
+Value=9;NON REPONSE
+
+[Item]
+Label=Le bébé a été séché(e) ou essuyé(e) peu de temps après la naissance
+Name=MN25
+Start=57
+Len=1
+
+[ValueSet]
+Label=Le bébé a été séché(e) ou essuyé(e) peu de temps après la naissance
+Name=MN25_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP/ NE SE SOUVIENT PAS
+Value=9;NON REPONSE
+
+[Item]
+Label=Temps que le bébé  a été lavé après la naissance
+Name=MN26
+Start=58
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Temps que le bébé  a été lavé après la naissance
+Name=MN26_FRA
+Value=0;IMMEDIATEMENT
+Value=100:148;HEURES
+Value=998;NSP / NE SE SOUVIENT PAS
+Value=998;NON REPONSE
+
+[Item]
+Label=Temps que le bébé  a été lavé après la naissance - Unité
+Name=MN26U
+Start=58
+Len=1
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Le temps a été lavé après la naissance: unité
+Name=MN26U_FRA
+Value=0;IMMEDIATEMENT
+Value=1;HEURES
+Value=2;JOURS
+Value=9;JAMAIS LAVE/NSP / NE SE SOUVIENT PAS
+
+[Item]
+Label=Temps que le bébé  a été lavé après la naissance - Nombre
+Name=MN26N
+Start=59
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Temps que le bébé  a été lavé après la naissance - Nombre
+Name=MN26N_FRA
+Value=0;IMMEDIATEMENT
+Value=1:48
+Value=97;JAMAIS LAVE
+Value=98;NSP / NE SE SOUVIENT PAS
+Value=99;NON REPONSE
+
+[Item]
+Label=Ce qui a été utilisé pour couper le cordon
+Name=MN28
+Start=61
+Len=1
+
+[ValueSet]
+Label=Ce qui a été utilisé pour couper le cordon
+Name=MN28_FRA
+Value=1;LAME NEUVE
+Value=2;LAME DEJA UTILISEE POUR AUTRES RAISONS
+Value=3;CISEAUX
+Value=6;AUTRE
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Instrument utilisé pour couper le cordon  a été bouilli avant l'utilisation
+Name=MN29
+Start=62
+Len=1
+
+[ValueSet]
+Label=Instrument utilisé pour couper le cordon  a été bouilli avant l'utilisation
+Name=MN29_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP / NE SE SOUVIENT PAS
+Value=9;NON REPONSE
+
+[Item]
+Label=Quelque chose a été appliquée sur le cordon ombilical après avoir été coupé
+Name=MN30
+Start=63
+Len=1
+
+[ValueSet]
+Label=Quelque chose a été appliquée sur le cordon ombilical après avoir été coupé
+Name=MN30_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP / NE SE SOUVIENT PAS
+Value=9;NON REPONSE
+
+[Item]
+Label=Ce qui a été appliqué au cordon
+Name=MN31
+Start=64
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Ce qui a été appliqué au cordon
+Name=MN31_FRA
+Value='A       ';CHLORHEXIDINE/BETADINE
+Value='B       ';AUTRE ANTISEPTIQUE (ALCOOL,  CORDIAL, GENTIANE VIOLETTE)
+Value='C       ';HUILE DE MOUTARDE
+Value='D       ';CENDRE
+Value='E       ';BOUSES D’ANIMAUX
+Value='X       ';AUTRE
+Value='Z       ';NSP/ NE SE SOUVIENT PAS
+Value='?       ';NON REPONSE
+
+[Item]
+Label=Ce qui a été appliqué au cordon:  Chlorhexidine/Betadine
+Name=MN31A
+Start=64
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Ce qui a été appliqué au cordon:  Chlorhexidine/Betadine
+Name=MN31A_FRA
+Value='A';CHLORHEXIDINE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Ce qui a été appliqué au cordon:  Autre antiseptique (alcool, cordial gentiale violette)
+Name=MN31B
+Start=65
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Ce qui a été appliqué au cordon:  Autre antiseptique (alcool, cordial gentiale violette)
+Name=MN31B_FRA
+Value='B';AUTRE ANTISEPTIQUE (ALCOOL,  CORDIAL, GENTIANE VIOLETTE)
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Ce qui a été appliqué au cordon:  Huile de palme
+Name=MN31C
+Start=66
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Ce qui a été appliqué au cordon:  Huile de palme
+Name=MN31C_FRA
+Value='C';HUILE DE MOUTARDE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Ce qui a été appliqué au cordon:  Cendre
+Name=MN31D
+Start=67
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Ce qui a été appliqué au cordon:  Cendre
+Name=MN31D_FRA
+Value='D';CENDRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Ce qui a été appliqué au cordon: Bouses d'animaux
+Name=MN31E
+Start=68
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Ce qui a été appliqué au cordon: Bouses d'animaux
+Name=MN31E_FRA
+Value='E';BOUSES D’ANIMAUX
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Ce qui a été appliqué au cordon: Autre
+Name=MN31X
+Start=69
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Ce qui a été appliqué au cordon: Autre
+Name=MN31X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Ce qui a été appliqué au cordon: NSP / Ne se souvient pas
+Name=MN31Z
+Start=70
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Ce qui a été appliqué au cordon: NSP / Ne se souvient pas
+Name=MN31Z_VS2
+Value='Y';NSP/ NE SE SOUVIENT PAS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Ce qui a été appliqué au cordon: Non réponse
+Name=MN31NR
+Start=71
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Ce qui a été appliqué au cordon: Non réponse
+Name=MN31NR_FRA
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Taille de l'enfant à la naissance
+Name=MN32
+Start=72
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Taille de l'enfant à la naissance
+Name=MN32_FRA
+Value=1;TRES GROS
+Value=2;PLUS GROS QUE LA MOYENNE
+Value=3;MOYEN
+Value=4;PLUS PETIT QUE LA MOYENNE
+Value=5;TRES PETIT
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Pesé à la naissance
+Name=MN33
+Start=73
+Len=1
+
+[ValueSet]
+Label=Pesé à la naissance
+Name=MN33_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Poids enregistré sur le certificat de naissance ou déclaration de la mère
+Name=MN34A
+Start=74
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Poids enregistré sur le certificat de naissance ou déclaration de la mère
+Name=MN34A_FRA
+Value=1;OUI, DANS UN CERTIFICAT
+Value=2;NON, DE MEMOIRE
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Poids à la naissance (kilogrammes)
+Name=MN34
+Start=75
+Len=5
+Decimal=3
+DecimalChar=Yes
+ZeroFill=Yes
+
+[ValueSet]
+Label=Poids à la naissance (kilogramme)
+Name=MN34_FRA
+Value=0,500:6,999
+Value=9,998;NSP
+Value=9,999;NON REPONSE
+
+[Item]
+Label=Retour des règles depuis la naissance de l'enfant
+Name=MN35
+Start=80
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Retour des règles depuis la naissance de l'enfant
+Name=MN35_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Avez-vous déjà allaité
+Name=MN36
+Start=81
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Avez-vous déjà allaité
+Name=MN36_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Temps  ap^rès la naissance que ler bébé a été mis au sein
+Name=MN37
+Start=82
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Temps  après la naissance que ler bébé a été mis au sein
+Name=MN37_FRA
+Value=0;IMMEDIATEMENT
+Value=101:123;HEURES
+Value=201:290;JOURS
+Value=998;NSP / NE SE SOUVIENT PAS
+Value=999;NON REPONSE
+
+[Item]
+Label=Temps  ap^rès la naissance que ler bébé a été mis au sein - Unité
+Name=MN37U
+Start=82
+Len=1
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Temps  après la naissance que ler bébé a été mis au sein - Unité
+Name=MN37U_FRA
+Value=0;IMMEDIATEMENT
+Value=1;HEURES
+Value=2;JOURS
+Value=9;SPECIAL
+
+[Item]
+Label=Temps  ap^rès la naissance que ler bébé a été mis au sein - Nombre
+Name=MN37N
+Start=83
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Temps  après la naissance que ler bébé a été mis au sein - Nombre
+Name=MN37N_FRA
+Value=0;IMMEDIATEMENT
+Value=1:90
+Value=98;NSP / NE SE SOUVIENT PAS
+Value=99;NON REPONSE
+
+[Item]
+Label=Dans les 3 premiers jours après l'accouchement, l'enfant a reçu quelque chose à boire que le lait maternel
+Name=MN38
+Start=85
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Dans les 3 premiers jours après l'accouchement, l'enfant a reçu quelque chose à boire que le lait maternel
+Name=MN38_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire
+Name=MN39
+Start=86
+Len=13
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire
+Name=MN39_FRA
+Value='A            ';LAIT (AUTRE QUE MATERNEL)
+Value='B            ';DE L’EAU SEULE
+Value='C            ';SUCRE OU EAU AVEC DU GLUCOSE
+Value='D            ';EAU GRIPE
+Value='E            ';SOLUTION EAU-SALEE-SUCREE
+Value='F            ';JUS DE FRUIT
+Value='G            ';LAIT MATERNISE
+Value='H            ';THE / INFUSIONS / PREPARATIONS TRADITIONNELLES A BASE DE PLANTES
+Value='I            ';MIEL
+Value='J            ';MEDICAMENTS PRESCRITS
+Value='X            ';AUTRE
+Value='Y            ';RIEN DONNE A BOIRE
+Value='?            ';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire:  Lait (autre que maternel)
+Name=MN39A
+Start=86
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire:  Lait (autre que maternel)
+Name=MN39A_FRA
+Value='A';LAIT (AUTRE QUE MATERNEL)
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: De l'eau seule
+Name=MN39B
+Start=87
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: De l'eau seule
+Name=MN39B_FRA
+Value='B';DE L’EAU SEULE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Sucre à eau avc du glucose
+Name=MN39C
+Start=88
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Sucre à eau avc du glucose
+Name=MN39C_FRA
+Value='C';SUCRE OU EAU AVEC DU GLUCOSE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Calmant pour colique
+Name=MN39D
+Start=89
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Calmant pour colique
+Name=MN39D_FRA
+Value='D';EAU GRIPE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Solution Eau -Salée-sucrée
+Name=MN39E
+Start=90
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Solution Eau -Salée-sucrée
+Name=MN39E_FRA
+Value='E';SOLUTION EAU-SALEE-SUCREE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Jus de fruit
+Name=MN39F
+Start=91
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Jus de fruit
+Name=MN39F_FRA
+Value='F';JUS DE FRUIT
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire:Lait maternisé
+Name=MN39G
+Start=92
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire:Lait maternisé
+Name=MN39G_FRA
+Value='G';LAIT MATERNISE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Thé / Infusions / Préparations
+Name=MN39H
+Start=93
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Thé / Infusions / Préparations
+Name=MN39H_FRA
+Value='H';THE / INFUSIONS / PREPARATIONS TRADITIONNELLES A BASE DE PLANTES
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Miel
+Name=MN39I
+Start=94
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Miel
+Name=MN39I_FRA
+Value='I';MIEL
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Médicaments prescrrits
+Name=MN39J
+Start=95
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Médicaments prescrrits
+Name=MN39J_FRA
+Value='J';MEDICAMENTS PRESCRITS
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Autre
+Name=MN39X
+Start=96
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Autre
+Name=MN39X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Rien donné à boire
+Name=MN39Y
+Start=97
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Rien donné à boire
+Name=MN39Y_FRA
+Value='Y';RIEN DONNE A BOIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Enfant a reçu à boire: Non réponse
+Name=MN39NR
+Start=98
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Enfant a reçu à boire: Non réponse
+Name=MN39NR_FRA
+Value=' '
+Value='?';NON REPONSE
+
+[Record]
+Label=Post-natal health checks
+Name=MODPN
+RecordTypeValue='0PN'
+Required=No
+RecordLen=56
+
+[Item]
+Label=Temps resté au Centre de santé après l'accouchement
+Name=PN3
+Start=10
+Len=3
+
+[ValueSet]
+Label=Temps resté au Centre de santé après l'accouchement
+Name=PN3_FRA
+Value=100:123;HEURES
+Value=201:206;JOURS
+Value=301:390;SEMAINES
+Value=998;NSP / NE SE SOUVIENT PAS
+Value=999;NON REPONSE
+
+[Item]
+Label=Temps resté au Centre de santé après l'accouchement- Unité
+Name=PN3U
+Start=10
+Len=1
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Temps resté au Centre de santé après l'accouchement- Unité
+Name=PN3U_FRA
+Value=1;HEURES
+Value=2;JOURS
+Value=3;SEMAINES
+Value=9;SPECIAL
+
+[Item]
+Label=Temps resté au Centre de santé après l'accouchement - Nombre
+Name=PN3N
+Start=11
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Temps resté au Centre de santé après l'accouchement - Nombre
+Name=PN3N_FRA
+Value=0:90
+Value=98;NSP / NE SE SOUVIENT PAS
+Value=99;NON REPONSE
+
+[Item]
+Label=Quelqu'un a examiné l'état de santé de bébé avant de quitter le Centre de santé
+Name=PN4
+Start=13
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quelqu'un a examiné l'état de santé de bébé avant de quitter le Centre de santé
+Name=PN4_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=L'état de santé de la mère vérifiée avant de quitter le Centre de santé
+Name=PN5
+Start=14
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'état de santé de la mère vérifiée avant de quitter le Centre de santé
+Name=PN5_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Quelqu'un a examiné l'état de santé de bébé après avoir quitté le Centre de santé
+Name=PN6
+Start=15
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Quelqu'un a examiné l'état de santé de bébé après avoir quitté le Centre de santé
+Name=PN6_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Etat der santé dubébé vérifié à la fin de l'accouchement
+Name=PN8
+Start=16
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Etat der santé dubébé vérifié à la fin de l'accouchement
+Name=PN8_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Etat de santé de la mère vérifié  à la fin de l'accouchement
+Name=PN9
+Start=17
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Etat de santé de la mère vérifié  à la fin de l'accouchement
+Name=PN9_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Vérification supplémentaire de l'état de santé apès l'accouchement
+Name=PN10
+Start=18
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Vérification supplémentaire de l'état de santé apès l'accouchement
+Name=PN10_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Etat de santé du bébé vérifié après l'accouchement
+Name=PN11
+Start=19
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Etat de santé du bébé vérifié après l'accouchement
+Name=PN11_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Nombre de fois que le bébé a été examiné
+Name=PN12
+Start=20
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de fois que le bébé a été examiné
+Name=PN12_FRA
+Value=1;UNE FOIS
+Value=2;PLUS D’UNE FOIS
+Value=9;NON REPONSE
+
+[Item]
+Label=Nombre de fois que la mère a été examiné après la naissance du bébé
+Name=PN13
+Start=21
+Len=3
+
+[ValueSet]
+Label=Nombre de fois que la mère a été examiné après la naissance du bébé
+Name=PN13_FRA
+Value=100:123;HEURES
+Value=201:206;JOURS
+Value=301:390;SEMAINES
+Value=998;NSP / NE SE SOUVIENT PAS
+Value=999;NON REPONSE
+
+[Item]
+Label=Combien de temps après l'accouchement a eu le premier contrôle du bébé - Unité
+Name=PN13U
+Start=21
+Len=1
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de temps après l'accouchement a eu le premier contrôle du bébé - Unité
+Name=PN13U_FRA
+Value=1;HEURES
+Value=2;JOURS
+Value=3;SEMAINES
+Value=9;SPECIAL
+
+[Item]
+Label=Combien de temps après l'accouchement a eu le premier contrôle du bébé - Nombre
+Name=PN13N
+Start=22
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de temps après l'accouchement a eu le premier contrôle du bébé - Nombre
+Name=PN13N_FRA
+Value=0:90
+Value=98;NSP / NE SE SOUVIENT PAS
+Value=99;NON REPONSE
+
+[Item]
+Label=Assistance du bébé à l'accouchement
+Name=PN14
+Start=24
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance du bébé à l'accouchement
+Name=PN14_FRA
+Value='A       ';MEDECIN
+Value='C       ';INFIRMIERE/INFIRMIER
+Value='D       ';ACOUCHEUSE/SAGE FEMME
+Value='F       ';ACCOUCHEUSE TRADITIONNELLE
+Value='G       ';AGENT DE SANTE COMMUNAUTAIRE
+Value='H       ';PARENT/AMI
+Value='X       ';AUTRE
+Value='?       ';NON REPONSE
+
+[Item]
+Label=Assistance du bébé à l'accouchement: MEDECIN
+Name=PN14A
+Start=24
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance du bébé à l'accouchement: MEDECIN
+Name=PN14A_FRA
+Value='A';MEDECIN
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance du bébé à l'accouchement: INFIRMIER/INFIRMIERE
+Name=PN14C
+Start=25
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance du bébé à l'accouchement: INFIRMIER/INFIRMIERE
+Name=PN14C_FRA
+Value='C';INFIRMIERE/INFIRMIER
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance du bébé à l'accouchement: ACCOUCHEUSE/SAGE-FEMME
+Name=PN14D
+Start=26
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance du bébé à l'accouchement: ACCOUCHEUSE/SAGE-FEMME
+Name=PN14D_FRA
+Value='D';ACOUCHEUSE /  SAGE FEMME
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance du bébé à l'accouchement: ACCOUCHEUSE TRADITIONNELLE/MATRONE
+Name=PN14F
+Start=27
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance du bébé à l'accouchement: ACCOUCHEUSE TRADITIONNELLE/MATRONE
+Name=PN14F_FRA
+Value='F';ACCOUCHEUSE TRADITIONNELLE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance du bébé à l'accouchement: AGENT DE SANTE COMMUNAUTAIRE
+Name=PN14G
+Start=28
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance du bébé à l'accouchement: AGENT DE SANTE COMMUNAUTAIRE
+Name=PN14G_FRA
+Value='G';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance du bébé à l'accouchement: PARENT/AMI
+Name=PN14H
+Start=29
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance du bébé à l'accouchement: PARENT/AMI
+Name=PN14H_FRA
+Value='H';PARENT/AMI
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance du bébé à l'accouchement: AUTRE
+Name=PN14X
+Start=30
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance du bébé à l'accouchement: AUTRE
+Name=PN14X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance du bébé à l'accouchement: NON REPONSE
+Name=PN14NR
+Start=31
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance du bébé à l'accouchement: NON REPONSE
+Name=PN14NR_FRA
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où la santé du bébé a été examimée
+Name=PN15
+Start=32
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'endroit où la santé du bébé a été examimée
+Name=PN15_FRA
+Value=11;DOMICILE DE L’ENQUETEE
+Value=12;AUTRE DOMICILE
+Value=21;HOPITAL GOUVERNEMENTAL
+Value=22;CLINIQUE / CENTRE DE SANTE GOUV
+Value=23;POSTE DE SANTE GOUVERNEMENTAL
+Value=26;AUTRE PUBLIC
+Value=31;HOPITAL PRIVE
+Value=32;CLINIQUE PRIVEE
+Value=36;MATERNITE PRIVEE
+Value=96;AUTRE PRIVATE MEDICAL
+Value=99;NON REPONSE
+
+[Item]
+Label=Etat de la mère vérifié après avoir quitté la structure de santé
+Name=PN17
+Start=34
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Etat de la mère vérifié après avoir quitté la structure de santé
+Name=PN17_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Etat de santé de la mère vérifié  à la fin de l'accouchement
+Name=PN19
+Start=35
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Etat de santé de la mère vérifié  à la fin de l'accouchement
+Name=PN19_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Etat de santé de la mère vérifié  après la naissance du bébé
+Name=PN20
+Start=36
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Etat de santé de la mère vérifié  après la naissance du bébé
+Name=PN20_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Nombre de fois que la mère a été examiné après la naissance du bébé
+Name=PN21
+Start=37
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de fois que la mère a été examiné après la naissance du bébé
+Name=PN21_FRA
+Value=1;UNE FOIS
+Value=2;PLUS D’UNE FOIS
+Value=9;NON REPONSE
+
+[Item]
+Label=Combien de temps après l'accouchement a eu le premier contrôle de la mère
+Name=PN22
+Start=38
+Len=3
+
+[ValueSet]
+Label=Combien de temps après l'accouchement a eu le premier contrôle de la mère
+Name=PN22_FRA
+Value=100:123;HEURES
+Value=201:206;JOURS
+Value=301:390;SEMAINES
+Value=998;NSP / NE SE SOUVIENT PAS
+Value=999;NON REPONSE
+
+[Item]
+Label=Combien de temps après l'accouchement a eu le premier contrôle de la mère - Unité
+Name=PN22U
+Start=38
+Len=1
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de temps après l'accouchement a eu le premier contrôle de la mère - Unité
+Name=PN22U_FRA
+Value=1;HEURES
+Value=2;JOURS
+Value=3;SEMAINES
+Value=9;SPECIAL
+
+[Item]
+Label=Combien de temps après l'accouchement a eu le premier contrôle de la mère- Nombre
+Name=PN22N
+Start=39
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Combien de temps après l'accouchement a eu le premier contrôle de la mère- Nombre
+Name=PN22N_FRA
+Value=0:90
+Value=98;NSP / NE SE SOUVIENT PAS
+Value=99;NON REPONSE
+
+[Item]
+Label=Assistance de la mère à l'accouchement
+Name=PN23
+Start=41
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance de la mère à l'accouchement
+Name=PN23_FRA
+Value='A       ';MEDECIN
+Value='C       ';INFIRMIERE/INFIRMIER
+Value='D       ';ACOUCHEUSE/SAGE FEMME
+Value='F       ';ACCOUCHEUSE TRADITIONNELLE
+Value='G       ';AGENT DE SANTE COMMUNAUTAIRE
+Value='H       ';PARENT/AMI
+Value='X       ';AUTRE
+Value='?       ';NON REPONSE
+
+[Item]
+Label=Assistance de la mère à l'accouchement: MEDECIN
+Name=PN23A
+Start=41
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance de la mère à l'accouchement: MEDECIN
+Name=PN23A_FRA
+Value='A';MEDECIN
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance de la mère à l'accouchement: INFIRMIER/INFIRMIERE
+Name=PN23C
+Start=42
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance de la mère à l'accouchement: INFIRMIER/INFIRMIERE
+Name=PN23C_FRA
+Value='C';INFIRMIERE/INFIRMIER
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance de la mère à l'accouchement: ACCOUCHEUSE/SAGE-FEMME
+Name=PN23D
+Start=43
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance de la mère à l'accouchement: ACCOUCHEUSE/SAGE-FEMME
+Name=PN23D_FRA
+Value='D';ACOUCHEUSE /  SAGE FEMME
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance de la mère à l'accouchement: ACCOUCHEUSE TRADITIONNELLE/MATRONE
+Name=PN23F
+Start=44
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance de la mère à l'accouchement: ACCOUCHEUSE TRADITIONNELLE/MATRONE
+Name=PN23F_FRA
+Value='F';ACCOUCHEUSE TRADITIONNELLE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance à l'accouchement: AGENT DE SANTE COMMUNAUTAIRE
+Name=PN23G
+Start=45
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance à l'accouchement: AGENT DE SANTE COMMUNAUTAIRE
+Name=PN23G_FRA
+Value='G';AGENT DE SANTE COMMUNAUTAIRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance de la mère à l'accouchement: PARENT/AMI
+Name=PN23H
+Start=46
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance de la mère à l'accouchement: PARENT/AMI
+Name=PN23H_FRA
+Value='H';PARENT/AMI
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance de la mère à l'accouchement: AUTRE
+Name=PN23X
+Start=47
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance de la mère à l'accouchement: AUTRE
+Name=PN23X_FRA
+Value='X';AUTRE
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=Assistance de la mère à l'accouchement: NON REPONSE
+Name=PN23NR
+Start=48
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Assistance de la mère à l'accouchement: NON REPONSE
+Name=PN23NR_FRA
+Value=' '
+Value='?';NON REPONSE
+
+[Item]
+Label=L'endroit où la santé e la mère a été examinée
+Name=PN24
+Start=49
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=L'endroit où la santé e la mère a été examinée
+Name=PN24_FRA
+Value=11;DOMICILE DE L’ENQUETEE
+Value=12;AUTRE DOMICILE
+Value=21;HOPITAL GOUVERNEMENTAL
+Value=22;CLINIQUE / CENTRE DE SANTE GOUV
+Value=23;POSTE DE SANTE GOUVERNEMENTAL
+Value=26;AUTRE PUBLIC
+Value=31;HOPITAL PRIVE
+Value=32;CLINIQUE PRIVEE
+Value=33;MATERNITE PRIVEE
+Value=36;AUTRE PRIVATE MEDICAL
+Value=96;AUTRE
+Value=99;NON REPONSE
+
+[Item]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé a fait des actes suivants:  Examiner le  cordon
+Name=PN25A
+Start=51
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé a fait des actes suivants:  Examiner le  cordon
+Name=PN25A_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé a fait des actes suivants: Prendre la temperature
+Name=PN25B
+Start=52
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé a fait des actes suivants: Prendre la temperature
+Name=PN25B_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé a fait des actes suivants: Counseils surl'allaitement
+Name=PN25C
+Start=53
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé a fait des actes suivants: Counseils surl'allaitement
+Name=PN25C_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé observe l'allaitement
+Name=PN27
+Start=54
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé observe l'allaitement
+Name=PN27_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+Value=9;NON REPONSE
+
+[Item]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé  a pesé de nouveau l'enfant
+Name=PN29
+Start=55
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé  a pesé de nouveau l'enfant
+Name=PN29_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé a donné des informations sur les symptômes de la maladie del'enfant
+Name=PN30
+Start=56
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Durant les deux premiers jours après la naissance, un agent  de santé a donné des informations sur les symptômes de la maladie del'enfant
+Name=PN30_FRA
+Value=1;OUI
+Value=2;NON
+Value=9;NON REPONSE
+
+[Record]
+Label=Marriage/Union
+Name=MODMA
+RecordTypeValue='0MA'
+Required=No
+RecordLen=19
+
+[Item]
+Label=Actuellement marié ou vivant avec un homme
+Name=MA1
+Start=10
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Actuellement marié ou vivant avec un homme
+Name=MA1_FRA
+Value=1;OUI, MARIEE ACTUELLEMENT
+Value=2;OUI, VIT ACTUELLEMENT AVEC UN PARTENAIRE
+Value=3;NON, PAS EN UNION
+Value=9;NON REPONSE
+
+[Item]
+Label=Déjà été mariée ou vécu avec quelqu'un comme mariée
+Name=MA5
+Start=11
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Déjà été mariée ou vécu avec quelqu'un comme mariée
+Name=MA5_FRA
+Value=1;OUI, FORMELLEMENT MARIEE
+Value=2;OUI, A VECU EN UNION
+Value=3;NON
+Value=9;NON REPONSE
+
+[Item]
+Label=Situation matrimoniale actuelle
+Name=MA6
+Start=12
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Situation matrimoniale actuelle
+Name=MA6_FRA
+Value=1;VEUVE
+Value=2;DIVORCEE
+Value=3;SEPAREE
+
+[Item]
+Label=Déjà été mariée ou vécu avec quelqu'un une fois ou plus d'une fois
+Name=MA7
+Start=13
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Déjà été mariée ou vécu avec quelqu'un une fois ou plus d'une fois
+Name=MA7_FRA
+Value=1;SEULEMENT UNE FOIS
+Value=2;PLUS D’UNE FOIS
+Value=9;NON REPONSE
+
+[Item]
+Label=Date de la première union
+Name=MA8
+Start=14
+Len=6
+ZeroFill=Yes
+
+[Item]
+Label=Mois de la première union
+Name=MA8M
+Start=14
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de la première union
+Name=MA8M_FRA
+Value=1;JANVIER
+Value=2;FÉVRIER
+Value=3;MARS
+Value=4;AVRIL
+Value=5;MAI
+Value=6;JUIN
+Value=7;JUILLET
+Value=8;AOUT
+Value=9;SEPTEMBRE
+Value=10;OCTOBRE
+Value=11;NOVEMBRE
+Value=12;DECEMBRE
+Value=98;NSP
+Value=99;NON REPONSE
+
+[Item]
+Label=Année de la première union
+Name=MA8Y
+Start=16
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de la première union
+Name=MA8Y_FRA
+Value=1973:2020
+Value=9998;NSP
+Value=9999;NON REPONSE
+
+[Record]
+Label=Evaluation des connaissances
+Name=MODCAS
+RecordTypeValue='CAS'
+Required=No
+RecordLen=25
+
+[Item]
+Label=Est-ce que la maman a un  enfant de moins 5 ans ?
+Name=TEF5
+Start=10
+Len=1
+
+[ValueSet]
+Label=Est-ce que la maman a un  enfant de moins 5 ans ?
+Name=TEF5_FRA
+Value=1;OUI
+Value=2;NON
+
+[Item]
+Label=Est-il difficile ou pas difficile pour vous de rechercher des soins dans un établissement de santé pour vous même ou pour vos enfants ?
+Name=CAS1
+Start=11
+Len=1
+
+[ValueSet]
+Label=Est-il difficile ou pas difficile pour vous de rechercher des soins dans un établissement de santé pour vous même ou pour vos enfants ?
+Name=CAS1_VS1
+Value=1;DIFFICILE
+Value=2;PAS DIFFICILE
+Value=8;NSP
+
+[Item]
+Label=pourquoi c’est difficile pour vous de rechercher des soins dans un établissement de santé pour vous même ou pour vos enfants?
+Name=CAS2
+Start=12
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=pourquoi c’est difficile pour vous de rechercher des soins dans un établissement de santé pour vous même ou pour vos enfants?
+Name=CAS2_VS1
+Value='A          ';FRAIS DE TRANSPORT ELEVES POUR MOI
+Value='B          ';ETABLISSEMENT EST LOIN / DIFFICILE D’ACCES
+Value='C          ';FRAIS DES SERVICES  DE SOINS ELEVES POUR MOI
+Value='D          ';CHARGE DE LA GARDE D'ENFANTS
+Value='E          ';CHARGE DU TRAVAIL (INTERIEUR / EXTERIEUR  MAISON)
+Value='F          ';MARI / PARTENAIRE N’AUTORISE PAS
+Value='G          ';PERSONNEL DE L'ETABLISSEMENT INSOLENT.....
+Value='H          ';PAS DE PERSONNEL FEMININ  DANS L’ETABLISSMENT
+Value='I          ';LONGUE ATTENTE DANS LES LOCAUX
+Value='X          ';AUTRE (préciser)
+Value='Z          ';NSP/PAS SUR
+
+[Item]
+Label=FRAIS DE TRANSPORT ELEVES POUR MOI..................
+Name=CAS2A
+Start=12
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=FRAIS DE TRANSPORT ELEVES POUR MOI..................
+Name=CAS2A_VS1
+Value='A';FRAIS DE TRANSPORT ELEVES POUR MOI
+
+[Item]
+Label=ETABLISSEMENT EST LOIN / DIFFICILE D’ACCES
+Name=CAS2B
+Start=13
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ETABLISSEMENT EST LOIN / DIFFICILE D’ACCES
+Name=CAS2B_VS1
+Value='B';ETABLISSEMENT EST LOIN / DIFFICILE D’ACCES
+
+[Item]
+Label=Frais des services de soins trop élevés pour moi
+Name=CAS2C
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=Frais des services de soins trop élevés pour moi
+Name=CAS2C_VS1
+Value='C';FRAIS DES SERVICES  DE SOINS ELEVES POUR MOI
+
+[Item]
+Label=CHARGE DE LA GARDE D'ENFANTS
+Name=CAS2D
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CHARGE DE LA GARDE D'ENFANTS
+Name=CAS2D_VS1
+Value='A';CHARGE DE LA GARDE D'ENFANTS
+
+[Item]
+Label=CHARGE DU TRAVAIL (INTERIEUR / EXTERIEUR MAISON)
+Name=CAS2E
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CHARGE DU TRAVAIL (INTERIEUR / EXTERIEUR MAISON)
+Name=CAS2E_VS1
+Value='E';CHARGE DU TRAVAIL (INTERIEUR / EXTERIEUR MAISON)
+
+[Item]
+Label=MARI / PARTENAIRE N’AUTORISE PAS
+Name=CAS2F
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=MARI / PARTENAIRE N’AUTORISE PAS
+Name=CAS2F_VS1
+Value='F';MARI / PARTENAIRE N’AUTORISE PAS
+
+[Item]
+Label=PERSONNEL DE L'ETABLISSEMENT INSOLENT
+Name=CAS2G
+Start=18
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PERSONNEL DE L'ETABLISSEMENT INSOLENT
+Name=CAS2G_VS1
+Value='G';PERSONNEL DE L'ETABLISSEMENT INSOLENT
+
+[Item]
+Label=PAS DE PERSONNEL FEMININ  DANS L’ETABLISSMENT
+Name=CAS2H
+Start=19
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PAS DE PERSONNEL FEMININ  DANS L’ETABLISSMENT
+Name=CAS2H_VS1
+Value='H';PAS DE PERSONNEL FEMININ  DANS L’ETABLISSMENT
+
+[Item]
+Label=LONGUE ATTENTE DANS LES LOCAUX
+Name=CAS2I
+Start=20
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=LONGUE ATTENTE DANS LES LOCAUX
+Name=CAS2I_VS1
+Value='I';LONGUE ATTENTE DANS LES LOCAUX
+
+[Item]
+Label=AUTRE (préciser)
+Name=CAS2X
+Start=21
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser)
+Name=CAS2X_VS1
+Value='X';AUTRE (préciser
+
+[Item]
+Label=NSP/PAS SUR
+Name=CAS2Z
+Start=22
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SUR
+Name=CAS2Z_VS1
+Value='Z';NSP/PAS SUR
+
+[Item]
+Label=pouvez compter sur les agents de santé communautaire en termes de préventions ou de traitements des maladies ?
+Name=CAS3
+Start=23
+Len=1
+
+[ValueSet]
+Label=pouvez compter sur les agents de santé communautaire en termes de préventions ou de traitements des maladies ?
+Name=CAS3_FRA
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+
+[Item]
+Label=À quelle fréquence recevez-vous la visite d'un agent de santé communautaire (ACS) ?
+Name=CAS4
+Start=24
+Len=2
+
+[ValueSet]
+Label=À quelle fréquence recevez-vous la visite d'un agent de santé communautaire (ACS) ?
+Name=CAS4_FRA
+Value=1;PLUS D'UNE FOIS PAR MOIS
+Value=2;UNE FOIS PAR MOIS
+Value=3;TOUS LES 2-3 MOIS
+Value=4;TOUS LES 6 MOIS OU PLUS
+Value=5;JAMAIS
+Value=96;AUTRE
+Value=98;NSP/PAS SUR
+
+[Record]
+Label=Soins prénatals
+Name=MODSP
+RecordTypeValue='0SP'
+Required=No
+RecordLen=28
+
+[Item]
+Label=Pensez-vous que pouvez compter sur les agents de santé communautaire en termes de préventions ou de traitements des maladies ?
+Name=AC1
+Start=10
+Len=1
+
+[ValueSet]
+Label=Pensez-vous que pouvez compter sur les agents de santé communautaire en termes de préventions ou de traitements des maladies ?
+Name=AC1_VS1
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+
+[Item]
+Label=les soins prénatals sont-ils importants pour les femmes enceintes ?
+Name=AC2
+Start=11
+Len=1
+
+[ValueSet]
+Label=les soins prénatals sont-ils importants pour les femmes enceintes ?
+Name=AC2_VS1
+Value=1;IMPORTANT
+Value=2;PAS IMPORTANT
+Value=8;NSP
+
+[Item]
+Label=Pourquoi pensez-vous que les soins prénatals sont importants pour les femmes enceintes?
+Name=AC3
+Start=12
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Pourquoi pensez-vous que les soins prénatals sont importants pour les femmes enceintes?
+Name=AC3_VS1
+Value='A     ';AVOIR UNE GROSSESSE SAINE
+Value='B     ';APPRENDRE A PREVENIR LES RISQUES POUR LA  MAMAN ET LE BEBE
+Value='C     ';OBTENIR DES MOUSTIQUAIRES ET DES VITAMINES COMPRENDRE COMMENT / OU DONNER
+Value='D     '; NAISSANCE
+Value='X     ';AUTRE (préciser
+Value='Z     ';NSP/PAS SURE
+
+[Item]
+Label=AVOIR UNE GROSSESSE SAINE
+Name=AC3A
+Start=12
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AVOIR UNE GROSSESSE SAINE
+Name=AC3A_VS1
+Value='A';AVOIR UNE GROSSESSE SAINE
+
+[Item]
+Label=APPRENDRE A PREVENIR LES RISQUES POUR LA MAMAN ET LE BEBE
+Name=AC3B
+Start=13
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=APPRENDRE A PREVENIR LES RISQUES POUR LA MAMAN ET LE BEBE
+Name=AC3B_VS1
+Value='B';APPRENDRE A PREVENIR LES RISQUES POUR LA  MAMAN ET LE BEBE
+
+[Item]
+Label=OBTENIR DES MOUSTIQUAIRES ET DES VITAMINES
+Name=AC3C
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=OBTENIR DES MOUSTIQUAIRES ET DES VITAMINES
+Name=AC3C_VS1
+Value='C';OBTENIR DES MOUSTIQUAIRES ET DES VITAMINES.
+
+[Item]
+Label=COMPRENDRE COMMENT / OU DONNER NAISSANCE
+Name=AC3D
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=COMPRENDRE COMMENT / OU DONNER NAISSANCE
+Name=AC3D_VS1
+Value='D';COMPRENDRE COMMENT / OU DONNER NAISSANCE
+
+[Item]
+Label=AUTRE
+Name=AC3X
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE
+Name=AC3X_VS1
+Value='X';AUTRE (préciser
+
+[Item]
+Label=NSP/PAS SURE
+Name=AC3Z
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=AC3Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=A quel âge de la grossesse pensez-vous qu'une femme enceinte devrait avoir sa première visite de soins prénatals ?
+Name=AC4
+Start=18
+Len=2
+
+[ValueSet]
+Label=A quel âge de la grossesse pensez-vous qu'une femme enceinte devrait avoir sa première visite de soins prénatals ?
+Name=AC4_VS1
+Value=10;PREMIER TRIMESTRE
+Value=11;DES QU'ELLE SAIT QU'ELLE EST ENCEINTE
+Value=12;QUAND LE BEBE COMMENCE A BOUGER
+Value=13;QUAND ELLE SAIGNE
+Value=14;QUAND ELLE SENT QUE QUELQUE CHOSE NE VA PAS BIEN AVEC ELLE OU AVEC SON BEBE
+Value=15;JUSTE AVANT L’ACOUCHEMENT
+Value=96;AUTRE (préciser
+Value=98;NSP/PAS SURE
+
+[Item]
+Label=Combien de visites prénatales pensez-vous sont nécessaires pendant la grossesse avant l’accouchement ?
+Name=AC5
+Start=20
+Len=2
+
+[ValueSet]
+Label=Combien de visites prénatales pensez-vous sont nécessaires pendant la grossesse avant l’accouchement ?
+Name=AC5_VS1
+Value=10;UNE VISITE
+Value=11;DEUX VISITES
+Value=12;TROIS VISITES
+Value=13;QUATRE VISITES ET PLUS
+Value=14;HUIT VISITES ET PLUS
+Value=15;UNE VISITE CHAQUE MOIS DE GROSSESSE
+Value=96;AUTRE (préciser
+Value=98;NSP/PAS SURE
+
+[Item]
+Label=Pourquoi pensez-vous que les soins prénatals ne sont pas importants pour les femmes enceintes?
+Name=AC6
+Start=22
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Pourquoi pensez-vous que les soins prénatals ne sont pas importants pour les femmes enceintes?
+Name=AC6_VS1
+Value='A      ';MERE SAIT QUOI FAIRE
+Value='B      ';PARENT PEUT FOURNIR DES CONSEILS
+Value='C      ';PAS DE BESOIN SI LA FEMME A DEJA MIS AU MONDE
+Value='D      ';AUCUN RISQUE
+Value='E      ';CROYANCES RELIGIEUSES ET CULTURELLES
+Value='X      ';AUTRE (préciser)
+Value='Z      ';NSP/PAS SURE
+
+[Item]
+Label=MERE SAIT QUOI FAIRE
+Name=AC6A
+Start=22
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=MERE SAIT QUOI FAIRE
+Name=AC6A_VS1
+Value='A';MERE SAIT QUOI FAIRE
+
+[Item]
+Label=PARENT PEUT FOURNIR DES CONSEILS
+Name=AC6B
+Start=23
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PARENT PEUT FOURNIR DES CONSEILS
+Name=AC6B_VS1
+Value='B';PARENT PEUT FOURNIR DES CONSEILS
+
+[Item]
+Label=PAS DE BESOIN SI LA FEMME A DEJA MIS AU MONDE
+Name=AC6C
+Start=24
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PAS DE BESOIN SI LA FEMME A DEJA MIS AU MONDE
+Name=AC6C_VS1
+Value='C';PAS DE BESOIN SI LA FEMME A DEJA MIS AU MONDE
+
+[Item]
+Label=AUCUN RISQUE
+Name=AC6D
+Start=25
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUCUN RISQUE
+Name=AC6D_VS1
+Value='D';AUCUN RISQUE
+
+[Item]
+Label=CROYANCES RELIGIEUSES ET CULTURELLES
+Name=AC6E
+Start=26
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CROYANCES RELIGIEUSES ET CULTURELLES
+Name=AC6E_VS1
+Value='E';CROYANCES RELIGIEUSES ET CULTURELLES
+
+[Item]
+Label=AUTRE
+Name=AC6X
+Start=27
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE
+Name=AC6X_VS1
+Value='X';AUTRE (préciser
+
+[Item]
+Label=NSP/PAS SURE
+Name=AC6Z
+Start=28
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=AC6Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Record]
+Label=Soins de l'accouchement
+Name=MODSA
+RecordTypeValue='0SA'
+Required=No
+RecordLen=15
+
+[Item]
+Label=Qui pensez-vous devrait assister les femmes lors de l’accouchement de leur bébé ?
+Name=DC1
+Start=10
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Qui pensez-vous devrait assister les femmes lors de l’accouchement de leur bébé ?
+Name=DC1_VS1
+Value='A    ';PERSONNEL DE SANTE (MEDECIN, INFIRMIERE SAGE-FEMME)
+Value='B    ';ACCOUCHEUSE TRADITIONNELLE / ACCOUCHEUSE COMMUNAUTAIRE
+Value='C    ';PARENTE / AMIE
+Value='X    ';AUTRE (préciser
+Value='Z    ';NSP/PAS SURE
+
+[Item]
+Label=PERSONNEL DE SANTE (MEDECIN,INFIRMIERE,SAGE-FEMME)
+Name=DC1A
+Start=10
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PERSONNEL DE SANTE (MEDECIN,INFIRMIERE,SAGE-FEMME)
+Name=DC1A_VS1
+Value='A';PERSONNEL DE SANTE (MEDECIN, INFIRMIERE, SAGE-FEMME)
+
+[Item]
+Label=ACCOUCHEUSETRADITIONNELLE / ACCOUCHEUSE COMMUNAUTAIRE
+Name=DC1B
+Start=11
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ACCOUCHEUSETRADITIONNELLE / ACCOUCHEUSE COMMUNAUTAIRE
+Name=DC1B_VS1
+Value='B';ACCOUCHEUSE TRADITIONNELLE / ACCOUCHEUSE COMMUNAUTAIRE
+
+[Item]
+Label=PARENTE / AMIE
+Name=DC1C
+Start=12
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PARENTE / AMIE
+Name=DC1C_VS1
+Value='C';PARENTE / AMIE
+
+[Item]
+Label=AUTRE
+Name=DC1X
+Start=13
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE
+Name=DC1X_VS1
+Value='X';AUTRE (préciser)
+
+[Item]
+Label=NSP/PAS SURE
+Name=DC1Z
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=DC1Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=À votre avis, quel est le lieu le plus sûr pour les femmes pour accoucher leur bébé ?
+Name=DC2
+Start=15
+Len=1
+
+[ValueSet]
+Label=À votre avis, quel est le lieu le plus sûr pour les femmes pour accoucher leur bébé ?
+Name=DC2_VS1
+Value=1;CENTRE DE SANTE (HOPITAL, CENTRE DE SANTE, CLINIQUE, ETC.)
+Value=2;A DOMICILE
+Value=3;AU DOMICILE D'UN PARENT / AMI
+Value=6;AUTRE (préciser)
+Value=8;NSP/PAS SURE
+
+[Record]
+Label=Enregistrement des naissances
+Name=MODBR
+RecordTypeValue='0BR'
+Required=No
+RecordLen=38
+
+[Item]
+Label=Avez-vous déjà entendu parler de l'enregistrement de la naissance auprès des autorités civiles?
+Name=BR1
+Start=10
+Len=1
+
+[ValueSet]
+Label=Avez-vous déjà entendu parler de l'enregistrement de la naissance auprès des autorités civiles?
+Name=BR1_VS1
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+
+[Item]
+Label=Est-ce que quelqu'un vous a déjà dit comment enregistrer la naissance de votre enfant
+Name=BR2
+Start=11
+Len=1
+
+[ValueSet]
+Label=Est-ce que quelqu'un vous a déjà dit comment enregistrer la naissance de votre enfant
+Name=BR2_VS1
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+
+[Item]
+Label=À votre avis, est-il important d'enregistrer la naissance d'un bébé auprès des autorités civiles ?
+Name=BR3
+Start=12
+Len=1
+
+[ValueSet]
+Label=À votre avis, est-il important d'enregistrer la naissance d'un bébé auprès des autorités civiles ?
+Name=BR3_VS1
+Value=1;IMPORTANT
+Value=2;PAS IMPORTANT
+Value=8;NSP
+
+[Item]
+Label=Pourquoi pensez-vous qu'il est important d'enregistrer la naissance d'un enfant ?
+Name=BR4
+Start=13
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=Pourquoi pensez-vous qu'il est important d'enregistrer la naissance d'un enfant ?
+Name=BR4_VS1
+Value='A        ';ACCÈS AUX SERVICES DE SANTÉ
+Value='B        ';ACCÈS À L’ÉDUCATION
+Value='C        ';AVOIR UNE IDENTITÉ JURIDIQUE
+Value='D        ';AVOIR UN DOCUMENT
+Value='E        ';DONNER UN NOM OFFICIEL
+Value='F        ';DONNEZ-LA CITOYENNETÉ/ NATIONALITÉ
+Value='G        ';POUR POUVOIR VOYAGER
+Value='X        ';AUTRE (préciser)
+Value='Z        ';NSP /PAS SÛRE
+
+[Item]
+Label=ACCÈS AUX SERVICES DE SANTÉ
+Name=BR4A
+Start=13
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ACCÈS AUX SERVICES DE SANTÉ
+Name=BR4A_VS1
+Value='A';ACCÈS AUX SERVICES DE SANTÉ
+
+[Item]
+Label=ACCÈS À L’ÉDUCATION
+Name=BR4B
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ACCÈS À L’ÉDUCATION
+Name=BR4B_VS1
+Value='B';ACCÈS À L’ÉDUCATION
+
+[Item]
+Label=AVOIR UNE IDENTITÉ JURIDIQUE
+Name=BR4C
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AVOIR UNE IDENTITÉ JURIDIQUE
+Name=BR4C_VS1
+Value='C';AVOIR UNE IDENTITÉ JURIDIQUE
+
+[Item]
+Label=AVOIR UN DOCUMENT
+Name=BR4D
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AVOIR UN DOCUMENT
+Name=BR4D_VS1
+Value='D';AVOIR UN DOCUMENT
+
+[Item]
+Label=DONNER UN NOM OFFICIEL
+Name=BR4E
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=DONNER UN NOM OFFICIEL
+Name=BR4E_VS1
+Value='E';DONNER UN NOM OFFICIEL
+
+[Item]
+Label=DONNEZ-LA CITOYENNETÉ/ NATIONALITE
+Name=BR4F
+Start=18
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=DONNEZ-LA CITOYENNETÉ/ NATIONALITE
+Name=BR4F_VS1
+Value='F';DONNEZ-LA CITOYENNETÉ  / NATIONALITÉ
+
+[Item]
+Label=POUR POUVOIR VOYAGER
+Name=BR4G
+Start=19
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=POUR POUVOIR VOYAGER
+Name=BR4G_VS1
+Value='G';POUR POUVOIR VOYAGER
+
+[Item]
+Label=AUTRE (préciser
+Name=BR4X
+Start=20
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser
+Name=BR4X_VS1
+Value='X';AUTRE (préciser
+
+[Item]
+Label=NSP /PAS SÛRE
+Name=BR4Z
+Start=21
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP /PAS SÛRE
+Name=BR4Z_VS1
+Value='Z';NSP /PAS SÛRE
+
+[Item]
+Label=Pourquoi pensez-vous qu'il n’est pas important d’enregistrer la naissance d'un enfant ?
+Name=BR5
+Start=22
+Len=4
+DataType=Alpha
+
+[ValueSet]
+Label=Pourquoi pensez-vous qu'il n’est pas important d’enregistrer la naissance d'un enfant ?
+Name=BR5_VS1
+Value='A   ';NE FAIT AUCUNE DIFFERENCE
+Value='B   ';A DEJA UN NOM
+Value='X   ';AUTRE (préciser
+Value='Z   '; NSP / PAS SURE
+
+[Item]
+Label=NE FAIT AUCUNE DIFFERENCE
+Name=BR5A
+Start=22
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NE FAIT AUCUNE DIFFERENCE
+Name=BR5A_VS1
+Value='A';NE FAIT AUCUNE DIFFERENCE
+
+[Item]
+Label=A DEJA UN NOM
+Name=BR5B
+Start=23
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=A DEJA UN NOM
+Name=BR5B_VS1
+Value='B';A DEJA UN NOM
+
+[Item]
+Label=AUTRE (préciser
+Name=BR5X
+Start=24
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser
+Name=BR5X_VS1
+Value='X';AUTRE (préciser
+
+[Item]
+Label=NSP / PAS SURE
+Name=BR5Z
+Start=25
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP / PAS SURE
+Name=BR5Z_VS1
+Value='Z';NSP / PAS SURE
+
+[Item]
+Label=Selon votre expérience, est-il difficile d'enregistrer la naissance d'un enfant ?
+Name=BR6
+Start=26
+Len=1
+
+[ValueSet]
+Label=Selon votre expérience, est-il difficile d'enregistrer la naissance d'un enfant ?
+Name=BR6_VS1
+Value=1;DIFFICILE
+Value=2;PAS DIFFICILE
+Value=8;NSP
+
+[Item]
+Label=Qu'est-ce qui a rendu difficile l'enregistrement de la naissance de votre enfant ?
+Name=BR7
+Start=27
+Len=12
+DataType=Alpha
+
+[ValueSet]
+Label=Qu'est-ce qui a rendu difficile l'enregistrement de la naissance de votre enfant ?
+Name=BR7_VS1
+Value='A           ';NE SAIT PAS QUE C’EST UN REQUIS LÉGAL
+Value='B           ';PAS ASSEZ D'ARGENT
+Value='C           ';DISTANCE
+Value='D           ';PROCESSUS TROP LONG / COMPLEXE
+Value='E           ';DOCUMENTS INCOMPLETS
+Value='F           ';PÈRE ABSENT
+Value='G           ';L'ENFANT N'A PAS ENCORE UN NOM
+Value='H           ';PARLER DIFFÉRENTES LANGUES
+Value='I           ';MANQUE D'ALPHABETISATION
+Value='J           ';JE NE SAIS PAS COMMENT  INSCRIRE
+Value='X           ';AUTRE (préciser)
+Value='Z           ';NE SAIT PAS / PAS SURE
+
+[Item]
+Label=NE SAIT PAS QUE C’EST UN REQUIS LÉGAL
+Name=BR7A
+Start=27
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NE SAIT PAS QUE C’EST UN REQUIS LÉGAL
+Name=BR7A_VS1
+Value='A';NE SAIT PAS QUE C’EST UN REQUIS LÉGAL
+
+[Item]
+Label=PAS ASSEZ D'ARGENT
+Name=BR7B
+Start=28
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PAS ASSEZ D'ARGENT
+Name=BR7B_VS1
+Value='B';PAS ASSEZ D'ARGENT
+
+[Item]
+Label=DISTANCE
+Name=BR7C
+Start=29
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=DISTANCE
+Name=BR7C_VS1
+Value='C';DISTANCE
+
+[Item]
+Label=PROCESSUS TROP LONG /COMPLEXE
+Name=BR7D
+Start=30
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PROCESSUS TROP LONG /COMPLEXE
+Name=BR7D_VS1
+Value='D';PROCESSUS TROP LONG / COMPLEXE
+
+[Item]
+Label=DOCUMENTS INCOMPLETS
+Name=BR7E
+Start=31
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=DOCUMENTS INCOMPLETS
+Name=BR7E_VS1
+Value='E';DOCUMENTS INCOMPLETS
+
+[Item]
+Label=PÈRE ABSENT
+Name=BR7F
+Start=32
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PÈRE ABSENT
+Name=BR7F_VS1
+Value='F';PÈRE ABSENT
+
+[Item]
+Label=L'ENFANT N'A PAS ENCORE UN NOM
+Name=BR7G
+Start=33
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=L'ENFANT N'A PAS ENCORE UN NOM
+Name=BR7G_VS1
+Value='G';L'ENFANT N'A PAS ENCORE UN NOM
+
+[Item]
+Label=PARLER DIFFÉRENTES LANGUES
+Name=BR7H
+Start=34
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PARLER DIFFÉRENTES LANGUES
+Name=BR7H_VS1
+Value='H';PARLER DIFFÉRENTES LANGUE
+
+[Item]
+Label=MANQUE D'ALPHABETISATION
+Name=BR7I
+Start=35
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=MANQUE D'ALPHABETISATION
+Name=BR7I_VS1
+Value='I';MANQUE D'ALPHABETISATION
+
+[Item]
+Label=JE NE SAIS PAS COMMENT INSCRIRE
+Name=BR7J
+Start=36
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=JE NE SAIS PAS COMMENT INSCRIRE
+Name=BR7J_VS1
+Value='J';JE NE SAIS PAS COMMENT  INSCRIRE
+
+[Item]
+Label=AUTRE (préciser
+Name=BR7X
+Start=37
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser
+Name=BR7X_VS1
+Value='X';AUTRE (préciser)
+
+[Item]
+Label=NE SAIT PAS / PAS SURE
+Name=BR7Z
+Start=38
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NE SAIT PAS / PAS SURE
+Name=BR7Z_VS1
+Value='Z';NE SAIT PAS / PAS SURE
+
+[Record]
+Label=Immunisation
+Name=MODIM
+RecordTypeValue='0IM'
+Required=No
+RecordLen=76
+
+[Item]
+Label=Avez-vous déjà entendu parler de la vaccination des enfants ?
+Name=IM1
+Start=10
+Len=1
+
+[ValueSet]
+Label=Avez-vous déjà entendu parler de la vaccination des enfants ?
+Name=IM1_VS1
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+
+[Item]
+Label=À votre avis, la vaccination est-elle importante pour les enfants ?
+Name=IM2
+Start=11
+Len=1
+
+[ValueSet]
+Label=À votre avis, la vaccination est-elle importante pour les enfants ?
+Name=IM2_VS1
+Value=1;IMPORTANT
+Value=2;PAS IMPORTANT
+Value=8;NSP
+
+[Item]
+Label=À votre avis, pourquoi est-il important de vacciner les enfants ?
+Name=IM3
+Start=12
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=À votre avis, pourquoi est-il important de vacciner les enfants ?
+Name=IM3_VS1
+Value='A      ';PREVENIR UNE MALADIE
+Value='B      ';PRÉVENIR LA MORT
+Value='C      ';RESTER SAIN
+Value='D      ';BIEN SE DEVELOPPER
+Value='E      ';POUR CONSTRUIRE SYSTEME IMMUNITAIRE
+Value='X      ';AUTRE (PRECISER
+Value='Z      ';NSP/PAS SURE
+
+[Item]
+Label=PREVENIR UNE MALADIE
+Name=IM3A
+Start=12
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PREVENIR UNE MALADIE
+Name=IM3A_VS1
+Value='A';PREVENIR UNE MALADIE
+
+[Item]
+Label=PRÉVENIR LA MORT
+Name=IM3B
+Start=13
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PRÉVENIR LA MORT
+Name=IM3B_VS1
+Value='B';PRÉVENIR LA MORT
+
+[Item]
+Label=RESTER SAIN
+Name=IM3C
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=RESTER SAIN
+Name=IM3C_VS1
+Value='C';RESTER SAIN
+
+[Item]
+Label=BIEN SE DEVELOPPER
+Name=IM3D
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=BIEN SE DEVELOPPER
+Name=IM3D_VS1
+Value='D';BIEN SE DEVELOPPER
+
+[Item]
+Label=POUR CONSTRUIRE SYSTEME IMMUNITAIRE
+Name=IM3E
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=POUR CONSTRUIRE SYSTEME IMMUNITAIRE
+Name=IM3E_VS1
+Value='E';POUR CONSTRUIRE SYSTEME IMMUNITAIRE
+
+[Item]
+Label=AUTRE (PRECISER)
+Name=IM3X
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (PRECISER)
+Name=IM3X_VS1
+Value='X';AUTRE (PRECISER)
+
+[Item]
+Label=NSP/PAS SURE
+Name=IM3Z
+Start=18
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=IM3Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=La vaccination est faite pour empêcher certaines maladies.Pouvez-vous me dire quelles sont les maladies qui peuvent être prévenues par la vaccination ?
+Name=IM4
+Start=19
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=La vaccination est faite pour empêcher certaines maladies.Pouvez-vous me dire quelles sont les maladies qui peuvent être prévenues par la vaccination ?
+Name=IM4_VS1
+Value='A                ';POLIOMYELITE
+Value='B                ';ROUGEOLE
+Value='C                ';DIPHTERIE
+Value='D                ';PERTUSSIS (COQUELUCHE)
+Value='E                ';RUBEOLE (ROUGEOLE ALLEMANDE)
+Value='F                ';OREILLONS
+Value='G                ';TETANOS
+Value='H                ';ROTAVIRUS / DIARRHEE
+Value='I                ';HAEMOPHILUS INFLUENZAE DE TYPE B
+Value='J                ';TUBERCULOSE
+Value='K                ';TYPHOÏDE
+Value='L                ';HEPATITE
+Value='M                ';FIEVRE JAUNE
+Value='N                ';VIH / SIDA
+Value='O                ';PALUDISME
+
+[Item]
+Label=POLIOMYELITE
+Name=IM4A
+Start=19
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=POLIOMYELITE
+Name=IM4A_VS1
+Value='A';POLIOMYELITE
+
+[Item]
+Label=ROUGEOLE
+Name=IM4B
+Start=20
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ROUGEOLE
+Name=IM4B_VS1
+Value='B';ROUGEOLE
+
+[Item]
+Label=DIPHTERIE
+Name=IM4C
+Start=21
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=DIPHTERIE
+Name=IM4C_VS1
+Value='C';DIPHTERIE
+
+[Item]
+Label=PERTUSSIS (COQUELUCHE)
+Name=IM4D
+Start=22
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PERTUSSIS (COQUELUCHE)
+Name=IM4D_VS1
+Value='D';PERTUSSIS (COQUELUCHE)
+
+[Item]
+Label=RUBEOLE (ROUGEOLE ALLEMANDE)
+Name=IM4E
+Start=23
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=RUBEOLE (ROUGEOLE ALLEMANDE)
+Name=IM4E_VS1
+Value='E';RUBEOLE (ROUGEOLE ALLEMANDE
+
+[Item]
+Label=OREILLONS
+Name=IM4F
+Start=24
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=OREILLONS
+Name=IM4F_VS1
+Value='F';OREILLONS
+
+[Item]
+Label=TETANOS
+Name=IM4G
+Start=25
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=TETANOS
+Name=IM4G_VS1
+Value='G';TETANOS
+
+[Item]
+Label=ROTAVIRUS / DIARRHEE
+Name=IM4H
+Start=26
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ROTAVIRUS / DIARRHEE
+Name=IM4H_VS1
+Value='H';ROTAVIRUS / DIARRHEE
+
+[Item]
+Label=HAEMOPHILUS INFLUENZAE DE TYPE B
+Name=IM4I
+Start=27
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=HAEMOPHILUS INFLUENZAE DE TYPE B
+Name=IM4I_VS1
+Value='I';HAEMOPHILUS INFLUENZAE DE TYPE B
+
+[Item]
+Label=TUBERCULOSE
+Name=IM4J
+Start=28
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=TUBERCULOSE
+Name=IM4J_VS1
+Value='J';TUBERCULOSE
+
+[Item]
+Label=TYPHOÏDE
+Name=IM4K
+Start=29
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=TYPHOÏDE
+Name=IM4K_VS1
+Value='K';TYPHOÏDE
+
+[Item]
+Label=HEPATITE
+Name=IM4L
+Start=30
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=HEPATITE
+Name=IM4L_VS1
+Value='L';HEPATITE
+
+[Item]
+Label=FIEVRE JAUNE
+Name=IM4M
+Start=31
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=FIEVRE JAUNE
+Name=IM4M_VS1
+Value='M';FIEVRE JAUNE
+
+[Item]
+Label=VIH / SIDA
+Name=IM4N
+Start=32
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=VIH / SIDA
+Name=IM4N_VS1
+Value='N';VIH / SIDA
+
+[Item]
+Label=PALUDISME
+Name=IM4O
+Start=33
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PALUDISME
+Name=IM4O_VS1
+Value='O';PALUDISME
+
+[Item]
+Label=AUTRE (préciser)
+Name=IM4X
+Start=34
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser)
+Name=IM4X_VS1
+Value='X';AUTRE (préciser)
+
+[Item]
+Label=NE SAIT PAS / PAS SURE
+Name=IM4Z
+Start=35
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NE SAIT PAS / PAS SURE
+Name=IM4Z_VS1
+Value='Z';NE SAIT PAS / PAS SURE
+
+[Item]
+Label=Selon vous, combien de contacts avec les services de santé sont nécessaires pour qu'un enfant reçoive tous les vaccins requis?
+Name=IM5
+Start=36
+Len=1
+
+[ValueSet]
+Label=Selon vous, combien de contacts avec les services de santé sont nécessaires pour qu'un enfant reçoive tous les vaccins requis?
+Name=IM5_VS1
+Value=1;1 CONTACT
+Value=2;2 CONTACTS
+Value=3;3 CONTACTS
+Value=4;4 CONTACTS
+Value=5;5 CONTACTS
+Value=6;6 CONTACTS
+Value=8;NSP/PAS SUR
+
+[Item]
+Label=Selon vous, à quels âges l'enfant doit-il être emmené à un centre de sante/ clinique mobile pour la vaccination ?
+Name=IM6
+Start=37
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=Selon vous, à quels âges l'enfant doit-il être emmené à un centre de sante/ clinique mobile pour la vaccination ?
+Name=IM6_VS1
+Value='A         ';A LA NAISSANCE
+Value='B         ';6 SEMAINES
+Value='C         ';10 SEMAINES
+Value='D         ';14 SEMAINES
+Value='E         ';9 MOIS
+Value='F         ';15-18 MOIS
+Value='G         ';CAMPAGNES
+Value='H         ';TOUS LES MOIS AU COURS DE LA PREMIÈRE ANNÉE
+Value='X         ';AUTRE (préciser
+Value='Z         ';NSP/PAS SURE
+
+[Item]
+Label=A LA NAISSANCE
+Name=IM6A
+Start=37
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=A LA NAISSANCE
+Name=IM6A_VS1
+Value='A';A LA NAISSANCE
+
+[Item]
+Label=6 SEMAINES
+Name=IM6B
+Start=38
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=6 SEMAINES
+Name=IM6B_VS1
+Value='B';6 SEMAINES
+
+[Item]
+Label=10 SEMAINES
+Name=IM6C
+Start=39
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=10 SEMAINES
+Name=IM6C_VS1
+Value='C';10 SEMAINES
+
+[Item]
+Label=14 SEMAINES
+Name=IM6D
+Start=40
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=14 SEMAINES
+Name=IM6D_VS1
+Value='D';14 SEMAINES
+
+[Item]
+Label=9 MOIS
+Name=IM6E
+Start=41
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=9 MOIS
+Name=IM6E_VS1
+Value='E';9 MOIS
+
+[Item]
+Label=15-18 MOIS
+Name=IM6F
+Start=42
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=15-18 MOIS
+Name=IM6F_VS1
+Value='F';15-18 MOIS
+
+[Item]
+Label=CAMPAGNES
+Name=IM6G
+Start=43
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CAMPAGNES
+Name=IM6G_VS1
+Value='G';CAMPAGNES
+
+[Item]
+Label=TOUS LES MOIS AU COURS DE LA PREMIÈRE ANNÉE
+Name=IM6H
+Start=44
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=TOUS LES MOIS AU COURS DE LA PREMIÈRE ANNÉE
+Name=IM6H_VS1
+Value='H';TOUS LES MOIS AU COURS DE LA PREMIÈRE ANNÉE
+
+[Item]
+Label=AUTRE (préciser)
+Name=IM6X
+Start=45
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser)
+Name=IM6X_VS1
+Value='X';AUTRE (préciser)
+
+[Item]
+Label=NSP/PAS SURE
+Name=IM6Z
+Start=46
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=IM6Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=Certains enfants pourraient rater certains vaccins au moment idéal pour une raison quelconque. Selon vous quelles peuvent être ces raisons ?
+Name=IM7
+Start=47
+Len=15
+DataType=Alpha
+
+[ValueSet]
+Label=Certains enfants pourraient rater certains vaccins au moment idéal pour une raison quelconque. Selon vous quelles peuvent être ces raisons ?
+Name=IM7_VS1
+Value='A              ';NE SAIT PAS QUE L'ENFANT DEVRAIT PRENDRE LE VACCIN
+Value='B              ';NE SAIT PAS QUE L'ENFANT DEVRAIT PRENDRE 2E OU 3E DOSE
+Value='C              ';ENFANT N’EST PAS A L’AISE
+Value='D              ';PEUR DES EFFETS SECONDAIRES
+Value='E              ';MERE TROP OCCUPEE
+Value='F              ';LE MOMENT POUR LE VACCIN N’EST PAS CONVENABLE
+Value='G              ';MERE N’EST PAS A L’AISE
+Value='H              ';PAS D'ARGENT POUR PAYER  LES CHARGES
+Value='I              ';LIEU DE VACCINATION TROP LOIN ET PAS D’ARGENT SUFFISANT POUR PAYER LE TRANSPORT
+Value='J              ';AUCUN VACCIN DISPONIBLE
+Value='K              ';AUCUN PERSONNEL DE LA SANTE DISPONIBLE
+Value='M              ';PARENTS PEUVENT OUBLIER
+Value='N              ';CENTRE DEBORDE DE PATIENTS/LONGUE ATTENTE
+Value='X              ';AUTRE(préciser)
+Value='Z              ';NSP/PAS SURE
+
+[Item]
+Label=NE SAIT PAS QUE L'ENFANT DEVRAIT PRENDRE LE VACCIN
+Name=IM7A
+Start=47
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NE SAIT PAS QUE L'ENFANT DEVRAIT PRENDRE LE VACCIN
+Name=IM7A_VS1
+Value='A';NE SAIT PAS QUE L'ENFANT DEVRAIT PRENDRE LE VACCIN
+
+[Item]
+Label=NE SAIT PAS QUE L'ENFANT DEVRAIT PRENDRE 2E OU 3E DOSE
+Name=IM7B
+Start=48
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NE SAIT PAS QUE L'ENFANT DEVRAIT PRENDRE 2E OU 3E DOSE
+Name=IM7B_VS1
+Value='B';NE SAIT PAS QUE L'ENFANT DEVRAIT PRENDRE 2E OU 3E DOSE
+
+[Item]
+Label=ENFANT N’EST PAS A L’AISE
+Name=IM7C
+Start=49
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ENFANT N’EST PAS A L’AISE
+Name=IM7C_VS1
+Value='C';ENFANT N’EST PAS A L’AISE
+
+[Item]
+Label=PEUR DES EFFETS SECONDAIRES
+Name=IM7D
+Start=50
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PEUR DES EFFETS SECONDAIRES
+Name=IM7D_VS1
+Value='D';PEUR DES EFFETS SECONDAIRES
+
+[Item]
+Label=MERE TROP OCCUPEE
+Name=IM7E
+Start=51
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=MERE TROP OCCUPEE
+Name=IM7E_VS1
+Value='E';MERE TROP OCCUPEE
+
+[Item]
+Label=LE MOMENT POUR LE VACCIN N’EST PAS CONVENABLE
+Name=IM7F
+Start=52
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=LE MOMENT POUR LE VACCIN N’EST PAS CONVENABLE
+Name=IM7F_VS1
+Value='F';LE MOMENT POUR LE VACCIN N’EST PAS CONVENABLE
+
+[Item]
+Label=MERE N’EST PAS A L’AISE
+Name=IM7G
+Start=53
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=MERE N’EST PAS A L’AISE
+Name=IM7G_VS1
+Value='G';MERE N’EST PAS A L’AISE
+
+[Item]
+Label=PAS D'ARGENT POUR PAYER LES CHARGES
+Name=IM7H
+Start=54
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PAS D'ARGENT POUR PAYER LES CHARGES
+Name=IM7H_VS1
+Value='H';PAS D'ARGENT POUR PAYER LES CHARGES
+
+[Item]
+Label=LIEU DE VACCINATION TROP LOIN ET PAS D’ARGENT SUFFISANT POUR PAYER LE TRANSPORT
+Name=IM7I
+Start=55
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=LIEU DE VACCINATION TROP LOIN ET PAS D’ARGENT SUFFISANT POUR PAYER LE TRANSPORT
+Name=IM7I_VS1
+Value='I';LIEU DE VACCINATION TROP LOIN ET PAS D’ARGENT SUFFISANT POUR PAYER LE TRANSPORT
+
+[Item]
+Label=AUCUN VACCIN DISPONIBLE
+Name=IM7J
+Start=56
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUCUN VACCIN DISPONIBLE
+Name=IM7J_VS1
+Value='J';AUCUN VACCIN DISPONIBLE
+
+[Item]
+Label=AUCUN PERSONNEL DE LA SANTE DISPONIBLE
+Name=IM7K
+Start=57
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUCUN PERSONNEL DE LA SANTE DISPONIBLE
+Name=IM7K_VS1
+Value='K';AUCUN PERSONNEL DE LA SANTE DISPONIBLE
+
+[Item]
+Label=PARENTS PEUVENT OUBLIER
+Name=IM7M
+Start=58
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PARENTS PEUVENT OUBLIER
+Name=IM7M_VS1
+Value='M';PARENTS PEUVENT OUBLIER
+
+[Item]
+Label=CENTRE DEBORDE DE PATIENTS/LONGUE ATTENTE
+Name=IM7N
+Start=59
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CENTRE DEBORDE DE PATIENTS/LONGUE ATTENTE
+Name=IM7N_VS1
+Value='N';CENTRE DEBORDE DE PATIENTS/LONGUE ATTENTE
+
+[Item]
+Label=AUTRE(préciser
+Name=IM7X
+Start=60
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE(préciser
+Name=IM7X_VS1
+Value='X';AUTRE(préciser
+
+[Item]
+Label=NSP/PAS SURE
+Name=IM7Z
+Start=61
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=IM7Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=Pourquoi la vaccination n’est pas importante pour les enfants ?
+Name=IM8
+Start=62
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Pourquoi la vaccination n’est pas importante pour les enfants ?
+Name=IM8_VS1
+Value='A    ';EFFETS SECONDAIRES
+Value='B    ';ENFANTS PEUVENT TOMBER MALADES
+Value='C    ';RAISONS RELIGIEUSES
+Value='X    ';AUTRE (préciser
+Value='Z    ';NSP/PAS SURE
+
+[Item]
+Label=EFFETS SECONDAIRES
+Name=IM8A
+Start=62
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=EFFETS SECONDAIRES
+Name=IM8A_VS1
+Value='A';EFFETS SECONDAIRES
+
+[Item]
+Label=ENFANTS PEUVENT TOMBER MALADES
+Name=IM8B
+Start=63
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ENFANTS PEUVENT TOMBER MALADES
+Name=IM8B_VS1
+Value='B';ENFANTS PEUVENT TOMBER MALADES
+
+[Item]
+Label=RAISONS RELIGIEUSES
+Name=IM8C
+Start=64
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=RAISONS RELIGIEUSES
+Name=IM8C_VS1
+Value='C';RAISONS RELIGIEUSES
+
+[Item]
+Label=AUTRE (préciser)
+Name=IM8X
+Start=65
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser)
+Name=IM8X_VS1
+Value='X';AUTRE (préciser
+
+[Item]
+Label=NSP/PAS SURE
+Name=IM8Z
+Start=66
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=IM8Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=Selon vous, où est ce que les enfants se font vacciner dans votre voisinage ?
+Name=IM9
+Start=67
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Selon vous, où est ce que les enfants se font vacciner dans votre voisinage ?
+Name=IM9_VS1
+Value='A     ';ETABLISSEMENT DE SANTE / CLINIQUE
+Value='B     ';CENTRES DE VACCINATION DE PROXIMITE
+Value='C     ';CLINIQUE MOBILE
+Value='D     ';PENDANT LES CAMPAGNES DE VACCINATION
+Value='X     ';AUTRE (préciser)
+Value='Z     ';NSP/PAS SURE
+
+[Item]
+Label=ETABLISSEMENT DE SANTE  / CLINIQUE
+Name=IM9A
+Start=67
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ETABLISSEMENT DE SANTE  / CLINIQUE
+Name=IM9A_VS1
+Value='A';ETABLISSEMENT DE SANTE / CLINIQUE
+
+[Item]
+Label=CENTRES DE VACCINATION DE PROXIMITE
+Name=IM9B
+Start=68
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CENTRES DE VACCINATION DE PROXIMITE
+Name=IM9B_VS1
+Value='B';CENTRES DE VACCINATION DE PROXIMITE
+
+[Item]
+Label=CLINIQUE MOBILE
+Name=IM9C
+Start=69
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CLINIQUE MOBILE
+Name=IM9C_VS1
+Value='C';CLINIQUE MOBILE
+
+[Item]
+Label=PENDANT LES CAMPAGNES DE VACCINATION
+Name=IM9D
+Start=70
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PENDANT LES CAMPAGNES DE VACCINATION
+Name=IM9D_VS1
+Value='D';PENDANT LES CAMPAGNES DE VACCINATION
+
+[Item]
+Label=AUTRE (préciser
+Name=IM9X
+Start=71
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser
+Name=IM9X_VS1
+Value='X';AUTRE (préciser)
+
+[Item]
+Label=NSP/PAS SURE
+Name=IM9Z
+Start=72
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=IM9Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=Combien du temps faut-il pour se rendre dans le centre de santé le plus proche ?
+Name=IM10
+Start=73
+Len=4
+
+[ValueSet]
+Label=Combien du temps faut-il pour se rendre dans le centre de santé le plus proche ?
+Name=IM10_FRA
+Value=100:123;HEURES
+Value=201:259;MINUTES
+Value=998;NSP
+
+[Item]
+Label=Combien du temps faut-il pour se rendre dans le centre de santé le plus proche ?/UNITE
+Name=IM10U
+Start=73
+Len=1
+ItemType=SubItem
+
+[ValueSet]
+Label=Combien du temps faut-il pour se rendre dans le centre de santé le plus proche ?/UNITE
+Name=IM10U_VS1
+Value=1;MINUTES
+Value=2;HEURES
+Value=9;NSP
+
+[Item]
+Label=Combien du temps faut-il pour se rendre dans le centre de santé le plus proche ?/NOMBRE
+Name=IM10N
+Start=75
+Len=2
+ItemType=SubItem
+
+[ValueSet]
+Label=Combien du temps faut-il pour se rendre dans le centre de santé le plus proche ?/NOMBRE
+Name=IM10N_FRA
+Value=0:59
+Value=98;NSP
+
+[Record]
+Label=Vitamine A
+Name=MODVA
+RecordTypeValue='0VA'
+Required=No
+RecordLen=27
+
+[Item]
+Label=Avez-vous déjà entendu parler de supplémentation en vitamine A pour les enfants
+Name=VIT1
+Start=10
+Len=1
+
+[ValueSet]
+Label=Avez-vous déjà entendu parler de supplémentation en vitamine A pour les enfants
+Name=VIT1_VS1
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+
+[Item]
+Label=À votre avis, est-il important que les enfants reçoivent la vitamine A ?
+Name=VIT2
+Start=11
+Len=1
+
+[ValueSet]
+Label=À votre avis, est-il important que les enfants reçoivent la vitamine A ?
+Name=VIT2_VS1
+Value=1;IMPORTANT
+Value=2;PAS IMPORTANTS
+Value=8;NSP
+
+[Item]
+Label=Pourquoi pensez-vous qu'il est important que les enfants reçoivent la vitamine A ?
+Name=VIT3
+Start=12
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Pourquoi pensez-vous qu'il est important que les enfants reçoivent la vitamine A ?
+Name=VIT3_VS1
+Value='A      ';ÉVITER LES MALADIES
+Value='B      ';ÉVITER LA MORT
+Value='C      ';RESTER EN BONNE SANTE
+Value='D      ';TRAITEMENT D’UNE MALADIE
+Value='E      ';DEVELOPPER L’IMMUNITÉ
+Value='X      ';AUTRE (Préciser)
+Value='Z      ';NSP/PAS SURE
+
+[Item]
+Label=ÉVITER LES MALADIES
+Name=VIT3A
+Start=12
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ÉVITER LES MALADIES
+Name=VIT3A_VS1
+Value='A';ÉVITER LES MALADIES
+
+[Item]
+Label=ÉVITER LA MORT
+Name=VIT3B
+Start=13
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ÉVITER LA MORT
+Name=VIT3B_VS1
+Value='B';ÉVITER LA MORT
+
+[Item]
+Label=RESTER EN BONNE SANTE
+Name=VIT3C
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=RESTER EN BONNE SANTE
+Name=VIT3C_VS1
+Value='C';RESTER EN BONNE SANTE
+
+[Item]
+Label=TRAITEMENT D’UNE MALADIE
+Name=VIT3D
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=TRAITEMENT D’UNE MALADIE
+Name=VIT3D_VS1
+Value='D';TRAITEMENT D’UNE MALADIE
+
+[Item]
+Label=DEVELOPPER L’IMMUNITÉ
+Name=VIT3E
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=DEVELOPPER L’IMMUNITÉ
+Name=VIT3E_VS1
+Value='E';DEVELOPPER L’IMMUNITÉ
+
+[Item]
+Label=AUTRE (Préciser)
+Name=VIT3X
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (Préciser)
+Name=VIT3X_VS1
+Value='X';AUTRE (Préciser
+
+[Item]
+Label=NSP/PAS SURE
+Name=VIT3Z
+Start=18
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=VIT3Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=A quel âge pensez-vous qu’un enfant devrait commencer à recevoir des suppléments de vitamine A ?
+Name=VIT4
+Start=19
+Len=2
+
+[ValueSet]
+Label=A quel âge pensez-vous qu’un enfant devrait commencer à recevoir des suppléments de vitamine A ?
+Name=VIT4_VS1
+Value=1;À LA NAISSANCE
+Value=2;AU PREMIER MOIS
+Value=3;À 6 MOIS
+Value=4;A 1 AN
+Value=5;SUR CONSEILS D’UN AGENT DE SANTE
+Value=6;A N’IMPORTE QUEL MOMENT
+Value=96;AUTRE (préciser)
+Value=98;NSP/PAS SURE
+
+[Item]
+Label=Jusqu'à quel âge pensez-vous qu'un enfant doit recevoir des supplémentations en vitamine A ?
+Name=VIT5
+Start=21
+Len=2
+
+[ValueSet]
+Label=Jusqu'à quel âge pensez-vous qu'un enfant doit recevoir des supplémentations en vitamine A ?
+Name=VIT5_VS1
+Value=1;JUSQU'A 1 an
+Value=2;JUSQU'À 2 ANS
+Value=3;JUSQU'A 5 ANS
+Value=4;JUSQU'À 10 ANS
+Value=5;JUSQU'A 15 ANS OU PLUS
+Value=96;AUTRE (préciser
+Value=98;NSP/PAS SURE
+
+[Item]
+Label=Pourquoi pensez-vous que ce n'est pas important que les enfants reçoivent la vitamine A ?
+Name=VIT6
+Start=23
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Pourquoi pensez-vous que ce n'est pas important que les enfants reçoivent la vitamine A ?
+Name=VIT6_VS1
+Value='A    ';CE N’EST PAS NÉCESSAIRE
+Value='B    ';ENFANT MANGE BIEN
+Value='C    ';CROYANCE RELIGIEUSE
+Value='X    ';AUTRE (préciser)
+Value='Z    ';NSP/PAS SURE
+
+[Item]
+Label=CE N’EST PAS NÉCESSAIRE
+Name=VIT6A
+Start=23
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CE N’EST PAS NÉCESSAIRE
+Name=VIT6A_VS1
+Value='A';CE N’EST PAS NÉCESSAIRE
+
+[Item]
+Label=ENFANT MANGE BIEN
+Name=VIT6B
+Start=24
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ENFANT MANGE BIEN
+Name=VIT6B_VS1
+Value='B';ENFANT MANGE BIEN
+
+[Item]
+Label=CROYANCE RELIGIEUSE
+Name=VIT6C
+Start=25
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CROYANCE RELIGIEUSE
+Name=VIT6C_VS1
+Value='C';CROYANCE RELIGIEUSE
+
+[Item]
+Label=AUTRE (préciser)
+Name=VIT6X
+Start=26
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser)
+Name=VIT6X_VS1
+Value='X';AUTRE (préciser)
+
+[Item]
+Label=NSP/PAS SURE
+Name=VIT6Z
+Start=27
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=VIT6Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Record]
+Label=Déparasitage
+Name=MODDP
+RecordTypeValue='0DP'
+Required=No
+RecordLen=27
+
+[Item]
+Label=Avez-vous déjà entendu parler du déparasitage ?
+Name=DEW1
+Start=10
+Len=1
+
+[ValueSet]
+Label=Avez-vous déjà entendu parler du déparasitage ?
+Name=DEW1_VS1
+Value=1;OUI
+Value=2;NON
+Value=8;NSP
+
+[Item]
+Label=À votre avis, est-il important ou non de déparasiter les enfants ?
+Name=DEW2
+Start=11
+Len=1
+
+[ValueSet]
+Label=À votre avis, est-il important ou non de déparasiter les enfants ?
+Name=DEW2_VS1
+Value=1;OUI, IMPORTANT
+Value=2;PAS IMPORTANT
+Value=8;NSP
+
+[Item]
+Label=Pourquoi pensez-vous qu'il est important de donner des vermifuges aux enfants ?
+Name=DEW3
+Start=12
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Pourquoi pensez-vous qu'il est important de donner des vermifuges aux enfants ?
+Name=DEW3_VS1
+Value='A     ';TUER LES PARASITES /ELIMINER LES VERS
+Value='B     ';PRÉVENIR LES MALADIES
+Value='C     ';LES AIDER À RESTER EN SANTÉ
+Value='D     ';REMEDE DE LA MALADIE
+Value='X     ';AUTRE (préciser
+Value='Z     ';NSP/PAS SURE
+
+[Item]
+Label=TUER LES PARASITES /ELIMINER LES VERS
+Name=DEW3A
+Start=12
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=TUER LES PARASITES /ELIMINER LES VERS
+Name=DEW3A_VS1
+Value='A';TUER LES PARASITES /ELIMINER LES VERS
+
+[Item]
+Label=PRÉVENIR LES MALADIES
+Name=DEW3B
+Start=13
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PRÉVENIR LES MALADIES
+Name=DEW3B_VS1
+Value='B';PRÉVENIR LES MALADIES
+
+[Item]
+Label=LES AIDER À RESTER EN SANTÉ
+Name=DEW3C
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=LES AIDER À RESTER EN SANTÉ
+Name=DEW3C_VS1
+Value='C';LES AIDER À RESTER EN SANTÉ
+
+[Item]
+Label=REMEDE DE LA MALADIE
+Name=DEW3D
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=REMEDE DE LA MALADIE
+Name=DEW3D_VS1
+Value='D';REMEDE DE LA MALADIE
+
+[Item]
+Label=AUTRE (préciser)
+Name=DEW3X
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser)
+Name=DEW3X_VS1
+Value='X';AUTRE (préciser)
+
+[Item]
+Label=NSP/PAS SURE
+Name=DEW3Z
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=DEW3Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=A quel âge pensez-vous qu'un enfant devrait commencer à recevoir des médicaments vermifuges ?
+Name=DEW4
+Start=18
+Len=2
+
+[ValueSet]
+Label=A quel âge pensez-vous qu'un enfant devrait commencer à recevoir des médicaments vermifuges ?
+Name=DEW4_VS1
+Value=10;A LA NAISSANCE
+Value=11;À 6 MOIS
+Value=12;À 12 MOIS
+Value=13;À 2 ANS
+Value=14;À 5 ANS
+Value=15;SUR CONSEILS D’UN AGENT DE SANTE
+Value=16;À N’IMPORTE QUEL MOMENT
+Value=96;AUTRE (préciser)
+Value=98;NSP/PAS SURE
+
+[Item]
+Label=À quelle fréquence pensez-vous qu'un enfant doit recevoir des médicaments vermifuge s?
+Name=DEW5
+Start=20
+Len=1
+
+[ValueSet]
+Label=À quelle fréquence pensez-vous qu'un enfant doit recevoir des médicaments vermifuge s?
+Name=DEW5_VS1
+Value=1;UNE FOIS PAR MOIS
+Value=2;TOUS LES 6 MOIS
+Value=3;UNE FOIS PAR AN
+Value=4;SUR CONSEILS DE L’AGENT DE SANTE
+Value=5;À TOUT MOMENT
+Value=6;AUTRE (préciser)
+Value=8;NSP/PAS SURE
+
+[Item]
+Label=Jusqu'à quel âge pensez-vous qu'un enfant doit recevoir des médicaments vermifuges ?
+Name=DEW6
+Start=21
+Len=1
+
+[ValueSet]
+Label=Jusqu'à quel âge pensez-vous qu'un enfant doit recevoir des médicaments vermifuges ?
+Name=DEW6_VS1
+Value=1;JUSQU'A 1 AN
+Value=2;JUSQU'À 2 ANS
+Value=3;JUSQU'A 5 ANS
+Value=4;JUSQU'À 10 ANS
+Value=5;DE 10 À 15 ANS OU PLUS
+Value=6;AUTRE (préciser
+Value=8;NSP/PAS SURE
+
+[Item]
+Label=Pourquoi pensez-vous qu'il n’est pas important de déparasiter les enfants ?
+Name=DEW7
+Start=22
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Pourquoi pensez-vous qu'il n’est pas important de déparasiter les enfants ?
+Name=DEW7_VS1
+Value='A     ';NÉCESSAIRE
+Value='B     ';IL N’Y A PAS DE VERS AUTOUR
+Value='C     ';ENFANT N’EST PAS EXPOSE / PAS DE CONTACT AVEC LE TERRAIN
+Value='D     ';CROYANCE RELIGIEUSE
+Value='X     ';AUTRE (préciser
+Value='Z     ';NSP/PAS SURE
+
+[Item]
+Label=NÉCESSAIRE
+Name=DEW7A
+Start=22
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NÉCESSAIRE
+Name=DEW7A_VS1
+Value='A';NÉCESSAIRE
+
+[Item]
+Label=IL N’Y A PAS DE VERS AUTOUR
+Name=DEW7B
+Start=23
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=IL N’Y A PAS DE VERS AUTOUR
+Name=DEW7B_VS1
+Value='B';IL N’Y A PAS DE VERS AUTOUR
+
+[Item]
+Label=ENFANT N’EST PAS EXPOSE / PAS DE CONTACT AVEC LE TERRAIN.........
+Name=DEW7C
+Start=24
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=ENFANT N’EST PAS EXPOSE / PAS DE CONTACT AVEC LE TERRAIN.........
+Name=DEW7C_VS1
+Value='C';ENFANT N’EST PAS EXPOSE / PAS DE CONTACT AVEC LE TERRAIN
+
+[Item]
+Label=CROYANCE RELIGIEUSE
+Name=DEW7D
+Start=25
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CROYANCE RELIGIEUSE
+Name=DEW7D_VS1
+Value='D';CROYANCE RELIGIEUSE
+
+[Item]
+Label=AUTRE (préciser
+Name=DEW7X
+Start=26
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser
+Name=DEW7X_VS1
+Value='X';AUTRE (préciser
+
+[Item]
+Label=NSP/PAS SURE
+Name=DEW7Z
+Start=27
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=DEW7Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Record]
+Label=assainissement
+Name=MODAS
+RecordTypeValue='0AS'
+Required=No
+RecordLen=23
+
+[Item]
+Label=À votre avis, quelles sont les méthodes sûres d'élimination des excréments, y compris les matières fécales des enfants ?
+Name=SAN1
+Start=10
+Len=2
+
+[ValueSet]
+Label=À votre avis, quelles sont les méthodes sûres d'élimination des excréments, y compris les matières fécales des enfants ?
+Name=SAN1_VS1
+Value=11;CHASSE, CHASSE D’EAU
+Value=12;LATRINE A FOSSE
+Value=13;L’AIR LIBRE
+Value=14;DECHETS DOMESTIQUES
+Value=96;AUTRE (préciser)
+Value=98;NSP/PAS SURE
+
+[Item]
+Label=Lorsque les membres de la communauté n’ont pas d’endroit sûr et disponible pour faire leurs besoins
+Name=SAN2
+Start=12
+Len=1
+
+[ValueSet]
+Label=Lorsque les membres de la communauté n’ont pas d’endroit sûr et disponible pour faire leurs besoins
+Name=SAN2_VS1
+Value=1;OUI, IL Y A UN RISQUE
+Value=2;NON, AUCUN RISQUE
+Value=8;NSP
+
+[Item]
+Label=Quel est le problème majeur de la défécation à l’air libre pour la communauté ?
+Name=SAN3
+Start=13
+Len=1
+
+[ValueSet]
+Label=Quel est le problème majeur de la défécation à l’air libre pour la communauté ?
+Name=SAN3_VS1
+Value=1;IMPREGNATION / LAIDEUR / GROSSIERETE
+Value=2;MAUVAISE ODEUR /DEGOUT
+Value=3;RISQUE POUR LA SANTÉ / PROPAGATION DE MALADIES (CHOLÉRA, DIARRHÉE, ETC)
+Value=4;CONTAMINATION DES SOURCES D'EAU
+Value=6;AUTRE (préciser
+Value=8;NSP/PAS SURE
+
+[Item]
+Label=Quelles maladies pensez-vous que les gens de la communauté peuvent avoir du fait de la défécation en plein air dans la communauté ?
+Name=SAN4
+Start=14
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=Quelles maladies pensez-vous que les gens de la communauté peuvent avoir du fait de la défécation en plein air dans la communauté ?
+Name=SAN4_VS1
+Value='A        ';PALUDISME
+Value='B        ';TUBERCULOSE
+Value='C        ';FIEVRE TYPHOÏDE
+Value='D        ';FIEVRE JAUNE
+Value='E        ';CHOLERA
+Value='F        ';DIARRHÉE
+Value='G        ';DYSENTERIE
+Value='X        ';AUTRE (Préciser)
+Value='Z        ';NSP/PAS SURE
+
+[Item]
+Label=PALUDISME
+Name=SAN4A
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PALUDISME
+Name=SAN4A_VS1
+Value='A';PALUDISME
+
+[Item]
+Label=TUBERCULOSE
+Name=SAN4B
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=TUBERCULOSE
+Name=SAN4B_VS1
+Value='B';TUBERCULOSE
+
+[Item]
+Label=FIEVRE TYPHOÏDE
+Name=SAN4C
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=FIEVRE TYPHOÏDE
+Name=SAN4C_VS1
+Value='C';FIEVRE TYPHOÏDE
+
+[Item]
+Label=FIEVRE JAUNE
+Name=SAN4D
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=FIEVRE JAUNE
+Name=SAN4D_VS1
+Value='D';FIEVRE JAUNE
+
+[Item]
+Label=CHOLERA
+Name=SAN4E
+Start=18
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=CHOLERA
+Name=SAN4E_VS1
+Value='E';CHOLERA
+
+[Item]
+Label=DIARRHÉE
+Name=SAN4F
+Start=19
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=DIARRHÉE
+Name=SAN4F_VS1
+Value='F';DIARRHÉE
+
+[Item]
+Label=DYSENTERIE
+Name=SAN4G
+Start=20
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=DYSENTERIE
+Name=SAN4G_VS1
+Value='G';DYSENTERIE
+
+[Item]
+Label=AUTRE (Préciser)
+Name=SAN4X
+Start=21
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (Préciser)
+Name=SAN4X_VS1
+Value='X';AUTRE (Préciser)
+
+[Item]
+Label=NSP/PAS SURE
+Name=SAN4Z
+Start=22
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=SAN4Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=À votre avis, est-il important que chaque ménage dispose de toilettes ou de latrines propres ?
+Name=SAN5
+Start=23
+Len=1
+
+[ValueSet]
+Label=À votre avis, est-il important que chaque ménage dispose de toilettes ou de latrines propres ?
+Name=SAN5_VS1
+Value=1;OUI, IMPORTANT
+Value=2;PAS IMPORTANT
+Value=8;NSP
+
+[Record]
+Label=Lavage des mains
+Name=MODLM
+RecordTypeValue='0LM'
+Required=No
+RecordLen=25
+
+[Item]
+Label=Y a-t-il un avantage ou non à se laver les mains au savon régulièrement ?
+Name=HD1
+Start=10
+Len=1
+
+[ValueSet]
+Label=Y a-t-il un avantage ou non à se laver les mains au savon régulièrement ?
+Name=HD1_VS1
+Value=1;OUI, UN AVANTAGE
+Value=2;AUCUN AVANTAGE
+Value=8;NSP
+
+[Item]
+Label=Quels sont les principaux avantages de se laver les mains régulièrement avec du savon
+Name=HD2
+Start=11
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Quels sont les principaux avantages de se laver les mains régulièrement avec du savon
+Name=HD2_VS1
+Value='A     ';NETTOYER LA SALETE
+Value='B     ';PRÉVENIR LES MALADIES OU LES INFECTIONS GERMINALES
+Value='C     ';MAINS PROPRES / ELEGANCE
+Value='D     ';PAIX DE L’ESPRIT
+Value='X     ';AUTRE (préciser
+Value='Z     ';NSP/PAS SURE
+
+[Item]
+Label=NETTOYER LA SALETE
+Name=HD2A
+Start=11
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NETTOYER LA SALETE
+Name=HD2A_VS1
+Value='A';NETTOYER LA SALETE
+
+[Item]
+Label=PRÉVENIR LES MALADIES OU LES INFECTIONS GERMINALES
+Name=HD2B
+Start=12
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PRÉVENIR LES MALADIES OU LES INFECTIONS GERMINALES
+Name=HD2B_VS1
+Value='B';PRÉVENIR LES MALADIES OU LES INFECTIONS GERMINALES
+
+[Item]
+Label=MAINS PROPRES / ELEGANCE
+Name=HD2C
+Start=13
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=MAINS PROPRES / ELEGANCE
+Name=HD2C_VS1
+Value='C';MAINS PROPRES / ELEGANCE
+
+[Item]
+Label=PAIX DE L’ESPRIT
+Name=HD2D
+Start=14
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PAIX DE L’ESPRIT
+Name=HD2D_VS1
+Value='D';PAIX DE L’ESPRIT
+
+[Item]
+Label=AUTRE (préciser
+Name=HD2X
+Start=15
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser
+Name=HD2X_VS1
+Value='X';AUTRE (préciser)
+
+[Item]
+Label=NSP/PAS SURE
+Name=HD2Z
+Start=16
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=HD2Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=Selon vous, quels sont les moments les plus importants pour vous et les membres de votre famille, y compris les enfants, pour le lavage des mains ?
+Name=HD3
+Start=17
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Selon vous, quels sont les moments les plus importants pour vous et les membres de votre famille, y compris les enfants, pour le lavage des mains ?
+Name=HD3_VS1
+Value='A       ';AVANT REPAS
+Value='B       ';AVANT DE NOURRIR UN ENFANT
+Value='C       ';PRÉPARER / SERVIR UN REPAS
+Value='D       ';APRÈS TOILETTES / LATRINES
+Value='E       ';APRÈS LE NETTOYAGE DES FESSES D’UN ENFANT OU LE CHANGEMENT DE COUCHE
+Value='F       ';APRÈS LES REPAS
+Value='X       ';AUTRE (préciser
+Value='Z       ';NSP/PAS SURE
+
+[Item]
+Label=AVANT REPAS
+Name=HD3A
+Start=17
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AVANT REPAS
+Name=HD3A_VS1
+Value='A';AVANT REPAS
+
+[Item]
+Label=AVANT DE NOURRIR UN ENFANT
+Name=HD3B
+Start=18
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AVANT DE NOURRIR UN ENFANT
+Name=HD3B_VS1
+Value='B';AVANT DE NOURRIR UN ENFANT
+
+[Item]
+Label=PRÉPARER / SERVIR UN REPAS
+Name=HD3C
+Start=19
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=PRÉPARER / SERVIR UN REPAS
+Name=HD3C_VS1
+Value='C';PRÉPARER / SERVIR UN REPAS
+
+[Item]
+Label=APRÈS TOILETTES / LATRINES
+Name=HD3D
+Start=20
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=APRÈS TOILETTES / LATRINES
+Name=HD3D_VS1
+Value='D';APRÈS TOILETTES / LATRINES
+
+[Item]
+Label=APRÈS LE NETTOYAGE DES FESSES D’UN ENFANT OU LE CHANGEMENT DE COUCHE
+Name=HD3E
+Start=21
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=APRÈS LE NETTOYAGE DES FESSES D’UN ENFANT OU LE CHANGEMENT DE COUCHE
+Name=HD3E_VS1
+Value='E';APRÈS LE NETTOYAGE DES FESSES D’UN ENFANT OU LE CHANGEMENT DE COUCHE
+
+[Item]
+Label=APRÈS LES REPAS
+Name=HD3F
+Start=22
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=APRÈS LES REPAS
+Name=HD3F_VS1
+Value='F';APRÈS LES REPAS
+
+[Item]
+Label=AUTRE (préciser
+Name=HD3X
+Start=23
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=AUTRE (préciser
+Name=HD3X_VS1
+Value='X';AUTRE (préciser
+
+[Item]
+Label=NSP/PAS SURE
+Name=HD3Z
+Start=24
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=NSP/PAS SURE
+Name=HD3Z_VS1
+Value='Z';NSP/PAS SURE
+
+[Item]
+Label=Est-il pratique, pour vous et les autres membres de votre ménage, de se laver les mains régulièrement avec du savon ?
+Name=HD4
+Start=25
+Len=1
+
+[ValueSet]
+Label=Est-il pratique, pour vous et les autres membres de votre ménage, de se laver les mains régulièrement avec du savon ?
+Name=HD4_VS1
+Value=1;OUI, C’EST PRATIQUE
+Value=2;NON, CE N’EST PAS PRATIQUE
+Value=3;PARFOIS PRATIQUE, PARFOIS PAS
+Value=8;NSP

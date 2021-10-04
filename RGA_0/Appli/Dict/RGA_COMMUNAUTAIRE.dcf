@@ -1,0 +1,1884 @@
+﻿[Dictionary]
+Version=CSPro 7.5
+Label=RGA_COMMUNAUTAIRE
+Name=RGA_COM_DICT
+RecordTypeStart=28
+RecordTypeLen=5
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=60DCAFE420E65243397A2CBE3163F6823FB9D8601D6CD0B961ADE32C950E988B
+
+[Level]
+Label=RGA_COMMUNAUTAIRE Level
+Name=RGA_COM_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Province
+Name=COM001
+Start=1
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Territoire/Ville
+Name=COM002
+Start=3
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Secteur/Chefferie/commune rurale/Commune urbaine
+Name=COM003
+Start=6
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Groupement/Quartier
+Name=COM004
+Start=9
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Zone de travail du RGA
+Name=COM005
+Start=12
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Village/Rue
+Name=COM006
+Start=15
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Agent Recenseur
+Name=COM_AR
+Start=18
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Camp/Campement/Ferme Agricole/hameau/île
+Name=COM007
+Start=22
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Numero d’ordre du site enquete
+Name=COM008
+Start=25
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=RENSEIGNEMENTS GENERAUX
+Name=SECTION1
+RecordTypeValue='00001'
+RecordLen=265
+
+[Item]
+Label=Date de debut de collecte
+Name=COM_DB
+Start=33
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de debut
+Name=COM_JD
+Start=33
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de debut
+Name=COM_JD_VS1
+Value=1:31
+
+[Item]
+Label=Mois de debut
+Name=COM_MD
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de debut
+Name=COM_MD_VS1
+Value=1:12
+
+[Item]
+Label=Annee de debut
+Name=COM_AD
+Start=37
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Heure de debut de collecte
+Name=COM_HDB
+Start=41
+Len=6
+DataType=Alpha
+
+[Item]
+Label=Heure de debut
+Name=COM_HD
+Start=41
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure de debut
+Name=COM_HD_VS1
+Value=6:23
+
+[Item]
+Label=Minutes de debut
+Name=COM_MIND
+Start=43
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Minutes de debut
+Name=COM_MIND_VS1
+Value=1:60
+
+[Item]
+Label=Date de fin de collecte
+Name=COM_DF
+Start=47
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour de fin
+Name=COM_JF
+Start=47
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour de fin
+Name=COM_JF_VS1
+Value=1:31
+
+[Item]
+Label=Mois de fin
+Name=COM_MF
+Start=49
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de fin
+Name=COM_MF_VS1
+Value=1:12
+
+[Item]
+Label=Annee de fin
+Name=COM_AF
+Start=51
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Heure de fin de collecte
+Name=COM_HF
+Start=55
+Len=4
+DataType=Alpha
+
+[Item]
+Label=Heure de fin
+Name=COM_HF1
+Start=55
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure de fin
+Name=COM_HF1_VS1
+Value=6:23
+
+[Item]
+Label=Minutes de fin
+Name=COM_MINF
+Start=57
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Minutes de fin
+Name=COM_MINF_VS1
+Value=1:60
+
+[Item]
+Label=Nom administratif du Village/Quartier
+Name=COM101
+Start=59
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Autre nom usuel du Village/Quartier
+Name=COM102
+Start=109
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Milieu de residence
+Name=COM103
+Start=159
+Len=1
+
+[ValueSet]
+Label=Milieu de residence
+Name=COM103_VS1
+Value=1;Urbain
+Image=..\..\..\RDCRGA\Reference\icons\urbain.PNG
+Value=2;Semi-Urbain
+Value=3;Rural
+Image=..\..\..\RDCRGA\Reference\icons\rural.PNG
+
+[Item]
+Label=Hemisphere
+Name=COM104A
+Start=160
+Len=1
+DataType=Alpha
+
+[Item]
+Label=Latitude
+Name=COM104B
+Start=161
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude
+Name=COM104C
+Start=171
+Len=9
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Altitude
+Name=COM104D
+Start=180
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Precision
+Name=COM104E
+Start=184
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Noms et post-nom du Chef de Village
+Name=COM105
+Start=186
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Sexe du Chef de Village
+Name=COM106
+Start=236
+Len=1
+
+[ValueSet]
+Label=Sexe du Chef de Village
+Name=COM106_VS1
+Value=1;Homme
+Image=..\..\..\RDCRGA\Reference\icons\34_m.png
+Value=2;Femme
+Image=..\..\..\RDCRGA\Reference\icons\34_w.png
+
+[Item]
+Label=Age du Chef de Village
+Name=COM107
+Start=237
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Fonction du Repondant
+Name=COM108
+Start=240
+Len=1
+
+[ValueSet]
+Label=Fonction du Repondant
+Name=COM108_VS1
+Value=1;Chef du Village
+Value=2;Representant du Chef du Village
+Value=3;Autres
+
+[Item]
+Label=N° telephone 1
+Name=COM109A
+Start=241
+Len=10
+ZeroFill=Yes
+
+[Item]
+Label=Avez-vous un autre numero de telephone?
+Name=COM109B
+Start=251
+Len=1
+
+[ValueSet]
+Label=Avez-vous un autre numero de telephone?
+Name=COM109B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=N° telephone 2
+Name=COM109C
+Start=252
+Len=10
+ZeroFill=Yes
+
+[Item]
+Label=Consentement
+Name=COM_CO
+Start=262
+Len=1
+
+[ValueSet]
+Label=Consentement
+Name=COM_CO_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Terminer
+Name=COM_FIN
+Start=263
+Len=1
+
+[ValueSet]
+Label=Terminer
+Name=COM_FIN_VS1
+Value=1;Revisiter le questionnaire
+Image=..\..\..\RDCRGA\Reference\icons\revisiter.png
+Value=2;Ajouter les notes
+Image=..\..\..\RDCRGA\Reference\icons\notes.png
+Value=3;Sauvergarder le questionnaire et terminer
+Image=..\..\..\RDCRGA\Reference\icons\sauvegarder.png
+
+[Item]
+Label=Resultat de l'interview
+Name=COM_RES
+Start=264
+Len=1
+
+[ValueSet]
+Label=Resultat de l'interview
+Name=COM_RES_VS1
+Value=1;Complet
+Value=2;Refus
+
+[Item]
+Label=Commencer
+Name=COM_COM
+Start=265
+Len=1
+DataType=Alpha
+
+[Record]
+Label=INFORMATIONS GENERALES SUR LE VILLAGE/QUARTIER
+Name=SECTION2
+RecordTypeValue='00002'
+Required=No
+RecordLen=100
+
+[Item]
+Label=Quelles sont les langues nationales parlées dans le village/Quartier ?
+Name=COM201
+Start=33
+Len=6
+DataType=Alpha
+
+[ValueSet]
+Label=Quelles sont les langues nationales parlées dans le village/Quartier ?
+Name=COM201_VS1
+Value='A     ';Français
+Value='B     ';Lingala
+Value='C     ';Kikongo
+Value='D     ';Tshiluba
+Value='E     ';Swahili
+Value='X     ';Autres
+
+[Item]
+Label=Français
+Name=COM201A
+Start=33
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Lingala
+Name=COM201B
+Start=34
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Kikongo
+Name=COM201C
+Start=35
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Tshiluba
+Name=COM201D
+Start=36
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Swahili
+Name=COM201E
+Start=37
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Autres
+Name=COM201X
+Start=38
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Parmi ces langues, quelle est la principale langue nationale parlee dans ce Village/Quartier
+Name=COM202
+Start=39
+Len=1
+
+[ValueSet]
+Label=Parmi ces langues, quelle est la principale langue nationale parlee dans ce Village/Quartier
+Name=COM202_VS1
+Value=1;Francais
+Value=2;Lingala
+Value=3;Kikongo
+Value=4;Tshiluba
+Value=5;Swahili
+Value=6;Autre
+
+[Item]
+Label=Nombre de menages dans le Village/Quartier
+Name=COM203
+Start=40
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Nombre de menages dans le Village/Quartier
+Name=COM203_VS1
+Value=1:9999
+
+[Item]
+Label=Superficie de paturages villageois?(en Ha)
+Name=COM204
+Start=44
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Superficies de forets villageoises?(en Ha)
+Name=COM205
+Start=48
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Superficie des terres irriguees?(en Ha)
+Name=COM206
+Start=52
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Superficie des terres immergees pour l’Aquaculture?(en Ha)
+Name=COM207
+Start=56
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Presence des projets de developpement specifiques dans le Village/Quartier? (1=Oui 2=Non)
+Name=COM208
+Start=60
+Len=1
+
+[ValueSet]
+Label=Presence des projets de developpement specifiques dans le Village/Quartier? (1=Oui 2=Non)
+Name=COM208_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existence des penuries alimentaires saisonnieres? (1=Oui 2=Non)
+Name=COM209
+Start=61
+Len=1
+
+[ValueSet]
+Label=Existence des penuries alimentaires saisonnieres? (1=Oui 2=Non)
+Name=COM209_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Le village est-il exposé à des catastrophes naturelles telles que
+Name=COM210
+Start=62
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Le village est-il exposé à des catastrophes naturelles telles que
+Name=COM210_VS1
+Value='A    ';Inondation
+Value='B    ';Eruption volcanique
+Value='C    ';Sécheresse
+Value='D    ';Aucune
+Value='X    ';Autres
+
+[Item]
+Label=Inondation
+Name=COM210A
+Start=62
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=éruption volcanique
+Name=COM210B
+Start=63
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Sècheresse
+Name=COM210C
+Start=64
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Autres
+Name=COM210X
+Start=65
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Caractéristiques principales agro-écologiques
+Name=COM211A
+Start=67
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Caractéristiques principales agro-écologiques
+Name=COM211A_VS1
+Value='A    ';Savane boisée
+Value='B    ';Savane herbeuse
+Value='C    ';Fôret dense
+Value='D    ';Fôrêt galerie
+Value='X    ';Autres
+
+[Item]
+Label=Savane boisée
+Name=COM211A1
+Start=67
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Savane herbeuse
+Name=COM211A2
+Start=68
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Foret dense
+Name=COM211A3
+Start=69
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Foret galerie
+Name=COM211A4
+Start=70
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Autres
+Name=COM211A5
+Start=71
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Caractéristiques climatiques
+Name=COM211B
+Start=72
+Len=2
+DataType=Alpha
+
+[ValueSet]
+Label=Caractéristiques climatiques
+Name=COM211B_VS1
+Value='A ';Tropicale
+Value='B ';Equatoriale
+
+[Item]
+Label=Tropicale
+Name=COM211B1
+Start=72
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Equatoriale
+Name=COM211B2
+Start=73
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Caractéristiques topographiques
+Name=COM211C
+Start=74
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Caractéristiques topographiques
+Name=COM211C_VS1
+Value='A    ';Plaine
+Value='B    ';Montagne
+Value='C    ';Plateau
+Value='D    ';Valée/Bas fonds
+Value='X    ';Autres
+
+[Item]
+Label=Plaine
+Name=COM211C1
+Start=74
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Montagne
+Name=COM211C2
+Start=75
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Plateau
+Name=COM211C3
+Start=76
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Valée/Bas-fond
+Name=COM211C4
+Start=77
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Autres
+Name=COM211C5
+Start=78
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Caractéristiques type de sol
+Name=COM211D
+Start=79
+Len=4
+DataType=Alpha
+
+[ValueSet]
+Label=Caractéristiques type de sol
+Name=COM211D_VS1
+Value='A   ';Sableux
+Value='B   ';Limoneux
+Value='C   ';Argileux
+Value='X   ';Autres
+
+[Item]
+Label=Sableux
+Name=COM211D1
+Start=79
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Limoneux
+Name=COM211D2
+Start=80
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Argileux
+Name=COM211D3
+Start=81
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Autres
+Name=COM211D4
+Start=82
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Votre Village/Quartier est-il equipe d’un reseau electrique? (1=Oui 2=Non)
+Name=COM212
+Start=83
+Len=1
+
+[ValueSet]
+Label=Votre Village/Quartier est-il equipe d’un reseau electrique? (1=Oui 2=Non)
+Name=COM212_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-il des sites d’extraction de minerai dans votre village/quartier ?
+Name=COM213
+Start=84
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Existe-il des sites d’extraction de minerai dans votre village/quartier ?
+Name=COM213_VS1
+Value='A    ';Diamant
+Value='B    ';Or
+Value='C    ';Cobalt
+Value='D    ';Coltan
+Value='X    ';Autres
+
+[Item]
+Label=Diamant
+Name=COM213A
+Start=84
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Or
+Name=COM213B
+Start=85
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Cobalt
+Name=COM213C
+Start=86
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Coltan
+Name=COM213D
+Start=87
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Autres
+Name=COM213X
+Start=88
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Existe-t-il au moins une pharmacie/officine ou un point de vente de médicament dans votre village/quartier ?
+Name=COM214
+Start=89
+Len=4
+DataType=Alpha
+
+[ValueSet]
+Label=Existe-t-il au moins une pharmacie/officine ou un point de vente de médicament dans votre village/quartier ?
+Name=COM214_VS1
+Value='A   ';Pharmacie humaine
+Value='B   ';Officine humaine
+Value='C   ';Pharmacie vétérinaire
+Value='D   ';Officine vétérinaire
+Value='X   ';Autres
+
+[Item]
+Label=Pharmacie humaine
+Name=COM214A
+Start=89
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=officine  humaine
+Name=COM214B
+Start=90
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=pharmacie vétérinaire
+Name=COM214C
+Start=91
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Officine  vétérinaire
+Name=COM214D
+Start=92
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Votre village/quartier est-il couvert par un réseau téléphonique ?
+Name=COM215
+Start=93
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Votre village/quartier est-il couvert par un réseau téléphonique ?
+Name=COM215_VS1
+Value='A    ';Vodacom
+Value='B    ';Orange
+Value='C    ';Airtel
+Value='D    ';Africell
+Value='X    ';Autres
+
+[Item]
+Label=Vodacom
+Name=COM215A
+Start=93
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Orange
+Name=COM215B
+Start=94
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Airtel
+Name=COM215C
+Start=95
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Africell
+Name=COM215D
+Start=96
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Autres
+Name=COM215X
+Start=97
+Len=1
+ItemType=SubItem
+
+[Item]
+Label=Existe-t-il au moins une station de phonie dans votre Village/Quartier? (1=Oui 2=Non)
+Name=COM216
+Start=98
+Len=1
+
+[ValueSet]
+Label=Existe-t-il au moins une station de phonie dans votre Village/Quartier? (1=Oui 2=Non)
+Name=COM216_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il au moins un cyber cafe dans votre Village/Quartier? (1=Oui 2=Non)
+Name=COM217
+Start=99
+Len=1
+
+[ValueSet]
+Label=Existe-t-il au moins un cyber cafe dans votre Village/Quartier? (1=Oui 2=Non)
+Name=COM217_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il un poste de police dans votre Village/Quartier? (1=Oui 2=Non)
+Name=COM218
+Start=100
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un poste de police dans votre Village/Quartier? (1=Oui 2=Non)
+Name=COM218_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Record]
+Label=VOIES D'ACCES DU VILLAGE
+Name=SECTION31
+RecordTypeValue='00007'
+MaxRecords=6
+RecordLen=65
+
+[Item]
+Label=Numero de ligne
+Name=COM300
+Start=33
+Len=1
+
+[ValueSet]
+Label=Numero de ligne
+Name=COM300_VS1
+Value=1;Sentier
+Value=2;Route en terre non aménagée
+Value=3;Route en terre aménagée
+Value=4;Route bitumée
+Value=5;Voie fluviale
+Value=6;Gare(chemin de fer
+
+[Item]
+Label=Voies d'acces
+Name=COM301
+Start=34
+Len=30
+DataType=Alpha
+
+[Item]
+Label=La voie est-elle accessible pour atteindre le village?
+Name=COM301A
+Start=64
+Len=1
+
+[ValueSet]
+Label=La voie est-elle accessible pour atteindre le village?
+Name=COM301A_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Quel est l'etat de cette voie d'acces?
+Name=COM301X
+Start=65
+Len=1
+
+[ValueSet]
+Label=Quel est l'etat de cette voie d'acces?
+Name=COM301X_VS1
+Value=1;Praticable en toutes saisons
+Value=2;Une partie de l’annee
+Value=3;Non praticable
+
+[Record]
+Label=ACCESSIBILITE ET PRATICABILITE DES VOIES D’ACCES DU VILLAGE/QUARTIER
+Name=SECTION3
+RecordTypeValue='00003'
+Required=No
+RecordLen=47
+
+[Item]
+Label=Jour(s) parcouru(s)
+Name=COM301J
+Start=33
+Len=2
+
+[Item]
+Label=Heure(s) parcouru(es)
+Name=COM301H
+Start=35
+Len=2
+
+[ValueSet]
+Label=Heure(s) parcouru(es)
+Name=COM301H_VS1
+Value=1:24
+
+[Item]
+Label=Minute(s) parcouru(es)
+Name=COM301M
+Start=37
+Len=2
+
+[ValueSet]
+Label=Minute(s) parcouru(es)
+Name=COM301M_VS1
+Value=1:60
+
+[Item]
+Label=Le Village/Quartier a-t-il acces toute l’annee au centre urbain le plus proche par une route carrossable? (1=Oui 2=Non)
+Name=COM302
+Start=39
+Len=1
+
+[ValueSet]
+Label=Le Village/Quartier a-t-il acces toute l’annee au centre urbain le plus proche par une route carrossable? (1=Oui 2=Non)
+Name=COM302_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Quel est le principal mode de deplacement utilise pour atteindre le grand centre urbain le plus proche?
+Name=COM303
+Start=40
+Len=2
+
+[ValueSet]
+Label=Quel est le principal mode de deplacement utilise pour atteindre le grand centre urbain le plus proche?
+Name=COM303_VS1
+Value=1;Pieds
+Image=..\..\..\RDCRGA\Reference\icons\pied.png
+Value=2;Velo
+Image=..\..\..\RDCRGA\Reference\icons\Vélo.png
+Value=3;Moto
+Image=..\..\..\RDCRGA\Reference\icons\Moto.png
+Value=4;Camion/Vehicule
+Image=..\..\..\RDCRGA\Reference\icons\Camion.png
+Value=5;Pirogue
+Image=..\..\..\RDCRGA\Reference\icons\Pirogue.png
+Value=6;Baleiniere
+Image=..\..\..\RDCRGA\Reference\icons\Baleinière.png
+Value=7;Bateau
+Image=..\..\..\RDCRGA\Reference\icons\Bateau.png
+Value=8;Train
+Image=..\..\..\RDCRGA\Reference\icons\Train.png
+Value=9;Hors-bord
+Image=..\..\..\RDCRGA\Reference\icons\Hors-bord.png
+Value=10;Autres
+Image=..\..\..\RDCRGA\Reference\icons\autres.PNG
+
+[Item]
+Label=Jour(s) de trajet
+Name=COM304J
+Start=42
+Len=2
+
+[Item]
+Label=Heure(s) de trajet
+Name=COM304H
+Start=44
+Len=2
+
+[ValueSet]
+Label=Heure(s) de trajet
+Name=COM304H_VS1
+Value=1:24
+
+[Item]
+Label=Minute(s) de trajet
+Name=COM304M
+Start=46
+Len=2
+
+[ValueSet]
+Label=Minute(s) de trajet
+Name=COM304M_VS1
+Value=1:60
+
+[Record]
+Label=ACTIVITES, INFRASTRUCTURES ET SERVICES AGRICOLES DU VILLAGE/QUARTIER
+Name=SECTION4
+RecordTypeValue='00004'
+Required=No
+RecordLen=41
+
+[Item]
+Label=Cultures vivrieres
+Name=COM401A
+Start=33
+Len=1
+
+[ValueSet]
+Label=Cultures vivrieres
+Name=COM401A_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Cultures industrielles
+Name=COM401B
+Start=34
+Len=1
+
+[ValueSet]
+Label=Cultures industrielles
+Name=COM401B_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Cultures maraicheres
+Name=COM401C
+Start=35
+Len=1
+
+[ValueSet]
+Label=Cultures maraicheres
+Name=COM401C_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Cultures fruitieres
+Name=COM401D
+Start=36
+Len=1
+
+[ValueSet]
+Label=Cultures fruitieres
+Name=COM401D_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Elevage
+Name=COM401E
+Start=37
+Len=1
+
+[ValueSet]
+Label=Elevage
+Name=COM401E_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Peche
+Name=COM401F
+Start=38
+Len=1
+
+[ValueSet]
+Label=Peche
+Name=COM401F_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Pisciculture
+Name=COM401G
+Start=39
+Len=1
+
+[ValueSet]
+Label=Pisciculture
+Name=COM401G_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Apiculture (Elevage d’abeilles)
+Name=COM401H
+Start=40
+Len=1
+
+[ValueSet]
+Label=Apiculture (Elevage d’abeilles)
+Name=COM401H_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Production forestiere non ligneuse
+Name=COM401I
+Start=41
+Len=1
+
+[ValueSet]
+Label=Production forestiere non ligneuse
+Name=COM401I_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Record]
+Label=INFRASTRUCTURES ET SERVICES AGRICOLES DU VILLAGE
+Name=SECTION41
+RecordTypeValue='00008'
+MaxRecords=13
+RecordLen=141
+
+[Item]
+Label=Numero de ligne
+Name=COM4020
+Start=33
+Len=2
+
+[ValueSet]
+Label=Numero de ligne
+Name=COM4020_VS1
+Value=1;Fournisseur d’engrais
+Value=2;Fournisseur de pesticides
+Value=3;Fournisseur de semences
+Value=4; Installation d’irrigation
+Value=5;Superficie équipée pour l’irrigation
+Value=6;Disponibilité de services vétérinaires
+Value=7; Le village/quartier est-il couvert par un réseau de collecte des produits agricoles ?
+Value=8;Présence d’installation d’entreposage des produits alimentaires
+Value=9;Présence d’installation pour l’entretien des machines agricoles
+Value=10;Présence d’installation de transformation des produits agricoles
+Value=11;Existence d’abattoir/tuerie
+Value=12;Existence d’association d’agriculteurs, de coopératives et d’autres organismes fournissant un soutien et des services aux agriculteurs
+Value=13;Disponibilité de services de vulgarisation agricole
+
+[Item]
+Label=Libelles des Infrastructures et services agricoles
+Name=COM402
+Start=35
+Len=100
+DataType=Alpha
+
+[Item]
+Label=Les infrastructures et services agricoles suivantes sont-ils presents dans le Village/Quartier?
+Name=COM402A
+Start=135
+Len=1
+
+[ValueSet]
+Label=Les infrastructures et services agricoles suivantes sont-ils presents dans le Village/Quartier?
+Name=COM402A_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Jour(s) de trajet
+Name=COM402J
+Start=136
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Heure(s) de trajet
+Name=COM402H
+Start=138
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure(s) de trajet
+Name=COM402H_VS1
+Value=1:24
+
+[Item]
+Label=Minute(s) de trajet
+Name=COM402M
+Start=140
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Minute(s) de trajet
+Name=COM402M_VS1
+Value=1:60
+
+[Record]
+Label=INFRASTRUCTURES D’ENSEIGNEMENT ET DE SANTE DU VILLAGE/QUARTIER
+Name=SECTION5
+RecordTypeValue='00005'
+Required=No
+RecordLen=47
+
+[Item]
+Label=Existe-t-il des Etablissements d’Enseignement Primaire dans votre Village/Quartier?
+Name=COM501
+Start=33
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des Etablissements d’Enseignement Primaire dans votre Village/Quartier?
+Name=COM501_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Quelle est la distance (en km) qui separe votre Village/Quartier au plus proche etablissement de l’enseignement primaire?
+Name=COM502
+Start=34
+Len=5
+Decimal=1
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Existe-t-il des Etablissements d’Enseignement Secondaire dans votre Village/Quartier?
+Name=COM503
+Start=39
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des Etablissements d’Enseignement Secondaire dans votre Village/Quartier?
+Name=COM503_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des Etablissements Professionnel (cycle court) dans votre Village/Quartier?
+Name=COM504
+Start=40
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des Etablissements Professionnel (cycle court) dans votre Village/Quartier?
+Name=COM504_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des Etablissements d’Enseignement Superieur/Universitaire dans votre Village/Quartier?
+Name=COM505
+Start=41
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des Etablissements d’Enseignement Superieur/Universitaire dans votre Village/Quartier?
+Name=COM505_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des Infrastructures de sante dans votre Village/Quartier?
+Name=COM506
+Start=42
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des Infrastructures de sante dans votre Village/Quartier?
+Name=COM506_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Quelle est la distance (en Km) qui separe votre Village/Quartier a la plus proche infrastructure de sante?
+Name=COM507
+Start=43
+Len=5
+Decimal=1
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Record]
+Label=AUTRES INFRASTRUCTURES DU VILLAGE/QUARTIER
+Name=SECTION6
+RecordTypeValue='00006'
+Required=No
+RecordLen=78
+
+[Item]
+Label=Existe-t-il des bornes fontaines  dans votre Village/Quartier?
+Name=COM601
+Start=33
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des bornes fontaines  dans votre Village/Quartier?
+Name=COM601_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des sources d’eau amenagees  dans votre Village/Quartier?
+Name=COM602
+Start=34
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des sources d’eau amenagees  dans votre Village/Quartier?
+Name=COM602_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des sources d’eau non amenagees  dans votre Village/Quartier?
+Name=COM603
+Start=35
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des sources d’eau non amenagees  dans votre Village/Quartier?
+Name=COM603_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des forages equipes  dans votre Village/Quartier?
+Name=COM604
+Start=36
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des forages equipes  dans votre Village/Quartier?
+Name=COM604_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des puits dans votre Village/Quartier?
+Name=COM605
+Start=37
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des puits dans votre Village/Quartier?
+Name=COM605_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il de centrales electriques dans votre Village/Quartier?
+Name=COM606
+Start=38
+Len=1
+
+[ValueSet]
+Label=Existe-t-il de centrales electriques dans votre Village/Quartier?
+Name=COM606_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des lieux de culte dans votre Village/Quartier?
+Name=COM607
+Start=39
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des lieux de culte dans votre Village/Quartier?
+Name=COM607_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des espaces amenages de sport, de musique ou de loisir dans votre Village/Quartier?
+Name=COM608
+Start=40
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=Existe-t-il des espaces amenages de sport, de musique ou de loisir dans votre Village/Quartier?
+Name=COM608_VS1
+Value='A  ';Terrain de sport
+Image=..\..\..\RDCRGA\Reference\icons\Terrain de sport.png
+Value='B  ';Bar
+Image=..\..\..\RDCRGA\Reference\icons\Bar.png
+Value='C  ';Autres
+Image=..\..\..\RDCRGA\Reference\icons\autres.PNG
+
+[Item]
+Label=Existe-t-il des marches dans votre Village/Quartier?
+Name=COM609
+Start=43
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des marches dans votre Village/Quartier?
+Name=COM609_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Quelle est la distance (en Km) qui separe le Village/Quartier au plus proche marche?
+Name=COM610
+Start=44
+Len=5
+Decimal=1
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Existe-t-il un point de vente de carburant dans votre Village/Quartier?
+Name=COM611
+Start=49
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un point de vente de carburant dans votre Village/Quartier?
+Name=COM611_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des maisons de transfert d’argent dans votre Village/Quartier?
+Name=COM612
+Start=50
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des maisons de transfert d’argent dans votre Village/Quartier?
+Name=COM612_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des structures de micro finance ou des cooperatives d’epargne et de credit dans votre Village/Quartier?
+Name=COM613
+Start=51
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des structures de micro finance ou des cooperatives d’epargne et de credit dans votre Village/Quartier?
+Name=COM613_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Jour(s) (Institution de credit)
+Name=COM614J
+Start=52
+Len=2
+
+[Item]
+Label=Heure(s) (Institution de credit)
+Name=COM614H
+Start=54
+Len=2
+
+[ValueSet]
+Label=Heure(s) (Institution de credit)
+Name=COM614H_VS1
+Value=1:24
+
+[Item]
+Label=Minute(s) (Institution de credit)
+Name=COM614M
+Start=56
+Len=2
+
+[ValueSet]
+Label=Minute(s) (Institution de credit)
+Name=COM614M_VS1
+Value=1:60
+
+[Item]
+Label=Existe-t-il une banque Commerciale dans votre Village/Quartier?
+Name=COM615
+Start=58
+Len=1
+
+[ValueSet]
+Label=Existe-t-il une banque Commerciale dans votre Village/Quartier?
+Name=COM615_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il une maison d’assurance dans votre Village/Quartier?
+Name=COM616
+Start=59
+Len=1
+
+[ValueSet]
+Label=Existe-t-il une maison d’assurance dans votre Village/Quartier?
+Name=COM616_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il un hotel dans votre Village/Quartier?
+Name=COM617
+Start=60
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un hotel dans votre Village/Quartier?
+Name=COM617_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il une auberge dans votre Village/Quartier?
+Name=COM618
+Start=61
+Len=1
+
+[ValueSet]
+Label=Existe-t-il une auberge dans votre Village/Quartier?
+Name=COM618_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il un gite d’etape/maison de passage dans votre Village/Quartier?
+Name=COM619
+Start=62
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un gite d’etape/maison de passage dans votre Village/Quartier?
+Name=COM619_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il un centre social/foyer social dans votre Village/Quartier?
+Name=COM620
+Start=63
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un centre social/foyer social dans votre Village/Quartier?
+Name=COM620_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Votre Village/Quartier est-il couvert par la radio?
+Name=COM621
+Start=64
+Len=4
+DataType=Alpha
+
+[ValueSet]
+Label=Votre Village/Quartier est-il couvert par la radio?
+Name=COM621_VS1
+Value='A   ';Radio nationale
+Value='B   ';Radio communautaire
+Value='C   ';Radio privee
+Value='X   ';Autres
+
+[Item]
+Label=Votre Village/Quartier est-il couvert par la television?
+Name=COM622
+Start=68
+Len=4
+DataType=Alpha
+
+[ValueSet]
+Label=Votre Village/Quartier est-il couvert par la television?
+Name=COM622_VS1
+Value='A   ';Television nationale
+Value='B   ';Television communautaire
+Value='C   ';Television privee
+Value='X   ';Autres
+
+[Item]
+Label=Existe-t-il une gare ferroviaire dans votre Village/Quartier?
+Name=COM623
+Start=72
+Len=1
+
+[ValueSet]
+Label=Existe-t-il une gare ferroviaire dans votre Village/Quartier?
+Name=COM623_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il un aeroport/aerodrome dans votre Village/Quartier?
+Name=COM624
+Start=73
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un aeroport/aerodrome dans votre Village/Quartier?
+Name=COM624_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il un parking dans votre Village/Quartier?
+Name=COM625
+Start=74
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un parking dans votre Village/Quartier?
+Name=COM625_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il un port (Libongo) ou beach dans votre Village/Quartier?
+Name=COM626
+Start=75
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un port (Libongo) ou beach dans votre Village/Quartier?
+Name=COM626_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il des ponts aux environs de votre Village/Quartier?
+Name=COM627
+Start=76
+Len=1
+
+[ValueSet]
+Label=Existe-t-il des ponts aux environs de votre Village/Quartier?
+Name=COM627_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il un bac aux environs de votre Village/Quartier?
+Name=COM628
+Start=77
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un bac aux environs de votre Village/Quartier?
+Name=COM628_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
+
+[Item]
+Label=Existe-t-il un gue aux environs de votre Village/Quartier?
+Name=COM629
+Start=78
+Len=1
+
+[ValueSet]
+Label=Existe-t-il un gue aux environs de votre Village/Quartier?
+Name=COM629_VS1
+Value=1;Oui
+Image=..\..\..\RDCRGA\Reference\icons\06_oui.PNG
+Value=2;Non
+Image=..\..\..\RDCRGA\Reference\icons\06_non.PNG
