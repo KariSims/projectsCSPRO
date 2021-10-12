@@ -1,0 +1,46 @@
+﻿Application     C:\ROUGEOLEDRC20\ABECREGIDESO\ABEC REGIDESO.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ROUGEOLEDRC20\ABECREGIDESO\DATA\FICHIER ABEC KIN ET LUSH_2020.csdb
+<Paradata Log>  C:\ROUGEOLEDRC20\ABECREGIDESO\ABEC REGIDESO.cslog
+
+Date            Nov 02, 2020
+Start Time      00:19:25
+End Time        00:19:35
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   88889           1         ATTENTION: Hors valeurs valides! Entrer une valeur valide pour %s%s                        
+   99990           1         Operator entered a value out of range                                                      
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\ROUGEOLEDRC20\ABECREGIDESO\ABEC REGIDESO.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ROUGEOLEDRC20\ABECREGIDESO\DATA\FICHIER ABEC KIN ET LUSH_2020.csdb
+<Paradata Log>  C:\ROUGEOLEDRC20\ABECREGIDESO\ABEC REGIDESO.cslog
+
+Date            Nov 02, 2020
+Start Time      13:31:46
+End Time        13:31:58
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\ROUGEOLEDRC20\ABECREGIDESO\ABEC REGIDESO.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\ROUGEOLEDRC20\ABECREGIDESO\DATA\FICHIER ABEC KIN ET LUSH_2020.csdb
+<Paradata Log>  C:\ROUGEOLEDRC20\ABECREGIDESO\ABEC REGIDESO.cslog
+
+Date            Nov 02, 2020
+Start Time      13:38:51
+End Time        13:38:54
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

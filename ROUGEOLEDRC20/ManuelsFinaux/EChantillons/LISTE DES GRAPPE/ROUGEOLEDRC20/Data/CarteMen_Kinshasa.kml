@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DM</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LP</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.221300<br /> Latitude : -004.446952<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.221300,-004.446952,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : RL</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.221658<br /> Latitude : -004.447558<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.221658,-004.447558,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MF</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : JP</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 714<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LM</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.215121<br /> Latitude : -004.455050<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.215121,-004.455050,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NM</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 714<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : RL</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SM</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PM</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.220971<br /> Latitude : -004.446426<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.220971,-004.446426,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AK</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.220139<br /> Latitude : -004.444824<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.220139,-004.444824,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SR</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.225628<br /> Latitude : -004.447091<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.225628,-004.447091,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ML</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.219942<br /> Latitude : -004.448235<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.219942,-004.448235,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LJ</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LI</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.221336<br /> Latitude : -004.448411<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.221336,-004.448411,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BV</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.220335<br /> Latitude : -004.448184<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.220335,-004.448184,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MR</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.220001<br /> Latitude : -004.445139<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.220001,-004.445139,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : GL</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : DEFAULT    <br /> Latitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MF</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.220474<br /> Latitude : -004.445989<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.220474,-004.445989,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NM</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : EW</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MJ</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.226165<br /> Latitude : -004.447388<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.226165,-004.447388,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mj</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ND</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.225520<br /> Latitude : -004.446796<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.225520,-004.446796,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DM</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.226184<br /> Latitude : -004.447082<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.226184,-004.447082,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DN</name>
+<description><![CDATA[Province : Kinshasa<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 701<br /> Statut : Enquêté<br /> longitude : 0015.226124<br /> Latitude : -004.447120<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.226124,-004.447120,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

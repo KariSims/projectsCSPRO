@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=DENOMKML
+Name=DENOMKML
+AppType=Batch
+[AppCode]
+File=.\DenomKml.bch.apc
+[Message]
+File=.\DenomKml.bch.mgf
+[Order]
+File=.\DenomKml.ord
+[Dictionary Types]
+Dict-Type=..\Denombrement.dcf,Input,.\DenomKml.ord

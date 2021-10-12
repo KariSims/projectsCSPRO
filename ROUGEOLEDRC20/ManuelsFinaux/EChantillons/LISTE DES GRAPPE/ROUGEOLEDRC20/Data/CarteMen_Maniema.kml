@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : O</name>
+<description><![CDATA[Province : Maniema<br /> ZS : ZS Aketi<br /> Enquêteur : <br />N° grappe : Azande<br /> Statut : Enquêté<br /> longitude : 0024.481878<br /> Latitude : 0448.761629<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.481878,0448.761629,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

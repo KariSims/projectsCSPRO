@@ -1,0 +1,21 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Batch
+
+[Files]
+Application=.\CCRkml.bch
+InputData=..\Masque de Denombrement\Data\BASE_25NOV.csdb
+OutputData=..\Data\KmlPilote.csdb
+Listing=.\CCRkml.lst
+
+[UserFiles]
+Cartokml=
+ftemp=
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=120
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential

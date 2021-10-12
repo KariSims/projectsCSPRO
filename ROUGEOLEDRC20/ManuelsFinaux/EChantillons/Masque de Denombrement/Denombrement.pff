@@ -1,0 +1,11 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Entry
+
+[DataEntryInit]
+AutoAdd=No
+
+[Files]
+Application=.\Denombrement.ent
+InputData=.\Data\BASE DENOMBREMENT.csdb
+Paradata=.\Denombrement.cslog

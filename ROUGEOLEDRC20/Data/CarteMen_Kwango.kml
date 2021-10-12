@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MO</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.535966<br /> Latitude : -004.237032<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.535966,-004.237032,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BN</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.536202<br /> Latitude : -004.237372<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.536202,-004.237372,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.534949<br /> Latitude : -004.236210<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.534949,-004.236210,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LM</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.535350<br /> Latitude : -004.237237<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.535350,-004.237237,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LN</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.535932<br /> Latitude : -004.236875<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.535932,-004.236875,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SN</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.536369<br /> Latitude : -004.237240<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.536369,-004.237240,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BN</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.536231<br /> Latitude : -004.237134<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.536231,-004.237134,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NN</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.536813<br /> Latitude : -004.236636<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.536813,-004.236636,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MN</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.535660<br /> Latitude : -004.236768<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.535660,-004.236768,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.536498<br /> Latitude : -004.237778<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.536498,-004.237778,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KL</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 283<br /> Statut : Enquêté<br /> longitude : 0017.536663<br /> Latitude : -004.237379<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.536663,-004.237379,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 287<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ZM</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 287<br /> Statut : Enquêté<br /> longitude : 0017.463906<br /> Latitude : -004.305819<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.463906,-004.305819,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KT</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 287<br /> Statut : Enquêté<br /> longitude : 0017.464277<br /> Latitude : -004.305905<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.464277,-004.305905,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MN</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 287<br /> Statut : Enquêté<br /> longitude : 0017.464213<br /> Latitude : -004.305646<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.464213,-004.305646,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DM</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 287<br /> Statut : Enquêté<br /> longitude : 0017.464266<br /> Latitude : -004.305497<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.464266,-004.305497,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 287<br /> Statut : Enquêté<br /> longitude : 0017.463510<br /> Latitude : -004.306929<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.463510,-004.306929,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BP</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 287<br /> Statut : Enquêté<br /> longitude : 0017.462353<br /> Latitude : -004.308218<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.462353,-004.308218,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LO</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 287<br /> Statut : Enquêté<br /> longitude : 0017.462311<br /> Latitude : -004.308873<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.462311,-004.308873,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BK</name>
+<description><![CDATA[Province : Kwango<br /> ZS : 21<br /> Enquêteur : <br />N° grappe : 287<br /> Statut : Enquêté<br /> longitude : 0017.462891<br /> Latitude : -004.307661<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0017.462891,-004.307661,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,40 @@
+﻿Application     C:\Users\RGERDC\AppData\Local\Temp\CSExpRun7328.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\ABECREGIDESO\ABECREGIDESO\DATA\BASE ABEC FIN.csdb                                                                                                                                                                                                                                           
+<File>          file_B_CONNAISSANCES_DES_DROITS=C:\ABECREGIDESO\ABECREGIDESO\DATA\B_CONNAISSANCES_DES_DROITS.dat
+<File>          file_EN_QUESTIONNAIRE=C:\ABECREGIDESO\ABECREGIDESO\DATA\EN_QUESTIONNAIRE.dat
+
+Date            Dec 14, 2019
+Start Time      08:22:53
+End Time        08:22:58
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |    8588 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       2 Messages (       0 U,       0 W,       2 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |       4296   |          2   |       4294  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+*** LEVEL 0 PREPROC has 1 messages (1 E / 0 W / 0U)        
+    E   10008 Required Record or Group _IDS0 not found
+
+*** LEVEL 0 PREPROC has 2 messages (2 E / 0 W / 0U)        
+    E   10008 Required Record or Group _IDS0 not found
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10008            2   Required Record or Group %n not found                                                 
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=LISTING_ERREURS
+Name=LISTING_ERREURS
+AppType=Batch
+[AppCode]
+File=.\listing_erreurs.bch.apc
+[Message]
+File=.\listing_erreurs.bch.mgf
+[Order]
+File=.\listing_erreurs.ord
+[Dictionary Types]
+Dict-Type=..\Dicts\QUESTIONNAIRE MENAGE.dcf,Input,.\listing_erreurs.ord

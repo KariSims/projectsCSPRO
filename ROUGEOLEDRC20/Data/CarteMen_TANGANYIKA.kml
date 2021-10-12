@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : CN</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 627<br /> Statut : Enquêté<br /> longitude : 0028.979485<br /> Latitude : -005.964195<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.979485,-005.964195,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : WP</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 627<br /> Statut : Enquêté<br /> longitude : 0028.984270<br /> Latitude : -005.961250<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.984270,-005.961250,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KV</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 627<br /> Statut : Enquêté<br /> longitude : 0028.985685<br /> Latitude : -005.959182<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.985685,-005.959182,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BS</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 627<br /> Statut : Enquêté<br /> longitude : 0028.985762<br /> Latitude : -005.959108<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.985762,-005.959108,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MV</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 617<br /> Statut : Enquêté<br /> longitude : 0029.180912<br /> Latitude : -005.944825<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.180912,-005.944825,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 626<br /> Statut : Enquêté<br /> longitude : 0029.179823<br /> Latitude : -005.929968<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.179823,-005.929968,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ME</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 626<br /> Statut : Enquêté<br /> longitude : 0029.179813<br /> Latitude : -005.930175<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.179813,-005.930175,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KS</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 626<br /> Statut : Enquêté<br /> longitude : 0029.179265<br /> Latitude : -005.930182<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.179265,-005.930182,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KM</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 626<br /> Statut : Enquêté<br /> longitude : 0029.179060<br /> Latitude : -005.930940<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.179060,-005.930940,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KP</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 623<br /> Statut : Enquêté<br /> longitude : 0029.193542<br /> Latitude : -005.990858<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.193542,-005.990858,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MB</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 623<br /> Statut : Enquêté<br /> longitude : 0029.193178<br /> Latitude : -005.989435<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.193178,-005.989435,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 623<br /> Statut : Enquêté<br /> longitude : 0029.193295<br /> Latitude : -005.989747<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.193295,-005.989747,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PS</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 623<br /> Statut : Enquêté<br /> longitude : 0029.193003<br /> Latitude : -005.988970<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.193003,-005.988970,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NT</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 623<br /> Statut : Enquêté<br /> longitude : 0029.193067<br /> Latitude : -005.988785<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.193067,-005.988785,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KT</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 623<br /> Statut : Enquêté<br /> longitude : 0029.192878<br /> Latitude : -005.988760<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.192878,-005.988760,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KB</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 623<br /> Statut : Enquêté<br /> longitude : 0029.192630<br /> Latitude : -005.988602<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.192630,-005.988602,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : TL</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 618<br /> Statut : Enquêté<br /> longitude : 0029.188997<br /> Latitude : -005.942807<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.188997,-005.942807,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SZ</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 618<br /> Statut : Enquêté<br /> longitude : 0029.188887<br /> Latitude : -005.942817<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.188887,-005.942817,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MJ</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 618<br /> Statut : Enquêté<br /> longitude : 0029.188187<br /> Latitude : -005.941313<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.188187,-005.941313,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : RB</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 618<br /> Statut : Enquêté<br /> longitude : 0029.188457<br /> Latitude : -005.941095<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.188457,-005.941095,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MS</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 618<br /> Statut : Enquêté<br /> longitude : 0029.189697<br /> Latitude : -005.943412<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.189697,-005.943412,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KL</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 618<br /> Statut : Enquêté<br /> longitude : 0029.189270<br /> Latitude : -005.943378<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.189270,-005.943378,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DM</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 619<br /> Statut : Enquêté<br /> longitude : 0029.197362<br /> Latitude : -005.950065<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.197362,-005.950065,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : TP</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 619<br /> Statut : Enquêté<br /> longitude : 0029.197402<br /> Latitude : -005.949655<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.197402,-005.949655,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MK</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 619<br /> Statut : Enquêté<br /> longitude : 0029.196810<br /> Latitude : -005.949078<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.196810,-005.949078,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 619<br /> Statut : Enquêté<br /> longitude : 0029.197030<br /> Latitude : -005.949407<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.197030,-005.949407,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : IM</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 619<br /> Statut : Enquêté<br /> longitude : 0029.197103<br /> Latitude : -005.949488<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.197103,-005.949488,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AB</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 619<br /> Statut : Enquêté<br /> longitude : 0029.195471<br /> Latitude : -005.949520<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.195471,-005.949520,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> ZS : 45<br /> Enquêteur : <br />N° grappe : 619<br /> Statut : Enquêté<br /> longitude : 0029.196770<br /> Latitude : -005.950037<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.196770,-005.950037,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

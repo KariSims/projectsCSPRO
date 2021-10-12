@@ -1,0 +1,8 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Entry
+
+[Files]
+Application=.\ABEC REGIDESO.ent
+InputData=.\DATA\FICHIER ABEC KIN ET LUSH_2020.csdb
+Paradata=.\ABEC REGIDESO.cslog

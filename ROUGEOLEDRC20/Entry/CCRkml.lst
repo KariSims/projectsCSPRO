@@ -1,0 +1,28 @@
+﻿Application     C:\ROUGEOLEDRC20\Entry\CCRkml.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\ROUGEOLEDRC20\Masque de Denombrement\Data\BASE_25NOV.csdb
+<Output>        <<CSPro DB>> C:\ROUGEOLEDRC20\Data\KmlPilote.csdb
+<File>          Cartokml=
+<File>          ftemp=
+
+Date            Nov 28, 2020
+Start Time      23:59:00
+End Time        23:59:02
+
+CSPro Process Summary
+
+      ╔══════════════════════════════════════════════════════╗
+      ║      7705 Records Read   100% of input file          ║
+      ║         0 Ignored:       0 Unknown         0 Erased  ║
+      ║         0 Messages:      0 E      0 W      0 User    ║
+      ╠═════════╦══════════════╦══════════════╦══════════════╣
+      ║  Level  ║  Input Case  ║  Bad Struct  ║  Level Post  ║
+      ╠═════════╬══════════════╬══════════════╬══════════════╣
+      ║      1  ║        1428  ║           0  ║        1428  ║
+      ╚═════════╩══════════════╩══════════════╩══════════════╝
+
+Process Messages
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

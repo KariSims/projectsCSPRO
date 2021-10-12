@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : </name>
+<description><![CDATA[Province : Sud-Ubangi<br /> ZS : ZS Buta<br /> Enquêteur : <br />N° grappe : Ndoli<br /> Statut : Enquêté<br /> longitude : 0490.749233<br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0490.749233,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

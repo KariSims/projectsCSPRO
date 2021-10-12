@@ -1,0 +1,20 @@
+﻿[Run Information]
+Version=CSPro 7.3
+AppType=Batch
+
+[Files]
+Application=.\ProvExitall.bch
+InputData=..\Dicts\sims.txt
+OutputData=|type=None
+Listing=.\ProvExitall.lst
+
+[ExternalFiles]
+QUESTIONNAIRE_MENAGE_DICT=..\DataDrpbx\drop.csdb
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=120
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential

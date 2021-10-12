@@ -1,0 +1,1646 @@
+﻿[Dictionary]
+Version=CSPro 7.4
+Label=ABEC REGIDESO
+Name=ABEC_REGIDESO_DICT
+RecordTypeStart=6
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+SecurityOptions=A3AC97349D1AA5DCA36ABF9024D2979B10C2BC4B7EB52C561EAF1222D6AC32B4
+
+[Level]
+Label=ABEC REGIDESO Level
+Name=ABEC_REGIDESO_LEVEL
+
+[IdItems]
+
+[Item]
+Label=number
+Name=NUMBER
+Start=1
+Len=5
+
+[Record]
+Label=B – Connaissances des droits
+Name=B_CONNAISSANCES_DES_DROITS
+RecordTypeValue='1'
+RecordLen=370
+
+[Item]
+Label=1.Province:
+Name=Q1
+Start=7
+Len=1
+
+[ValueSet]
+Label=1.Province:
+Name=Q1_VS1
+Value=1;Kinshasa
+Value=2;Haut-Katanga
+
+[Item]
+Label=Nom Enqueteur
+Name=NOM_ENQUETEUR
+Start=8
+Len=2
+
+[ValueSet]
+Label=Nom Enqueteur
+Name=NOM_ENQUETEUR_VS1
+Value=1;ALOLIA MATELA
+Value=2;ANNETTE MAFUTA
+Value=3;BEBICO SHAKO
+Value=4;BODJOKO EDITH
+Value=5;CASIMIR TSHIKOMBELA
+Value=6;CELESTIN KABONGO
+Value=7;CHRISTEL LUSAMBA
+Value=8;CLAUDINE TSHIELA
+Value=9;DJONGA MARIA
+Value=10;EMMANUEL KABEYA
+Value=11;EPHREM KALONJI
+Value=12;FRANCINE KASONGO
+Value=13;FRANCOIS LUNGENYI
+Value=14;ILUNGA YANNICK
+Value=15;ERIC BELANGENYI
+Value=16;JUNIOR BUKASA (MAISHA NZAU)
+Value=17;JUNIOR MUKADI
+Value=18;MARTIN KOMBO(KABALA CHATY)
+Value=19;PATRICK LUBWE
+Value=20;KINSALA DIEU MERCI
+Value=21;MABIALA TSANGU
+Value=22;MARCY NDAMBO
+Value=23;MBELA JULIO
+Value=24;MICHEL LUSUNA
+Value=25;ERICK TSHIPAMBA(MUHAU GULAIN)
+Value=26;MUJINGA KALALA
+Value=27;MUTOMBO MASANKA
+Value=28;NIVA TSHIBOMBO
+Value=29;RUBEN KABULO
+Value=30;SALEM KAPUYA
+Value=31;SAMUEL K MUFUTA
+Value=32;MUBIKAYI PIERRE(SARAH TSHILEMBA)
+Value=33;Grace NGINAMAU(THERESE MUJINGA)
+Value=34;Grace MABWA(VALERE MAKWAYA)
+Value=35;YANICK MBOKO
+Value=36;RENATA DENISE
+
+[ValueSet]
+Label=Nom Enqueteur
+Name=NOM_ENQUETEUR_VS2
+Value=37;MABIALA TSANGU
+Value=38;JOELLE NTUMBA
+Value=39;LISETTE KAYUMBA
+Value=40;MELISSA KALONJI
+Value=41;VALET KAZADI
+Value=42;CHARMANT FASSO
+Value=43;JORDAN MWANZA
+Value=44;DESIRE KABAMBA
+Value=45;HARMONIEKANSENDE
+Value=46;ESTIME KANYIKI
+Value=47;JUNIOR NGOYI
+Value=48;BEBICO SHAKO
+Value=49;PREMICE KAYEMBE
+Value=50;JUNIOR MBIKAYI
+Value=51;LENA LUCIE
+Value=52;CHANTAL MULANGA
+
+[Item]
+Label=Commune
+Name=COMMUNE
+Start=10
+Len=2
+
+[ValueSet]
+Label=Commune
+Name=COMMUNE_VS1
+Value=1;BANDALUNGWA
+Value=2;BARUMBU
+Value=3;BUMBU
+Value=4;GOMBE
+Value=5;KALAMU
+Value=6;KASA-VUBU
+Value=7;KIMBANSEKE
+Value=8;KINSHASA
+Value=9;KINTAMBO
+Value=10;KISENSO
+Value=11;LEMBA
+Value=12;LIMETE
+Value=13;LINGWALA
+Value=14;MAKALA
+Value=15;MALUKU
+Value=16;MASINA
+Value=17;MATETE
+Value=18;MONT-NGAFULA
+Value=19;NDJILI
+Value=20;NGABA
+Value=21;NGALIEMA
+Value=22;NGIRI NGIRI
+Value=23;NSELE
+Value=24;SELEMBAO
+
+[ValueSet]
+Label=Commune
+Name=COMMUNE_VS2
+Value=25;KAMALONDO
+Value=26;KAMPEMBA
+Value=27;KATUBA
+Value=28;KENYA
+Value=29;LUBUMBASHI
+Value=30;RWASHI
+Value=31;ANNEXE
+
+[Item]
+Label=form.Nom_du_repondant
+Name=FORM_NOM_DU_REPONDANT
+Start=12
+Len=60
+DataType=Alpha
+
+[Item]
+Label=Interview start time
+Name=M04_TIME
+Start=72
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Interview start time hours
+Name=INTERVIEW_START_TIME_HOURS
+Start=72
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Interview start time hours
+Name=INTERVIEW_START_TIME_HOURS_VS1
+Value=0:24
+
+[Item]
+Label=Interview start time minutes
+Name=INTERVIEW_START_TIME_MINUTES
+Start=74
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Interview start time minutes
+Name=INTERVIEW_START_TIME_MINUTES_VS1
+Value=0:59
+
+[Item]
+Label=B1/ Avant notre entretien, Savez-vous que la REGIDESO met gratuitement à la disposition de ses abonnées un règlement d’exploitation qui retrace leurs droits et devoirs ?
+Name=B1
+Start=76
+Len=1
+
+[ValueSet]
+Label=B1/ Avant notre entretien, Savez-vous que la REGIDESO met gratuitement à la disposition de ses abonnées un règlement d’exploitation qui retrace leurs droits et devoirs ?
+Name=B1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=B2/ Avant notre entretien, Savez-vous qu’en matière de branchement au réseau de la REGIDESO vous avez droit aux éléments ci-après :
+Name=B2
+Start=77
+Len=15
+DataType=Alpha
+
+[ValueSet]
+Label=B2/ Avant notre entretien, Savez-vous qu’en matière de branchement au réseau de la REGIDESO vous avez droit aux éléments ci-après :
+Name=B2_VS1
+Value='A              ';Demander un raccordement
+Value='B              '; Avoir une police d’abonnement
+Value='C              ';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D              ';Avoir un compteur en bon état
+Value='E              ';Avoir 48heures pour signaler tout défaut de branchement
+Value='F              ';Payer la facture dans n’importe quelle agence dans la ville
+Value='G              ';Contester une facture dans un délai de 8jours
+Value='H              '; Exiger moyennant payement l’étalonnage du compteur
+Value='I              ';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J              '; Assister ou se faire représenter lors de l’étalonnage
+Value='K              ';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L              '; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M              ';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N              '; Autre (veuillez spécifier)
+
+[Item]
+Label=B2a.Demander un raccordement
+Name=B2A
+Start=77
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2a.Demander un raccordement
+Name=B2A_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2b Avoir une police d’abonnement
+Name=B2B
+Start=78
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2b Avoir une police d’abonnement
+Name=B2B_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2c Payer les frais et Être raccordé par la REGIDESO au réseau
+Name=B2C
+Start=79
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2c Payer les frais et Être raccordé par la REGIDESO au réseau
+Name=B2C_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2d  Avoir un compteur en bon état
+Name=B2D
+Start=80
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2d  Avoir un compteur en bon état
+Name=B2D_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2e Avoir 48heures pour signaler tout défaut de branchement
+Name=B2E
+Start=81
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2e Avoir 48heures pour signaler tout défaut de branchement
+Name=B2E_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2f Payer la facture dans n’importe quelle agence dans la ville
+Name=B2F
+Start=82
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2f Payer la facture dans n’importe quelle agence dans la ville
+Name=B2F_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2g Contester une facture dans un délai de 8jours
+Name=B2G
+Start=83
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2g Contester une facture dans un délai de 8jours
+Name=B2G_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2h Exiger moyennant payement l’étalonnage du compteur
+Name=B2H
+Start=84
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2h Exiger moyennant payement l’étalonnage du compteur
+Name=B2H_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2i Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Name=B2I
+Start=85
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2i Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Name=B2I_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2j Assister ou se faire représenter lors de l’étalonnage
+Name=B2J
+Start=86
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2j Assister ou se faire représenter lors de l’étalonnage
+Name=B2J_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2k La REGIDESO entretient à ses frais le bon état des branchements
+Name=B2K
+Start=87
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2k La REGIDESO entretient à ses frais le bon état des branchements
+Name=B2K_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2l Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Name=B2L
+Start=88
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2l Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Name=B2L_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2m Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Name=B2M
+Start=89
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2m Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Name=B2M_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2n Autre
+Name=B2NAUTRE
+Start=90
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B2n Autre
+Name=B2NAUTRE_VS1
+Value='A';Demander un raccordement
+Value='B'; Avoir une police d’abonnement
+Value='C';Payer les frais et Être raccordé par la REGIDESO au réseau
+Value='D';Avoir un compteur en bon état
+Value='E';Avoir 48heures pour signaler tout défaut de branchement
+Value='F';Payer la facture dans n’importe quelle agence dans la ville
+Value='G';Contester une facture dans un délai de 8jours
+Value='H'; Exiger moyennant payement l’étalonnage du compteur
+Value='I';Le compteur défectueux est remplacé ou réétalonné aux frais de la REGIDESO
+Value='J'; Assister ou se faire représenter lors de l’étalonnage
+Value='K';La REGIDESO entretient à ses frais le bon état des branchements
+Value='L'; Vos installations après le compteur sont entretenues par la REGIDESO à vos frais
+Value='M';Contacter la REGIDESO par un numéro gratuitement, 24h/24 et 7j/7 (0999 67 28 90)
+Value='N'; Autre (veuillez spécifier)
+
+[Item]
+Label=B2n Autre (veuillez spécifier
+Name=B2NAUTRE1
+Start=92
+Len=60
+DataType=Alpha
+
+[Item]
+Label=B3/ Savez-vous qu’en matière de branchement au réseau, la REGIDESO a droit aux éléments ci-après
+Name=B3
+Start=152
+Len=15
+DataType=Alpha
+
+[ValueSet]
+Label=B3/ Savez-vous qu’en matière de branchement au réseau, la REGIDESO a droit aux éléments ci-après
+Name=B3_VS1
+Value='A              ';Procéder au branchement après payement
+Value='B              ';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C              '; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D              ';Le compteur reste la propriété de la REGIDESO
+Value='E              ';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F              ';Procéder à l’étalonnage du compteur à ses frais
+Value='G              ';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H              ';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J              ';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I              ';Interdire toute construction sur la partie enterrée du branchement
+Value='K              '; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L              '; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M              ';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N              '; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O              '; Autre (veuillez spécifier)
+
+[Item]
+Label=B3a Procéder au branchement après payement
+Name=B3_A1
+Start=152
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3a Procéder au branchement après payement
+Name=B3_A1_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3b Relier au réseau les immeubles des personnes physiques ou sociétés
+Name=B3B
+Start=153
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3b Relier au réseau les immeubles des personnes physiques ou sociétés
+Name=B3B_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3c Se considère comme exonérer de toute obligation 48h après branchement
+Name=B3C
+Start=154
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3c Se considère comme exonérer de toute obligation 48h après branchement
+Name=B3C_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3d Le compteur reste la propriété de la REGIDESO
+Name=B3D
+Start=155
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3d Le compteur reste la propriété de la REGIDESO
+Name=B3D_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3e Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Name=B3E
+Start=156
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3e Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Name=B3E_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3f Procéder à l’étalonnage du compteur à ses frais
+Name=B3F
+Start=157
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3f Procéder à l’étalonnage du compteur à ses frais
+Name=B3F_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3g Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Name=B3G
+Start=158
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3g Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Name=B3G_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3h Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Name=B3H
+Start=159
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3h Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Name=B3H_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3i Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Name=B3I
+Start=160
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3i Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Name=B3I_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3j Interdire toute construction sur la partie enterrée du branchement
+Name=B3J
+Start=161
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3j Interdire toute construction sur la partie enterrée du branchement
+Name=B3J_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3k Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Name=B3K
+Start=162
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3k Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Name=B3K_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3l Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Name=B3L
+Start=163
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3l Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Name=B3L_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3m Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Name=B3M
+Start=164
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3m Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Name=B3M_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3n Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux
+Name=B3N
+Start=165
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3n Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux
+Name=B3N_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3O Autre (veuillez spécifier
+Name=B3OAUTRE
+Start=166
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B3O Autre (veuillez spécifier
+Name=B3OAUTRE_VS1
+Value='A';Procéder au branchement après payement
+Value='B';Relier au réseau les immeubles des personnes physiques ou sociétés
+Value='C'; Se considère comme exonérer de toute obligation 48h après branchement
+Value='D';Le compteur reste la propriété de la REGIDESO
+Value='E';Relever les consommations aussi souvent que la REGIDESO le jugera nécessaire
+Value='F';Procéder à l’étalonnage du compteur à ses frais
+Value='G';Percevoir une taxe mensuelle sur le compteur dont le montant est fixé par elle
+Value='H';Recouvrir ses créances partout où elle exerce ses activités par des mesures de coercition
+Value='J';Contrôler toutes les installations intérieures sans aucune obligation ni responsabilité
+Value='I';Interdire toute construction sur la partie enterrée du branchement
+Value='K'; Interrompre immédiatement et sans condition la fourniture d’eau si construction sur branchement
+Value='L'; Les agents de la REGIDESO avec carte de service ont libre accès aux branchements et à l’ensemble de l’installation tant extérieure qu’intérieur jusqu’au compteur
+Value='M';Suspendre la fourniture d’eau aux abonnés en retard de paiement de plus de 10jours par avis de coupure avec un préavis n’excédant pas 48heures
+Value='N'; Suspendre la fourniture sans préavis dans les cas ci-après : abonné complice d’un raccordement frauduleux, abonné coupable de voies de fait sur un agent dans l’exercice de ses fonctions, abonné empêchant l’enregistrement correcte du compteur ou aux agent
+Value='O'; Autre (veuillez spécifier)
+
+[Item]
+Label=B3O Autre (veuillez spécifier
+Name=B3OAUTRE1
+Start=167
+Len=60
+DataType=Alpha
+
+[Item]
+Label=B4/ Avant notre entretien, Savez-vous qu’en matière de branchement au réseau de la REGIDESO vous avez des devoirs ci-après en tant
+Name=B4
+Start=227
+Len=15
+DataType=Alpha
+
+[ValueSet]
+Label=B4/ Avant notre entretien, Savez-vous qu’en matière de branchement au réseau de la REGIDESO vous avez des devoirs ci-après en tant
+Name=B4_VS1
+Value='A              ';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B              ';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C              '; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D              ';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E              ';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F              ';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G              ';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H              ';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I              ';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J              ';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K              ';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L              ';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M              ';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N              ';Autre (veuillez spécifier)
+
+[Item]
+Label=B4a Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Name=B4A1
+Start=227
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4a Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Name=B4A1_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4b Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO,
+Name=B4B
+Start=228
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4b Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO,
+Name=B4B_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4c Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Name=B4C
+Start=229
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4c Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Name=B4C_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4d Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Name=B4D
+Start=230
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4d Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Name=B4D_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4e Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Name=B4E
+Start=231
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4e Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Name=B4E_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4f Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Name=B4F
+Start=232
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4f Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Name=B4F_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4g De ne pas procéder aux manipulations quelconques sur le compteur
+Name=B4G
+Start=233
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4g De ne pas procéder aux manipulations quelconques sur le compteur
+Name=B4G_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4h Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Name=B4H
+Start=234
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4h Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Name=B4H_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4i Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Name=B4I
+Start=235
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4i Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Name=B4I_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4j Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Name=B4J
+Start=236
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4j Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Name=B4J_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4k Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Name=B4K
+Start=237
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4k Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Name=B4K_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4l Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion
+Name=B4L
+Start=237
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4l Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion
+Name=B4L_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4m Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Name=B4M
+Start=238
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4m Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Name=B4M_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4n Autre
+Name=B4NAUTRE
+Start=239
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B4n Autre
+Name=B4NAUTRE_VS1
+Value='A';Fournir tous les renseignements sur l’immeuble à raccorder ainsi que les documents attestant la propriété
+Value='B';Payer les frais exigibles lors de demande de raccordement (les frais non remboursables pour l’ouverture de dossier et établissement de devis, frais de branchement payable en une fois suivant le devis établi par la REGIDESO, la garantie déposée à la souscr
+Value='C'; Vous conformez au règlement d’exploitation et toutes les modifications qui y serait apportés
+Value='D';Signaler tous les défauts apparents au compteur et du branchement dans les 48heures après branchement.
+Value='E';Payer la facture même en cas de contestation dans un délai de 8 jours après réception
+Value='F';Être responsable des consommations excessives d’eau par défaut d’entretien, de construction ou négligence
+Value='G';De ne pas procéder aux manipulations quelconques sur le compteur
+Value='H';Signaler immédiatement au service de garde le plus proche tous les accidents survenant sur le réseau
+Value='I';Prendre toutes les dispositions pour éviter la pollution des eaux du réseau à partir des installations privées
+Value='J';Être responsable personnelle et directe envers la REGIDESO de toutes les dispositions du contrat
+Value='K';Ne pas transmettre l’usage des fournitures de la REGIDESO après cession de l’immeuble
+Value='L';Aviser la REGIDESO en cas de vente ou cession de propriété et de résilier par la même occasion après paiement de toutes les sommes dues
+Value='M';Payer les frais de réouverture après interruption de fourniture d’eau pour manquement au règlement
+Value='N';Autre (veuillez spécifier)
+
+[Item]
+Label=B4n Autre (veuillez spécifier)
+Name=B4NAUTRE1
+Start=242
+Len=60
+DataType=Alpha
+
+[Item]
+Label=B5/ Savez-vous qu’en matière de branchement au réseau, la REGIDESO a des devoirs ci-après :
+Name=B5
+Start=302
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=B5/ Savez-vous qu’en matière de branchement au réseau, la REGIDESO a des devoirs ci-après :
+Name=B5_VS1
+Value='A       ';Entretenir à ses frais le parfait état d’utilisation des branchements pour autant que les dégradations sont dues à l’usure, défaut de conception ou défaut de montage
+Value='B       ';Faire parvenir périodiquement aux abonnés les montants des factures de consommation d’eau et de redevance compteurs
+Value='C       ';Communiquer aux abonnés par voie d’affichage, les tarifs de vente d’eau
+Value='D       ';Appliquer la correction de la facture contestée et reconnue légitime sur la facture ultérieure
+Value='E       ';Avoir un bureau d’accueil pour le public dans chaque siège
+Value='F       ';Autre (veuillez spécifier)
+
+[Item]
+Label=B5/ Savez-vous qu’en matière de branchement au réseaui-après :B5a Entretenir à ses frais le parfait état d’utilisation des branchements pour autant que les dégradations sont dues à l’usure, défaut de conception ou défaut de montage
+Name=B5A
+Start=302
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B5/ Savez-vous qu’en matière de branchement au réseaui-après :B5a Entretenir à ses frais le parfait état d’utilisation des branchements pour autant que les dégradations sont dues à l’usure, défaut de conception ou défaut de montage
+Name=B5A_VS1
+Value='A';Entretenir à ses frais le parfait état d’utilisation des branchements pour autant que les dégradations sont dues à l’usure, défaut de conception ou défaut de montage
+Value='B';Faire parvenir périodiquement aux abonnés les montants des factures de consommation d’eau et de redevance compteurs
+Value='C';Communiquer aux abonnés par voie d’affichage, les tarifs de vente d’eau
+Value='D';Appliquer la correction de la facture contestée et reconnue légitime sur la facture ultérieure
+Value='E';Avoir un bureau d’accueil pour le public dans chaque siège
+Value='F';Autre (veuillez spécifier)
+
+[Item]
+Label=B5b Faire parvenir périodiquement aux abonnés les montants des factures de consommation d’eau et de redevance compteurs
+Name=B5B
+Start=303
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B5b Faire parvenir périodiquement aux abonnés les montants des factures de consommation d’eau et de redevance compteurs
+Name=B5B_VS1
+Value='A';Entretenir à ses frais le parfait état d’utilisation des branchements pour autant que les dégradations sont dues à l’usure, défaut de conception ou défaut de montage
+Value='B';Faire parvenir périodiquement aux abonnés les montants des factures de consommation d’eau et de redevance compteurs
+Value='C';Communiquer aux abonnés par voie d’affichage, les tarifs de vente d’eau
+Value='D';Appliquer la correction de la facture contestée et reconnue légitime sur la facture ultérieure
+Value='E';Avoir un bureau d’accueil pour le public dans chaque siège
+Value='F';Autre (veuillez spécifier)
+
+[Item]
+Label=B5c Communiquer aux abonnés par voie d’affichage, les tarifs de vente d’eau
+Name=B5C
+Start=304
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B5c Communiquer aux abonnés par voie d’affichage, les tarifs de vente d’eau
+Name=B5C_VS1
+Value='A';Entretenir à ses frais le parfait état d’utilisation des branchements pour autant que les dégradations sont dues à l’usure, défaut de conception ou défaut de montage
+Value='B';Faire parvenir périodiquement aux abonnés les montants des factures de consommation d’eau et de redevance compteurs
+Value='C';Communiquer aux abonnés par voie d’affichage, les tarifs de vente d’eau
+Value='D';Appliquer la correction de la facture contestée et reconnue légitime sur la facture ultérieure
+Value='E';Avoir un bureau d’accueil pour le public dans chaque siège
+Value='F';Autre (veuillez spécifier)
+
+[Item]
+Label=B5d Appliquer la correction de la facture contestée et reconnue légitime sur la facture ultérieure
+Name=B5D
+Start=305
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B5d Appliquer la correction de la facture contestée et reconnue légitime sur la facture ultérieure
+Name=B5D_VS1
+Value='A';Entretenir à ses frais le parfait état d’utilisation des branchements pour autant que les dégradations sont dues à l’usure, défaut de conception ou défaut de montage
+Value='B';Faire parvenir périodiquement aux abonnés les montants des factures de consommation d’eau et de redevance compteurs
+Value='C';Communiquer aux abonnés par voie d’affichage, les tarifs de vente d’eau
+Value='D';Appliquer la correction de la facture contestée et reconnue légitime sur la facture ultérieure
+Value='E';Avoir un bureau d’accueil pour le public dans chaque siège
+Value='F';Autre (veuillez spécifier)
+
+[Item]
+Label=B5e Avoir un bureau d’accueil pour le public dans chaque siège
+Name=B5E
+Start=306
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B5e Avoir un bureau d’accueil pour le public dans chaque siège
+Name=B5E_VS1
+Value='A';Entretenir à ses frais le parfait état d’utilisation des branchements pour autant que les dégradations sont dues à l’usure, défaut de conception ou défaut de montage
+Value='B';Faire parvenir périodiquement aux abonnés les montants des factures de consommation d’eau et de redevance compteurs
+Value='C';Communiquer aux abonnés par voie d’affichage, les tarifs de vente d’eau
+Value='D';Appliquer la correction de la facture contestée et reconnue légitime sur la facture ultérieure
+Value='E';Avoir un bureau d’accueil pour le public dans chaque siège
+Value='F';Autre (veuillez spécifier)
+
+[Item]
+Label=B5f Autre
+Name=B5F_AUTRE_VEUILLEZ_SPECIFIER
+Start=307
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=B5f Autre
+Name=B5F_AUTRE_VEUILLEZ_SPECIFIER_VS1
+Value='A';Entretenir à ses frais le parfait état d’utilisation des branchements pour autant que les dégradations sont dues à l’usure, défaut de conception ou défaut de montage
+Value='B';Faire parvenir périodiquement aux abonnés les montants des factures de consommation d’eau et de redevance compteurs
+Value='C';Communiquer aux abonnés par voie d’affichage, les tarifs de vente d’eau
+Value='D';Appliquer la correction de la facture contestée et reconnue légitime sur la facture ultérieure
+Value='E';Avoir un bureau d’accueil pour le public dans chaque siège
+Value='F';Autre (veuillez spécifier)
+
+[Item]
+Label=B5f Autre (veuillez spécifier)
+Name=B5F_AUTRE_VEUILLEZ_SPECIFIER1
+Start=310
+Len=60
+DataType=Alpha
+
+[Item]
+Label=B6/ Comment appréciez-vous les services offerts par la REGIDESO ?
+Name=B6
+Start=370
+Len=1
+
+[ValueSet]
+Label=B6/ Comment appréciez-vous les services offerts par la REGIDESO ?
+Name=B6_VS1
+Value=1;Excellent
+Value=2;Très bien
+Value=3;Bien
+Value=4;Assez bien
+Value=5;Pas bien du tout
+
+[Record]
+Label=EN QUESTIONNAIRE
+Name=EN_QUESTIONNAIRE
+RecordTypeValue='5'
+RecordLen=35
+
+[Item]
+Label=Date de l’enquête  JJ/MM/AAAA
+Name=DATEE
+Start=7
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour
+Name=JOUR
+Start=7
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Mois
+Name=MOIS
+Start=9
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Année
+Name=ANNEE
+Start=11
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=GPS
+Name=H_11
+Start=15
+Len=1
+
+[ValueSet]
+Label=GPS
+Name=H_11_VS1
+Value=1;Capturé GPS
+Value=2;Concervé le GPS
+Note=Pour corrigé l'enregistrement sans modifié les coordonnees GPS: Concervé les anciennes données
+
+[Item]
+Label=LONGITUDE
+Name=LON
+Start=16
+Len=10
+Decimal=6
+DecimalChar=Yes
+
+[Item]
+Label=LATITUDE
+Name=LAT
+Start=26
+Len=10
+Decimal=6
+DecimalChar=Yes

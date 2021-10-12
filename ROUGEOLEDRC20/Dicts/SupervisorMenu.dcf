@@ -1,0 +1,55 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=SupervisorMenu
+Name=SUPERVISORMENU_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+
+[Level]
+Label=SupervisorMenu Level
+Name=SUPERVISORMENU_LEVEL
+
+[IdItems]
+
+[Item]
+Label=SupervisorMenu Identification
+Name=SUPERVISORMENU_ID
+Start=2
+Len=1
+ZeroFill=Yes
+
+[Record]
+Label=SupervisorMenu Record
+Name=SUPERVISORMENU_REC
+RecordTypeValue='1'
+RecordLen=6
+
+[Item]
+Label=Grappe
+Name=S01
+Start=3
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Grappe
+Name=S01_VS1
+Value=1:999
+
+[Item]
+Label=Action
+Name=S02
+Start=6
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Action
+Name=S02_VS1
+Value=1;Questionnaires ménages
+Value=2;Recevoir les Données
+Value=3;Envoyer les Données
+Value=4;Quitter

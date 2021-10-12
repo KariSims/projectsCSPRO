@@ -1,0 +1,158 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.3
+
+[LANGUAGES]
+EN=English
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B1/ Avant notre entretien, Savez-vous que la REGIDESO met gratuitement \'e0 la disposition de ses abonn\'e9es un r\'e8glement d\rquote exploitation qui retrace leurs droits et devoirs ?\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B2
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B2/ Avant notre entretien, Savez-vous qu\rquote en mati\'e8re de branchement au r\'e9seau de la REGIDESO vous avez droit aux \'e9l\'e9ments ci-apr\'e8s :\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B2NAUTRE1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B2n Autre (veuillez sp\'e9cifier\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B3
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B3/ Savez-vous qu\rquote en mati\'e8re de branchement au r\'e9seau, la REGIDESO a droit aux \'e9l\'e9ments ci-apr\'e8s\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B3OAUTRE1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B3O Autre (veuillez sp\'e9cifier\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B4
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B4/ Avant notre entretien, Savez-vous qu\rquote en mati\'e8re de branchement au r\'e9seau de la REGIDESO vous avez des devoirs ci-apr\'e8s en tant\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B4NAUTRE1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B4n Autre (veuillez sp\'e9cifier)\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B5
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B5/ Savez-vous qu\rquote en mati\'e8re de branchement au r\'e9seau, la REGIDESO a des devoirs ci-apr\'e8s :\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B5F_AUTRE_VEUILLEZ_SPECIFIER1
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B5f Autre (veuillez sp\'e9cifier)\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.B6
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 B6/ Comment appr\'e9ciez-vous les services offerts par la REGIDESO ?\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.COMMUNE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 Commune\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.FORM_NOM_DU_REPONDANT
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 form.Nom_du_repondant\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.GPS_GEU
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial Narrow;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs22 GPS\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.INTERVIEW_DATE_END
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24  Date \par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.INTERVIEW_END_TIME
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial Narrow;}{\f1\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs22 Heure de la\lang1033  fin \f1\fs24\lang1036\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.LATITUDF
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial Narrow;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs22 Latitude\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.LONGITUDF
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial Narrow;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\f0\fs22 Longitude\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.NOM_ENQUETEUR
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 Nom Enqueteur\par
+EN=}
+
+[QUESTION]
+Field=ABEC_REGIDESO_DICT.NUMBER
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 number\par
+EN=}
+

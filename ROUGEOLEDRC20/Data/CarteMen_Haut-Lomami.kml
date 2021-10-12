@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MA</name>
+<description><![CDATA[Province : Haut-Lomami<br /> ZS : 9<br /> Enquêteur : <br />N° grappe : 113<br /> Statut : Enquêté<br /> longitude : 0024.993121<br /> Latitude : -008.731581<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.993121,-008.731581,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KF</name>
+<description><![CDATA[Province : Haut-Lomami<br /> ZS : 9<br /> Enquêteur : <br />N° grappe : 113<br /> Statut : Enquêté<br /> longitude : 0024.993031<br /> Latitude : -008.732259<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.993031,-008.732259,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KM</name>
+<description><![CDATA[Province : Haut-Lomami<br /> ZS : 9<br /> Enquêteur : <br />N° grappe : 113<br /> Statut : Enquêté<br /> longitude : 0024.995433<br /> Latitude : -008.732000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.995433,-008.732000,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BN</name>
+<description><![CDATA[Province : Haut-Lomami<br /> ZS : 9<br /> Enquêteur : <br />N° grappe : 113<br /> Statut : Enquêté<br /> longitude : 0024.993443<br /> Latitude : -008.731404<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.993443,-008.731404,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

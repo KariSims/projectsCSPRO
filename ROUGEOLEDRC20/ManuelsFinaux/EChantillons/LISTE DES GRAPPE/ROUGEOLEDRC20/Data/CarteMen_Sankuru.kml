@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : b</name>
+<description><![CDATA[Province : Sankuru<br /> ZS : ZS Buta<br /> Enquêteur : <br />N° grappe : Bobalea<br /> Statut : Enquêté<br /> longitude : 0830.667739<br /> Latitude : 0172.661720<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0830.667739,0172.661720,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

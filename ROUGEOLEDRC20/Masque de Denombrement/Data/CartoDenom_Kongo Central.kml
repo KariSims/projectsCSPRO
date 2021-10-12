@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: Don</name>
+<description><![CDATA[Province : Kongo Central<br /> ANTENNE : 01<br /> N° Enquêteur : 04<br />N° ZS : 19<br /> Statut : Enquêté<br /> longitude : 0013.446535<br /> Latitude : -005.836074<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0013.446535,-005.836074,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : Kongo Central<br /> ZS : 19<br /> Enquêteur : 04<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : 0013.446536<br /> Lattitude : -005.836075<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0013.446536,-005.836075,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : Kongo Central<br /> ZS : 19<br /> Enquêteur : 04<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : Kongo Central<br /> ZS : 19<br /> Enquêteur : 04<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

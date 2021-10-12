@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NC</name>
+<description><![CDATA[Province : Kasaï<br /> ZS : ZS Buta<br /> Enquêteur : <br />N° grappe : Logo<br /> Statut : Enquêté<br /> longitude : 0605.331914<br /> Latitude : 0593.948462<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0605.331914,0593.948462,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : </name>
+<description><![CDATA[Province : Kasaï<br /> ZS : ZS Buta<br /> Enquêteur : <br />N° grappe : Rubi<br /> Statut : Enquêté<br /> longitude : 0501.471630<br /> Latitude : 0560.833492<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0501.471630,0560.833492,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : 7t</name>
+<description><![CDATA[Province : Kasaï<br /> ZS : ZS Aketi<br /> Enquêteur : <br />N° grappe : Badge<br /> Statut : Enquêté<br /> longitude : 0267.280639<br /> Latitude : 0754.409789<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0267.280639,0754.409789,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : </name>
+<description><![CDATA[Province : Kasaï<br /> ZS : ZS Aketi<br /> Enquêteur : <br />N° grappe : Mopembe<br /> Statut : Enquêté<br /> longitude : 0746.923743<br /> Latitude : -016.993526<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0746.923743,-016.993526,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

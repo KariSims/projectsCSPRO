@@ -1,0 +1,847 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 175<br /> Statut : Enquêté<br /> longitude : 0020.542259<br /> Latitude : -006.402424<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.542259,-006.402424,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kb</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 175<br /> Statut : Enquêté<br /> longitude : 0020.542410<br /> Latitude : -006.402303<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.542410,-006.402303,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mm</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 175<br /> Statut : Enquêté<br /> longitude : 0020.541968<br /> Latitude : -006.402549<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.541968,-006.402549,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ME</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 175<br /> Statut : Enquêté<br /> longitude : 0020.540594<br /> Latitude : -006.402653<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.540594,-006.402653,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mt</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 175<br /> Statut : Enquêté<br /> longitude : 0020.540394<br /> Latitude : -006.402848<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.540394,-006.402848,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mm</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 175<br /> Statut : Enquêté<br /> longitude : 0020.541670<br /> Latitude : -006.402271<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.541670,-006.402271,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mr</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 173<br /> Statut : Enquêté<br /> longitude : 0020.689172<br /> Latitude : -006.336180<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.689172,-006.336180,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KK</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 173<br /> Statut : Enquêté<br /> longitude : 0020.689074<br /> Latitude : -006.336293<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.689074,-006.336293,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 173<br /> Statut : Enquêté<br /> longitude : 0020.689441<br /> Latitude : -006.335988<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.689441,-006.335988,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 173<br /> Statut : Enquêté<br /> longitude : 0020.689708<br /> Latitude : -006.336424<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.689708,-006.336424,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Ik</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 173<br /> Statut : Enquêté<br /> longitude : 0020.689522<br /> Latitude : -006.336823<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.689522,-006.336823,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Lm</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 173<br /> Statut : Enquêté<br /> longitude : 0020.689373<br /> Latitude : -006.336478<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.689373,-006.336478,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Bk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 173<br /> Statut : Enquêté<br /> longitude : 0020.689243<br /> Latitude : -006.337218<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.689243,-006.337218,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Nb</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 177<br /> Statut : Enquêté<br /> longitude : 0020.631233<br /> Latitude : -006.425662<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.631233,-006.425662,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 177<br /> Statut : Enquêté<br /> longitude : 0020.631646<br /> Latitude : -006.425664<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.631646,-006.425664,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 177<br /> Statut : Enquêté<br /> longitude : 0020.632065<br /> Latitude : -006.425393<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.632065,-006.425393,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 177<br /> Statut : Enquêté<br /> longitude : 0020.631587<br /> Latitude : -006.425350<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.631587,-006.425350,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 177<br /> Statut : Enquêté<br /> longitude : 0020.631673<br /> Latitude : -006.424875<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.631673,-006.424875,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kw</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 172<br /> Statut : Enquêté<br /> longitude : 0020.764589<br /> Latitude : -006.407748<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.764589,-006.407748,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 172<br /> Statut : Enquêté<br /> longitude : 0020.764168<br /> Latitude : -006.407097<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.764168,-006.407097,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 172<br /> Statut : Enquêté<br /> longitude : 0020.763819<br /> Latitude : -006.406983<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.763819,-006.406983,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mf</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 182<br /> Statut : Enquêté<br /> longitude : 0020.763211<br /> Latitude : -006.409372<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.763211,-006.409372,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 182<br /> Statut : Enquêté<br /> longitude : 0020.763509<br /> Latitude : -006.409481<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.763509,-006.409481,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Ab</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 182<br /> Statut : Enquêté<br /> longitude : 0020.763996<br /> Latitude : -006.410325<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.763996,-006.410325,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Nk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 182<br /> Statut : Enquêté<br /> longitude : 0020.764236<br /> Latitude : -006.410727<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.764236,-006.410727,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Ka</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 176<br /> Statut : Enquêté<br /> longitude : 0020.747008<br /> Latitude : -006.421512<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.747008,-006.421512,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kl</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 176<br /> Statut : Enquêté<br /> longitude : 0020.747503<br /> Latitude : -006.421557<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.747503,-006.421557,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Bi</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 178<br /> Statut : Enquêté<br /> longitude : 0020.761425<br /> Latitude : -006.419730<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.761425,-006.419730,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kd</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 178<br /> Statut : Enquêté<br /> longitude : 0020.760569<br /> Latitude : -006.418876<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.760569,-006.418876,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mm</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 178<br /> Statut : Enquêté<br /> longitude : 0020.759858<br /> Latitude : -006.417756<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.759858,-006.417756,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Ml</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 174<br /> Statut : Enquêté<br /> longitude : 0020.764785<br /> Latitude : -006.411310<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.764785,-006.411310,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Tf</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 174<br /> Statut : Enquêté<br /> longitude : 0020.766935<br /> Latitude : -006.413867<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.766935,-006.413867,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Km</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 179<br /> Statut : Enquêté<br /> longitude : 0020.757020<br /> Latitude : -006.424024<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.757020,-006.424024,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mc</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 179<br /> Statut : Enquêté<br /> longitude : 0020.756044<br /> Latitude : -006.423333<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.756044,-006.423333,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Sm</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 179<br /> Statut : Enquêté<br /> longitude : 0020.755819<br /> Latitude : -006.423153<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.755819,-006.423153,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ML</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 179<br /> Statut : Enquêté<br /> longitude : 0020.755715<br /> Latitude : -006.423018<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.755715,-006.423018,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Ma</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 179<br /> Statut : Enquêté<br /> longitude : 0020.756000<br /> Latitude : -006.423130<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.756000,-006.423130,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mc</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 179<br /> Statut : Enquêté<br /> longitude : 0020.755906<br /> Latitude : -006.422781<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.755906,-006.422781,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mh</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 179<br /> Statut : Enquêté<br /> longitude : 0020.755447<br /> Latitude : -006.422434<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.755447,-006.422434,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Te</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 172<br /> Statut : Enquêté<br /> longitude : 0020.764734<br /> Latitude : -006.407805<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.764734,-006.407805,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Yb</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 172<br /> Statut : Enquêté<br /> longitude : 0020.764660<br /> Latitude : -006.407722<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.764660,-006.407722,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Pd</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 172<br /> Statut : Enquêté<br /> longitude : 0020.764006<br /> Latitude : -006.407218<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.764006,-006.407218,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Tt</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 172<br /> Statut : Enquêté<br /> longitude : 0020.763767<br /> Latitude : -006.407103<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.763767,-006.407103,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mr</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 182<br /> Statut : Enquêté<br /> longitude : 0020.763240<br /> Latitude : -006.409170<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.763240,-006.409170,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mk</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 182<br /> Statut : Enquêté<br /> longitude : 0020.763534<br /> Latitude : -006.409605<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.763534,-006.409605,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mm</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 182<br /> Statut : Enquêté<br /> longitude : 0020.763571<br /> Latitude : -006.409895<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.763571,-006.409895,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Km</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 176<br /> Statut : Enquêté<br /> longitude : 0020.746704<br /> Latitude : -006.421474<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.746704,-006.421474,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Lb</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 176<br /> Statut : Enquêté<br /> longitude : 0020.746940<br /> Latitude : -006.421634<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.746940,-006.421634,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Nm</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 176<br /> Statut : Enquêté<br /> longitude : 0020.747435<br /> Latitude : -006.421855<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.747435,-006.421855,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KM</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 176<br /> Statut : Enquêté<br /> longitude : 0020.746233<br /> Latitude : -006.421224<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.746233,-006.421224,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kh</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 177<br /> Statut : Enquêté<br /> longitude : 0020.761420<br /> Latitude : -006.419901<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.761420,-006.419901,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Pd</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 178<br /> Statut : Enquêté<br /> longitude : 0020.761422<br /> Latitude : -006.419586<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.761422,-006.419586,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Yb</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 178<br /> Statut : Enquêté<br /> longitude : 0020.760091<br /> Latitude : -006.418071<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.760091,-006.418071,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : GM</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 174<br /> Statut : Enquêté<br /> longitude : 0020.764484<br /> Latitude : -006.411087<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.764484,-006.411087,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mn</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 174<br /> Statut : Enquêté<br /> longitude : 0020.765395<br /> Latitude : -006.412084<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.765395,-006.412084,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Dm</name>
+<description><![CDATA[Province : Kasai<br /> ZS : 13<br /> Enquêteur : <br />N° grappe : 174<br /> Statut : Enquêté<br /> longitude : 0020.765464<br /> Latitude : -006.412133<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.765464,-006.412133,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

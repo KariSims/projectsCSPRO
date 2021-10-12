@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AK</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 707<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KB</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 707<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LA</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 707<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PS</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 707<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LT</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 51<br /> Enquêteur : <br />N° grappe : 707<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 717<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 717<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 717<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 717<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MP</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 717<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 717<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 717<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KP</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 727<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MP</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 727<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MN</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 727<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ML</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 727<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LK</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 727<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MA</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 727<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SD</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 727<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LT</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 716<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MB</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 716<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NF</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 716<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 716<br /> Statut : Enquêté<br /> longitude : 0015.930945<br /> Latitude : -004.312280<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.930945,-004.312280,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NN</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 716<br /> Statut : Enquêté<br /> longitude : 0015.931080<br /> Latitude : -004.312331<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.931080,-004.312331,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ND</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 716<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NB</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 719<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MN</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 719<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : TK</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 719<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KF</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 719<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 719<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MK</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 719<br /> Statut : Enquêté<br /> longitude : 0015.824430<br /> Latitude : -004.345404<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.824430,-004.345404,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BD</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 719<br /> Statut : Enquêté<br /> longitude : 0015.825294<br /> Latitude : -004.349190<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.825294,-004.349190,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 719<br /> Statut : Enquêté<br /> longitude : 0015.825958<br /> Latitude : -004.349223<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.825958,-004.349223,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MV</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 718<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MV</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 718<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MF</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 718<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MF</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 718<br /> Statut : Enquêté<br /> longitude : 0015.755291<br /> Latitude : -004.317863<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.755291,-004.317863,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 718<br /> Statut : Enquêté<br /> longitude : 0015.755802<br /> Latitude : -004.317812<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.755802,-004.317812,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MK</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 718<br /> Statut : Enquêté<br /> longitude : 0015.754996<br /> Latitude : -004.316493<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.754996,-004.316493,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LM</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 718<br /> Statut : Enquêté<br /> longitude : 0015.755968<br /> Latitude : -004.317627<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.755968,-004.317627,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MS</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 718<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MS</name>
+<description><![CDATA[Province : BAS UELE<br /> ZS : 52<br /> Enquêteur : <br />N° grappe : 718<br /> Statut : Enquêté<br /> longitude : 0015.756351<br /> Latitude : -004.317135<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.756351,-004.317135,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

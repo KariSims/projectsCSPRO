@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BV</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 75<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PM</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 75<br /> Statut : Enquêté<br /> longitude : 0026.602633<br /> Latitude : -010.873179<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.602633,-010.873179,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PM</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 75<br /> Statut : Enquêté<br /> longitude : 0026.602395<br /> Latitude : -010.873418<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.602395,-010.873418,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KG</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 79<br /> Statut : Enquêté<br /> longitude : 0026.593818<br /> Latitude : -010.863518<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.593818,-010.863518,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LG</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 79<br /> Statut : Enquêté<br /> longitude : 0026.594261<br /> Latitude : -010.864731<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.594261,-010.864731,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : J</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 79<br /> Statut : Enquêté<br /> longitude : 0026.593034<br /> Latitude : -010.862978<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.593034,-010.862978,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ME</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 76<br /> Statut : Enquêté<br /> longitude : 0026.594724<br /> Latitude : -010.875788<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.594724,-010.875788,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KK</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 76<br /> Statut : Enquêté<br /> longitude : 0026.594793<br /> Latitude : -010.874142<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.594793,-010.874142,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KK</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 76<br /> Statut : Enquêté<br /> longitude : 0026.594256<br /> Latitude : -010.873730<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.594256,-010.873730,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : E</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 76<br /> Statut : Enquêté<br /> longitude : 0026.594199<br /> Latitude : -010.873913<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.594199,-010.873913,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 77<br /> Statut : Enquêté<br /> longitude : 0026.591460<br /> Latitude : -010.878396<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.591460,-010.878396,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NK</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 77<br /> Statut : Enquêté<br /> longitude : 0026.590838<br /> Latitude : -010.878015<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.590838,-010.878015,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KM</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 75<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MK</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 75<br /> Statut : Enquêté<br /> longitude : 0026.605323<br /> Latitude : -010.872827<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.605323,-010.872827,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KR</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 79<br /> Statut : Enquêté<br /> longitude : 0026.594028<br /> Latitude : -010.864140<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.594028,-010.864140,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KT</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 75<br /> Statut : Enquêté<br /> longitude : 0026.606126<br /> Latitude : -010.873315<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.606126,-010.873315,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MH</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 75<br /> Statut : Enquêté<br /> longitude : 0026.604286<br /> Latitude : -010.873257<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.604286,-010.873257,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BN</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 79<br /> Statut : Enquêté<br /> longitude : 0026.593754<br /> Latitude : -010.864361<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.593754,-010.864361,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MD</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 79<br /> Statut : Enquêté<br /> longitude : 0026.594211<br /> Latitude : -010.864587<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.594211,-010.864587,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KA</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 76<br /> Statut : Enquêté<br /> longitude : 0026.594649<br /> Latitude : -010.875453<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.594649,-010.875453,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : TM</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 76<br /> Statut : Enquêté<br /> longitude : 0026.595029<br /> Latitude : -010.875097<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.595029,-010.875097,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BB</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 77<br /> Statut : Enquêté<br /> longitude : 0026.591165<br /> Latitude : -010.878256<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.591165,-010.878256,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MK</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 77<br /> Statut : Enquêté<br /> longitude : 0026.590853<br /> Latitude : -010.877984<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.590853,-010.877984,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KA</name>
+<description><![CDATA[Province : HAUT KATANGA<br /> ZS : 6<br /> Enquêteur : <br />N° grappe : 77<br /> Statut : Enquêté<br /> longitude : 0026.590873<br /> Latitude : -010.878251<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0026.590873,-010.878251,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

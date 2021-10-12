@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MR</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 518<br /> Statut : Enquêté<br /> longitude : 0021.000545<br /> Latitude : 0004.269884<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0021.000545,0004.269884,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MC</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 518<br /> Statut : Enquêté<br /> longitude : 0021.001189<br /> Latitude : 0004.269302<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0021.001189,0004.269302,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KN</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 518<br /> Statut : Enquêté<br /> longitude : 0021.001859<br /> Latitude : 0004.269176<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0021.001859,0004.269176,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : FR</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 518<br /> Statut : Enquêté<br /> longitude : 0021.000196<br /> Latitude : 0004.271099<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0021.000196,0004.271099,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MC</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 518<br /> Statut : Enquêté<br /> longitude : 0021.000390<br /> Latitude : 0004.271488<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0021.000390,0004.271488,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AS</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 518<br /> Statut : Enquêté<br /> longitude : 0021.000680<br /> Latitude : 0004.270514<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0021.000680,0004.270514,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : WJ</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 518<br /> Statut : Enquêté<br /> longitude : DEFAULT    <br /> Latitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NT</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 516<br /> Statut : Enquêté<br /> longitude : 0020.896715<br /> Latitude : 0004.218633<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.896715,0004.218633,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KG</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 516<br /> Statut : Enquêté<br /> longitude : 0020.896811<br /> Latitude : 0004.218618<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.896811,0004.218618,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MJ</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 516<br /> Statut : Enquêté<br /> longitude : 0020.898129<br /> Latitude : 0004.220654<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.898129,0004.220654,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MS</name>
+<description><![CDATA[Province : Nord-Ubangi<br /> ZS : 37<br /> Enquêteur : <br />N° grappe : 516<br /> Statut : Enquêté<br /> longitude : 0020.897094<br /> Latitude : 0004.221421<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0020.897094,0004.221421,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

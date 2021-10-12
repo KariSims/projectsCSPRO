@@ -1,0 +1,28 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=INTERVIEWER
+Name=INTERVIEWER
+AppType=DataEntry
+OperatorID=No
+PartialSave=Yes
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+CaseTree=Never
+AutoAdvanceOnSelection=Yes
+ComboBoxShowOnlyDiscreteValues=Yes
+[External Dictionaries]
+File=..\Dicts\QUESTIONNAIRE MENAGE.dcf
+[AppCode]
+File=.\Interviewer.ent.apc
+[Message]
+File=.\Interviewer.ent.mgf
+[Help]
+File=.\Interviewer.ent.qsf
+[Forms]
+File=.\Interviewer.fmf
+[Dictionary Types]
+Dict-Type=..\Dicts\InterviewerMenu.dcf,Input,.\Interviewer.fmf
+Dict-Type=..\Dicts\QUESTIONNAIRE MENAGE.dcf,External

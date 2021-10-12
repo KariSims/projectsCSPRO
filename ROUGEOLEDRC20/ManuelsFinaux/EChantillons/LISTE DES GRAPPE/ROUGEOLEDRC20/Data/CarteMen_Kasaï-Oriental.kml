@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : L</name>
+<description><![CDATA[Province : Kasaï-Oriental<br /> ZS : ZS Aketi<br /> Enquêteur : <br />N° grappe : Mopembe<br /> Statut : Enquêté<br /> longitude : -013.258974<br /> Latitude : 0558.231227<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>-013.258974,0558.231227,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

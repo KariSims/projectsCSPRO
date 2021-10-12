@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: Serge Epenge</name>
+<description><![CDATA[Province : Kasai-Central<br /> ANTENNE : 05<br /> N° Enquêteur : 00<br />N° ZS : 15<br /> Statut : Enquêté<br /> longitude : 0523.000000<br /> Latitude : 0212.000000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0523.000000,0212.000000,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: Felix</name>
+<description><![CDATA[Province : Kasai-Central<br /> ANTENNE : 05<br /> N° Enquêteur : 00<br />N° ZS : 15<br /> Statut : Enquêté<br /> longitude : 0524.000000<br /> Latitude : 0285.000000<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0524.000000,0285.000000,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : Kasai-Central<br /> ZS : 15<br /> Enquêteur : 00<br />N° ANTENNE : 05<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : IY</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 646<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SS</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 646<br /> Statut : Enquêté<br /> longitude : 0025.180077<br /> Latitude : 0000.510468<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.180077,0000.510468,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MP</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 655<br /> Statut : Enquêté<br /> longitude : 0025.201441<br /> Latitude : 0000.512554<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.201441,0000.512554,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : UJ</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 655<br /> Statut : Enquêté<br /> longitude : 0025.202358<br /> Latitude : 0000.511264<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.202358,0000.511264,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KA</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 655<br /> Statut : Enquêté<br /> longitude : 0025.201351<br /> Latitude : 0000.512809<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.201351,0000.512809,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AM</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 647<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ES</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 645<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Ml</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 652<br /> Statut : Enquêté<br /> longitude : DEFAULT    <br /> Latitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : HP</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 652<br /> Statut : Enquêté<br /> longitude : 0025.190423<br /> Latitude : 0000.512931<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.190423,0000.512931,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AA</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 649<br /> Statut : Enquêté<br /> longitude : 0025.214544<br /> Latitude : 0000.505201<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.214544,0000.505201,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AS</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 649<br /> Statut : Enquêté<br /> longitude : 0025.215131<br /> Latitude : 0000.505026<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.215131,0000.505026,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : CM</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 649<br /> Statut : Enquêté<br /> longitude : 0025.215144<br /> Latitude : 0000.504965<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.215144,0000.504965,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AA</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 650<br /> Statut : Enquêté<br /> longitude : 0025.214936<br /> Latitude : 0000.504660<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.214936,0000.504660,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : CR</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 657<br /> Statut : Enquêté<br /> longitude : 0025.231003<br /> Latitude : 0000.515462<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.231003,0000.515462,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : EA</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 657<br /> Statut : Enquêté<br /> longitude : 0025.231217<br /> Latitude : 0000.516368<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.231217,0000.516368,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : CM</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 657<br /> Statut : Enquêté<br /> longitude : 0025.230949<br /> Latitude : 0000.516014<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.230949,0000.516014,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PU</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 651<br /> Statut : Enquêté<br /> longitude : 0025.208929<br /> Latitude : 0000.554074<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.208929,0000.554074,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : VB</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 651<br /> Statut : Enquêté<br /> longitude : 0025.209085<br /> Latitude : 0000.553941<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.209085,0000.553941,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : YB</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 651<br /> Statut : Enquêté<br /> longitude : 0025.209332<br /> Latitude : 0000.552929<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.209332,0000.552929,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DM</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 646<br /> Statut : Enquêté<br /> longitude : DEFAULT    <br /> Latitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : RI</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 655<br /> Statut : Enquêté<br /> longitude : 0025.201514<br /> Latitude : 0000.512520<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.201514,0000.512520,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : GK</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 646<br /> Statut : Enquêté<br /> longitude : DEFAULT    <br /> Latitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NN</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 646<br /> Statut : Enquêté<br /> longitude : DEFAULT    <br /> Latitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : JE</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 655<br /> Statut : Enquêté<br /> longitude : DEFAULT    <br /> Latitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : OB</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 646<br /> Statut : Enquêté<br /> longitude : 0025.184937<br /> Latitude : 0000.513904<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.184937,0000.513904,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AN</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 652<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : JA</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 650<br /> Statut : Enquêté<br /> longitude : 0025.214121<br /> Latitude : 0000.504788<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.214121,0000.504788,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AA</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 650<br /> Statut : Enquêté<br /> longitude : 0025.214278<br /> Latitude : 0000.504786<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.214278,0000.504786,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PO</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 650<br /> Statut : Enquêté<br /> longitude : 0025.215463<br /> Latitude : 0000.505033<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.215463,0000.505033,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MD</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 650<br /> Statut : Enquêté<br /> longitude : 0025.215183<br /> Latitude : 0000.504453<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.215183,0000.504453,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ES</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 657<br /> Statut : Enquêté<br /> longitude : 0025.231234<br /> Latitude : 0000.513248<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.231234,0000.513248,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NB</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 657<br /> Statut : Enquêté<br /> longitude : 0025.230707<br /> Latitude : 0000.516679<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.230707,0000.516679,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LL</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 657<br /> Statut : Enquêté<br /> longitude : 0025.230851<br /> Latitude : 0000.516261<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.230851,0000.516261,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DB</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 651<br /> Statut : Enquêté<br /> longitude : 0025.209182<br /> Latitude : 0000.554294<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.209182,0000.554294,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ME</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 651<br /> Statut : Enquêté<br /> longitude : 0025.208984<br /> Latitude : 0000.554397<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.208984,0000.554397,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : HM</name>
+<description><![CDATA[Province : TSHOPO<br /> ZS : 47<br /> Enquêteur : <br />N° grappe : 651<br /> Statut : Enquêté<br /> longitude : 0025.208698<br /> Latitude : 0000.551867<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.208698,0000.551867,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,26 @@
+﻿Application     C:\ROUGEOLEDRC20\batch_rougeole\listing_erreurs.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\ROUGEOLEDRC20\Data\ Kasaï.csdb
+<File>          htmlTemp=
+
+Date            Nov 05, 2020
+Start Time      11:05:27
+End Time        11:05:27
+
+CSPro Process Summary
+
+      ╔══════════════════════════════════════════════════════╗
+      ║        86 Records Read   100% of input file          ║
+      ║         0 Ignored:       0 Unknown         0 Erased  ║
+      ║         0 Messages:      0 E      0 W      0 User    ║
+      ╠═════════╦══════════════╦══════════════╦══════════════╣
+      ║  Level  ║  Input Case  ║  Bad Struct  ║  Level Post  ║
+      ╠═════════╬══════════════╬══════════════╬══════════════╣
+      ║      1  ║          21  ║           0  ║          21  ║
+      ╚═════════╩══════════════╩══════════════╩══════════════╝
+
+Process Messages
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

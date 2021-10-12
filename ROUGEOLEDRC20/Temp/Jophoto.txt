@@ -1,0 +1,7 @@
+if VCR02 = 1 then
+ VCR02A=1;    
+	string nomFichierPhoto =concat("Carnet", maketext("/mnt/storage/Pictures/Carnet%v%v%v%v%v%v.jpg",                                 
+	IDE01, IDE02, IDE03,IDE06,IDE08,IDE11)); execsystem("camera:" + nomFichierPhoto);
+else
+	skip to VCR05;
+endif;

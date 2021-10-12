@@ -1,0 +1,27 @@
+﻿Application     C:\Users\PC\AppData\Local\Temp\CSExpRun9360.bch
+Type            BATCH
+Input Data      <<CSPro DB>> D:\PROJET ROUGEOL GAVI 2019\Proposition de Modification Budget\Masque de Denombrement\Data\BASE DENOMBREMENT30-10-2020.csdb
+<File>          file_DATE_DENOMBREMENT=D:\PROJET ROUGEOL GAVI 2019\Proposition de Modification Budget\Masque de Denombrement\Data\DATE_DENOMBREMENT.dat
+<File>          file_FICHE_DE_DENOMBREMENT_DES_MENAGES_DE_LA_GRAPPE=D:\PROJET ROUGEOL GAVI 2019\Proposition de Modification Budget\Masque de Denombrement\Data\FICHE_DE_DENOMBREMENT_DES_MENAGES_DE_LA_GRAPPE.dat
+
+Date            Oct 31, 2020
+Start Time      17:29:14
+End Time        17:29:14
+
+CSPro Process Summary
+
+      ╔══════════════════════════════════════════════════════╗
+      ║       164 Records Read   100% of input file          ║
+      ║         0 Ignored:       0 Unknown         0 Erased  ║
+      ║         0 Messages:      0 E      0 W      0 User    ║
+      ╠═════════╦══════════════╦══════════════╦══════════════╣
+      ║  Level  ║  Input Case  ║  Bad Struct  ║  Level Post  ║
+      ╠═════════╬══════════════╬══════════════╬══════════════╣
+      ║      1  ║          74  ║           0  ║          74  ║
+      ╚═════════╩══════════════╩══════════════╩══════════════╝
+
+Process Messages
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

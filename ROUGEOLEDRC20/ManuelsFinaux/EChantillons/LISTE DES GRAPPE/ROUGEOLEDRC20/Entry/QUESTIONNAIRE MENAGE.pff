@@ -1,0 +1,18 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Entry
+
+[DataEntryInit]
+StartMode=Add
+Lock=Delete
+ShowInApplicationListing=Hidden
+
+[Files]
+Application=.\QUESTIONNAIRE MENAGE.ent
+InputData=..\Data\CCRr.csdb
+
+[ExternalFiles]
+INTERVIEWERMENU_DICT=..\Data\Interview.csdb
+
+[Parameters]
+OnExit=.\MENAGE.pff

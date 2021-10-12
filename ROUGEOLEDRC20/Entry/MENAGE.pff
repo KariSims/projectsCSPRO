@@ -1,0 +1,14 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Entry
+
+[DataEntryInit]
+StartMode=Add
+Lock=Delete
+
+[Files]
+Application=.\MENAGE.ent
+InputData=..\Data\Interview.csdb
+
+[ExternalFiles]
+QUESTIONNAIRE_MENAGE_DICT=..\Data\CCRr.csdb

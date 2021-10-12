@@ -1,0 +1,29 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=ABEC_REGIDESO
+Name=ABEC_REGIDESO
+AppType=DataEntry
+OperatorID=No
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+ShowErrorMessageNumbers=No
+ComboBoxShowOnlyDiscreteValues=Yes
+ParadataCollection=AllEvents
+ParadataRecordInitialPropertyValues=Yes
+ParadataDeviceStateMinutes=5
+[AppCode]
+File=.\ABEC REGIDESO.ent.apc
+[Message]
+File=.\ABEC REGIDESO.ent.mgf
+[Help]
+File=.\ABEC REGIDESO.ent.qsf
+[Forms]
+File=.\ABEC REGIDESO.fmf
+[Dictionary Types]
+Dict-Type=.\ABEC REGIDESO.dcf,Input,.\ABEC REGIDESO.fmf
+[Sync]
+Server=Dropbox
+Direction=Get

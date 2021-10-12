@@ -1,0 +1,912 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.5
+
+[LANGUAGES]
+ENG=English
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ANNEE
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Date de l\rquote enqu\'eate  JJ/MM/AAAA \par
+ENG= \cf2 ANNEE\cf1\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.B19
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 GPS\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE00
+Occurrences=1:30
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 CEE00.Nom et Prenom de l'enfant\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE01.Identifiant de l'enfant (initiales nom et pr\'e9noms)\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE02
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE02.Quel est l\rquote\'e2ge de %CEE00%? \par
+ENG=\par
+ENG=\cf2 N.B. Donner l\rquote\'e2ge en mois r\'e9volu\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE03.Sexe de %CEE00%?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE04.Qui prend soin de %CEE00% ?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE04_AUTRES_A_PRECISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE04 Autres \'e0 preciser\par
+ENG=\cf2\b0\fs24\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE05.Niveau d\rquote instruction de la personne en charge de %CEE00%?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE06
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE06.Religion de la personne en charge de %CEE00%?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE06_AUTRES_RELIGION_A_PRECISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE06 Autres religion \'e0 Pr\'e9ciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE07
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE07 Situation matrimoniale de la personne en charge de %CEE00%?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.CEE08
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 CEE08.%CEE00% vivait-il/elle dans le m\'e9nage pendant les  p\'e9riode de vaccination (pr\'e9ciser du 19 au 23 avril 2019)?   \par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.DATE
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Date de l\rquote enqu\'eate  JJ/MM/AAAA\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.F5
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs24 ICCP00 Selon vous, quelles sont les maladies contre lesquelles les enfants sont-ils vaccin\'e9s?Citez-les\cf2\b0\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.FIN
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Fin eregistrement enfant 1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP00
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs24 ICCP00 Selon vous, quelles sont les maladies contre lesquelles les enfants sont-ils vaccin\'e9s?Citez-les\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP00_AUTRES_A_PRECISER
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs24 ICCP00 Autres \'e0 Pr\'e9ciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset1 Cambria Math;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP01.Avez-vous d\'e9j\'e0 entendu parler de la rougeole ? 1=oui 2=non   \cf2 Si ICCP01=2 \f1\u8594?\f0 aller \'e0 ICCP04\lang1036\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP02
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP02.Comment se manifeste la rougeole?  Citez deux signes \par
+ENG=\cf2 signe 1\par
+ENG=\cf1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP02_AUTRES_A_PRECISE1
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP02 Autres \'e0 preciser SIGNE 1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP02_AUTRES_A_PRECISER2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP02 Autres \'e0 preciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP02_SIGNE2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP02.Comment se manifeste la rougeole?  Citez deux signes \cf2 Signe 2\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP03.Comment se transmet la rougeole?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP03_AUTRES_A_PRECISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP03 Autres \'e0 preciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP04 Une campagne de vaccination contre la rougeole a \'e9t\'e9 men\'e9e dans votre localit\'e9 du 19 au 23 arvil 2019. (Quand) En aviez-vous \'e9t\'e9 inform\'e9e? \par
+ENG=Si ICCP04=4, aller \'e0 VCR01\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP05.Si oui, par quels canaux en aviez-vous \'e9t\'e9 inform\'e9s?\par
+ENG=Citez les deux principaux\par
+ENG=\cf2 CANAL 1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP05_2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP05.Si oui, par quels canaux en aviez-vous \'e9t\'e9 inform\'e9?Citez les deux principaux\par
+ENG=\cf2 CANAL 2\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP05_AUTRES_A_PRECISERB
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 ICCP05 Autres \'e0 pr\'e9ciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.ICCP05_AUTRES_A_PRECISERC
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\fs24 I\cf2\b\fs28 CCP05 Autres \'e0 pr\'e9ciser 1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE01 PROVINCE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE02
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE02 ANTENNE : Renseignez l'Antenne de votre Zone\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE03.ZONE DE SANTE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE03_AUTRE_ZONE_DE_SANTE
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs24 IDE03 AUTRE ZONE DE SANTE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE04 Confirer votre Code ENQUETEUR :\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE05 TEL ENQUETEUR:\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE06
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE06 AIRE DE SANTE: Renseignez votre AIRE de SANTE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE07
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE07. Renseignez le VILLAGE/QUARTIER/LOCALITE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE08
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE08 NUMERO GRAPPE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE09
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE09.MILIEU\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 IDE10 SUPERVISEUR (POINT FOCAL)\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE12
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 IDE12 Dans quel h\'e9misph\'e8re se trouve votre zone de travail\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE13
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 IDE13 Renseignez la longitude\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE14
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 IDE14 Renseignez la Latitude\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.IDE15
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 IDE15 Y a-t-il dans ce m\'e9nage des Enfants de 5 ans ou moins ?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.JOUR
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Date de l\rquote enqu\'eate  JJ/MM/AAAA  \par
+ENG=\cf2 JOUR\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.LAT
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 LATITUDE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.LON
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 LONGITUDE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV01.Apr\'e8s avoir re\'e7u le vaccin contre la rougeole \lquote pendant la campagne\rquote , l'enfant (Nom) a-t-il (elle) pr\'e9sent\'e9 des r\'e9actions (sympt\'f4mes ou signes) ind\'e9sirables?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV02_AUTRES_A_PRECISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV02 Autres \'e0 pr\'e9ciser \cf2 SIGNE 1\cf1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV02_AUTRES_A_PRECISER_SIGNE_2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV02 Autres \'e0 pr\'e9ciser \cf2 SIGNE 2\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV03 Qu\rquote avez-vous fait suite \'e0 l\rquote apparition de ces r\'e9actions ind\'e9sirables?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV03_AUTRES_A_PRECISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV03 Autres \'e0 pr\'e9ciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset1 Cambria Math;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV04 Si MIV03\f1\u8800?\f0 1, Pourquoi n'avez-vous pas conduit l'enfant (nom) dans un h\'f4pital/centre de sant\'e9?\lang1036\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV04_AUTRES_A_PRECISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV04 Autres \'e0 pr\'e9ciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV05 Comment l'\'e9tat de sant\'e9 de l'enfant (nom) a-t-il \'e9volu\'e9 depuis qu'il a eu cette r\'e9action \'e0 la vaccination?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV06
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV06 Si vous aviez conduit l'enfant (Nom) en consultation pour ces r\'e9actions ind\'e9sirables, de qui a-t-il re\'e7u de soutien ?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIV06_AUTRES_A_UTILISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV06 Autres \'e0 utiliser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIVO2_SIGNE1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV02 Si oui, quels \'e9taient les sympt\'f4mes (signes) qu'il avait pr\'e9sent\'e9s? Citez les deux principaux. \par
+ENG=\cf2 signes 1\cf1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MIVO2_SIGNE2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 MIV02 Si oui, quels \'e9taient les sympt\'f4mes (signes) qu'il avait pr\'e9sent\'e9s? Citez les deux principaux.\par
+ENG=\cf2 SIGNE 2\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MM02
+Occurrences=1:30
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 MM02 Quel est le NOM et PRENOM de naissance de l'enfant n\'b0 %MM01%\par
+ENG=\par
+ENG=\cf2\fs36 Ici ne prenez que les Noms, \'e2ge et Sexe des Enfants de 6 ans ou Moins\cf1\fs28\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MM03
+Occurrences=1:30
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 MM03 Quel est le mois de naissance de l'enfant %MM02%\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MM04
+Occurrences=1:30
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 MM04 Quelle est l'ann\'e9e de naissance de l'enfant %MM02%\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MM05
+Occurrences=1:30
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 MM05 Ins\'e9rez l'\'c2ge de l'enfant %MM02% en mois\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MM06
+Occurrences=1:30
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 MM06 Quel est le Sexe de %MM02%\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MM07
+Occurrences=1:30
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 MM07 Existe-t-il un \cf2 autre enfant de 5 ans ou moins\cf1  qui n'est pas cit\'e9 ?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.MOIS
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Date de l\rquote enqu\'eate  JJ/MM/AAAA  \par
+ENG=\cf2 MOIS\par
+ENG=\cf1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.NBR_ENFANT
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs36 Nombre d'enfants 6-59mois\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.NUMERO_D_ORDRE_DE_L_ENFANT
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 NUMERO D\rquote ORDRE DE LA PERSONNE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.NUMERO_ENREGISTREMENT_MENAGE
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 NUMERO ENREGISTREMENT MENAGE\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PM01A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28\lang1036 PME01A. Nom du chef m\'e9nage  ( Nom et Pr\'e9noms)\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PM02
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PM02.Sexe du chef m\'e9nage\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PM03
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset1 Cambria Math;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PME03 Age du chef m\'e9nage (en ann\'e9es)   (si \'e2ge \f1\u8805?\f0 95 ans, \'e9crire 95 NSP=98)\lang1036\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PM04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PM04.Niveau d'instruction du chef m\'e9nage\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PM05
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PM05.Cat\'e9gorie socio professionnelle du chef m\'e9nage\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PM05_AUTRES_A_PRECISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PM05 Autres \'e0 preciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PM06
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PM06.Nombre de membres du m\'e9nage (inscrire 02 chiffres)\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PM07
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PM07.Nombre d'enfants 6-59mois\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PME00
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PME00 Num\'e9ro du \cf2 M\'e9nage\cf1  dans la structure\cf2\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PME01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PME01. Initiales du Nom  et Pr\'e9noms du chef m\'e9nage\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.PME0B
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 PME0B Num\'e9ro de \cf2 la structure\cf1  dans la Grappe\cf2\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.Q_RN3
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Quelles sont les raisons pour lesquelles l'enfant (Nom) n'a-t-il (elle) pas \'e9t\'e9 vaccin\'e9 contre la rougeole \lquote pendant la campagne\rquote , du \'85\'85au \'85\'85.2016? \cf2 Raison 3\cf1\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.Q_RNV1
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 RNV01. Quelles sont les raisons pour lesquelles l'enfant (Nom) n'a-t-il (elle) pas \'e9t\'e9 vaccin\'e9 contre la rougeole pendant la campagne, du 19 au AVRIL 2019 Citez les trois principales raisons? \cf2 Raison 1\cf1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.Q_RNV1_AUTRE____PR_CISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Raison 1 Autre (\'e0 pr\'e9ciser)\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.Q_RNV1_AUTRE____PR_CISES
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Raison Autre (\'e0 pr\'e9ciser)\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.Q_RNV2
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Quelles sont les raisons pour lesquelles l'enfant (Nom) n'a-t-il (elle) pas \'e9t\'e9 vaccin\'e9 contre la rougeole \lquote pendant la campagne\rquote , du \'85\'85au \'85\'85.2016? \cf2 Raison 2\cf1\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.Q_RNV3_AUTRE____PR_CISER
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 Raison 3 Autre (\'e0 pr\'e9ciser)\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.RESULTAT
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 RESULTAT DE L\rquote INTERVIEW:\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR01
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset1 Cambria Math;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR01 \cf2 %CEE00%?\cf1   a-t-il (elle) \'e9t\'e9 vaccin\'e9(e) au cours de la \cf2\ul\fs32 r\'e9cente \cf1\ulnone\fs28 campagne de vaccination contre la rougeole entre le XX et XX avril 2019?         1=Oui   2=Non   9=NSP       \par
+ENG=Si VCR01=2 ou 9\f1\u8594?\f0 VCR04\lang1036\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR02
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR02.Si oui \'e0 la question pr\'e9c\'e9dente, poss\'e9dez-vous le jeton de la vaccination contre la rougeole?\par
+ENG=\par
+ENG=\cf2 Si OUI \'e0 la question VCR02, enqu\'eateur photograpghier le jeton de vaccination.\cf1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR02_MOIS_A_PRECISES
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR02 MOIS \'e0 Pr\'e9ciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR02_MOIS_PRECISER
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR02  MOIS\'e0 Pr\'e9ciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR03_ANNEE
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR03A.Si oui \'e0 la question VCR02, \'e0 quelle date l'enfant a-t-il \'e9t\'e9 vaccin\'e9 (relever la date sur la carte de vaccination contre la rougeole) ? ANNEE\cf2\par
+ENG=\cf1\b0\par
+ENG=\cf2\b NB: Mettre\par
+ENG=5555 si Ann\'e9e illisible\par
+ENG=9999 si Ann\'e9e non vue\par
+ENG=\cf1\b0\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR03_JOUR
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR03J.Si oui \'e0 la question VCR02, \'e0 quelle date l'enfant a-t-il \'e9t\'e9 vaccin\'e9 (\cf2 relever la date sur la carte de vaccination contre la rougeole\cf1 ) ? \par
+ENG=\ul ICI METTEZ LE \cf2 JOUR\par
+ENG=\ulnone\par
+ENG=NB: Mettre\par
+ENG=55 si date illisible\par
+ENG=99 si date non vue\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR03_MOIS
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR03M.Si oui \'e0 la question VCR02, \'e0 quelle date l'enfant a-t-il \'e9t\'e9 vaccin\'e9 (relever la date sur la carte de vaccination contre la rougeole) ?  MOIS\cf2\par
+ENG=\cf1\par
+ENG=\cf2 NB: Mettre\par
+ENG=55 si date illisible\par
+ENG=99 si date non vue\par
+ENG=\cf1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR04
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR04. La carte de vaccination de \cf2 %CEE00%?\cf1  pour la campagne est-elle correctement remplie?\par
+ENG=(v\'e9rifier: \cf2\b0 identit\'e9 du vaccin\'e9, nom centre du sant\'e9, date, dose, num\'e9ro de lot du vaccin\cf1\b ) \par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR04A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR04.L'enfant (Nom) avait-il d\'e9j\'e0 \'e9t\'e9 vaccin\'e9 contre la rougeole avant la campagne?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR05
+Occurrences=1:30
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR05. \cf2\lang1036 %CEE00%?\cf1\lang1033  avait-il d\'e9j\'e0 \'e9t\'e9 vaccin\'e9 contre la rougeole avant la campagne?\lang1036\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR05_MOISA_PRECISER
+Occurrences=1:10
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR05 MOIS\'e0 Pr\'e9ciser\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR06_ANNEE
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR06_ANNEE.Si oui \'e0 la question VCR05, \'e0 quelle date l'enfant avait-il \'e9t\'e9 vaccin\'e9 (relever la date dans le carnet de vaccination) \cf2 ANNEE\par
+ENG=\par
+ENG=NB: Mettre\par
+ENG=5555 si Ann\'e9e illisible\par
+ENG=9999 si Ann\'e9e non vue\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR06_JOUR
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR06_JOUR.Si oui \'e0 la question VCR05, \'e0 quelle date l'enfant avait-il \'e9t\'e9 vaccin\'e9 (relever la date dans le carnet de vaccination) \cf2 Jour\par
+ENG=\par
+ENG=NB: Mettre\par
+ENG=55 si date illisible\par
+ENG=99 si date non vue\par
+ENG=\cf1\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCR06_MOIS
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR06_MOIS.Si oui \'e0 la question VCR05, \'e0 quelle date l'enfant avait-il \'e9t\'e9 vaccin\'e9 (relever la date dans le carnet de vaccination) \cf2 MOIS\par
+ENG=\par
+ENG=NB: Mettre\par
+ENG=55 si date illisible\par
+ENG=99 si date non vue\par
+ENG=\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VCRCARTE
+Occurrences=1:30
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+ENG={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+ENG=\pard\cf1\fs28 VCRCARTE. Possedez - vous la carte de vaccination \cf2\b de %CEE00%?\par
+ENG=\cf1\b0  ?\par
+ENG=}
+
+[QUESTION]
+Field=QUESTIONNAIRE_MENAGE_DICT.VRCR03A
+ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+ENG={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+ENG={\*\generator Riched20 10.0.10240}\viewkind4\uc1
+ENG=\pard\cf1\b\fs28 VCR03 La carte (jeton) de vaccination de l'enfant pour la campagne est-elle correctement remplie? \cf2 (v\'e9rifier: identit\'e9 du vaccin\'e9, nom centre du sant\'e9, date, dose du vaccin, num\'e9ro de lot du vaccin\cf1 )\par
+ENG=}
+

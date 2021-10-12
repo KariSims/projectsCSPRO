@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NF</name>
+<description><![CDATA[Province : Kongo Central<br /> ZS : 19<br /> Enquêteur : <br />N° grappe : 264<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BH</name>
+<description><![CDATA[Province : Kongo Central<br /> ZS : 19<br /> Enquêteur : <br />N° grappe : 264<br /> Statut : Enquêté<br /> longitude : 0013.459885<br /> Latitude : -005.848390<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0013.459885,-005.848390,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MV</name>
+<description><![CDATA[Province : Kongo Central<br /> ZS : 19<br /> Enquêteur : <br />N° grappe : 264<br /> Statut : Enquêté<br /> longitude : 0013.457230<br /> Latitude : -005.849740<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0013.457230,-005.849740,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ND</name>
+<description><![CDATA[Province : Kongo Central<br /> ZS : 19<br /> Enquêteur : <br />N° grappe : 266<br /> Statut : Enquêté<br /> longitude : 0013.450394<br /> Latitude : -005.855247<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0013.450394,-005.855247,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MS</name>
+<description><![CDATA[Province : Kongo Central<br /> ZS : 19<br /> Enquêteur : <br />N° grappe : 266<br /> Statut : Enquêté<br /> longitude : 0013.450349<br /> Latitude : -005.855296<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0013.450349,-005.855296,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NA</name>
+<description><![CDATA[Province : Kongo Central<br /> ZS : 19<br /> Enquêteur : <br />N° grappe : 266<br /> Statut : Enquêté<br /> longitude : 0013.450730<br /> Latitude : -005.856083<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0013.450730,-005.856083,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

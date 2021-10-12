@@ -1,0 +1,20 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Batch
+
+[Files]
+Application=.\listing_erreurs.bch
+InputData=..\Data\ Kasaï.csdb
+OutputData=|type=None
+Listing=.\listing_erreurs.lst
+
+[UserFiles]
+htmlTemp=
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=120
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential

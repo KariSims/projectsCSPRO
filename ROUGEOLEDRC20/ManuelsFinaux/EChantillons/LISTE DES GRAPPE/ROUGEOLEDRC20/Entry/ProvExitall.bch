@@ -1,0 +1,16 @@
+﻿[CSPro Application]
+Version=CSPro 7.4
+Label=PROVEXITALL
+Name=PROVEXITALL
+AppType=Batch
+[External Dictionaries]
+File=..\Dicts\QUESTIONNAIRE MENAGE.dcf
+[AppCode]
+File=.\ProvExitall.bch.apc
+[Message]
+File=.\ProvExitall.bch.mgf
+[Order]
+File=.\ProvExitall.ord
+[Dictionary Types]
+Dict-Type=..\Dicts\QUESTIONNAIRE MENAGE.dcf,External
+Dict-Type=..\Dicts\InterviewerMenu.dcf,Input,.\ProvExitall.ord

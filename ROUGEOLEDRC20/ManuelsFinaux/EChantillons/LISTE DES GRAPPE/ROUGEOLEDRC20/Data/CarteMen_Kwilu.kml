@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : G</name>
+<description><![CDATA[Province : Kwilu<br /> ZS : ZS Buta<br /> Enquêteur : <br />N° grappe : BONZONGEA<br /> Statut : Enquêté<br /> longitude : 0960.067121<br /> Latitude : 0292.568299<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0960.067121,0292.568299,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : f</name>
+<description><![CDATA[Province : Kwilu<br /> ZS : ZS Buta<br /> Enquêteur : <br />N° grappe : Bobalea<br /> Statut : Enquêté<br /> longitude : 0608.614171<br /> Latitude : 0458.010965<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0608.614171,0458.010965,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : 8R</name>
+<description><![CDATA[Province : Kwilu<br /> ZS : ZS Aketi<br /> Enquêteur : <br />N° grappe : Badge<br /> Statut : Enquêté<br /> longitude : 0940.686987<br /> Latitude : 0242.304996<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0940.686987,0242.304996,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : OE</name>
+<description><![CDATA[Province : Sankuru<br /> ZS : 39<br /> Enquêteur : <br />N° grappe : 537<br /> Statut : Enquêté<br /> longitude : 0023.602046<br /> Latitude : -003.521300<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0023.602046,-003.521300,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : FK</name>
+<description><![CDATA[Province : Sankuru<br /> ZS : 39<br /> Enquêteur : <br />N° grappe : 537<br /> Statut : Enquêté<br /> longitude : 0023.601839<br /> Latitude : -003.521203<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0023.601839,-003.521203,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Kt</name>
+<description><![CDATA[Province : Sankuru<br /> ZS : 39<br /> Enquêteur : <br />N° grappe : 537<br /> Statut : Enquêté<br /> longitude : 0023.601216<br /> Latitude : -003.521316<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0023.601216,-003.521316,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : TO</name>
+<description><![CDATA[Province : Sankuru<br /> ZS : 39<br /> Enquêteur : <br />N° grappe : 537<br /> Statut : Enquêté<br /> longitude : 0023.601569<br /> Latitude : -003.521539<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0023.601569,-003.521539,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : OK</name>
+<description><![CDATA[Province : Sankuru<br /> ZS : 39<br /> Enquêteur : <br />N° grappe : 537<br /> Statut : Enquêté<br /> longitude : DEFAULT    <br /> Latitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ON</name>
+<description><![CDATA[Province : Sankuru<br /> ZS : 39<br /> Enquêteur : <br />N° grappe : 537<br /> Statut : Enquêté<br /> longitude : DEFAULT    <br /> Latitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ON</name>
+<description><![CDATA[Province : Sankuru<br /> ZS : 39<br /> Enquêteur : <br />N° grappe : 537<br /> Statut : Enquêté<br /> longitude : 0023.602240<br /> Latitude : -003.521109<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0023.602240,-003.521109,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SN</name>
+<description><![CDATA[Province : Sankuru<br /> ZS : 39<br /> Enquêteur : <br />N° grappe : 537<br /> Statut : Enquêté<br /> longitude : 0023.601605<br /> Latitude : -003.521159<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0023.601605,-003.521159,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : .C</name>
+<description><![CDATA[Province : Ituri<br /> ZS : ZS Buta<br /> Enquêteur : <br />N° grappe : BOBIMBA I<br /> Statut : Enquêté<br /> longitude : 0488.738269<br /> Latitude : 0133.587661<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0488.738269,0133.587661,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

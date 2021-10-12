@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : JN</name>
+<description><![CDATA[Province : Lualaba<br /> ZS : 27<br /> Enquêteur : <br />N° grappe : 372<br /> Statut : Enquêté<br /> longitude : 0025.435184<br /> Latitude : -010.731447<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.435184,-010.731447,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : EN</name>
+<description><![CDATA[Province : Lualaba<br /> ZS : 27<br /> Enquêteur : <br />N° grappe : 372<br /> Statut : Enquêté<br /> longitude : 0025.434464<br /> Latitude : -010.731596<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.434464,-010.731596,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : VT</name>
+<description><![CDATA[Province : Lualaba<br /> ZS : 27<br /> Enquêteur : <br />N° grappe : 372<br /> Statut : Enquêté<br /> longitude : 0025.433833<br /> Latitude : -010.731003<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.433833,-010.731003,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KT</name>
+<description><![CDATA[Province : Lualaba<br /> ZS : 27<br /> Enquêteur : <br />N° grappe : 378<br /> Statut : Enquêté<br /> longitude : 0025.382439<br /> Latitude : -010.664188<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.382439,-010.664188,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PK</name>
+<description><![CDATA[Province : Lualaba<br /> ZS : 27<br /> Enquêteur : <br />N° grappe : 378<br /> Statut : Enquêté<br /> longitude : 0025.383178<br /> Latitude : -010.664060<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.383178,-010.664060,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SN</name>
+<description><![CDATA[Province : Lualaba<br /> ZS : 27<br /> Enquêteur : <br />N° grappe : 378<br /> Statut : Enquêté<br /> longitude : 0025.383189<br /> Latitude : -010.663420<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.383189,-010.663420,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : H</name>
+<description><![CDATA[Province : Lualaba<br /> ZS : 27<br /> Enquêteur : <br />N° grappe : 372<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : K</name>
+<description><![CDATA[Province : Lualaba<br /> ZS : 27<br /> Enquêteur : <br />N° grappe : 372<br /> Statut : Enquêté<br /> longitude : 0025.433854<br /> Latitude : -010.730668<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.433854,-010.730668,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : FS</name>
+<description><![CDATA[Province : Lualaba<br /> ZS : 27<br /> Enquêteur : <br />N° grappe : 372<br /> Statut : Enquêté<br /> longitude : 0025.433944<br /> Latitude : -010.730273<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.433944,-010.730273,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

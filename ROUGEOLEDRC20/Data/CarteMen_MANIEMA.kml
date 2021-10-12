@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AS</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 423<br /> Statut : Enquêté<br /> longitude : 0025.916685<br /> Latitude : -002.948700<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.916685,-002.948700,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MR</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 423<br /> Statut : Enquêté<br /> longitude : 0025.915503<br /> Latitude : -002.948380<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.915503,-002.948380,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AJ</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 423<br /> Statut : Enquêté<br /> longitude : 0025.915632<br /> Latitude : -002.947928<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.915632,-002.947928,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KB</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 425<br /> Statut : Enquêté<br /> longitude : 0025.909237<br /> Latitude : -002.949955<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.909237,-002.949955,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DP</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 426<br /> Statut : Enquêté<br /> longitude : 0025.917767<br /> Latitude : -002.946585<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.917767,-002.946585,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MS</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 426<br /> Statut : Enquêté<br /> longitude : 0025.919152<br /> Latitude : -002.947048<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.919152,-002.947048,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MV</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 426<br /> Statut : Enquêté<br /> longitude : 0025.918037<br /> Latitude : -002.947340<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.918037,-002.947340,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LA</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 426<br /> Statut : Enquêté<br /> longitude : 0025.917397<br /> Latitude : -002.946682<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.917397,-002.946682,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 426<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MJ</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 425<br /> Statut : Enquêté<br /> longitude : 0025.914962<br /> Latitude : -002.947997<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.914962,-002.947997,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : YA</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 425<br /> Statut : Enquêté<br /> longitude : 0025.917252<br /> Latitude : -002.949048<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.917252,-002.949048,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SB</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 423<br /> Statut : Enquêté<br /> longitude : 0025.907652<br /> Latitude : -002.941642<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.907652,-002.941642,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MK</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 423<br /> Statut : Enquêté<br /> longitude : 0025.906448<br /> Latitude : -002.942592<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.906448,-002.942592,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KP</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 423<br /> Statut : Enquêté<br /> longitude : 0025.907120<br /> Latitude : -002.942175<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.907120,-002.942175,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SA</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 434<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KA</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 434<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : OE</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 434<br /> Statut : Enquêté<br /> longitude : 0025.910982<br /> Latitude : -002.953382<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.910982,-002.953382,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : OR</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 434<br /> Statut : Enquêté<br /> longitude : 0025.911163<br /> Latitude : -002.953328<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.911163,-002.953328,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : NF</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 434<br /> Statut : Enquêté<br /> longitude : 0025.910660<br /> Latitude : -002.954220<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.910660,-002.954220,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KE</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 434<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KS</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 434<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : IN</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 423<br /> Statut : Enquêté<br /> longitude : 0025.916243<br /> Latitude : -002.948617<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.916243,-002.948617,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : GF</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 426<br /> Statut : Enquêté<br /> longitude : 0025.919357<br /> Latitude : -002.944748<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0025.919357,-002.944748,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : OD</name>
+<description><![CDATA[Province : MANIEMA<br /> ZS : 31<br /> Enquêteur : <br />N° grappe : 423<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

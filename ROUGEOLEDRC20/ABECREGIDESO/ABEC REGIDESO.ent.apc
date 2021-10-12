@@ -1,0 +1,151 @@
+﻿
+
+//PROC GPS_GET
+//postproc
+//if $ = 1 then
+	// Take new GPS reading
+//	gps(open);
+//	if gps(read, 60) then 
+//		LATITUDE = gps(latitude);
+//		LONGITUDE = gps(longitude);
+//	else
+//		LATITUDE = 99.000000000;
+//		LONGITUDE = 99.000000000;
+//	endif;
+//	gps(close);
+	
+	// Back to same question to allow review
+//	reenter;
+//elseif $ = 2 then
+	// Show current readings on map
+    //execsystem(maketext("gps:%f,%f", 
+    //					visualvalue(LATITUDE), 
+    //					visualvalue(LONGITUDE)));
+//    reenter;
+//elseif $ = 3 then
+	// Keep the readings and move to next field
+//elseif $ = 9 then
+	// Remove current readings
+//		LATITUDE = 99.000000000;
+//		LONGITUDE = 99.000000000;
+//endif;
+
+
+PROC GLOBAL
+
+
+
+PROC ABEC_REGIDESO_FF
+
+PROC ABEC_REGIDESO_LEVEL
+preproc
+filecreate("C:\ROUGEOLEDRC20\ABECREGIDESO\sync.log");
+PROC COMMUNE
+preproc
+// Pré-remplir avec le paramètre du pff preproc 
+if (special(visualvalue($)) & sysparm("COMMUNE") <> "") then
+
+	$ = tonumber(sysparm("COMMUNE")); 
+    // Protéger le champ     
+	setproperty($, "Protected", "Yes");
+endif; 
+
+if 	Q1 = 1	then	setvalueset(COMMUNE, COMMUNE_VS1);	 endif;
+if 	Q1 = 2	then	setvalueset(COMMUNE, COMMUNE_VS2);	 endif;
+
+
+postproc
+IF !invalueset($) then
+	errmsg("Valeur Invalide");
+//	reenter;
+endif;
+PROC NOM_ENQUETEUR
+preproc
+// Pré-remplir avec le paramètre du pff preproc 
+if (special(visualvalue($)) & sysparm("NOM_ENQUETEUR") <> "") then
+
+	$ = tonumber(sysparm("NOM_ENQUETEUR")); 
+    // Protéger le champ     
+	setproperty($, "Protected", "Yes");
+endif; 
+
+if 	Q1 = 1	then	setvalueset(NOM_ENQUETEUR, NOM_ENQUETEUR_VS1);	 endif;
+if 	Q1 = 2	then	setvalueset(NOM_ENQUETEUR, NOM_ENQUETEUR_VS2);	 endif;
+
+
+postproc
+IF !invalueset($) then
+	errmsg("Valeur Invalide");
+//	reenter;
+endif;
+PROC INTERVIEW_START_TIME_HOURS
+preproc
+	M04_TIME = int(systime()/100);
+    
+
+//PROC GPS_GET
+//postproc
+//if $ = 1 then
+	// Take new GPS reading
+//	gps(open);
+//	if gps(read, 60) then 
+//		LATITUDE = gps(latitude);
+//		LONGITUDE = gps(longitude);
+//	else
+//		LATITUDE = 99.000000000;
+//		LONGITUDE = 99.000000000;
+//	endif;
+//	gps(close);
+	
+	// Back to same question to allow review
+//	reenter;
+//elseif $ = 2 then
+	// Show current readings on map
+    //execsystem(maketext("gps:%f,%f", 
+    //					visualvalue(LATITUDE), 
+    //					visualvalue(LONGITUDE)));
+//    reenter;
+//elseif $ = 3 then
+	// Keep the readings and move to next field
+//elseif $ = 9 then
+	// Remove current readings
+//		LATITUDE = 99.000000000;
+//		LONGITUDE = 99.000000000;
+//endif;
+
+
+PROC B1
+savepartial ();
+PROC B4
+savepartial ();
+PROC B6
+savepartial ();
+PROC JOUR
+preproc
+
+//if HH5Y in 2017:2019 and HH5M in 1:12 and HH5D in 1:31 then
+
+if special(visualvalue($)) then
+    if JOUR = notappl then JOUR = sysdate( "DD" );endif;
+    if MOIS = notappl then MOIS = sysdate( "MM" );endif;
+    if ANNEE = notappl then ANNEE = sysdate( "YYYY" );endif;
+endif;
+
+if JOUR in 1:31 and  MOIS in 1:12 and  ANNEE in 2019:2023 then
+	advance to DATEE;
+endif;
+
+noinput;
+PROC H_11
+if H_11=1 then
+if gps(open)and gps(read,30) then
+LAT=gps(Latitude);
+LON=gps(Longitude);
+endif;
+gps(Close);
+endif;
+
+
+{if $=2 then
+skip to QI10;
+endif;} 

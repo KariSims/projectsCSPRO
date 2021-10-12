@@ -1,0 +1,41 @@
+﻿Application     C:\ROUGEOLEDRC20\batch_rougeole\rougeole.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\ROUGEOLEDRC20\Data\BASE_25NOV.csdb
+<File>          htmlTemp=
+
+Date            Dec 09, 2020
+Start Time      13:32:37
+End Time        13:32:37
+
+CSPro Process Summary
+
+      ╔══════════════════════════════════════════════════════╗
+      ║      7705 Records Read   100% of input file          ║
+      ║         0 Ignored:       0 Unknown         0 Erased  ║
+      ║         3 Messages:      0 E      0 W      3 User    ║
+      ╠═════════╦══════════════╦══════════════╦══════════════╣
+      ║  Level  ║  Input Case  ║  Bad Struct  ║  Level Post  ║
+      ╠═════════╬══════════════╬══════════════╬══════════════╣
+      ║      1  ║        1428  ║           0  ║        1428  ║
+      ╚═════════╩══════════════╩══════════════╩══════════════╝
+
+Process Messages
+
+*** Case [1017042270001] has 1 message (0 E / 0 W / 1 U)
+    U    -218 Diff date =-1291402
+
+*** Case [1019012590031] has 1 message (0 E / 0 W / 1 U)
+    U    -218 Diff date =-7
+
+*** Case [2141025630031] has 1 message (0 E / 0 W / 1 U)
+    U    -218 Diff date =-315
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+     218           3      -  Diff date =%d                                                                             -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

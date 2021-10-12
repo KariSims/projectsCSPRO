@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : y</name>
+<description><![CDATA[Province : Haut-Uele<br /> ZS : ZS Buta<br /> Enquêteur : <br />N° grappe : Badge<br /> Statut : Enquêté<br /> longitude : 0917.528651<br /> Latitude : 0568.464880<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0917.528651,0568.464880,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : 0l</name>
+<description><![CDATA[Province : Haut-Uele<br /> ZS : ZS Aketi<br /> Enquêteur : <br />N° grappe : Rubi<br /> Statut : Enquêté<br /> longitude : 0770.937445<br /> Latitude : 0451.532631<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0770.937445,0451.532631,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

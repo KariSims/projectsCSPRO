@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: BINZANI</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.316616<br /> Latitude : -004.391922<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.316616,-004.391922,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: ELIE</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.314951<br /> Latitude : -004.389005<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.314951,-004.389005,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: KABONGO</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.322457<br /> Latitude : -004.385180<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.322457,-004.385180,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: MAYELE</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.312260<br /> Latitude : -004.376519<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.312260,-004.376519,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: SIFA MULASA</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.312058<br /> Latitude : -004.376669<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.312058,-004.376669,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: PASSI</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.312265<br /> Latitude : -004.376470<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.312265,-004.376470,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: MUTUKI</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.316594<br /> Latitude : -004.387197<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.316594,-004.387197,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: FLORENCE</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.312265<br /> Latitude : -004.376470<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.312265,-004.376470,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: ANGELE</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.318790<br /> Latitude : -004.373159<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.318790,-004.373159,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: GUYLAIN</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.316594<br /> Latitude : -004.387197<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.316594,-004.387197,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: FALAYI</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.315410<br /> Latitude : -004.364448<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.315410,-004.364448,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: JP</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.311102<br /> Latitude : -004.364529<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.311102,-004.364529,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : 0015.315410<br /> Lattitude : -004.364448<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.315410,-004.364448,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: JOLIE</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.318056<br /> Latitude : -004.367124<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.318056,-004.367124,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: CLAUJAT</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.318056<br /> Latitude : -004.367124<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.318056,-004.367124,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: ANDY</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.318056<br /> Latitude : -004.367124<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.318056,-004.367124,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: GODE</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.318056<br /> Latitude : -004.367124<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.318056,-004.367124,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: TUMBA</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.318056<br /> Latitude : -004.367124<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.318056,-004.367124,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: MANDIANGU</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.318056<br /> Latitude : -004.367124<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.318056,-004.367124,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: RUTH</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.322457<br /> Latitude : -004.385180<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.322457,-004.385180,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: NADINE</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.317117<br /> Latitude : -004.389956<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.317117,-004.389956,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: NICLETTE</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.317117<br /> Latitude : -004.389956<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.317117,-004.389956,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: FRANCK</name>
+<description><![CDATA[Province : KINSHASA<br /> ANTENNE : 01<br /> N° Enquêteur : 05<br />N° ZS : 51<br /> Statut : Enquêté<br /> longitude : 0015.316616<br /> Latitude : -004.391922<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0015.316616,-004.391922,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage de: </name>
+<description><![CDATA[Province : KINSHASA<br /> ZS : 51<br /> Enquêteur : 05<br />N° ANTENNE : 01<br /> Statut : Non Enquêté<br /> longitude : DEFAULT    <br /> Lattitude : DEFAULT    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>DEFAULT    ,DEFAULT    ,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

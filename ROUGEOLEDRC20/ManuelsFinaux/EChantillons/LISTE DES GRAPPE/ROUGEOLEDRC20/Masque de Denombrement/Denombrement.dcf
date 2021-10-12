@@ -1,0 +1,1917 @@
+﻿[Dictionary]
+Version=CSPro 7.5
+Label=Denombrement
+Name=DENOMBREMENT_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+SecurityOptions=F66E7DAAB781F5FCA2AACA99E117A495B8BFA908F4BEB6E989894AB90395054B
+
+[Level]
+Label=Denombrement Level
+Name=DENOMBREMENT_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Numero Fiche de denombrement
+Name=NUMERO_FICHE_DE_DENOMBREMENT
+Start=2
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=PROVINCE
+Name=PROVINCE
+Start=6
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=PROVINCE
+Name=PROVINCE_VS1
+Value=1;BAS UELE
+Value=2;Equateur
+Value=3;HAUT KATANGA
+Value=4;HAUT UELE
+Value=5;Haut-Lomami
+Value=6;ITURI
+Value=7;Kasai
+Value=8;Kasai-Central
+Value=9;Kasai-Oriental
+Value=10;Kongo Central
+Value=11;Kwango
+Value=12;Kwilu
+Value=13;Lomami
+Value=14;Lualaba
+Value=15;Mai-Nombe
+Value=16;MANIEMA
+Value=17;Mongala
+Value=18;Nord-Kivu
+Value=19;Nord-Ubangi
+Value=20;Sankuru
+Value=21;Sud-Kivu
+Value=22;Sud-Ubangi
+Value=23;TANGANYIKA
+Value=24;TSHOPO
+Value=25;Tshuapa
+Value=26;KINSHASA
+
+[Item]
+Label=ANTENNE
+Name=ANTENNE
+Start=8
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03
+Start=10
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS1
+Value=1;ZS Buta
+Value=2;ZS Aketi
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS2
+Value=3;ZS Mbandaka
+Value=4;ZS Bolomba
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS3
+Value=5;ZS Kamalondo
+Value=6;ZS Kambove
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS4
+Value=7;ZS Kamina
+Value=8;ZS Bukama
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS5
+Value=9;ZS Isiro
+Value=10;ZS Wamba
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS6
+Value=11;ZS Bunia
+Value=12;ZS Aru
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS7
+Value=13;ZS Tshikapa
+Value=14;ZS Kamonia
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS8
+Value=15;ZS Kananga
+Value=16;ZS Tshibala
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS9
+Value=17;ZS Dibindi
+Value=18;ZS Miabi
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS10
+Value=19;ZS Matadi
+Value=20;ZS Gombe Matadi
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS11
+Value=21;ZS Kenge
+Value=22;ZS Popokabaka
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS12
+Value=23;ZS Kikwit Nord
+Value=24;ZS Vanga
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS13
+Value=25;ZS Mwene Ditu
+Value=26;ZS Kamiji
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS14
+Value=27;ZS Dilala
+Value=28;ZS Fungurume
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS15
+Value=29;ZS Inongo
+Value=30;ZS Kiri
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS16
+Value=31;ZS Kindu
+Value=32;ZS Kampene
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS17
+Value=33;ZS Lisala
+Value=34;ZS Binga
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS18
+Value=35;ZS Goma
+Value=36;ZS Bambo
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS19
+Value=37;ZS Gbadolite
+Value=38;ZS Mobayi Mbongo
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS20
+Value=39;ZS Lusambo
+Value=40;ZS Minga
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS21
+Value=41;ZS Ibanda
+Value=42;ZS Walungu
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS22
+Value=43;ZS Gemena
+Value=44;ZS Budjala
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS23
+Value=45;ZS Kalemi
+Value=46;ZS Kansimba
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS24
+Value=47;ZS Makiso
+Value=48;ZS Isangi
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS25
+Value=49;ZS Boende
+Value=50;ZS Bokungu
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS26
+Value=51;MAKALA
+Value=52;ZS MALUKU I
+
+[Item]
+Label=AIRE DE SANTE
+Name=AIRE_DE_SANTE
+Start=12
+Len=50
+DataType=Alpha
+
+[Item]
+Label=NOMBRE DE SEGEMENT
+Name=NOMBRE_DE_SEGEMENT
+Start=62
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=NUMERO DU SEGMENT TIRE
+Name=NUMERO_DU_SEGMENT_TIRE
+Start=64
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE
+Start=66
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS1
+Value=1;LOYA+DOROMO BIS
+Value=2;MABENGE C(sur AC)
+Value=3;MADISATILU
+Value=4;MALOLO B(sur AB)
+Value=5;SOMBA II
+Value=6;BAKANGO
+Value=7;RUNGU
+Value=8;AKAMBU I B (sur AC)
+Value=9;BONAKPOLO I + BONAKPOLO II
+Value=10;BOBADI  A (AB)
+Value=11;BONGBONGO A (AB)
+Value=12;MAKALA NA BWATO + MAKERE+MANGBETU
+Value=13;BOMBULE + BODALUNGBA II
+Value=14;BONONGE + BOWAYI
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS2
+Value=15;MOKOLONGA B (sur AB)
+Value=16;NYEI
+Value=17;BONGANGA
+Value=18; BOMBOMBO
+Value=19;BOLELA B (sur AB)
+Value=20;BOLENDE
+Value=21;BASENDE RTE BUTA A(sur AC)
+Value=22;KIGOMA-ANGO
+Value=23;COTTON-YAKOMA
+Value=24;BOKAPO
+Value=25;BOGUKI I et II B (sur AC)
+Value=26; BUTA+ COMUELE II
+Value=27;BOGBENGO
+Value=28;MEMBULU B (sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS3
+Value=29;BAKUSU D (sur AG)
+Value=30;BESENGE A (sur AC)
+Value=31;MBINZA B (sur AC)
+Value=32;METEO A (sur AC)
+Value=33;IPEKO VILLAGE B (sur AC)
+Value=34;KOHYDRO B (sur AB)
+Value=35;NGASHI D( sur AK)
+Value=36;LIFAKE A (sur AB)
+Value=37;MBOMBE A(sur AB)
+Value=38;LIBIKI1 C (sur AF)
+Value=39;MANDENGO A (sur AD)
+Value=40;LOLIFA A (sur AC)
+Value=41;BAMANYA A (sur AD)
+Value=42;BASOKO2 B (sur AE)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS4
+Value=43;MOTUTA B (sur AB)
+Value=44;BOSO ELOMBE A (sur AB)
+Value=45;BELONGA A (sur AC)
+Value=46;BOGBONGA B (sur AD)
+Value=47;IBAKA B (sur AB)
+Value=48;BOLIMA B (sur AB)
+Value=49;BESULU
+Value=50;BOMENEGE A (sur AB)
+Value=51;BONKONKOLO
+Value=52;BOSO ISONGO B (sur AC)
+Value=53;BOSO LIKALA 1 A (sur AC)
+Value=54;BOSO LOMBO B(sur AB)
+Value=55;BOSO EMBANGULU A(sur AB)
+Value=56;BONDUMBA B(sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS5
+Value=57;KITUMAINI D (sur AG)
+Value=58;KITUMAINI G (sur AG)
+Value=59;KITUMAINI C (sur AG)
+Value=60;KITUMAINI B (sur AI)
+Value=61;KITUMAINI D(sur AI)
+Value=62;KITUMAINI H (sur AI)
+Value=63;NDJANJA J (sur AN)
+Value=64;NDJANJA M (sur AN)
+Value=65;NDJANJA C (sur AN)
+Value=66;NDJANJA N (sur AN)
+Value=67;NDJANJA K (sur AN)
+Value=68;NDJANJA F (sur AG)
+Value=69;NDJANJA B (sur AG)
+Value=70;NDJANJA D (sur AG)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS6
+Value=71;Dikula A (sur AE)
+Value=72;Q Kawama A(sur AB)
+Value=73;Q. Kyabo B (sur AB)
+Value=74;Q Kawama V A(sur AB)
+Value=75;Centre urbain B (sur AB)
+Value=76;Q. Kabamba D (sur AF)
+Value=77;Q. Mines B (sur AF)
+Value=78;Village TP + Village Mapendo
+Value=79;Cité Kiwewe B (sur AJ)
+Value=80; Q Masumbuko
+Value=81;Village Kabungu B(sur AD)
+Value=82;Village Keshe 1 & 2 & Kalukono + Village Mpindi 1& 2 + Village Kisungu + Village Mukonzo + Village Kasempa
+Value=83;Village Kimpese A (sur AC)
+Value=84;Station (Mission) B (sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS7
+Value=85;Grappe
+Value=86;Grappe
+Value=87;Grappe
+Value=88;Grappe
+Value=89;Grappe
+Value=90;Grappe
+Value=91;Grappe
+Value=92;Grappe
+Value=93;Grappe
+Value=94;Grappe
+Value=95;Grappe
+Value=96;Grappe
+Value=97;Grappe
+Value=98;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS8
+Value=99;Grappe
+Value=100;Grappe
+Value=101;Grappe
+Value=102;Grappe
+Value=103;Grappe
+Value=104;Grappe
+Value=105;Grappe
+Value=106;Grappe
+Value=107;Grappe
+Value=108;Grappe
+Value=109;Grappe
+Value=110;Grappe
+Value=111;Grappe
+Value=112;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS9
+Value=113;BUSANGU B (sur AD)
+Value=114;MUSAKA + KALUNGU + KAKOKWANA
+Value=115;MAKANZA PHL B (sur AB)
+Value=116;KENDA BATU A (sur AC)
+Value=117;STADE TANGANIKA B(sur AC)
+Value=118;KASAO
+Value=119;KAPUNDWE
+Value=120;LONGO B(sur AC)
+Value=121;KISHIKO A(sur AB)
+Value=122;KINTUBU
+Value=123;BRASSERIE A (sur AC)
+Value=124;CAMP REGIE B(sur AB)
+Value=125;BLOC I B (sur AC)
+Value=126;ABATOIRE B(sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS10
+Value=127;BYOWA B (sur AD)
+Value=128;Q. KAMANDA D (sur AJ)
+Value=129;CANTONIER A (sur AC)
+Value=130;KATENTAMINE 3 B (sur AD)
+Value=131;KIBANDA A (sur AK)
+Value=132;KYENZE 1 D (sur AG)
+Value=133;KATOTO SUD J (sur AP)
+Value=134;Q. KIKOMA N(sur AR)
+Value=135;KALU C(sur AJ)
+Value=136;Q/MOTO MOTO D (sur AJ)
+Value=137;KALELA 1 A(sur AI)
+Value=138;Q/ MOTOMOTO A (sur AE)
+Value=139;MAYOLA B(sur AG)
+Value=140;Q/MBRIKITU A(sur AF)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS11
+Value=141;Grappe
+Value=142;Grappe
+Value=143;Grappe
+Value=144;Grappe
+Value=145;Grappe
+Value=146;Grappe
+Value=147;Grappe
+Value=148;Grappe
+Value=149;Grappe
+Value=150;Grappe
+Value=151;Grappe
+Value=152;Grappe
+Value=153;Grappe
+Value=154;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS12
+Value=155;Grappe
+Value=156;Grappe
+Value=157;Grappe
+Value=158;Grappe
+Value=159;Grappe
+Value=160;Grappe
+Value=161;Grappe
+Value=162;Grappe
+Value=163;Grappe
+Value=164;Grappe
+Value=165;Grappe
+Value=166;Grappe
+Value=167;Grappe
+Value=168;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS13
+Value=169;BONDO A(sur AB)
+Value=170;Matamba A(sur AC)
+Value=171;EST B(sur AD)
+Value=172;Q Kamabue C(sur AC)
+Value=173;KABUDILA B(sur AB)
+Value=174;Qkomba B(sur AB)
+Value=175;MAZELENGA A(sur AB)
+Value=176;av Gungu A(sur AB)
+Value=177;V Kindundu
+Value=178;av Lukasi B(sur AB)
+Value=179;MASANGU A(sur AD)
+Value=180;SENGE 1 D(sur AD)
+Value=181;YOLO M A(sur AB)
+Value=182;KHOMA
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS14
+Value=183;Katawu A(sur AC)
+Value=184;Tshitundu B(sur AC)
+Value=185;Muadi II A(sur AB)
+Value=186;Q. MUKANYA B(sur AB)
+Value=187;Kasekwe A(sur AB)
+Value=188;Kalonji A(sur AB)
+Value=189;LUBAMI PC A(sur AE)
+Value=190;TSHIHUDIA B(sur AB)
+Value=191;DIBOKO A(sur AB)
+Value=192;KAMBAMBA B(sur AB)
+Value=193;SHAYENGA C(sur AE)
+Value=194;BUENA MUNTU E(sur AE)
+Value=195;KABELEJI B(sur AE)
+Value=196;MASANYA A(sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS15
+Value=197;TUDIKOLELE B(sur AF)
+Value=198;BRASSERIE C(sur AD)
+Value=199;MALANDJI A(sur AC)
+Value=200;CARRIERE B(sur AC)
+Value=201;DIBONDO A(sur AC)
+Value=202;MULUNDA B(sur AB)
+Value=203;TELECOM A(sur AC)
+Value=204;OFIDA A(sur AD)
+Value=205;MOBUTU X-ROI E(sur AG)
+Value=206;XX MAI A(sur AD)
+Value=207;KANANGA2 E(sur AF)
+Value=208;RVA A(sur AB)
+Value=209;MFUAMBA&TSHIFIKA B(sur AB)
+Value=210;TSHIMBUNDU B(sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS16
+Value=211;NDUMBA ( KAMUINA )
+Value=212;NDUMBA BALUBUTA B(sur AB)
+Value=213;MANGENDA K
+Value=214;KALUBONDO II
+Value=215;MAKUDI
+Value=216;MUKOMA( tshibangu )
+Value=217;MUBOBO KONDO
+Value=218;MPUNGUDIMBA
+Value=219;LEMBALEMBA ( KATSHIOKO )
+Value=220;TSHITADI A(sur AB)
+Value=221;NKONGOLO K
+Value=222;MARCHE ( lueta) + MUDANGA
+Value=223;MUSHITU
+Value=224;BEYA
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS17
+Value=225;MBOMBU A (sur AC)
+Value=226;LUBILANJI1
+Value=227;KALELU B(sur AF)
+Value=228;MUJILA D(sur AD)
+Value=229;LUTUMBA A(sur AB)
+Value=230;SOMBAYI NABU B(sur AB)
+Value=231;MIKIDI 1 A(sur AC)
+Value=232;TSHIPUKA B(sur AC)
+Value=233;BITANGILAYI A(sur AB)
+Value=234;MUTOTO A(sur AC)
+Value=235;CILEMBA D(sur AE)
+Value=236;MASANKA C(sur AC)
+Value=237;LUMAMI LUBILANJI B(sur AB)
+Value=238;MUDIMBA A(sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS18
+Value=239;Kasalu 1 A(sur AB)
+Value=240;Bana ndunga
+Value=241;Bn mikendi A(sur AE)
+Value=242;Bena mukendi B(sur AE)
+Value=243;Bk kasansa + Bkmba1240
+Value=244;Bn mwamba 3 D(sur AD)
+Value=245;Bn mbayi B(sur AC)
+Value=246;Cilumbayi A(sur AB)
+Value=247;Dbungi1 C(sur AC)
+Value=248;Bk ndumbi A(sur AC)
+Value=249;Bn mwamba
+Value=250;Kabamba+ Bena Kasongo A(sur AD)
+Value=251;Q.nkonga B(sur AB)
+Value=252;Tshitolo 1 B(sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS19
+Value=253;FARDC A(sur AB)
+Value=254;OEBK B(sur AB)
+Value=255;INGA B(sur AC)
+Value=256;PALA BALA A(sur AC)
+Value=257;SUDIKILA A(sur AC)
+Value=258;KITADILA C(sur AE)
+Value=259;KKKCCC B(SUR AG)
+Value=260;MAKITU B(sur AG)
+Value=261;LELO A(sur AC)
+Value=262;KOKOSAMBANU B(sur AC)
+Value=263;PUELELE A(sur AB)
+Value=264;JARDIN B(sur AB)
+Value=265;DKB
+Value=266;NGOMBE C
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS20
+Value=267;MBANZA NGOYO VILLAG + MBANZA NGOYO
+Value=268;VUNDA + NKAMA  + NKANKA MAWETE
+Value=269;KINTUMBI + WANDU
+Value=270;YIDI + BOTONGO + NSALA + MPETE
+Value=271;KINGOYO +  NSALA KIMOKO +  KIMPAMBU
+Value=272;MBEMBA + NGOMBE VUANZA
+Value=273;LOMBO FUESSE + DIAKANUA + KIYANIKA
+Value=274;NSANDA + MOWA + KIMBUNGU
+Value=275;MPIOKA + NTO NKANGA + NTO TENTA
+Value=276;NSEKA + KIMBONZA + MPANGA + MPAMBALA + MBUKI
+Value=277;KIMIALA 1&2 + BALU + KILEMBA
+Value=278;ZONGO
+Value=279;NZIMBA
+Value=280;NSONA + KINSUMI + NKALA NKALA
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS21
+Value=281;MBUTA MUNTU + MANKU + MIMBENGA
+Value=282;SAS C(sur AE)
+Value=283;KINGOMA MBANDA B(sur AB)
+Value=284;KALENGE A(sur AC)
+Value=285;NTO POMBO+NDUNGA NKANKA + NDUNGA PLANTATION + YUNGU
+Value=286;KIMBAU +  KITANDA
+Value=287;KIMBUKU YUMBU + KINGI + MULOMBA 2
+Value=288; KIMBELE + MUKANZA
+Value=289;%AYAMFU + KIMBELE + KITSONA + MAYALA
+Value=290;MUKAMBU + KIBULA +KINZENZI
+Value=291;KIMBANZA + KIKOSHI
+Value=292;KIMBAMBA A (sur AB)
+Value=293;PONT WAMBA B (sur AC)
+Value=294;YETE B (sur AC)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS22
+Value=295;Q/1 A (sur AC)
+Value=296;ITANGI + IMBUKU
+Value=297;INGANGULA + INKASA
+Value=298;IKIALA + IBALA + ikwama
+Value=299;IBAMBA 1 + IBAMBA 2
+Value=300;IKIALALA +  BUDIKA + BUSAKA
+Value=301;MALOSI + MABAKA N'LASI + MAPENGI + MUNIANGA
+Value=302; INZAMBI + KAMBAMBA + MUNIUNGU + INKAYA
+Value=303;IKENZI + IMOLO + INGOMA + INGUNDU
+Value=304;IMVUNDA + IKOKO + IMOMBO
+Value=305;INZAU + IMBELA
+Value=306;MABAKAILANGA B (sur AB)
+Value=307;KONGO + LUBUNZIA
+Value=308;IMBELO + IMBUKU
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS23
+Value=309;Bamputu A (sur AC)
+Value=310;KILOKOKO B (sur AC)
+Value=311;LUKOLELA B(sur AE)
+Value=312;MATONGE A(sur AB)
+Value=313;LUZOLO B (sur AC)
+Value=314;KABISU A(sur AB)
+Value=315;MBUSU C(sur AD)
+Value=316;MUNGINDU B(sur AB)
+Value=317;NSAY B(sur AC)
+Value=318;LUKULA B(sur AB)
+Value=319;centre de santé A (sur AD)
+Value=320;MIBILI
+Value=321;KIWANDA A(sur AB)
+Value=322;MUVUMA B(sur AD)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS24
+Value=323;TANGO B (sur AB)
+Value=324;Q/MANZOMBI
+Value=325;KIALU VILLAGE A(sur AB)
+Value=326;KILUNDA SECTEUR
+Value=327;KIMBULU CITE C(sur AD)
+Value=328;MUTANGA B(sur AB)
+Value=329;SINANZADI A(sur AB)
+Value=330;KIKONDJI /KIBWANGA B(sur AB)
+Value=331;MUBINDI
+Value=332;NGANGA
+Value=333;MUKINZI
+Value=334;MUKALA
+Value=335;LUBEMBO A(sur AC)
+Value=336;ZABA MMK A(sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS25
+Value=337;Grappe
+Value=338;Grappe
+Value=339;Grappe
+Value=340;Grappe
+Value=341;Grappe
+Value=342;Grappe
+Value=343;Grappe
+Value=344;Grappe
+Value=345;Grappe
+Value=346;Grappe
+Value=347;Grappe
+Value=348;Grappe
+Value=349;Grappe
+Value=350;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS26
+Value=351;Grappe
+Value=352;Grappe
+Value=353;Grappe
+Value=354;Grappe
+Value=355;Grappe
+Value=356;Grappe
+Value=357;Grappe
+Value=358;Grappe
+Value=359;Grappe
+Value=360;Grappe
+Value=361;Grappe
+Value=362;Grappe
+Value=363;Grappe
+Value=364;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS27
+Value=365;Grappe
+Value=366;Grappe
+Value=367;Grappe
+Value=368;Grappe
+Value=369;Grappe
+Value=370;Grappe
+Value=371;Grappe
+Value=372;Grappe
+Value=373;Grappe
+Value=374;Grappe
+Value=375;Grappe
+Value=376;Grappe
+Value=377;Grappe
+Value=378;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS28
+Value=379;Grappe
+Value=380;Grappe
+Value=381;Grappe
+Value=382;Grappe
+Value=383;Grappe
+Value=384;Grappe
+Value=385;Grappe
+Value=386;Grappe
+Value=387;Grappe
+Value=388;Grappe
+Value=389;Grappe
+Value=390;Grappe
+Value=391;Grappe
+Value=392;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS29
+Value=393;Grappe
+Value=394;Grappe
+Value=395;Grappe
+Value=396;Grappe
+Value=397;Grappe
+Value=398;Grappe
+Value=399;Grappe
+Value=400;Grappe
+Value=401;Grappe
+Value=402;Grappe
+Value=403;Grappe
+Value=404;Grappe
+Value=405;Grappe
+Value=406;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS30
+Value=407;Grappe
+Value=408;Grappe
+Value=409;Grappe
+Value=410;Grappe
+Value=411;Grappe
+Value=412;Grappe
+Value=413;Grappe
+Value=414;Grappe
+Value=415;Grappe
+Value=416;Grappe
+Value=417;Grappe
+Value=418;Grappe
+Value=419;Grappe
+Value=420;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS31
+Value=421;DE LA PAIX C(sur AC)
+Value=422;IKESE A(sur AC)
+Value=423;BLOC IV B(sur AB)
+Value=424;DE LA JUSTICE A(sur AC)
+Value=425;BOMA B(sur AC)
+Value=426;SALAMABILA B(sur AC)
+Value=427;KIBARAKA
+Value=428;MISENGE
+Value=429;BANDAKA B(sur AB)
+Value=430;NYANGARA I A(sur AC)
+Value=431;KIVU III B(sur AC)
+Value=432;BLOC MUFULA A(sur AC)
+Value=433;BOMA B(sur AC)
+Value=434;LONONGA C(sur AC)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS32
+Value=435;BIUNKUTU A(sur AE)
+Value=436;BUTUMBA A(sur AB)
+Value=437;BOMBWA B(sur AB)
+Value=438; AV NYANGULUBE A(sur AD)
+Value=439;KAMA C(sur AC)
+Value=440;SAMWELI B(sur AD)
+Value=441;KAYUYU A(sur AD)
+Value=442;LUYAMBA A(sur AC)
+Value=443;IPUMA B(sur AB)
+Value=444;LUMUNA B(sur AE)
+Value=445;MABIKWA C(sur AC)
+Value=446;KIHEMBE
+Value=447;TCHALUMBA B(sur AB)
+Value=448;LWANKOMBE A(sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS33
+Value=449;Grappe
+Value=450;Grappe
+Value=451;Grappe
+Value=452;Grappe
+Value=453;Grappe
+Value=454;Grappe
+Value=455;Grappe
+Value=456;Grappe
+Value=457;Grappe
+Value=458;Grappe
+Value=459;Grappe
+Value=460;Grappe
+Value=461;Grappe
+Value=462;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS34
+Value=463;Grappe
+Value=464;Grappe
+Value=465;Grappe
+Value=466;Grappe
+Value=467;Grappe
+Value=468;Grappe
+Value=469;Grappe
+Value=470;Grappe
+Value=471;Grappe
+Value=472;Grappe
+Value=473;Grappe
+Value=474;Grappe
+Value=475;Grappe
+Value=476;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS35
+Value=477;KABANDE
+Value=478;BARAKA A(sur AF)
+Value=479;DU 20 MAI
+Value=480;DES ENSEIGNANTS B(sur AC)
+Value=481;ACCASSIAS  + BLVRD KARISIMBI + BOUNGAIVILIER
+Value=482;DU 30 JUIN B(sur AC)
+Value=483;WALIKALE A(sur AC)
+Value=484;LA FRONTIERE
+Value=0;Kesheni
+Value=486;Ruzuba
+Value=487;IDJWI C(sur AC)
+Value=488;LUBUMBASHI A(sur AD)
+Value=489;RUZIZI A(sur AD)
+Value=490;Magene
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS36
+Value=491;Burambo A (sur AB)
+Value=492;Kasenyi B(sur AB)
+Value=493;Hehu B(sur AB)
+Value=494;Mutaho A(sur AB)
+Value=495;Ngobera A(sur AB)
+Value=496;Rutovu A(sur AB)
+Value=497;Kiziba II A(sur A-AE)
+Value=498;Kiziba II Y(sur AAE)
+Value=499;Kiziba II M(sur AAE)
+Value=500;Ngangi III A(sur AN)
+Value=501;Bugamba II B(sur AM)
+Value=502;Rusayo camp litigieux C(sur AD)
+Value=503;Kanyati a(sur AB)
+Value=504;Ngangi II E(sur AF)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS37
+Value=505;Grappe
+Value=506;Grappe
+Value=507;Grappe
+Value=508;Grappe
+Value=509;Grappe
+Value=510;Grappe
+Value=511;Grappe
+Value=512;Grappe
+Value=513;Grappe
+Value=514;Grappe
+Value=515;Grappe
+Value=516;Grappe
+Value=517;Grappe
+Value=518;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS38
+Value=519;Grappe
+Value=520;Grappe
+Value=521;Grappe
+Value=522;Grappe
+Value=523;Grappe
+Value=524;Grappe
+Value=525;Grappe
+Value=526;Grappe
+Value=527;Grappe
+Value=528;Grappe
+Value=529;Grappe
+Value=530;Grappe
+Value=531;Grappe
+Value=532;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS39
+Value=533;Grappe
+Value=534;Grappe
+Value=535;Grappe
+Value=536;Grappe
+Value=537;Grappe
+Value=538;Grappe
+Value=539;Grappe
+Value=540;Grappe
+Value=541;Grappe
+Value=542;Grappe
+Value=543;Grappe
+Value=544;Grappe
+Value=545;Grappe
+Value=546;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS40
+Value=547;Grappe
+Value=548;Grappe
+Value=549;Grappe
+Value=550;Grappe
+Value=551;Grappe
+Value=552;Grappe
+Value=553;Grappe
+Value=554;Grappe
+Value=555;Grappe
+Value=556;Grappe
+Value=557;Grappe
+Value=558;Grappe
+Value=559;Grappe
+Value=560;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS41
+Value=561;Milima + Ikanga 3
+Value=562;Mukonzi  1 A (sur AC)
+Value=563;Kaliba B(sur AB)
+Value=564;Longange
+Value=565;Irambo C(sur AF)
+Value=566;Mbaki B(sur AB)
+Value=567;Gihamba 2 A(sur AC)
+Value=568;La Voix 1 A(sur AC)
+Value=569;PE Lumumba A(sur AB)
+Value=570;Mukukwe B(sur AB)
+Value=571;Camp SNEL B(sur AB)
+Value=572;Pesage  2 A(sur AB)
+Value=573;Mulungulungu 2 B(sur AC)
+Value=574;Nyarwizimya 1 B(sur AB)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS42
+Value=575;BUHESI B(sur AC)
+Value=576;CIBURHI B(sur AB)
+Value=577;KAMALONGO A(sur AC)
+Value=578;BUGEGULA A(sur AB)
+Value=579;BWAHUNGU A(sur AB)
+Value=580;CIBANDA B(sur AB)
+Value=581;CINYIMBA A(sur AB)
+Value=582;IKUNDA B(sur AB)
+Value=583;NKUNDA
+Value=584;MADAKA B(sur AC)
+Value=585;BUMBALA B(sur AB)
+Value=586;CISHEBEYE A(sur AB)
+Value=587;BUSHEKE B(sur AC)
+Value=588;CHAI B(sur AC)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS43
+Value=589;Grappe
+Value=590;Grappe
+Value=591;Grappe
+Value=592;Grappe
+Value=593;Grappe
+Value=594;Grappe
+Value=595;Grappe
+Value=596;Grappe
+Value=597;Grappe
+Value=598;Grappe
+Value=599;Grappe
+Value=600;Grappe
+Value=601;Grappe
+Value=602;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS44
+Value=603;Grappe
+Value=604;Grappe
+Value=605;Grappe
+Value=606;Grappe
+Value=607;Grappe
+Value=608;Grappe
+Value=609;Grappe
+Value=610;Grappe
+Value=611;Grappe
+Value=612;Grappe
+Value=613;Grappe
+Value=614;Grappe
+Value=615;Grappe
+Value=616;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS45
+Value=617;Grappe
+Value=618;Grappe
+Value=619;Grappe
+Value=620;Grappe
+Value=621;Grappe
+Value=622;Grappe
+Value=623;Grappe
+Value=624;Grappe
+Value=625;Grappe
+Value=626;Grappe
+Value=627;Grappe
+Value=628;Grappe
+Value=629;Grappe
+Value=630;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS46
+Value=631;Grappe
+Value=632;Grappe
+Value=633;Grappe
+Value=634;Grappe
+Value=635;Grappe
+Value=636;Grappe
+Value=637;Grappe
+Value=638;Grappe
+Value=639;Grappe
+Value=640;Grappe
+Value=641;Grappe
+Value=642;Grappe
+Value=643;Grappe
+Value=644;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS47
+Value=645;Grappe
+Value=646;Grappe
+Value=647;Grappe
+Value=648;Grappe
+Value=649;Grappe
+Value=650;Grappe
+Value=651;Grappe
+Value=652;Grappe
+Value=653;Grappe
+Value=654;Grappe
+Value=655;Grappe
+Value=656;Grappe
+Value=657;Grappe
+Value=658;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS48
+Value=659;Grappe
+Value=660;Grappe
+Value=661;Grappe
+Value=662;Grappe
+Value=663;Grappe
+Value=664;Grappe
+Value=665;Grappe
+Value=666;Grappe
+Value=667;Grappe
+Value=668;Grappe
+Value=669;Grappe
+Value=670;Grappe
+Value=671;Grappe
+Value=672;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS49
+Value=673;Grappe
+Value=674;Grappe
+Value=675;Grappe
+Value=676;Grappe
+Value=677;Grappe
+Value=678;Grappe
+Value=679;Grappe
+Value=680;Grappe
+Value=681;Grappe
+Value=682;Grappe
+Value=683;Grappe
+Value=684;Grappe
+Value=685;Grappe
+Value=686;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS50
+Value=687;Grappe
+Value=688;Grappe
+Value=689;Grappe
+Value=690;Grappe
+Value=691;Grappe
+Value=692;Grappe
+Value=693;Grappe
+Value=694;Grappe
+Value=695;Grappe
+Value=696;Grappe
+Value=697;Grappe
+Value=698;Grappe
+Value=699;Grappe
+Value=700;Grappe
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS51
+Value=701;Bagata L (sur A-AC)
+Value=702;Bolima P (sur AR)
+Value=703;Kisantu E (sur AE)
+Value=704;Kwango G (sur AH)
+Value=705;Mabulu1 C (sur AI)
+Value=706;Mabulu2 B(sur AE)
+Value=707;Malala F (surAQ)
+Value=708;Mawanga D (sur AN)
+Value=709;Mfidi B (sur AL)
+Value=710;Mikasi O (sur AS)
+Value=711;Salongo C(sur AL)
+Value=712;Selo F (sur AN)
+Value=713;Tampa E (sur AZ)
+Value=714;Uele G(sur AP)
+
+[ValueSet]
+Label=NUMERO DE LA GRAPPE
+Name=NUMERO_DE_LA_GRAPPE_VS52
+Value=715;Bita A (sur AD)
+Value=716;BU- IMPURU B (sur AC)
+Value=717;KINGASANI A (sur AB)
+Value=718;KINGANKATI B(sur AD)
+Value=719;ISIA-ENSO B (sur AC)
+Value=720;KUAMOUTH-MOKAKO G (sur AJ)
+Value=721;BASUKU-MATABA C (sur AD)
+Value=722;VILLA 0 & ZONE 4 E(sur AF)
+Value=723;INGA-IMPINI B (sur AC)
+Value=724;KIBONUKA- KINGASANI C(sur AE)
+Value=725;CAMP MOZA+ MANDUNGU C(sur AH)
+Value=726;ZONE1-7 A(sur AF)
+Value=727;KINSI- NGANA A (sur AB)
+Value=728;INKO -MABANA B (sur AC)
+
+[Item]
+Label=MILIEU
+Name=MILIEU
+Start=69
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=MILIEU
+Name=MILIEU_VS1
+Value=1;Urbain
+Value=2;Rural
+
+[Item]
+Label=NO DE LA STRUCTURE
+Name=NO_DE_LA_STRUCTURE
+Start=70
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=ADRESSE/DESCRIPTION DE LA STRUCTURE
+Name=ADRESSE_DESCRIPTION_DE_LA_STRUCTURE
+Start=73
+Len=50
+DataType=Alpha
+
+[Record]
+Label=DATE DENOMBREMENT
+Name=DATE_DENOMBREMENT
+RecordTypeValue='1'
+RecordLen=469
+
+[Item]
+Label=POPULATION DU QUARTIER/VILLAGE (comportant la grappe) : _EFFECTIF
+Name=POPULATION_DU_QUARTIER_VILLAGE_COMPORTANT_LA_GRA
+Start=123
+Len=5
+ZeroFill=Yes
+
+[Item]
+Label=DE QUELLE ANNEE
+Name=DE_QUELLE_ANNEE
+Start=128
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=NOM ENUMERATEUR
+Name=NOM_ENUMERATEUR
+Start=132
+Len=60
+DataType=Alpha
+
+[Item]
+Label=DIRECTION
+Name=DIRECTION
+Start=192
+Len=80
+DataType=Alpha
+
+[Item]
+Label=Point du Depart
+Name=POINT_DU_DEPART
+Start=272
+Len=80
+DataType=Alpha
+
+[Item]
+Label=CODE ENUMERATEUR
+Name=CODE_ENUMERATEUR
+Start=352
+Len=1
+ZeroFill=Yes
+
+[Item]
+Label=Nombre de Menage à dans une Structure
+Name=NOMBRE_DE_MENAGE_A_DENOMBRE
+Start=353
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Interview start time
+Name=M04_TIME
+Start=355
+Len=4
+ZeroFill=Yes
+
+[Item]
+Label=Interview start time hours
+Name=INTERVIEW_START_TIME_HOURS
+Start=355
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Interview start time hours
+Name=INTERVIEW_START_TIME_HOURS_VS1
+Value=0:24
+
+[Item]
+Label=Interview start time minutes
+Name=INTERVIEW_START_TIME_MINUTES
+Start=357
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Interview start time minutes
+Name=INTERVIEW_START_TIME_MINUTES_VS1
+Value=0:59
+
+[Item]
+Label=Date de l’enquête  JJ/MM/AAAA
+Name=DATEE
+Start=359
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour
+Name=JOUR
+Start=359
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Mois
+Name=MOIS
+Start=361
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Année
+Name=ANNEE
+Start=363
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=NUMERO DE TELEPHONE ENUMERATEUR
+Name=ENUMTEL
+Start=367
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=NUMERO DE TELEPHONE ENUMERATEUR
+Name=ENUMTEL_VS1
+Value=800000000:829999999
+Value=840000000:859999999
+Value=970000000:999999999
+Value=890000000:919999999
+
+[Item]
+Label=NOM SUPERVISEUR
+Name=NAMSUP
+Start=377
+Len=25
+DataType=Alpha
+
+[Item]
+Label=NUMERO DE TELEPHONE SUP
+Name=ENUMTEL1
+Start=402
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=NUMERO DE TELEPHONE SUP
+Name=ENUMTEL1_VS1
+Value=800000000:829999999
+Value=840000000:859999999
+Value=970000000:999999999
+Value=890000000:919999999
+
+[Item]
+Label=NOM POINT FOCAL
+Name=NAMPF
+Start=412
+Len=25
+DataType=Alpha
+
+[Item]
+Label=NUMERO DE TELEPHONE PF
+Name=ENUMTEL11
+Start=437
+Len=10
+ZeroFill=Yes
+
+[ValueSet]
+Label=NUMERO DE TELEPHONE PF
+Name=ENUMTEL11_VS1
+Value=800000000:829999999
+Value=840000000:859999999
+Value=970000000:999999999
+Value=890000000:919999999
+
+[Item]
+Label=REFERENCE
+Name=B
+Start=447
+Len=13
+DataType=Alpha
+
+[ValueSet]
+Label=REFERENCE
+Name=B_VS1
+Value='A            ';1 Table de vendeur devant la parcelle
+Value='B            ';2.Débit de boisson (bar, buvette, boîte de nuit)
+Value='C            ';3.Boutique, Magasin, Kiosque, Boulangerie, Boucherie
+Value='D            ';4.Garage, Menuiserie mécanique et bois
+Value='E            ';5.Quado, Horlogerie, Station-service
+Value='F            ';6.Confection, Cordonnerie
+Value='G            ';7 Jardin, Elevage de volaille, Arbre fruitier
+Value='H            ';8.Elevage de chèvres, moutons et porcs
+Value='I            ';9.Dispensaire, Hôpital, Maternité,Pharmacie
+Value='J            ';10.Eglise, Ecole
+Value='K            ';11 Maison de communication
+Value='L            ';12.Aucun
+
+[Item]
+Label=1.Table de vendeur devant la parcelle
+Name=B1
+Start=448
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=1.Table de vendeur devant la parcelle
+Name=B1_VS1
+Value='A';Table de vendeur devant la parcelle
+
+[Item]
+Label=2.Débit de boisson (bar, buvette, boîte de nuit)
+Name=B2
+Start=449
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=2.Débit de boisson (bar, buvette, boîte de nuit)
+Name=B2_VS1
+Value='B';Débit de boisson (bar, buvette, boîte de nuit)
+
+[Item]
+Label=3. Boutique, Magasin, Kiosque, Boulangerie, Boucherie
+Name=B3
+Start=450
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=3. Boutique, Magasin, Kiosque, Boulangerie, Boucherie
+Name=B3_VS1
+Value='C';Boutique, Magasin, Kiosque, Boulangerie, Boucherie
+
+[Item]
+Label=4. .Garage, Menuiserie mécanique et bois
+Name=B4
+Start=451
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=4. .Garage, Menuiserie mécanique et bois
+Name=B4_VS1
+Value='D';Garage, Menuiserie mécanique et bois
+
+[Item]
+Label=5. Quado, Horlogerie, Station-service
+Name=B5
+Start=452
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=5. Quado, Horlogerie, Station-service
+Name=B5_VS1
+Value='E';Quado, Horlogerie, Station-service
+
+[Item]
+Label=6. Confection, Cordonnerie
+Name=B6
+Start=453
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=6. Confection, Cordonnerie
+Name=B6_VS1
+Value='F';Confection, Cordonnerie
+
+[Item]
+Label=7. Jardin, Elevage de volaille, Arbre fruitier
+Name=B7
+Start=454
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=7. Jardin, Elevage de volaille, Arbre fruitier
+Name=B7_VS1
+Value='G';Jardin, Elevage de volaille, Arbre fruitier
+
+[Item]
+Label=8.Elevage de chèvres, moutons et porcs
+Name=B8
+Start=455
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=8.Elevage de chèvres, moutons et porcs
+Name=B8_VS1
+Value='H';Elevage de chèvres, moutons et porcs
+
+[Item]
+Label=9. Dispensaire, Hôpital, Maternité,Pharmacie
+Name=B9
+Start=456
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=9. Dispensaire, Hôpital, Maternité,Pharmacie
+Name=B9_VS1
+Value='I'; Dispensaire, Hôpital, Maternité,Pharmacie
+
+[Item]
+Label=10. Eglise, Ecole
+Name=B10
+Start=457
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=10. Eglise, Ecole
+Name=B10_VS1
+Value='J';Eglise, Ecole
+
+[Item]
+Label=11 Maison de communication
+Name=B11
+Start=458
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=11 Maison de communication
+Name=B11_VS1
+Value='K';Maison de communication
+
+[Item]
+Label=12.Aucun
+Name=B12
+Start=459
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=12.Aucun
+Name=B12_VS1
+Value='L';Aucun
+
+[Item]
+Label=HEURE DE FIN DU DENOMBREMENT
+Name=HMFN
+Start=460
+Len=4
+DataType=Alpha
+
+[Item]
+Label=HEURE DE FIN DU DENOMBREMENT
+Name=HHFN
+Start=460
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=MINUTE DE FIN DENOMBREMENT
+Name=MINFN
+Start=462
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Total Enfants dans la Structure
+Name=TOTENFSTRUCT
+Start=464
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Var CONTROLE
+Name=VAR_CONTROLE
+Start=467
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Var Cohérence
+Name=VAR_COHERENCE
+Start=469
+Len=1
+ZeroFill=Yes
+
+[Record]
+Label=FICHE DE DENOMBREMENT DES MENAGES DE LA GRAPPE
+Name=FICHE_DE_DENOMBREMENT_DES_MENAGES_DE_LA_GRAPPE
+RecordTypeValue='2'
+MaxRecords=99
+RecordLen=366
+
+[Item]
+Label=NO DE LA STRUCTURE
+Name=NO_DE_LA_STRUCTURE1
+Start=123
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=RESIDENCE
+Name=RESIDENCE
+Start=126
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=RESIDENCE
+Name=RESIDENCE_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=NO DU MENAGE DANS LA STRUCTURE
+Name=NO_DU_MENAGE_DANS_LA_STRUCTURE
+Start=127
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=ADRESSE/DESCRIPTION DE LA STRUCTURE
+Name=ADRESSE_DESCRIPTION_DE_LA_STRUCTURE1
+Start=129
+Len=80
+DataType=Alpha
+
+[Item]
+Label=NOMBRE DE MENAGES DANS LA STRUCTURE
+Name=NOMBRE_DE_MENAGES_DANS_LA_STRUCTURE
+Start=209
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=NO DU MENAGE DANS LA STRUCTURE
+Name=NO_DU_MENAGE_DANS_LA_STRUCTURE1
+Start=211
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=NOM DU CHEF DE MENAGE
+Name=NOM_DU_CHEF_DE_MENAGE
+Start=213
+Len=60
+DataType=Alpha
+
+[Item]
+Label=LANGUE PARLEE
+Name=LANGUE_PARLEE
+Start=273
+Len=60
+DataType=Alpha
+
+[Item]
+Label=MENAGE AVEC ENFANTS  DE 6 à 59 MOIS
+Name=MENAGE_AVEC_ENFANTS_DE_MOINS_DE_6_A_59_MOIS
+Start=333
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=MENAGE AVEC ENFANTS  DE 6 à 59 MOIS
+Name=MENAGE_AVEC_ENFANTS_DE_MOINS_DE_6_A_59_MOIS_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=TAILLE DU MENAGE
+Name=TAILLE_DU_MENAGE
+Start=334
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=NOMBRE DES ENFANTS  DE 6 à 59  MOIS
+Name=NOMBRE_DES_ENFANTS_DE_MOINS_DE_6_A_59_MOIS
+Start=336
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=NOMBRE DES ENFANTS  DE 6 à 59  MOIS
+Name=NOMBRE_DES_ENFANTS_DE_MOINS_DE_6_A_59_MOIS_VS1
+Value=1:99
+
+[Item]
+Label=DATE DE NAISSANCE DES ENFANTS DE MOINS DE 6 ANS
+Name=DATEE1
+Start=338
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour
+Name=JOUR1
+Start=338
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Mois
+Name=MOIS1
+Start=340
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Année
+Name=ANNEE1
+Start=342
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=LONGITUDE
+Name=IDE13
+Start=346
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=LATITUDE
+Name=IDE14
+Start=356
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=GPS
+Name=B19
+Start=366
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=GPS
+Name=B19_VS1
+Value=1;Capturé GPS
+Value=2;Concervé le GPS
+
+[Record]
+Label=LISTE D'ENFANTS DANS LES MENAGES
+Name=ENFMEN
+RecordTypeValue='3'
+MaxRecords=999
+RecordLen=326
+
+[Item]
+Label=NO DE LA STRUCTURE
+Name=NO_DE_LA_STRUCTURE11
+Start=123
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=RESIDENCE
+Name=RESIDENCE1
+Start=126
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=RESIDENCE
+Name=RESIDENCE1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=NO DU MENAGE DANS LA STRUCTURE
+Name=NO_DU_MENAGE_DANS_LA_STRUCTURE2
+Start=127
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=NUMERO DE L'ENFANT
+Name=NUMSON
+Start=129
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=ADRESSE/DESCRIPTION DE LA STRUCTURE
+Name=ADRESSE_DESCRIPTION_DE_LA_STRUCTURE11
+Start=132
+Len=80
+DataType=Alpha
+
+[Item]
+Label=NOMBRE DE MENAGES DANS LA STRUCTURE
+Name=NOMBRE_DE_MENAGES_DANS_LA_STRUCTURE1
+Start=212
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=NOM DU CHEF DE MENAGE
+Name=NOM_DU_CHEF_DE_MENAGE1
+Start=214
+Len=60
+DataType=Alpha
+
+[Item]
+Label=MENAGE AVEC ENFANTS  DE 6 à 59 MOIS
+Name=MENAGE_AVEC_ENFANTS_DE_MOINS_DE_6_A_59_MOIS1
+Start=274
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=MENAGE AVEC ENFANTS  DE 6 à 59 MOIS
+Name=MENAGE_AVEC_ENFANTS_DE_MOINS_DE_6_A_59_MOIS1_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=TAILLE DU MENAGE
+Name=TAILLE_DU_MENAGE1
+Start=275
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=NOMBRE DES ENFANTS  DE 6 à 59  MOIS
+Name=NOMBRE_DES_ENFANTS_DE_MOINS_DE_6_A_59_MOIS1
+Start=277
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=NOM DE L'ENFANT DE 6 à 59 Mois
+Name=NAMSON
+Start=279
+Len=40
+DataType=Alpha
+
+[Item]
+Label=DATE DE NAISSANCE DES ENFANTS DE MOINS DE 6 ANS
+Name=DATEE11
+Start=319
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour
+Name=JOUR11
+Start=319
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Mois
+Name=MOIS11
+Start=321
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Année
+Name=ANNEE11
+Start=323
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année
+Name=ANNEE11_VS1
+Value=2019:2020

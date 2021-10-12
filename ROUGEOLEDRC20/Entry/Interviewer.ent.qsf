@@ -1,0 +1,64 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.5
+
+[LANGUAGES]
+EN=English
+
+[QUESTION]
+Field=INTERVIEWERMENU_DICT.ID01
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs28\lang1036 ID01 PROVINCE\par
+EN=\par
+EN=\cf2\b0 VF 04/11/2020\cf3\fs24\lang9228\par
+EN=}
+
+[QUESTION]
+Field=INTERVIEWERMENU_DICT.ID02
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\fs28\lang1036 ID02 ANTENNE :\par
+EN=}
+
+[QUESTION]
+Field=INTERVIEWERMENU_DICT.ID03
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\fs28\lang1036 ID03.ZONE DE SANTE\par
+EN=}
+
+[QUESTION]
+Field=INTERVIEWERMENU_DICT.ID04
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\fs28\lang1036 ID04 ENQUETEUR :\par
+EN=}
+
+[QUESTION]
+Field=INTERVIEWERMENU_DICT.ID06
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\fs28\lang1036 ID06 AIRE DE SANTE:\par
+EN=}
+
+[QUESTION]
+Field=INTERVIEWERMENU_DICT.ID07
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\fs28\lang1036 ID07.VILLAGE/QUARTIER/LOCALITE\par
+EN=}
+
+[QUESTION]
+Field=INTERVIEWERMENU_DICT.ID08
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang9228{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.17134}\viewkind4\uc1
+EN=\pard\cf1\b\fs28\lang1036 ID08 NUMERO GRAPPE\par
+EN=}
+

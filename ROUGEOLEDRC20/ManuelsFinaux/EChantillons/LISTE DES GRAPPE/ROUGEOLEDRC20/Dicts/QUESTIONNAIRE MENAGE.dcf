@@ -1,0 +1,2567 @@
+﻿[Dictionary]
+Version=CSPro 7.5
+Label=QUESTIONNAIRE MENAGE
+Name=QUESTIONNAIRE_MENAGE_DICT
+RecordTypeStart=1
+RecordTypeLen=2
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=No
+SecurityOptions=319ECC1AC8BD4FE2CD01927837FEC45799998E73C0E967D26F5D873851E8EFDA819FD4EE235EA81A16D4A0E43CD0FB78
+
+[Level]
+Label=QUESTIONNAIRE MENAGE Level
+Name=QUESTIONNAIRE_MENAGE_LEVEL
+
+[IdItems]
+
+[Item]
+Label=IDE01 PROVINCE
+Name=IDE01
+Start=3
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=IDE01 PROVINCE
+Name=IDE01_VS1
+Value=1;Kinshasa
+Value=2;Bas-Uele
+Value=3;Équateur
+Value=4;Haut-Katanga
+Value=5;Haut-Lomami
+Value=6;Haut-Uele
+Value=7;Ituri
+Value=8;Kasaï
+Value=9;Kasaï-Central
+Value=10;Kasaï-Oriental
+Value=11;Kongo-Central
+Value=12;Kwango
+Value=13;Kwilu
+Value=14;Lomami
+Value=15;Lualaba
+Value=16;Mai-Ndombe
+Value=17;Maniema
+Value=18;Mongala
+Value=19;Nord-Kivu
+Value=20;Nord-Ubangi
+Value=21;Sankuru
+Value=22;Sud-Kivu
+Value=23;Sud-Ubangi
+Value=24;Tanganyika
+Value=25;Tshopo
+Value=26;Tshuapa
+
+[Item]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03
+Start=5
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS1
+Value=1;ZS Buta
+Value=2;ZS Aketi
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS2
+Value=3;ZS Mbandaka
+Value=4;ZS Bolomba
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS3
+Value=5;ZS Kamalondo
+Value=6;ZS Kambove
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS4
+Value=7;ZS Kamina
+Value=8;ZS Bukama
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS5
+Value=9;ZS Isiro
+Value=10;ZS Wamba
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS6
+Value=11;ZS Bunia
+Value=12;ZS Aru
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS7
+Value=13;ZS Tshikapa
+Value=14;ZS Kamonia
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS8
+Value=15;ZS Kananga
+Value=16;ZS Tshibala
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS9
+Value=17;ZS Dibindi
+Value=18;ZS Miabi
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS10
+Value=19;ZS Matadi
+Value=20;ZS Gombe Matadi
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS11
+Value=21;ZS Kenge
+Value=22;ZS Popokabaka
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS12
+Value=23;ZS Kikwit Nord
+Value=24;ZS Vanga
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS13
+Value=25;ZS Mwene Ditu
+Value=26;ZS Kamiji
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS14
+Value=27;ZS Dilala
+Value=28;ZS Fungurume
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS15
+Value=29;ZS Inongo
+Value=30;ZS Kiri
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS16
+Value=31;ZS Kindu
+Value=32;ZS Kasongo
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS17
+Value=33;ZS Lisala
+Value=34;ZS Binga
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS18
+Value=35;ZS Goma
+Value=36;ZS Bambo
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS19
+Value=37;ZS Gbadolite
+Value=38;ZS Mobayi Mbongo
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS20
+Value=39;ZS Lusambo
+Value=40;ZS Minga
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS21
+Value=41;ZS Ibanda
+Value=42;ZS Walungu
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS22
+Value=43;ZS Gemena
+Value=44;ZS Budjala
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS23
+Value=45;ZS Kalemi
+Value=46;ZS Kansimba
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS24
+Value=47;ZS Makiso
+Value=48;ZS Isangi
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS25
+Value=49;ZS Boende
+Value=50;ZS Bokungu
+
+[ValueSet]
+Label=IDE03.ZONE DE SANTE
+Name=IDE03_VS26
+Value=51;MAKALA
+Value=52;ZS MALUKU I
+
+[Item]
+Label=IDE04 ENQUETEUR :
+Name=IDE04
+Start=7
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=IDE04 ENQUETEUR :
+Name=IDE04_VS1
+Value=1:99
+
+[Item]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08
+Start=9
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS1
+Value=1;Azande
+Value=2;Badge
+Value=3;Bobalea
+Value=4;Bomeya
+Value=5;Bosobe
+Value=6;Logo
+Value=7;Makasi
+Value=8;Mongwandi
+Value=9;Mopembe
+Value=10;Ndoli
+Value=11;Rubi
+Value=12;BOBIMBA I
+Value=13;BONZONGEA
+Value=14;BOSANZA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS2
+Value=15;Quartier Azande
+Value=16;Quartier Akisangani
+Value=17;Quartier Mabinza
+Value=18;Quartier Mobati
+Value=19;Quartier Mongwandi
+Value=20;Quartier Itimbiri
+Value=21;KPENGBE
+Value=22;BOGUKE 2
+Value=23;BOZELEKA
+Value=24;BONZENGO
+Value=25;LIBOMBO
+Value=26;ELUNGU
+Value=27;KENGE
+Value=28;BOMBENZE
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS3
+Value=29;AIR - CONGO
+Value=30;BASOKO
+Value=31;IBANGA
+Value=32;IKONGOWASA
+Value=33;MBANDAKA-IKOLE
+Value=34;BOMBWANZA
+Value=35;BONDONDJO
+Value=36;MAMBENGA
+Value=37;BONGONDE
+Value=38;BOYERA
+Value=39;INGANDA
+Value=40;ITURI
+Value=41;MAMAN BALAKI
+Value=42;WENDJI
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS4
+Value=43;Quartier Egbuloy
+Value=44;Quartier Mangeli
+Value=45;Quartier Litomba
+Value=46;KONGOLIA
+Value=47;LIKWELO
+Value=48;BOSO SEBE
+Value=49;BOLANGA
+Value=50;BOMBINDO
+Value=51;BOSO EBONGA
+Value=52;ILANGA
+Value=53;ESANGA BONKOKOLO1
+Value=54;LILEKE
+Value=55;BOSILELA
+Value=56;WELE ISAKA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS5
+Value=57;KIMBEMBE
+Value=58;MUNUA
+Value=59;BEL AIR II
+Value=60;BONGONGA
+Value=61;KAFUBU
+Value=62;KIGOMA
+Value=63;KAPONDA NORD
+Value=64;KISALA
+Value=65;NSELE
+Value=66;LUALABA
+Value=67;LUVUA
+Value=68;MAKUTANO
+Value=69;BENDERA
+Value=70;MATOLEO
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS6
+Value=71;Quartier Kiwewe
+Value=72;Quartier Mikuba
+Value=73;Quartier Mitumba
+Value=74;Quartier Kampemba
+Value=75;KABUSENGA 2
+Value=76;NSAYA
+Value=77;KANUNKA
+Value=78;MWEPU-BUSEBA
+Value=79;KAMIKOLO
+Value=80;BUNGUBUNGU
+Value=81;KIKUSWE 12KM
+Value=82;MANGOMBO
+Value=83;SANTUMBA 55KM
+Value=84;MUSOFI
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS7
+Value=85;Centre Urbain
+Value=86;Congo
+Value=87;Kaloba-Bloc 2
+Value=88;Katuba 1
+Value=89;Katuba 2
+Value=90;Mayilamene
+Value=91;KIPULUMBA
+Value=92;KADIBU II
+Value=93;LWEMBE KAMISOMBO
+Value=94;KABUTULU
+Value=95;KITANDE
+Value=96;MANSOMPE
+Value=97;MULENGI
+Value=98;DILULA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS8
+Value=99;Quartier Lubiayi
+Value=100;Quartier Kina
+Value=101;Quartier Kalalo
+Value=102;QuartierKafakumba
+Value=103;KATAMBO
+Value=104;KILUMBYE
+Value=105;KILUNGUY
+Value=106;KISONO
+Value=107;NGOLE II
+Value=108;KATUBWE
+Value=109;KAMATANDA
+Value=110;HEWA BORA
+Value=111;KASESE
+Value=112;BYALAMUKANGA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS9
+Value=113;Akpokoma
+Value=114;Bazanga
+Value=115;Dingida
+Value=116;Edindali
+Value=117;Gosamo
+Value=118;Kongoli
+Value=119;Madjo
+Value=120;Mambaya
+Value=121;Teli
+Value=122;Zebuandra
+Value=123;MAIKA
+Value=124;MABUDESE-PENGE
+Value=125;MADEDEDE
+Value=126;MADULU 2
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS10
+Value=127;Quartier Bakombesa
+Value=128;Quartier Gbadi
+Value=129;Quartier Huleyo
+Value=130;Quartier Ndokayulu
+Value=131;Quartier Victimes de la Rebellion
+Value=132;Quartier Kubalezo
+Value=133;IFUA
+Value=134;BAFANANGAA
+Value=135;BAKUNZI
+Value=136;BAYOPE
+Value=137;MAVABOLONGO
+Value=138;MBAMBA
+Value=139;MAVANGOMU
+Value=140;DJAKANDII
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS11
+Value=141;Bankoko
+Value=142;Kimbia
+Value=143;Lembaso
+Value=144;Lumumba
+Value=145;Mudji-Pela
+Value=146;Ngezi
+Value=147;Nyakasanza
+Value=148;Rwambuzi
+Value=149;Saio
+Value=150;Salongo
+Value=151;Simbiliabo
+Value=152;Sukisa
+Value=153;RUSA I
+Value=154;MAGIMBA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS12
+Value=155;UGONJO
+Value=156;PABIRI
+Value=157;ANDANDARA
+Value=158;MADI I
+Value=159;USIGO
+Value=160;KPANYI
+Value=161;PALAMU II
+Value=162;DJUPAKECA
+Value=163;PANYABIU
+Value=164;PAMWOC TER' USUSA
+Value=165;JUPANYARALUR
+Value=166;PACUA
+Value=167;GWOKNYERI
+Value=168;DJUPALANGU II
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS13
+Value=169;HOPITAL
+Value=170;TSHIKELE
+Value=171;KAMILENGA
+Value=172;SAMAY II
+Value=173;BUDISI
+Value=174;MABONDO
+Value=175;BASANGA
+Value=176;KAMILANDU
+Value=177;ABATTOIR
+Value=178;TSHINDUNDU
+Value=179;TSHIBANGU - MPATA
+Value=180;KITANGWA
+Value=181;RVA
+Value=182;KASAI II
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS14
+Value=183;Quartier Kamonia
+Value=184;Quartier du Marche
+Value=185;Quartier Longatshimo
+Value=186;Quartier Kapuza
+Value=187;TSHIMBAWU
+Value=188;MUILA WA MUSHIMA
+Value=189;MBOMBO MBUAMBA
+Value=190;MUSHIMA MUKULU
+Value=191;DIBAYA LUKENGU
+Value=192;KABINZA
+Value=193;THAMBWE
+Value=194;MUALENGO
+Value=195;BENA NGOJI
+Value=196;MUATSHIKUASA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS15
+Value=197;BAKWA-MBUYI
+Value=198;BAKWA-MBOYA
+Value=199;PLATEAU
+Value=200;TSHISAMBI
+Value=201;BENA-MANDE
+Value=202;KATOKA I.
+Value=203;KELEKELE
+Value=204;DIKONGAYI
+Value=205;NSANGA NYEMBO
+Value=206;MABONDO
+Value=207;MULUNDA
+Value=208;TSHIBASHI
+Value=209;SALONGO MUIMBA
+Value=210;NDESHA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS16
+Value=211;Cité de  Luiza
+Value=212;KABONGOLO
+Value=213;MUKENGE TSHILOLO
+Value=214;KALUMBU
+Value=215;KASANGISHA
+Value=216;KANANGA BAKETE
+Value=217;WANGA KAMONJI
+Value=218;MUSHAPU
+Value=219;NKAJA MUKALENGE
+Value=220;MPAMPA
+Value=221;KAMINYZA MATI
+Value=222;NGAMBU MASAKA
+Value=223;AKASUNGI
+Value=224;MUKINYI KASENGA 1
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS17
+Value=225;KABUATSHA
+Value=226;Makala
+Value=227;Kalundu
+Value=228;Mulekayi
+Value=229;Dipumba
+Value=230;Kasa vubu
+Value=231;Monzo
+Value=232;Tshiya
+Value=233;BUMBAJI
+Value=234;Masanka
+Value=235;Makasi
+Value=236;Lunga
+Value=237;Ngoma ngole
+Value=238;Tshiminyi
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS18
+Value=239;Cite de  Bakwa-Tshimuna
+Value=240;BENA NGANDU
+Value=241;BAKWA NSANGAYI
+Value=242;BAKWA TSHINENA
+Value=243;BENA KANUNJIDI
+Value=244;TSHIAMUNTU
+Value=245;BISAPUKA 2
+Value=246;MANGANA 1
+Value=247;CIBOMBO
+Value=248;BAKWA KANYINDA
+Value=249;BENA KABALA
+Value=250;BENA MULANGA
+Value=251;BENA KALALA BILUNGI
+Value=252;BAKWA MBAYI
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS19
+Value=253;NZADI
+Value=254;SALONGO
+Value=255;SOYO
+Value=256;TSHIMPI
+Value=257;VILLE BASSE
+Value=258;VILLE HAUTE
+Value=259;MBUZI
+Value=260;MONGO
+Value=261;MPOZO
+Value=262;MVUZI
+Value=263;NGADI
+Value=264;BANANA
+Value=265;DIBWA - TSAKALA
+Value=266;KITOMESA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS20
+Value=267;MASANGI
+Value=268;KAMBA
+Value=269;WOMBE
+Value=270;MPETE
+Value=271;NOKI
+Value=272;GOMBE MATADI
+Value=273;MVUNZU
+Value=274;KUMBI 2
+Value=275;LUMUENO
+Value=276;KIMBENZA
+Value=277;NSONA KIYENDI
+Value=278;BISINZA
+Value=279;NIENGA MBOTA
+Value=280;MBANZA LEMBA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS21
+Value=281;Bakali
+Value=282;Congo
+Value=283;Epom
+Value=284;Kenge 2
+Value=285;Manunga
+Value=286;Masikita
+Value=287;Pont wamba
+Value=288;Salongo
+Value=289;MUVUNGI
+Value=290;MALOMBALA
+Value=291;ILANGA
+Value=292;MUYOMBO II
+Value=293;MAYOYI
+Value=294;SANZIKA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS22
+Value=295;Quartier Kwango
+Value=296;Quartier Kafumfu
+Value=297;Quartier Pungu Mbamb
+Value=298;Quartier Ngowa
+Value=299;Quartier Nkobo
+Value=300;Quartier Lwayi
+Value=301;UTOMA KWAMBUNDU CENTRE SALEM
+Value=302;MAKONDALA/TSAKU
+Value=303;KAMBANZIA NTUTI
+Value=304;IPAMA
+Value=305;KAVULA B.A.
+Value=306;IBWOTA
+Value=307;MASEBU
+Value=308;ITSAKALA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS23
+Value=309;INGA
+Value=310;LWANO
+Value=311;MISENGI
+Value=312;NDANGU
+Value=313;NGULU- NZAMBA
+Value=314;WENZE
+Value=315;BONGISA
+Value=316;LUNIA
+Value=317;MUDIKWITI
+Value=318;YONSI
+Value=319;KIMWANGA
+Value=320;LUMBI
+Value=321;NDEKE-ZULU
+Value=322;SANKURU
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS24
+Value=323;NGWABA 2
+Value=324;MASINGA
+Value=325;MUBINI
+Value=326;NZUNDU LUKWA
+Value=327;NKIA
+Value=328;MUYENE 3
+Value=329;TSHAMPERE 1
+Value=330;KONDJI
+Value=331;PUKULU MUWAY
+Value=332;MPENGO
+Value=333;MUKILU MAKUKU 1
+Value=334;PORT BAC MAZINGA
+Value=335;MBANSIO
+Value=336;KIANGA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS25
+Value=337;KABAMBA KABULUKU
+Value=338;KAMISANGI
+Value=339;MAKOTA
+Value=340;MBAMVU
+Value=341;TSHITONKONYI
+Value=342;DITUBUKASA
+Value=343;KANAMA
+Value=344;MUSADI
+Value=345;ILUNGA MATOBO
+Value=346;MATSHITSHI
+Value=347;REGIDESO
+Value=348;TSHIBANGU - MPATA
+Value=349;BONDOYI
+Value=350;KABWE KAZEMBE
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS26
+Value=351;Quartier Bisota
+Value=352;Quartier Kameka
+Value=353;Quartier Kabolesha
+Value=354;Quartier Nsuku
+Value=355;Quartier Kampemba
+Value=356;Quartier S_Cite
+Value=357;Quartier Biayi
+Value=358;Quartier Bandayi
+Value=359;LUNGODI
+Value=360;BAKWA MBULU
+Value=361;BAKWA TSHILENGE
+Value=362;BENA TSHIENDE
+Value=363;BENA KABALA
+Value=364;BENA MUSANDA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS27
+Value=365;BIASHARA
+Value=366;GECAMINES-KOLWEZI
+Value=367;KANIAMA
+Value=368;KAPATA
+Value=369;LUILU
+Value=370;MUSONOI
+Value=371;INDUSTRIEL
+Value=372;KAKIPULUWE
+Value=373;KASOMBO
+Value=374;KASULO
+Value=375;KAYEYE
+Value=376;MOISE TSHOMBE
+Value=377;MUNUNKA
+Value=378;MUTOSHI
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS28
+Value=379; Quartier Moïse Tshombe
+Value=380; Quartier Mwatshisenge
+Value=381; Quartier Ndumba
+Value=382; Quartier Saluseke
+Value=383; Cité de  Kasaji
+Value=384;KALIMA I
+Value=385;TSHIULAULA
+Value=386;KAWAMA II
+Value=387;KAPELE
+Value=388;KAKOHO
+Value=389;MWA ILUNGA
+Value=390;MWAKAHILA
+Value=391;BASILE
+Value=392;KAJIKA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS29
+Value=393;Likwangula
+Value=394;Mombilanga
+Value=395;Mpolo
+Value=396;Mpongongoli
+Value=397;Quartier Bonono
+Value=398;Quartier Iyamba
+Value=399;Quartier Lobongila
+Value=400;Quartier Kinda Kinda
+Value=401;BOPOKA 1
+Value=402;BOKONDA IBOMA
+Value=403;BOSAKU
+Value=404;BESOMBI
+Value=405;IBENGA
+Value=406;BOKUKA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS30
+Value=407;Quartier Bonzongo
+Value=408;Quartier Boyambola
+Value=409;Quartier Mabwa
+Value=410;Quartier Montsundi
+Value=411;Quartier Mpunga
+Value=412;Quartier Mpeti
+Value=413;SAMAFA
+Value=414;BAYEBAYA EKWIRU
+Value=415;NGANTALI
+Value=416;NZONGWOMI
+Value=417;MPULUNGIENE
+Value=418;MOMFURA
+Value=419;NGIA MAVUBA
+Value=420;SOGENAC
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS31
+Value=421;KABONDO
+Value=422;KAMA II
+Value=423;MANGOBO
+Value=424;BASOKO
+Value=425;KASUKU
+Value=426;LWAMA
+Value=427;KIKELENGE
+Value=428;LUKUNDA
+Value=429;TOKOLOTE
+Value=430;Quartier Kibungi
+Value=431;Quartier Linioma
+Value=432;PETCHOLONGO
+Value=433;YAWALA
+Value=434;YALOMBE
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS32
+Value=435;Quartier Dix Huit
+Value=436;Quartier Kauta
+Value=437;Quartier Limanga
+Value=438;Quartier TchaTchaTcha
+Value=439;Quartier Industriel
+Value=440;BALUBA
+Value=441;MWIMBA
+Value=442;MILEMBA
+Value=443;PENE AMBADI
+Value=444;PENE AMBADI
+Value=445;KYAMUNDALA
+Value=446;MALISAWA
+Value=447;KUTI
+Value=448;LUMUMBA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS33
+Value=449;Ebabo
+Value=450;Kaba
+Value=451;Pêcheurs
+Value=452;Trois Z
+Value=453;Cité de Binga
+Value=454;MASANGO
+Value=455;BOKULO
+Value=456;MASANGI
+Value=457;ELONGOLO
+Value=458;BOKWELE
+Value=459;BAU
+Value=460;BOYANGE
+Value=461;BOBY MALENGO
+Value=462;BOKUTU YA BOSAWU
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS34
+Value=463;Quartier Nsele
+Value=464;Quartier Itoko
+Value=465;BONGITA
+Value=466;LIMEMBE
+Value=467;LOKOMBO
+Value=468;LOFUKUMOLA
+Value=469;BOKAU
+Value=470;NGANDO
+Value=471;BONGBONGA LIBONGU
+Value=472;BOSONGO
+Value=473;BONGOTE
+Value=474;MANGA
+Value=475;BOSO NGOBE
+Value=476;BOSO NGOMU
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS35
+Value=477;HIMBI
+Value=478;KATINDO
+Value=479;KESHERO
+Value=480;LES VOLCANS
+Value=481;MIKENO
+Value=482;BUJOVU
+Value=483;KASIKA
+Value=484;KATOYI
+Value=485;MABANGA NORD
+Value=486;MURARA
+Value=487;VIRUNGA
+Value=488;NDOSHO
+Value=489;MABANGA SUD
+Value=490;MAJENGO
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS36
+Value=491;KASUMBA
+Value=492;NGOBERA
+Value=493;MUKONDO I
+Value=494;KABALE KATAMBI
+Value=495;KIBANGARAME
+Value=496;KABAGANA
+Value=497;KANZANA
+Value=498;BUHOMBO
+Value=499;BUGEREGERE
+Value=500;SHABWEGA
+Value=501;MUJOGA
+Value=502;MUTAHO
+Value=503;KINGARAME
+Value=504;RUHUNDA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS37
+Value=505;KAYA
+Value=506;LITO
+Value=507;MBANZA
+Value=508;MOANDA
+Value=509;PANGOMA
+Value=510;FADU
+Value=511;KAWELE
+Value=512;MOLEGBE
+Value=513;GOBELE
+Value=514;GBAU
+Value=515;FILA
+Value=516;NGANZA
+Value=517;TUDU
+Value=518;KAMBO
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS38
+Value=519;Cité Mobayi Mbongo
+Value=520;LAKOSO
+Value=521;NGBODONDO
+Value=522;KUTU YOMBA
+Value=523;PILILI
+Value=524;AKETE
+Value=525;MBAO 2
+Value=526;SATEMA
+Value=527;MOGWAKA
+Value=528;DUI
+Value=529;KOLONGO
+Value=530;SIMBALA
+Value=531;NZUMU
+Value=532;GOLA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS39
+Value=533;Baisambo
+Value=534;Bashi-Kombe
+Value=535;Kabondo
+Value=536;Ngongo-Tshileta
+Value=537;Salongo
+Value=538;Bijiba
+Value=539;KIBALA
+Value=540;BUNUKU
+Value=541;TSHIBINGANYI
+Value=542;KANGOMBIA
+Value=543;SANGAMEYI
+Value=544;TSHILEKE
+Value=545;MULUBULE
+Value=546;PISHEKILE
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS40
+Value=547;Cite de  Kole
+Value=548;ESEKANYA
+Value=549;ODJIMA 1
+Value=550;SHAKOKE
+Value=551;AMBANGA 2
+Value=552;POTOPOTO 1
+Value=553;KONGA AKAYA
+Value=554;ELONGOLONGO
+Value=555;KOMBE KOMBE VILLAGE
+Value=556;SALAMBO
+Value=557; TOKEMBE
+Value=558;EPESE PONGO
+Value=559;DIWOKO
+Value=560;OMEDJI
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS41
+Value=561;KASHA
+Value=562;LUMUMBA
+Value=563;NYAKAVOGO
+Value=564;NDENDERE
+Value=565;NYALUKEMBA
+Value=566;PANZI
+Value=567;CHIMPUNDA
+Value=568;KAJANGU
+Value=569;KALELRE
+Value=570;KASALI
+Value=571;MOSALA
+Value=572;NKAFU
+Value=573;NYAKALIBA
+Value=574;NYAMUGO
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS42
+Value=575;IDINGA
+Value=576;IYELA
+Value=577;LWAMBA
+Value=578;MUGELELA 1
+Value=579;NZALIA 2
+Value=580;MAPELA
+Value=581;KALAMBO
+Value=582;BINKUTU
+Value=583;KALOLE CC
+Value=584;BIZEMBU / KILUNDU
+Value=585;KISASA
+Value=586;KASUGULU
+Value=587;TUBULU 2
+Value=588;MINTONKO
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS43
+Value=589;Gbazulu
+Value=590;Gemena 2
+Value=591;Mombonga
+Value=592;Salongo 1
+Value=593;Sanza
+Value=594;Sukia
+Value=595;BOYAMANGA II
+Value=596;ZULU
+Value=597;FULU BOKPANI
+Value=598;BOZOMBALI
+Value=599;GBEZEMBE
+Value=600;BOTUZU
+Value=601;BOWARA  III
+Value=602;BABU
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS44
+Value=603;Quartier Moleka
+Value=604;Quartier Bakongo
+Value=605;Quartier Saw
+Value=606;Quartier Salongo
+Value=607;Quartier Tondoma
+Value=608;MONZELE
+Value=609;GASO
+Value=610;NGBANDA NGOMBA
+Value=611;NGBOBI MOKILI
+Value=612;BOSO GBETI
+Value=613;IZAKO
+Value=614;MBONGOLO
+Value=615;BOBANDI
+Value=616;BOSO NGAI
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS45
+Value=617; Kafinga
+Value=618; Kataki
+Value=619; Kyanza
+Value=620; Mutuka
+Value=621; Regeza-Mwendo
+Value=622;Kafulo
+Value=623;MPYANA MUSENGE
+Value=624;KITUBA
+Value=625;INABANZA
+Value=626;KALUNGA KYAMBO
+Value=627;KATEKE
+Value=628;KILUBA
+Value=629;KALUNGA SWEDI
+Value=630;MUALA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS46
+Value=631; Quartier Kaile
+Value=632; Quartier Kasu
+Value=633; Quartier Mpongo
+Value=634; Quartier Lukundula
+Value=635; Quartier Lumbu-Lumbu
+Value=636; Quartier Kakudji Holo
+Value=637;KAYOMBO
+Value=638;MANJANJA
+Value=639;BETANI
+Value=640;MBOBE I
+Value=641;MAYALA
+Value=642;KIYEMBO
+Value=643;KASONGO
+Value=644;BAHINGA
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS47
+Value=645;ARTISANAL
+Value=646;Plateau Boyoma
+Value=647;Musiciens
+Value=648;Basuku
+Value=649;Kasai
+Value=650;Monga
+Value=651;24 NOVEMBRE
+Value=652;Kilanga
+Value=653;Basuku
+Value=654;Lokele
+Value=655;Lindi
+Value=656;Seghama
+Value=657;Ecole
+Value=658;Marché
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS48
+Value=659;Cite de Yahuma
+Value=660;Quartier Zooti
+Value=661;Quartier Mosite
+Value=662;Quartier Bayolo-Ibumbu
+Value=663;Quartier Yaholia
+Value=664;Quartier Yalikito
+Value=665;ETOKA INONE
+Value=666;YALOLO
+Value=667;YUMBI I
+Value=668;YOFI
+Value=669;YAOKEMBA 1
+Value=670;YANDOKO
+Value=671;M, P  LIMBASE
+Value=672;YAYOHE
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS49
+Value=673;Bosongo
+Value=674;Centre Urbain
+Value=675;Yondji
+Value=676;Boende II
+Value=677;IMEKA
+Value=678;IYALI
+Value=679;IBAA
+Value=680;EKONDA
+Value=681;LOAMPOMO
+Value=682;LIKOMBE
+Value=683;NONGONYENGA
+Value=684;MPUMANDJOKU
+Value=685;MALELA CENTRE
+Value=686;MIYAKI
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS50
+Value=687; Quartier I
+Value=688; Quartier II
+Value=689;NKILE
+Value=690;NONGO
+Value=691;YALOFOTO
+Value=692;ILENGE
+Value=693;ILANGA
+Value=694;INGWO
+Value=695;LOFUKYA
+Value=696;KANSAMA KELONGO
+Value=697;BOLEKA MPUTU
+Value=698;LOKOMA
+Value=699;BOSEKA PLANTATION
+Value=700;KANTULA 2
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS51
+Value=701;LUMUMBA
+Value=702;LOKORO
+Value=703;YOLO SUD 3
+Value=704;MFUMU-NKENTO
+Value=705;PANDANZILA
+Value=706;KUMBU
+Value=707;NGBAKA
+Value=708;FOIRE
+Value=709;AGRICOLE
+Value=710;MAKASI
+Value=711;CONGO(ZAIRE)
+Value=712;MANDIANGU
+Value=713;MBOMB'IPOKU
+Value=714;MASANGU
+
+[ValueSet]
+Label=IDE08 NUMERO GRAPPE
+Name=IDE08_VS52
+Value=715;GOMA
+Value=716;TSHUAPA
+Value=717;LITHO(Binza Pigeon)
+Value=718;MUNGANGA
+Value=719;SAIO
+Value=720;MBALA
+Value=721;MALUKU
+Value=722;BANKANA
+Value=723;DUMI
+Value=724;MONGATA
+Value=725;YUO
+Value=726;NGAMPAMA
+Value=727;DINGI-DINGI
+Value=728;BUMA
+
+[Item]
+Label=NUMERO ENREGISTREMENT MENAGE
+Name=IDE11
+Start=12
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=NUMERO ENREGISTREMENT MENAGE
+Name=IDE11_VS1
+Value=1:9999
+
+[Record]
+Label=IDENTIFICATION (IDE)
+Name=IDENTIFICATION_IDE
+RecordTypeValue='ID'
+RecordLen=152
+
+[Item]
+Label=Date de l’enquête  JJ/MM/AAAA
+Name=DATEE
+Start=16
+Len=8
+DataType=Alpha
+
+[Item]
+Label=Jour
+Name=JOUR
+Start=16
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Mois
+Name=MOIS
+Start=18
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=Année
+Name=ANNEE
+Start=20
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[Item]
+Label=IDE09.MILIEU
+Name=IDE09
+Start=24
+Len=1
+
+[ValueSet]
+Label=IDE09.MILIEU
+Name=IDE09_VS1
+Value=1;1. Urbain
+Value=2;2. Rural
+
+[Item]
+Label=IDE10 SUPERVISEUR (POINT FOCAL)
+Name=IDE10
+Start=25
+Len=2
+
+[ValueSet]
+Label=IDE10 SUPERVISEUR (POINT FOCAL)
+Name=IDE10_VS1
+Value=1;Superviseur n° 1
+Value=2;Superviseur n° 2
+Value=3;Superviseur n° 3
+Value=4;Superviseur n° 4
+Value=5;Superviseur n° 5
+Value=6;Superviseur n° 6
+Value=7;Superviseur n° 7
+Value=8;Superviseur n° 8
+Value=9;Superviseur n° 9
+Value=10;Superviseur n° 10
+Value=11;Superviseur n° 11
+Value=12;Superviseur n° 12
+Value=13;Superviseur n° 13
+Value=14;Superviseur n° 14
+Value=15;Superviseur n° 15
+Value=16;Superviseur n° 16
+Value=17;Superviseur n° 17
+Value=18;Superviseur n° 18
+Value=19;Superviseur n° 19
+Value=20;Superviseur n° 20
+Value=21;Superviseur n° 21
+Value=22;Superviseur n° 22
+Value=23;Superviseur n° 23
+Value=24;Superviseur n° 24
+Value=25;Superviseur n° 25
+Value=26;Superviseur n° 26
+
+[Item]
+Label=IDE05 TEL ENQUETEUR:
+Name=IDE05
+Start=27
+Len=10
+
+[Item]
+Label=Hémisphère sud ou nord
+Name=IDE12
+Start=37
+Len=1
+
+[ValueSet]
+Label=Hémisphère sud ou nord
+Name=IDE12_VS1
+Value=1;Nord
+Value=2;Sud
+
+[Item]
+Label=GPS
+Name=B19
+Start=38
+Len=1
+
+[ValueSet]
+Label=GPS
+Name=B19_VS1
+Value=1;Capturé GPS
+Value=2;Concervé le GPS
+
+[Item]
+Label=LONGITUDE
+Name=IDE13
+Start=39
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=LATITUDE
+Name=IDE14
+Start=49
+Len=10
+Decimal=6
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Y-a-t-il des enfants de moins de cinq ans dans le ménage ?
+Name=IDE15
+Start=59
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Y-a-t-il des enfants de moins de cinq ans dans le ménage ?
+Name=IDE15_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Nombre d'enfant de 6 mois à 59 mois
+Name=IDE16
+Start=60
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=IDE02 ANTENNE :
+Name=IDE02
+Start=62
+Len=30
+DataType=Alpha
+
+[Item]
+Label=IDE06 AIRE DE SANTE:
+Name=IDE06
+Start=92
+Len=30
+DataType=Alpha
+
+[Item]
+Label=IDE07.VILLAGE/QUARTIER/LOCALITE
+Name=IDE07
+Start=122
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Finish
+Name=IDFIN
+Start=152
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Finish
+Name=IDFIN_VS1
+Value=1;Terminer et Sauvegarder questionnaire
+Image=..\..\RDCRGE\Reference\icons\sauvegarder_samson.png
+
+[Record]
+Label=PROFIL DU MENAGE DE L'ENFANT (PME)
+Name=PROFIL_DU_MENAGE_DE_L_ENFANT_PM
+RecordTypeValue='PM'
+RecordLen=70
+
+[Item]
+Label=PME00 Numéro du chef ménage  (un chiffre pour la maison et un chiffre pour le ménage) Parcelle
+Name=PME0B
+Start=16
+Len=2
+
+[ValueSet]
+Label=PME00 Numéro du chef ménage  (un chiffre pour la maison et un chiffre pour le ménage) Parcelle
+Name=PME0B_VS1
+Value=1:99
+
+[Item]
+Label=PME00 Numéro du chef ménage  (un chiffre pour la maison et un chiffre pour le ménage) Maison
+Name=PME00
+Start=18
+Len=2
+
+[ValueSet]
+Label=PME00 Numéro du chef ménage  (un chiffre pour la maison et un chiffre pour le ménage) Maison
+Name=PME00_VS1
+Value=1:99
+
+[Item]
+Label=PME01.Identifiant du chef ménage  (Initiales du Nom et Prénoms)
+Name=PME01
+Start=20
+Len=2
+DataType=Alpha
+
+[Item]
+Label=PM02.Sexe du chef ménage
+Name=PM02
+Start=22
+Len=1
+
+[ValueSet]
+Label=PM02.Sexe du chef ménage
+Name=PM02_VS1
+Value=1;1. Masculin
+Value=2;2.Féminin
+
+[Item]
+Label=PME03 Age du chef ménage (en années)   (si âge ≥95 ans, écrire 95 NSP=98)
+Name=PM03
+Start=23
+Len=2
+
+[ValueSet]
+Label=PME03 Age du chef ménage (en années)   (si âge ≥95 ans, écrire 95 NSP=98)
+Name=PM03_VS1
+Value=12:95
+Value=95;âge ≥95 ans
+Value=98;98. NSP
+
+[Item]
+Label=PM04.Niveau d'instruction du chef ménage
+Name=PM04
+Start=25
+Len=1
+
+[ValueSet]
+Label=PM04.Niveau d'instruction du chef ménage
+Name=PM04_VS1
+Value=1;1.Sans niveau
+Value=2;2. Primaire
+Value=3;3.Secondaire
+Value=4;4.Supérieur/universitaire
+
+[Item]
+Label=PM05.Catégorie socio professionnelle du chef ménage
+Name=PM05
+Start=26
+Len=1
+
+[ValueSet]
+Label=PM05.Catégorie socio professionnelle du chef ménage
+Name=PM05_VS1
+Value=1;1.Cadre
+Value=2;2.Employé/manœuvre
+Value=3;3.Employeur/Patron
+Value=4;4.Propre compte
+Value=5;5.Apprenti/aide familial
+Value=6;6.Elève/étudiant
+Value=7;7.Chômeur/inactif/femme au foyer
+Value=8;8. Autres (précisez)
+
+[Item]
+Label=PM05 Autres à preciser
+Name=PM05_AUTRES_A_PRECISER
+Start=27
+Len=40
+DataType=Alpha
+
+[Item]
+Label=PM06.Nombre de membres du ménage (inscrire 02 chiffres)
+Name=PM06
+Start=67
+Len=2
+
+[ValueSet]
+Label=PM06.Nombre de membres du ménage (inscrire 02 chiffres)
+Name=PM06_VS1
+Value=1:99
+
+[Item]
+Label=PM07.Nombre d'enfants 6-59mois
+Name=PM07
+Start=69
+Len=2
+
+[ValueSet]
+Label=PM07.Nombre d'enfants 6-59mois
+Name=PM07_VS1
+Value=0:30
+
+[Record]
+Label=MEMBRES DU MENAGE
+Name=MEMBRES_DU_MENAGE
+RecordTypeValue='MM'
+MaxRecords=30
+RecordLen=47
+
+[Item]
+Label=Numero d'ordre
+Name=MM01
+Start=16
+Len=2
+
+[ValueSet]
+Label=Numero d'ordre
+Name=MM01_VS1
+Value=1:30
+
+[Item]
+Label=Nom et Prénoms
+Name=MM02
+Start=18
+Len=20
+DataType=Alpha
+
+[Item]
+Label=Mois de naissance
+Name=MM03
+Start=38
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de naissance
+Name=MM03_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+Value=98;NSP
+
+[Item]
+Label=Année de naissance
+Name=MM04
+Start=40
+Len=4
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année de naissance
+Name=MM04_VS1
+Value=2014;2014
+Value=2015;2 015
+Value=2016;2 016
+Value=2017;2 017
+Value=2018;2 018
+Value=2019;2 019
+Value=2020;2 020
+Value=98;NSP
+
+[Item]
+Label=Âge de l'enfant en mois
+Name=MM05
+Start=44
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Âge de l'enfant en mois
+Name=MM05_VS1
+Value=0:90
+Value=98;NSP
+
+[Item]
+Label=Sexe
+Name=MM06
+Start=46
+Len=1
+
+[ValueSet]
+Label=Sexe
+Name=MM06_VS1
+Value=1;1. Masculin
+Value=2;2.Féminin
+
+[Item]
+Label=Y a-t-il un autre enfant non cité
+Name=MM07
+Start=47
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Y a-t-il un autre enfant non cité
+Name=MM07_VS1
+Value=1;Oui
+Value=2;Non
+
+[Record]
+Label=CARACTERISTIQUE DES ENFANT DANS LE MENAGE (CEE)
+Name=CARACTERISTIQUE_DES_ENFANT_DANS
+RecordTypeValue='CM'
+MaxRecords=30
+RecordLen=755
+
+[Item]
+Label=CEE01.Identifiant de l'enfant (initiales nom et prénoms)
+Name=CEE01
+Start=16
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=CEE00 Nom et prenom de l'enfant
+Name=CEE00
+Start=18
+Len=25
+DataType=Alpha
+
+[Item]
+Label=CEE02.Quel est l’âge de l'enfant  (Nom)?N.B. Donner l’âge en mois révolu
+Name=CEE02
+Start=43
+Len=2
+
+[ValueSet]
+Label=CEE02.Quel est l’âge de l'enfant  (Nom)?N.B. Donner l’âge en mois révolu
+Name=CEE02_VS1
+Value=6:59
+
+[Item]
+Label=CEE03.Sexe de l'enfant (Nom)?
+Name=CEE03
+Start=45
+Len=1
+
+[ValueSet]
+Label=CEE03.Sexe de l'enfant (Nom)?
+Name=CEE03_VS1
+Value=1;1.  Masculin
+Value=2;2. Féminin
+
+[Item]
+Label=CEE04.Qui prend soin de l'enfant (Nom) ?
+Name=CEE04
+Start=46
+Len=1
+
+[ValueSet]
+Label=CEE04.Qui prend soin de l'enfant (Nom) ?
+Name=CEE04_VS1
+Value=1;1. Mère
+Value=2;2. Père
+Value=3;3. Oncle/Tante
+Value=4;4. Gd père/mère
+Value=5;5. Autre Tuteur
+Value=6;6. Nourrice
+
+[Item]
+Label=CEE05.Niveau d’instruction de la personne en charge de l'enfant (Nom)?
+Name=CEE05
+Start=47
+Len=1
+
+[ValueSet]
+Label=CEE05.Niveau d’instruction de la personne en charge de l'enfant (Nom)?
+Name=CEE05_VS1
+Value=1;1.Sans niveau
+Value=2;2.Primaire
+Value=3;3.Secondaire
+Value=4;4.Supérieur/universitaire
+
+[Item]
+Label=CEE06.Religion de la personne en charge de l'enfant (Nom)?
+Name=CEE06
+Start=48
+Len=1
+
+[ValueSet]
+Label=CEE06.Religion de la personne en charge de l'enfant (Nom)?
+Name=CEE06_VS1
+Value=1;1.Catholique
+Value=2;2.Protestant
+Value=3;3.Musulmane
+Value=4;4.Traditionnelle
+Value=5;5.Sans religion
+Value=6;6.Autre (Préciser)
+
+[Item]
+Label=CEE06 Autres religion à Préciser
+Name=CEE06_AUTRES_RELIGION_A_PRECISER
+Start=49
+Len=50
+DataType=Alpha
+
+[Item]
+Label=CEE07 Situation matrimoniale de la personne en charge de l'enfant (Nom)?
+Name=CEE07
+Start=99
+Len=1
+
+[ValueSet]
+Label=CEE07 Situation matrimoniale de la personne en charge de l'enfant (Nom)?
+Name=CEE07_VS1
+Value=1;1.Célibataire
+Value=2;2.Marié
+Value=3;3.Divorcé/séparé
+Value=4;4.Veuf
+
+[Item]
+Label=CEE08.L'enfant (Nom) vivait-il/elle dans le ménage pendant les  période de vaccination (préciser du 19 au 23 avril 2019)?
+Name=CEE08
+Start=100
+Len=1
+
+[ValueSet]
+Label=CEE08.L'enfant (Nom) vivait-il/elle dans le ménage pendant les  période de vaccination (préciser du 19 au 23 avril 2019)?
+Name=CEE08_VS1
+Value=1;1. Oui
+Value=2;2. Non
+
+[Item]
+Label=ICCP00 Selon vous, quelles sont les maladies contre lesquelles les enfants sont-ils vaccinés?Citez-les
+Name=F5
+Start=101
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=ICCP00 Selon vous, quelles sont les maladies contre lesquelles les enfants sont-ils vaccinés?Citez-les
+Name=F5_VS1
+Value='A       ';A. Rougeole
+Value='B       ';B. Fièvre jaune
+Value='C       ';A. Poliomyétite
+Value='D       ';B. Cholera
+Value='F       ';A. Méningite
+Value='G       ';B. Toux
+Value='H       ';A. Hépatites
+Value='I       ';B. Pneumonie
+Value='J       ';A. Haemophillus Influenzae
+Value='K       ';B. Tuberculose
+Value='L       ';A. Diphtérie
+Value='M       ';B. Coqueluche
+Value='N       ';A. Tétanos
+Value='O       ';B. Autre à preciser
+Value='X       ';X. NSP
+
+[Item]
+Label=1.Rougeole
+Name=F5_A
+Start=101
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=1.Rougeole
+Name=F5_A_VS1
+Value='A';1 Rougeole
+
+[Item]
+Label=2. Fièvre jaune
+Name=F5_B
+Start=102
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=2. Fièvre jaune
+Name=F5_B_VS1
+Value='B';2.Fièvre jaune
+
+[Item]
+Label=3. Poliomyétite
+Name=F5_C
+Start=103
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=3. Poliomyétite
+Name=F5_C_VS1
+Value='C';3.Poliomyétite
+
+[Item]
+Label=4. .Cholera
+Name=F5_D
+Start=104
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=4. .Cholera
+Name=F5_D_VS1
+Value='D';4.Cholera
+
+[Item]
+Label=5. Méningite
+Name=F5_F
+Start=105
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=5. Méningite
+Name=F5_F_VS1
+Value='F';5.Méningite
+
+[Item]
+Label=6. Toux
+Name=F5_G
+Start=105
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=6. Toux
+Name=F5_G_VS1
+Value='G';6.Toux
+
+[Item]
+Label=7. Hépatites
+Name=F5_H
+Start=105
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=7. Hépatites
+Name=F5_H_VS1
+Value='H';7 Hépatites
+
+[Item]
+Label=8.Pneumonie
+Name=F5_I
+Start=106
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=8.Pneumonie
+Name=F5_I_VS1
+Value='I';8.Pneumonie
+
+[Item]
+Label=9. Haemophillus Influenzae
+Name=F5_J
+Start=107
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=9. Haemophillus Influenzae
+Name=F5_J_VS1
+Value='J';9.Haemophillus Influenzae
+
+[Item]
+Label=10. Tuberculose
+Name=F5_K
+Start=107
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=10. Tuberculose
+Name=F5_K_VS1
+Value='K';10.Tuberculose
+
+[Item]
+Label=11 Diphtérie
+Name=F5_L
+Start=107
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=11 Diphtérie
+Name=F5_L_VS1
+Value='L';11Diphtérie
+
+[Item]
+Label=12.Coqueluche
+Name=F5_M
+Start=107
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=12.Coqueluche
+Name=F5_M_VS1
+Value='M';12.Coqueluche
+
+[Item]
+Label=13.Tétanos
+Name=F5_N
+Start=107
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=13.Tétanos
+Name=F5_N_VS1
+Value='N';Tétanos
+
+[Item]
+Label=14.Autre à preciser
+Name=F5_O
+Start=107
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=14.Autre à preciser
+Name=F5_O_VS1
+Value='O';14.Autre à preciser
+
+[Item]
+Label=98.NSP
+Name=F5_P
+Start=107
+Len=1
+ItemType=SubItem
+DataType=Alpha
+
+[ValueSet]
+Label=98.NSP
+Name=F5_P_VS1
+Value='X';98.NSP
+
+[Item]
+Label=ICCP00 Autres à Préciser
+Name=ICCP00_AUTRES_A_PRECISER
+Start=109
+Len=60
+DataType=Alpha
+
+[Item]
+Label=ICCP01.Avez-vous déjà entendu parler de la rougeole ? 1=oui 2=non   Si ICCP01=2 →aller à ICCP04
+Name=ICCP01
+Start=169
+Len=1
+
+[ValueSet]
+Label=ICCP01.Avez-vous déjà entendu parler de la rougeole ? 1=oui 2=non   Si ICCP01=2 →aller à ICCP04
+Name=ICCP01_VS1
+Value=1;1.Oui
+Value=2;2.Non
+
+[Item]
+Label=ICCP02.Comment se manifeste la rougeole?  Citez deux signes Signe 1
+Name=ICCP02
+Start=170
+Len=2
+
+[ValueSet]
+Label=ICCP02.Comment se manifeste la rougeole?  Citez deux signes Signe 1
+Name=ICCP02_VS1
+Value=1;1.Corps chaud (Fièvre)
+Value=2;2.Eruption cutanée
+Value=3;3.Maux de tête
+Value=4;4. Rhume
+Value=5;5.Yeux rouges et larmoyants
+Value=6;6.Toux
+Value=7;7.Nausées et vomissements
+Value=8;8.Maux de ventre
+Value=9;9.Taches blanches à l'intérieur des joues
+Value=10;10.Saignement de la bouche, du nez, des yeux
+Value=11;11.Autre (à préciser)
+Value=98;98 NSP
+
+[Item]
+Label=ICCP02 Autres à preciser SIGNE 1
+Name=ICCP02_AUTRES_A_PRECISE1
+Start=172
+Len=50
+DataType=Alpha
+
+[Item]
+Label=ICCP02.Comment se manifeste la rougeole?  Citez deux signes Signe 2
+Name=ICCP02_SIGNE2
+Start=222
+Len=2
+
+[ValueSet]
+Label=ICCP02.Comment se manifeste la rougeole?  Citez deux signes Signe 2
+Name=ICCP02_SIGNE2_VS1
+Value=1;1.Corps chaud (Fièvre)
+Value=2;2.Eruption cutanée
+Value=3;3.Maux de tête
+Value=4;4. Rhume
+Value=5;5.Yeux rouges et larmoyants
+Value=6;6.Toux
+Value=7;7.Nausées et vomissements
+Value=8;8.Maux de ventre
+Value=9;9.Taches blanches à l'intérieur des joues
+Value=10;10.Saignement de la bouche, du nez, des yeux
+Value=11;11.Autre (à préciser)
+Value=98;98 NSP
+
+[Item]
+Label=ICCP02 Autres à preciser SIGNE 2
+Name=ICCP02_AUTRES_A_PRECISER2
+Start=224
+Len=50
+DataType=Alpha
+
+[Item]
+Label=ICCP03.Comment se transmet la rougeole?
+Name=ICCP03
+Start=274
+Len=1
+
+[ValueSet]
+Label=ICCP03.Comment se transmet la rougeole?
+Name=ICCP03_VS1
+Value=1;1.piqûre d’un moustique
+Value=2;2.transfusion sanguine
+Value=3;3.rapport sexuel
+Value=4;4.voie respiratoire/air
+Value=5;5.contact physique avec un malade
+Value=6;6.contact avec les sécrétions nasales ou de la gorge d'un malade
+Value=7;7.autre (à préciser)
+Value=8;8.NSP
+
+[Item]
+Label=ICCP03 Autres à preciser
+Name=ICCP03_AUTRES_A_PRECISER
+Start=275
+Len=50
+DataType=Alpha
+
+[Item]
+Label=ICCP04 Une campagne de vaccination contre la rougeole a été menée dans votre localité du 19 au 23 arvil 2019. (Quand) En aviez-vous été  Si ICCP04=4, aller à VCR01
+Name=ICCP04
+Start=325
+Len=1
+
+[ValueSet]
+Label=ICCP04 Une campagne de vaccination contre la rougeole a été menée dans votre localité du 19 au 23 arvil 2019. (Quand) En aviez-vous été  Si ICCP04=4, aller à VCR01
+Name=ICCP04_VS1
+Value=1;1.oui, avant la campagne
+Value=2;2.oui, pendant la campagne
+Value=3;3.oui, après la campagne
+Value=4;4.non
+
+[Item]
+Label=ICCP05.Si oui, par quels canaux en aviez-vous été informé?Citez les deux principaux 1
+Name=ICCP05
+Start=326
+Len=2
+
+[ValueSet]
+Label=ICCP05.Si oui, par quels canaux en aviez-vous été informé?Citez les deux principaux 1
+Name=ICCP05_VS1
+Value=1;1.Radio
+Value=2;2.Télévision
+Value=3;3.Hôpital/Centre de santé
+Value=4;4.Affiches
+Value=5;5.Journaux de presse écrite
+Value=6;6.Voisin/Connaissance
+Value=7;7.Mosquée/Eglise
+Value=8;8.Crieur
+Value=9;9.Mobilisateurs communautaires/COGES/COSA/délégués de santé
+Value=10;10.Ecole/enfant à l’école
+Value=11;11.Autres  (précisez)
+Value=98;98. Aucun/NSP
+
+[Item]
+Label=ICCP05 Autres à préciser 1
+Name=ICCP05_AUTRES_A_PRECISERC
+Start=328
+Len=50
+DataType=Alpha
+
+[Item]
+Label=ICCP05.Si oui, par quels canaux en aviez-vous été informé?Citez les deux principaux 2
+Name=ICCP05_2
+Start=378
+Len=2
+
+[ValueSet]
+Label=ICCP05.Si oui, par quels canaux en aviez-vous été informé?Citez les deux principaux 2
+Name=ICCP05_2_VS1
+Value=1;1.Radio
+Value=2;2.Télévision
+Value=3;3.Hôpital/Centre de santé
+Value=4;4.Affiches
+Value=5;5.Journaux de presse écrite
+Value=6;6.Voisin/Connaissance
+Value=7;7.Mosquée/Eglise
+Value=8;8.Crieur
+Value=9;9.Mobilisateurs communautaires/COGES/COSA/délégués de santé
+Value=10;10.Ecole/enfant à l’école
+Value=11;11.Autres  (précisez)
+Value=98;98. Aucun/NSP
+
+[Item]
+Label=ICCP05 Autres à préciser 2
+Name=ICCP05_AUTRES_A_PRECISERB
+Start=380
+Len=50
+DataType=Alpha
+
+[Item]
+Label=VCR01 L'enfant (Nom) a-t-il (elle) été vacciné(e) au cours de la récente campagne de vaccination contre la rougeole entre le …..et …. 2016?
+Name=VCR01
+Start=430
+Len=1
+
+[ValueSet]
+Label=VCR01 L'enfant (Nom) a-t-il (elle) été vacciné(e) au cours de la récente campagne de vaccination contre la rougeole entre le …..et …. 2016?
+Name=VCR01_VS1
+Value=1;1.Oui
+Value=2;2.Non
+Value=9;9.NSP
+
+[Item]
+Label=VCR02 Si, oui à la question précedente , possédez-vous le jeton de la vaccination contre la rougeole?
+Name=VCR02
+Start=431
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=VCR02 Si, oui à la question précedente , possédez-vous le jeton de la vaccination contre la rougeole?
+Name=VCR02_VS1
+Value=1;1.Oui, prendre la photo
+Value=2;2.Non
+
+[Item]
+Label=VCR03 Si oui à la question VCR02, enquêteur photograpghier la carte (ou jeton) de vaccination
+Name=VCR02A
+Start=432
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=VCR03 Si oui à la question VCR02, enquêteur photograpghier la carte (ou jeton) de vaccination
+Name=VCR02A_VS1
+Value=1;OK, Photo enregistrée
+
+[Item]
+Label=VCR03J .Si oui à la question VCR02, à quelle date l'enfant a-t-il été vacciné (relever la date sur la carte de vaccination contre la rougeole) ?JOUR
+Name=VCR03_JOUR
+Start=433
+Len=2
+
+[ValueSet]
+Label=VCR03J .Si oui à la question VCR02, à quelle date l'enfant a-t-il été vacciné (relever la date sur la carte de vaccination contre la rougeole) ?JOUR
+Name=VCR03_JOUR_VS1
+Value=1:31
+Value=55;55. Date illisible
+Value=99;99. Date non vue
+
+[Item]
+Label=VCR03M .Si oui à la question VCR02, à quelle date l'enfant a-t-il été vacciné (relever la date sur la carte de vaccination contre la rougeole) ? MOIS
+Name=VCR03_MOIS
+Start=435
+Len=2
+
+[ValueSet]
+Label=VCR03M .Si oui à la question VCR02, à quelle date l'enfant a-t-il été vacciné (relever la date sur la carte de vaccination contre la rougeole) ? MOIS
+Name=VCR03_MOIS_VS1
+Value=1;Janvier
+Value=2;Fevrier
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+Value=55;Date illisible
+Value=99;Date non vue
+
+[Item]
+Label=VCR03A .Si oui à la question VCR02, à quelle date l'enfant a-t-il été vacciné (relever la date sur la carte de vaccination contre la rougeole) ? ANNEE
+Name=VCR03_ANNEE
+Start=437
+Len=4
+
+[ValueSet]
+Label=VCR03A .Si oui à la question VCR02, à quelle date l'enfant a-t-il été vacciné (relever la date sur la carte de vaccination contre la rougeole) ? ANNEE
+Name=VCR03_ANNEE_VS1
+Value=2019:2020
+Value=5555;5555. Date illisible
+Value=9999;9999. Date non vue
+
+[Item]
+Label=VCR04 La carte (jeton) de vaccination de l'enfant pour la campagne est-elle correctement remplie? (vérifier: identité du vacciné, nom centre du santé, date, dose du vaccin, numéro de lot du vaccin)
+Name=VCR04
+Start=441
+Len=1
+
+[ValueSet]
+Label=VCR04 La carte (jeton) de vaccination de l'enfant pour la campagne est-elle correctement remplie? (vérifier: identité du vacciné, nom centre du santé, date, dose du vaccin, numéro de lot du vaccin)
+Name=VCR04_VS1
+Value=1;1.Oui
+Value=2;2.Non
+Value=9;9.Pas de carte
+
+[Item]
+Label=VCR05.L'enfant (Nom) avait-il déjà été vacciné contre la rougeole avant la campagne?
+Name=VCR05
+Start=442
+Len=1
+
+[ValueSet]
+Label=VCR05.L'enfant (Nom) avait-il déjà été vacciné contre la rougeole avant la campagne?
+Name=VCR05_VS1
+Value=1;Oui, carte vue, prendre la photo
+Value=2;Oui, carte non vue
+Value=3;Non
+Value=9;NSP
+
+[Item]
+Label=VCR05A Si oui à la question précédente, enquêteur photographier la carte CPS/De vaccination) puis passer à VCR06
+Name=VCR05A
+Start=443
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=VCR05A Si oui à la question précédente, enquêteur photographier la carte CPS/De vaccination) puis passer à VCR06
+Name=VCR05A_VS1
+Value=1;OK, Photo enregistrée
+
+[Item]
+Label=VCR06J Si oui à la question précédente, à quelle date l'enfant avait-il été vacciné (relever la date dans le carnet de vaccination) JOUR
+Name=VCR06_JOUR
+Start=444
+Len=2
+
+[ValueSet]
+Label=VCR06J Si oui à la question précédente, à quelle date l'enfant avait-il été vacciné (relever la date dans le carnet de vaccination) JOUR
+Name=VCR06_JOUR_VS1
+Value=1:31
+Value=55;55.Date illisible
+Value=99;99.Date non vue
+
+[Item]
+Label=VCR06M Si oui à la question précédente, à quelle date l'enfant avait-il été vacciné (relever la date dans le carnet de vaccination) MOIS
+Name=VCR06_MOIS
+Start=446
+Len=2
+
+[ValueSet]
+Label=VCR06M Si oui à la question précédente, à quelle date l'enfant avait-il été vacciné (relever la date dans le carnet de vaccination) MOIS
+Name=VCR06_MOIS_VS1
+Value=1;Janvier
+Value=2;Fevrier
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Août
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+Value=55;Date illisible
+Value=99;Date non vue
+
+[Item]
+Label=VCR06 Si oui à la question précédente, à quelle date l'enfant avait-il été vacciné (relever la date dans le carnet de vaccination) ANNEE
+Name=VCR06_ANNEE
+Start=448
+Len=4
+
+[ValueSet]
+Label=VCR06 Si oui à la question précédente, à quelle date l'enfant avait-il été vacciné (relever la date dans le carnet de vaccination) ANNEE
+Name=VCR06_ANNEE_VS1
+Value=2013:2019
+Value=5555;5555. Date illisible
+Value=9999;9999. Date non vue
+
+[Item]
+Label=MIV01.Après avoir reçu le vaccin contre la rougeole ‘pendant la campagne’, l'enfant (Nom) a-t-il (elle) présenté des réactions (symptômes ou signes) indésirables?
+Name=MIV01
+Start=452
+Len=1
+
+[ValueSet]
+Label=MIV01.Après avoir reçu le vaccin contre la rougeole ‘pendant la campagne’, l'enfant (Nom) a-t-il (elle) présenté des réactions (symptômes ou signes) indésirables?
+Name=MIV01_VS1
+Value=1;1.Oui
+Value=2;2.Non
+Value=9;9. NSP
+
+[Item]
+Label=MIV02 Si oui, quels étaient les symptômes (signes) qu'il avait présentés? Citez les deux principaux. signes 1
+Name=MIVO2_SIGNE1
+Start=453
+Len=1
+
+[ValueSet]
+Label=MIV02 Si oui, quels étaient les symptômes (signes) qu'il avait présentés? Citez les deux principaux. signes 1
+Name=MIVO2_SIGNE1_VS1
+Value=0;0.perte de connaissance, vertige, propos incohérents
+Value=1;1.Réaction locale/douleur au point d'injection
+Value=2;2.fièvre
+Value=3;3.éruptions cutanées
+Value=4;4.Réaction anaphylatique (urticaire géant, allergie grave)
+Value=5;5.convulsion
+Value=6;6.vomissement
+Value=7;7.abcès
+Value=8;8.autres (précisez)
+
+[Item]
+Label=MIV02 Autres à préciser SIGNE 1
+Name=MIV02_AUTRES_A_PRECISER
+Start=454
+Len=50
+DataType=Alpha
+
+[Item]
+Label=MIV02 SIGNE 2
+Name=MIVO2_SIGNE2
+Start=504
+Len=1
+
+[ValueSet]
+Label=MIV02 SIGNE 2
+Name=MIVO2_SIGNE2_VS1
+Value=0;0.perte de connaissance, vertige, propos incohérents
+Value=1;1.Réaction locale/douleur au point d'injection
+Value=2;2.fièvre
+Value=3;3.éruptions cutanées
+Value=4;4.Réaction anaphylatique (urticaire géant, allergie grave)
+Value=5;5.convulsion
+Value=6;6.vomissement
+Value=7;7.abcès
+Value=8;8.autres (précisez)
+Value=9;NSP
+
+[Item]
+Label=MIV02 Autres à préciser SIGNE 2
+Name=MIV02_AUTRES_A_PRECISER_SIGNE_2
+Start=505
+Len=50
+DataType=Alpha
+
+[Item]
+Label=MIV03 Qu’avez-vous fait suite à l’apparition de ces réactions indésirables?
+Name=MIV03
+Start=555
+Len=1
+
+[ValueSet]
+Label=MIV03 Qu’avez-vous fait suite à l’apparition de ces réactions indésirables?
+Name=MIV03_VS1
+Value=1;1.je suis allé en consultation
+Value=2;2.j'ai  lavé l'enfant
+Value=3;3.je suis allé chez un tradipraticien
+Value=4;4.automédication
+Value=5;5.je n ’ai rien fait
+Value=6;6.autres (à préciser)
+
+[Item]
+Label=MIV03 Autres à préciser
+Name=MIV03_AUTRES_A_PRECISER
+Start=556
+Len=50
+DataType=Alpha
+
+[Item]
+Label=MIV04 Si MIV03≠1, Pourquoi n'avez-vous pas conduit l'enfant (nom) dans un hôpital/centre de santé?
+Name=MIV04
+Start=606
+Len=1
+
+[ValueSet]
+Label=MIV04 Si MIV03≠1, Pourquoi n'avez-vous pas conduit l'enfant (nom) dans un hôpital/centre de santé?
+Name=MIV04_VS1
+Value=1;1.pas d'argent
+Value=2;2.pas d'autorisation
+Value=3;3.Hôpital/centre de santé trop éloigné
+Value=4;4.Ignore une prise en charge par l'hôpital/CS
+Value=5;5.Refus des parents/tuteurs
+Value=6;6.autres (à préciser)
+Value=9;9. NSP
+
+[Item]
+Label=MIV04 Autres à préciser
+Name=MIV04_AUTRES_A_PRECISER
+Start=607
+Len=50
+DataType=Alpha
+
+[Item]
+Label=MIV05 Comment l'état de santé de l'enfant (nom) a-t-il évolué depuis qu'il a eu cette réaction à la vaccination?
+Name=MIV05
+Start=657
+Len=1
+
+[ValueSet]
+Label=MIV05 Comment l'état de santé de l'enfant (nom) a-t-il évolué depuis qu'il a eu cette réaction à la vaccination?
+Name=MIV05_VS1
+Value=1;1.guéri totalement
+Value=2;2.guéri avec séquelles
+Value=3;3.hospitalisé
+Value=4;4.toujours malade, non hospitalisé
+Value=8;8.Décès
+Value=9;9.NSP
+
+[Item]
+Label=MIV06 Si vous aviez conduit l'enfant (Nom) en consultation pour ces réactions indésirables, de qui a-t-il reçu de soutien ?
+Name=MIV06
+Start=658
+Len=1
+
+[ValueSet]
+Label=MIV06 Si vous aviez conduit l'enfant (Nom) en consultation pour ces réactions indésirables, de qui a-t-il reçu de soutien ?
+Name=MIV06_VS1
+Value=1;1.d’un responsable de la campagne
+Value=2;2.d’un autre agent de santé
+Value=3;3.d’une personne non agents de santé (parents, amis, etc.)
+Value=4;4.Aucun soutien
+Value=9;9.NSP
+
+[Item]
+Label=Quelles sont les raisons pour lesquelles l'enfant (Nom) n'a-t-il (elle) pas été vacciné contre la rougeole pendant la campagne, du 19 au AVRIL 2019 Citez les trois principales raisons
+Name=Q_RNV1
+Start=659
+Len=2
+
+[ValueSet]
+Label=Quelles sont les raisons pour lesquelles l'enfant (Nom) n'a-t-il (elle) pas été vacciné contre la rougeole pendant la campagne, du 19 au AVRIL 2019 Citez les trois principales raisons
+Name=Q_RNV1_VS1
+Value=1;1. N’a pas été informé de cette campagne
+Value=2;2.Déjà vacciné contre la rougeole
+Value=3;3.Absent de la ville/village pour cause de voyage
+Value=4;4. Ignorait le lieu ou l'heure de la séance
+Value=5;5.A peur des réactions secondaires
+Value=6;6. Il y avait rupture de stock/Vaccin non disponible
+Value=7;7.Vaccination reportée à une date ultérieure
+Value=8;8.Ne fait pas confiance à la vaccination
+Value=9;9.La vaccination peut rendre stérile plus tard
+Value=10;10.Lieu de la séance trop éloigné
+Value=11;11.Heure de la séance ne convient pas
+Value=12;12.Vaccinateur absent
+Value=13;13.S’est rendu au lieu de vaccination mais enfant non vacciné pour cause de maladie
+Value=14; 14.N’y est pas allé pour cause de maladie de l'enfant
+Value=15;15.Trop occupée
+Value=16;16.Ma religion ne me le permet pas
+Value=17;17.Problème familial, par exemple: maladie de la mère/nourrice/deuil
+Value=18;18.Refus du père/mari/tuteur de l'enfant
+Value=19;19.Attente trop longue
+Value=20;20.Ne voit pas la nécessité de faire vacciner l'enfant contre la rougeole
+Value=21;21.Je croyais que c'était du porte à porte
+Value=22; 22.Autre (à préciser)
+Value=98;98. NSP
+
+[Item]
+Label=Raison 1 Autre (à préciser)
+Name=Q_RNV1_AUTRE____PR_CISER
+Start=661
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raison 2
+Name=Q_RNV2
+Start=691
+Len=2
+
+[ValueSet]
+Label=Raison 2
+Name=Q_RNV2_VS1
+Value=1;1. N’a pas été informé de cette campagne
+Value=2;2.Déjà vacciné contre la rougeole
+Value=3;3.Absent de la ville/village pour cause de voyage
+Value=4;4. Ignorait le lieu ou l'heure de la séance
+Value=5;5.A peur des réactions secondaires
+Value=6;6. Il y avait rupture de stock/Vaccin non disponible
+Value=7;7.Vaccination reportée à une date ultérieure
+Value=8;8.Ne fait pas confiance à la vaccination
+Value=9;9.La vaccination peut rendre stérile plus tard
+Value=10;10.Lieu de la séance trop éloigné
+Value=11;11.Heure de la séance ne convient pas
+Value=12;12.Vaccinateur absent
+Value=13;13.S’est rendu au lieu de vaccination mais enfant non vacciné pour cause de maladie
+Value=14; 14.N’y est pas allé pour cause de maladie de l'enfant
+Value=15;15.Trop occupée
+Value=16;16.Ma religion ne me le permet pas
+Value=17;17.Problème familial, par exemple: maladie de la mère/nourrice/deuil
+Value=18;18.Refus du père/mari/tuteur de l'enfant
+Value=19;19.Attente trop longue
+Value=20;20.Ne voit pas la nécessité de faire vacciner l'enfant contre la rougeole
+Value=21;21.Je croyais que c'était du porte à porte
+Value=22; 22.Autre (à préciser)
+Value=98;98. NSP
+
+[Item]
+Label=Raison Autre (à préciser)
+Name=Q_RNV1_AUTRE____PR_CISES
+Start=693
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raison 3
+Name=Q_RN3
+Start=723
+Len=2
+
+[ValueSet]
+Label=Raison 3
+Name=Q_RN3_VS1
+Value=1;1. N’a pas été informé de cette campagne
+Value=2;2.Déjà vacciné contre la rougeole
+Value=3;3.Absent de la ville/village pour cause de voyage
+Value=4;4. Ignorait le lieu ou l'heure de la séance
+Value=5;5.A peur des réactions secondaires
+Value=6;6. Il y avait rupture de stock/Vaccin non disponible
+Value=7;7.Vaccination reportée à une date ultérieure
+Value=8;8.Ne fait pas confiance à la vaccination
+Value=9;9.La vaccination peut rendre stérile plus tard
+Value=10;10.Lieu de la séance trop éloigné
+Value=11;11.Heure de la séance ne convient pas
+Value=12;12.Vaccinateur absent
+Value=13;13.S’est rendu au lieu de vaccination mais enfant non vacciné pour cause de maladie
+Value=14; 14.N’y est pas allé pour cause de maladie de l'enfant
+Value=15;15.Trop occupée
+Value=16;16.Ma religion ne me le permet pas
+Value=17;17.Problème familial, par exemple: maladie de la mère/nourrice/deuil
+Value=18;18.Refus du père/mari/tuteur de l'enfant
+Value=19;19.Attente trop longue
+Value=20;20.Ne voit pas la nécessité de faire vacciner l'enfant contre la rougeole
+Value=21;21.Je croyais que c'était du porte à porte
+Value=22; 22.Autre (à préciser)
+Value=98;98. NSP
+
+[Item]
+Label=Raison 3 Autre (à préciser)
+Name=Q_RNV3_AUTRE____PR_CISER
+Start=725
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Fin enregistrement enfant
+Name=FIN
+Start=755
+Len=1
+
+[ValueSet]
+Label=Fin enregistrement enfant
+Name=FIN_VS1
+Value=1;OK

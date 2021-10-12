@@ -1,0 +1,21 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Batch
+
+[Files]
+Application=.\DenomKml.bch
+InputData=..\Data\BASE DENOMBREMENT 13112020.csdb
+OutputData=|type=None
+Listing=.\DenomKml.lst
+
+[UserFiles]
+Cartokml=
+ftemp=
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=120
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential

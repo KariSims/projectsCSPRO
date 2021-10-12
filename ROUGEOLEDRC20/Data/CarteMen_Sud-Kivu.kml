@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MC</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.857618<br /> Latitude : -002.526128<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.857618,-002.526128,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : CE</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.858531<br /> Latitude : -002.524245<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.858531,-002.524245,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MC</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.858942<br /> Latitude : -002.524260<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.858942,-002.524260,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mj</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.858472<br /> Latitude : -002.524271<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.858472,-002.524271,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MS</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.858814<br /> Latitude : -002.524140<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.858814,-002.524140,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Vd</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.859083<br /> Latitude : -002.524027<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.859083,-002.524027,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mc</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MW</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.858768<br /> Latitude : -002.524490<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.858768,-002.524490,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Bw</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.858539<br /> Latitude : -002.524115<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.858539,-002.524115,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SP</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.858706<br /> Latitude : -002.524100<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.858706,-002.524100,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PM</name>
+<description><![CDATA[Province : Sud-Kivu<br /> ZS : 41<br /> Enquêteur : <br />N° grappe : 567<br /> Statut : Enquêté<br /> longitude : 0028.859009<br /> Latitude : -002.524085<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0028.859009,-002.524085,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

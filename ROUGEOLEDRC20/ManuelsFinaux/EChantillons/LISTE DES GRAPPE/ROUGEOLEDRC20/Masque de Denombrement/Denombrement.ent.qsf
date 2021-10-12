@@ -1,0 +1,331 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.5
+
+[LANGUAGES]
+EN=English
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.ADRESSE_DESCRIPTION_DE_LA_STRUCTURE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 ADRESSE/DESCRIPTION DE LA STRUCTURE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.ADRESSE_DESCRIPTION_DE_LA_STRUCTURE1
+Occurrences=1:99
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 ADRESSE/DESCRIPTION DE LA STRUCTURE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.AIRE_DE_SANTE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 AIRE DE SANTE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.ANNEE11
+Occurrences=1:999
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 ANNEE DE NAISSANCE DE \cf2 %NAMSON% \cf1 DU CM \cf2 %NOM_DU_CHEF_DE_MENAGE1%\par
+EN=\cf1\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.ANTENNE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 ANTENNE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.B
+Occurrences=1:20
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 OBSERVATIONS\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.B19
+Occurrences=1:20
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 GPS DU MENAGE \cf2 %NO_DU_MENAGE_DANS_LA_STRUCTURE1%\cf1\par
+EN=\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.CODE_ENUMERATEUR
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 CODE ENUMERATEUR\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.DIRECTION
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 DIRECTION\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.IDE03
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 IDE03.ZONE DE SANTE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.JOUR11
+Occurrences=1:999
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 JOUR DE NAISSANCE DE \cf2 %NAMSON% \cf1 DU CM \cf2 %NOM_DU_CHEF_DE_MENAGE1%\par
+EN=\cf1\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.LANGUE_PARLEE
+Occurrences=1:20
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 LANGUE PARLEE DANS LE MENAGE N\'b0 \cf2 %NO_DU_MENAGE_DANS_LA_STRUCTURE1%\cf1\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.MENAGE_AVEC_ENFANTS_DE_MOINS_DE_6_A_59_MOIS
+Occurrences=1:20
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 MENAGE N\'b0 (\cf2 %NO_DU_MENAGE_DANS_LA_STRUCTURE1%)\cf1  A DES ENFANTS  DE 6 \'e0 59 MOIS\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.MILIEU
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 MILIEU\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.MOIS11
+Occurrences=1:999
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 MOIS DE NAISSANCE DE \cf2 %NAMSON% \cf1 DU CM \cf2 %NOM_DU_CHEF_DE_MENAGE1%\par
+EN=\cf1\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NAMSON
+Occurrences=1:999
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 NOM DE L'ENFANT N\'b0 \cf2 %NUMSON% \cf1 DU CM \cf2 %NOM_DU_CHEF_DE_MENAGE1%\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NO_DE_LA_STRUCTURE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 NO DE LA STRUCTURE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NO_DE_LA_STRUCTURE1
+Occurrences=1:99
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 NUMERO DE LA STRUCTURE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NO_DU_MENAGE_DANS_LA_STRUCTURE
+Occurrences=1:20
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 NOMBRE DE MENAGE DANS LA STRUCTURE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NOM_DU_CHEF_DE_MENAGE
+Occurrences=1:20
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 QUEL EST LE NOM DU CHEF DE MENAGE DANS LE MENAGE N\'b0 \cf2 %NO_DU_MENAGE_DANS_LA_STRUCTURE1%\cf1\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NOM_DU_CHEF_DE_MENAGE1
+Occurrences=1:999
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 NOM DE L'ENFANT N\'b0 \cf2 %NUMSON% \cf1 DU CM \cf2 %NOM_DU_CHEF_DE_MENAGE1%\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NOM_DU_QUARTIER_VILLAGE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 NOM DU QUARTIER/VILLAGE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NOM_ENUMERATEUR
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 NOM ENUMERATEUR\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NOMBRE_DE_MENAGE_A_DENOMBRE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 Nombre de Menage \'e0 dans une Structure\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NOMBRE_DE_MENAGES_DANS_LA_STRUCTURE
+Occurrences=1:99
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 NOMBRE DE MENAGES DANS LA STRUCTURE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NOMBRE_DE_SEGEMENT
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 NOMBRE DE SEGEMENT\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NOMBRE_DES_ENFANTS_DE_MOINS_DE_6_A_59_MOIS
+Occurrences=1:20
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 NOMBRE DES ENFANTS  DE 6 \'e0 59  MOIS DANS LE MENAGE N\'b0 (\cf2 %NO_DU_MENAGE_DANS_LA_STRUCTURE1%)\cf1\par
+EN=\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NUMERO_DE_LA_GRAPPE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 NUMERO DE LA GRAPPE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NUMERO_DU_SEGMENT_TIRE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 NUMERO DU SEGMENT TIRE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.NUMERO_FICHE_DE_DENOMBREMENT
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 Numero Fiche de denombrement\cf2\b0\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.POINT_DU_DEPART
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 Point du Depart\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.PROVINCE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 PROVINCE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.REFEREE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 REFERENCE DE LA STRUCTURE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.RESIDENCE
+Occurrences=1:20
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 RESIDENCE DU MENAGE N\'b0 \cf2 %NO_DU_MENAGE_DANS_LA_STRUCTURE1%\cf1\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.RUE_AVENUE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;}
+EN={\*\generator Riched20 10.0.18362}\viewkind4\uc1
+EN=\pard\cf1\b\fs24 RUE/AVENUE\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.TAILLE_DU_MENAGE
+Occurrences=1:99
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs24\lang1036 TAILLE DU MENAGE N\'b0 \cf2 %NO_DU_MENAGE_DANS_LA_STRUCTURE1%\cf1\par
+EN=\par
+EN=\par
+EN=}
+
+[QUESTION]
+Field=DENOMBREMENT_DICT.VAR_COHERENCE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\cf1\b\fs40 CONTINUEZ AVEC LA FLECHE DROITE POUR AVANCER SVP\cf2\b0\fs16\par
+EN=}
+

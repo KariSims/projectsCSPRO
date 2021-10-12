@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SB</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 488<br /> Statut : Enquêté<br /> longitude : 0029.244598<br /> Latitude : -001.682186<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.244598,-001.682186,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : YM</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 488<br /> Statut : Enquêté<br /> longitude : 0029.244049<br /> Latitude : -001.682718<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.244049,-001.682718,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SS</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 487<br /> Statut : Enquêté<br /> longitude : 0029.240866<br /> Latitude : -001.687914<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.240866,-001.687914,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MK</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 487<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DZ</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 487<br /> Statut : Enquêté<br /> longitude : 0029.241086<br /> Latitude : -001.688178<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.241086,-001.688178,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\autres.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : </name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 487<br /> Statut : Enquêté<br /> longitude : 0029.241133<br /> Latitude : -001.688341<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.241133,-001.688341,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : JB</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 489<br /> Statut : Enquêté<br /> longitude : 0029.242403<br /> Latitude : -001.684418<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.242403,-001.684418,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : SN</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 489<br /> Statut : Enquêté<br /> longitude : 0029.242072<br /> Latitude : -001.684326<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.242072,-001.684326,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : JK</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 489<br /> Statut : Enquêté<br /> longitude : 0029.242667<br /> Latitude : -001.684118<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.242667,-001.684118,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BS</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 488<br /> Statut : Enquêté<br /> longitude : 0029.244428<br /> Latitude : -001.682754<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.244428,-001.682754,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : OB</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 488<br /> Statut : Enquêté<br /> longitude : 0029.244330<br /> Latitude : -001.682707<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.244330,-001.682707,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : AR</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 488<br /> Statut : Enquêté<br /> longitude : 0029.243791<br /> Latitude : -001.682926<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.243791,-001.682926,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : EN</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 488<br /> Statut : Enquêté<br /> longitude : 0029.244681<br /> Latitude : -001.682782<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.244681,-001.682782,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : LK</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 487<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : PN</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 486<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KP</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 487<br /> Statut : Enquêté<br /> longitude : 0029.241005<br /> Latitude : -001.688073<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.241005,-001.688073,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : JB</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 489<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ZE</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 489<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : CK</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 489<br /> Statut : Enquêté<br /> longitude : 0029.242169<br /> Latitude : -001.684232<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.242169,-001.684232,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : BS</name>
+<description><![CDATA[Province : Nord-Kivu<br /> ZS : 35<br /> Enquêteur : <br />N° grappe : 489<br /> Statut : Enquêté<br /> longitude : 0029.242296<br /> Latitude : -001.684333<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0029.242296,-001.684333,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

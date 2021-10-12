@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : KA</name>
+<description><![CDATA[Province : ITURI<br /> ZS : 9<br /> Enquêteur : <br />N° grappe : 113<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : TM</name>
+<description><![CDATA[Province : ITURI<br /> ZS : 9<br /> Enquêteur : <br />N° grappe : 113<br /> Statut : Enquêté<br /> longitude : 0024.453349<br /> Latitude : -006.156672<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.453349,-006.156672,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : ND</name>
+<description><![CDATA[Province : ITURI<br /> ZS : 9<br /> Enquêteur : <br />N° grappe : 113<br /> Statut : Enquêté<br /> longitude : 0024.452734<br /> Latitude : -006.156591<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.452734,-006.156591,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : MM</name>
+<description><![CDATA[Province : ITURI<br /> ZS : 9<br /> Enquêteur : <br />N° grappe : 113<br /> Statut : Enquêté<br /> longitude : 0024.453434<br /> Latitude : -006.156275<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.453434,-006.156275,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Mk</name>
+<description><![CDATA[Province : ITURI<br /> ZS : 9<br /> Enquêteur : <br />N° grappe : 113<br /> Statut : Enquêté<br /> longitude : 0024.461144<br /> Latitude : -006.152019<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.461144,-006.152019,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : DN</name>
+<description><![CDATA[Province : ITURI<br /> ZS : 11<br /> Enquêteur : <br />N° grappe : 141<br /> Statut : Enquêté<br /> longitude : NOTAPPL    <br /> Latitude : NOTAPPL    <br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>NOTAPPL    ,NOTAPPL    ,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Gi</name>
+<description><![CDATA[Province : ITURI<br /> ZS : 11<br /> Enquêteur : <br />N° grappe : 141<br /> Statut : Enquêté<br /> longitude : 0024.465010<br /> Latitude : -006.149499<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.465010,-006.149499,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Menage : Gm</name>
+<description><![CDATA[Province : ITURI<br /> ZS : 11<br /> Enquêteur : <br />N° grappe : 141<br /> Statut : Enquêté<br /> longitude : 0024.465010<br /> Latitude : -006.149499<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>0024.465010,-006.149499,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
