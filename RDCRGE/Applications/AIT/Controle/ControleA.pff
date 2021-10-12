@@ -1,0 +1,23 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Batch
+
+[Files]
+Application=.\ControleA.bch
+InputData=..\..\..\E01101118101001002.csdb|CSPRODB
+OutputData=.\qssd.csdb|CSPRODB
+Listing=.\ControleA.lst
+
+
+[UserFiles]
+FICH=.\gstd.txt
+HTMLTEMP=.\fds.txt
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential
+

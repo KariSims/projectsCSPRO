@@ -1,0 +1,48 @@
+﻿Application     C:\RDCRGE\Applications\AIT\Tableaux\TabATI02.xtb
+Type            Tab
+Input Data      <<CSPro DB>> C:\RDCRGE\Data\E01101123206043001.csdb                                                                                                                                                                                                                                                         
+Output          C:\RDCRGE\Applications\AIT\Tableaux\E01101123206043001.csdb.tab
+
+Date            Jul  3, 2019
+Start Time      15:37:46
+End Time        15:37:47
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |     309 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |         65   |          0   |         65  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\RDCRGE\Applications\AIT\Tableaux\TabATI02.xtb
+Type            Format
+Input Data      C:\RDCRGE\Applications\AIT\Tableaux\E01101123206043001.csdb.tab
+Output          C:\RDCRGE\Applications\AIT\Tableaux\TabATI02.xtb.tbw
+
+Date            Jul  3, 2019
+Start Time      15:37:47
+End Time        15:37:48
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |     132 Slices  Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +-----------------------------------------------------+
+                                                                         
+
+Process Messages
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

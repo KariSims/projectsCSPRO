@@ -1,0 +1,15 @@
+﻿[CSPro Application]
+Version=CSPro 7.2
+Label=TABATI01
+Name=TABATI01
+AppType=Tabulation
+[External Dictionaries]
+File=.\TabATI04.xtb.wrk.dcf
+[AppCode]
+File=.\TabATI04.xtb.apc
+[Message]
+File=.\TabATI04.xtb.mgf
+[TabSpecs]
+File=.\TabATI04.xts
+[Dictionary Types]
+Dict-Type=.\TabATI04.xtb.wrk.dcf,Working

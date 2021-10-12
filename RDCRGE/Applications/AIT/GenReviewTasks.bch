@@ -1,0 +1,28 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=GENREVIEWTASKS
+Name=GENREVIEWTASKS
+AppType=Batch
+[External Dictionaries]
+File=..\Dicts\RGE.dcf
+File=..\Dicts\Clusters.dcf
+File=..\Dicts\AIT.dcf
+File=..\Dicts\Tasks.dcf
+File=..\Dicts\Users.dcf
+File=..\Dicts\Menu.dcf
+[AppCode]
+File=.\GenReviewTasks.bch.apc
+Include=..\Common\CommandWrappers.apc
+Include=..\Common\GlobalVars.apc
+[Message]
+File=.\GenReviewTasks.bch.mgf
+[Order]
+File=.\GenReviewTasks.ord
+[Dictionary Types]
+Dict-Type=..\Dicts\RGEZD.dcf,Input,.\GenReviewTasks.ord
+Dict-Type=..\Dicts\RGE.dcf,External
+Dict-Type=..\Dicts\Clusters.dcf,External
+Dict-Type=..\Dicts\AIT.dcf,External
+Dict-Type=..\Dicts\Tasks.dcf,External
+Dict-Type=..\Dicts\Users.dcf,External
+Dict-Type=..\Dicts\Menu.dcf,External

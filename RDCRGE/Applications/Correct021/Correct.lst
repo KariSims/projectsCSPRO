@@ -1,0 +1,557 @@
+﻿Application     C:\RDCRGE\Applications\Correct021\Correct.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\RDCRGE\Data\E21101101102002001.csdb
+<Output>        <<CSPro DB>> C:\RDCRGE\Applications\DataC\E21101101102.csdb
+
+Date            Dec 16, 2020
+Start Time      19:57:10
+End Time        19:57:11
+
+CSPro Process Summary
+
+      ╔══════════════════════════════════════════════════════╗
+      ║       821 Records Read   100% of input file          ║
+      ║         0 Ignored:       0 Unknown         0 Erased  ║
+      ║       175 Messages:      0 E      0 W    175 User    ║
+      ╠═════════╦══════════════╦══════════════╦══════════════╣
+      ║  Level  ║  Input Case  ║  Bad Struct  ║  Level Post  ║
+      ╠═════════╬══════════════╬══════════════╬══════════════╣
+      ║      1  ║         175  ║           0  ║         175  ║
+      ╚═════════╩══════════════╩══════════════╩══════════════╝
+
+Process Messages
+
+*** Case [211011011020020011001] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011002] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011003] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011004] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011005] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011006] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011007] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011008] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011009] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011010] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011011] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011012] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011013] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011014] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011015] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011016] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011017] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011018] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011019] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011020] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011021] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011022] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011023] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011024] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011025] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011026] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011027] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011028] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011039] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011038] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011037] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011036] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011035] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011034] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011033] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011032] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011031] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011030] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020011029] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012001] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012002] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012003] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012008] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012004] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012005] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012006] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012009] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012010] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012011] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012012] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012007] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012013] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012014] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012015] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012016] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012022] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012017] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012018] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012020] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012023] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012019] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012021] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012024] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012025] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012026] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012027] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012028] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012031] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012032] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012033] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012037] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012036] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012034] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012030] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012029] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020012035] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013001] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013002] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013003] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013004] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013005] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013006] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013007] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013008] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013009] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013010] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013011] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013012] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013013] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013014] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013015] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013016] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013017] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013018] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013019] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013020] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013021] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013022] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013023] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013024] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013025] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013026] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013027] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013028] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013029] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013030] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013031] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013032] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013033] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020013034] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014002] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014001] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014003] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014004] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014005] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014006] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014007] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014008] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014009] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014010] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014015] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014016] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014014] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014013] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014012] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014017] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020014011] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015001] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015002] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015003] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015004] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015005] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015006] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015007] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015008] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015010] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015011] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015012] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015013] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015014] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015015] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015016] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015017] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015009] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015018] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015019] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015020] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015022] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015023] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015024] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015026] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015028] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015030] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015031] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015029] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015021] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015025] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015027] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015032] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015048] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015047] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015046] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015044] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015043] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015042] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015041] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015040] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015039] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015038] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015036] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015035] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015034] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015033] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015037] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+*** Case [211011011020020015045] has 1 message (0 E / 0 W / 1 U)
+    U     -13 N° Ese changé
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      13         175      -  N° Ese changé                                                                             -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

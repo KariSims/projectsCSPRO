@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Tabulation
+Operation=All
+
+[Files]
+Application=.\TabATI03.xtb
+InputData=..\..\..\Temp\E01101104104004.csdb
+OutputTBW=.\TabATI03.xtb.tbw
+Listing=.\TabATI03.xtb.lst
+
+
+[Parameters]
+ViewListing=OnError
+ViewResults=No
+InputOrder=Sequential
+

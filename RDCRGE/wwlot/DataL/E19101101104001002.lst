@@ -1,0 +1,50 @@
+﻿Application     C:\RDCRGE\wwlot\Entry\CorrectionLot.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\RDCRGE\wwlot\DataE\E19101101104001002.csdb                                                                                                                                                                                                                                                  
+<Output>        <<CSPro DB>> C:\RDCRGE\wwlot\DataS\E19101101104001002.csdb                                                                                                                                                                                                                                                  
+
+Date            Mar  5, 2020
+Start Time      14:31:25
+End Time        14:31:26
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |     650 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       3 Messages (       1 U,       2 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |        133   |          0   |        133  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+*** Case [191011011040010025009] has 3 messages (0 E / 2 W / 1U)        
+    U       3 :"unité économique supprimée raison sociale et AP1AS"
+    W   10107 Data source case construction warning:  A blank record was added for the required record MOD1_RG.
+    W   10107 Data source case construction warning:  A blank record was added for the required record MOD5_CD.
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10107            2   Data source case construction warning: %s                                             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                                                                Denom
+ ------    ----  ----  ------------                                                                                -----
+      2       0   0.0  :"unité économique supprimée raison sociale et AP1AS"                                         133
+      3       1   0.8  :"unité économique supprimée raison sociale et AP1AS"                                         133
+    601       0   0.0  : "**commune %d ZD Corrigée (%d)"                                                             133
+  10801       0   0.0  : "Milieu d'implantation %d à corrigé"                                                        133
+  10802       0   0.0  : "**Milieu d'implantation corrigé à %d"                                                      133
+  10901       0   0.0  : "Name du Marché vide"                                                                       133
+  10902       0   0.0  : "Ne pas dans le marché mais il a donné de nom"                                              133
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

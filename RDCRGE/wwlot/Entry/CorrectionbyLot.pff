@@ -1,0 +1,10 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Entry
+
+[Files]
+Application=.\CorrectionbyLot.ent
+InputData=.\T.csdb
+
+[UserFiles]
+xpff=

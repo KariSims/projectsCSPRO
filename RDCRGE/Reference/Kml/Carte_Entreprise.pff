@@ -1,0 +1,25 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Batch
+
+[Files]
+Application=.\Carte_Entreprise.bch
+InputData=..\..\Data\Z.csdb
+OutputData=.\cdx.csdb
+Listing=.\Carte_Entreprise.lst
+
+[ExternalFiles]
+RGE_DICT=|type=None
+
+[UserFiles]
+Cartokml=
+FichSaPart=
+ftemp=
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential

@@ -1,0 +1,39 @@
+﻿Application     C:\RDCRGE\wwlot\Entry\CorrectionLot.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\RDCRGE\wwlot\DataE\E19101101105007003.csdb                                                                                                                                                                                                                                                  
+<Output>        <<CSPro DB>> C:\RDCRGE\wwlot\DataS\E19101101105007003.csdb                                                                                                                                                                                                                                                  
+
+Date            Mar  5, 2020
+Start Time      14:31:28
+End Time        14:31:28
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |      61 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |         14   |          0   |         14  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                                                                Denom
+ ------    ----  ----  ------------                                                                                -----
+      2       0   0.0  :"unité économique supprimée raison sociale et AP1AS"                                          14
+      3       0   0.0  :"unité économique supprimée raison sociale et AP1AS"                                          14
+    601       0   0.0  : "**commune %d ZD Corrigée (%d)"                                                              14
+  10801       0   0.0  : "Milieu d'implantation %d à corrigé"                                                         14
+  10802       0   0.0  : "**Milieu d'implantation corrigé à %d"                                                       14
+  10901       0   0.0  : "Name du Marché vide"                                                                        14
+  10902       0   0.0  : "Ne pas dans le marché mais il a donné de nom"                                               14
+
+CSPRO Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

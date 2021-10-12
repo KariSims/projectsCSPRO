@@ -1,0 +1,103 @@
+﻿[Dictionary]
+Version=CSPro 7.5
+Label=Menu
+Name=MENU_DICT
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=Yes
+DecimalChar=Yes
+SecurityOptions=25A467935B94FBFED8DAAECC603536BC4DF25E48BCA7DB388B81F5D2D8353AF3
+
+[Level]
+Label=Menu questionnaire
+Name=MENU_QUEST
+
+[IdItems]
+
+[Item]
+Label=Menu identification
+Name=MENU_ID
+Start=1
+Len=1
+ZeroFill=Yes
+
+[Record]
+Label=Menu record
+Name=MENU_REC
+RecordTypeValue=''
+RecordLen=116
+
+[Item]
+Label=Province code
+Name=MPROVIN
+Start=2
+Len=2
+
+[ValueSet]
+Label=Province code
+Name=MPROVIN_VS1
+Value=1;Capital city
+Value=2;Small city
+Value=3;Town
+Value=4;Rural
+
+[Item]
+Label=Ville / Territoire
+Name=MVILLE
+Start=4
+Len=3
+
+[Item]
+Label=Secteur/Chefferie /commune rurale/commune urbaine
+Name=MSEC
+Start=7
+Len=3
+
+[Item]
+Label=Quartier
+Name=MQTIER
+Start=10
+Len=3
+
+[Item]
+Label=Cluster number
+Name=MCLUST
+Start=13
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Province nom
+Name=MPROVINN
+Start=16
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Ville / Territoire nom
+Name=MVILLEN
+Start=41
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Secteur/Chefferie /commune rurale/commune urbaine (nom)
+Name=MSECN
+Start=66
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Quartier
+Name=MQTIERN
+Start=91
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Dummy place holder
+Name=MDUMMY
+Start=116
+Len=1
+DataType=Alpha

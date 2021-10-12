@@ -1,0 +1,48 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Clusters included in the sample
+Name=CLUSTERS
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=No
+DecimalChar=No
+
+[Level]
+Label=LEVEL1
+Name=LEVEL_1
+
+[IdItems]
+
+[Item]
+Label=Identifiant de l'utilisateur (Bluetooth MAC address)
+Name=UID
+Start=1
+Len=12
+DataType=Alpha
+
+[Item]
+Label=Equipe
+Name=YEQUIPE
+Start=13
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=IDENTIFICATION
+Name=IDENT
+RecordTypeValue=''
+RecordLen=57
+
+[Item]
+Label=Numero d'ordre
+Name=NUMORDRE
+Start=16
+Len=2
+
+[Item]
+Label=Noms du coduficateur
+Name=UNAME
+Start=18
+Len=40
+DataType=Alpha

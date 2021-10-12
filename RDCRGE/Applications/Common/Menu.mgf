@@ -1,0 +1,41 @@
+﻿{Messages for menu applications}
+
+{+FR}{Messages pour les applications de menu}
+0001 D le Bluetooth n'est pas activé 
+0002 D L'application n'a pas été configurée pour cette tablette (%s / %s)
+0003 D L'utilisateur doit avoir le privilège de chef d'équipe
+
+0010 D La ZD (%03d) est invalide
+0011 Il n'est pas possible de scinder le ménage 
+0012 Le ménage (%02D) a été scindé en (%02D) nombres
+0013 W Cette ZD (%03d) n'est pas assignée à l'équipe
+
+1001 W ZD (%03d) n'a pas encore été ouverte. Ouvrir maintenant?
+1002 W Cette tâche a déjà été synchronisée avec l'Agent Recenseur . Supprimer quand même l'affectation?
+1003 W Cette tâche a déjà été synchronisée avec un autre Agent Recenseur . Supprimer quand même la délégation?
+
+1004 W Pas plus de ménages à créer dans cette ZD
+
+1100 W Erreur lors de la création du rapport (vérification de l'ID)
+1101 D La ZD ne peut pas être fermée.
+1102   ZD fermée avec succès
+
+1200   Assurez-vous que la connexion Internet est établie, puis appuyez sur 'Oui'
+1201   Le système va redémarrer pendant la synchronisation
+
+1300   Des mises à jour du système ont été installées. Veuillez synchroniser avec les Agent Recenseur s
+1301   Des mises à jour du système ont été installées. Redémarrage du système.
+
+5001   La collecte de données pour la ZD %d n'a pas encore démarré;
+5002 D Erreurs dans la ZD %d. Ne peut pas accepter.
+5003 W ZD %d prête à être acceptée. Accepter maintenant?
+5004 D Erreurs dans la ZD %d. Impossible de finaliser
+5005 W ZD %d prêt à être finalisée. Finaliser maintenant?
+5006   Erreur lors de l'exécution du rapport d'état
+5007   Erreur lors de la création du répertoire: %s
+5008   Exportation complète
+
+9901 D Erreur lors de la suppression de l'affectation du ménage
+9902 D Option non disponible
+9903 D Erreur lors de l'abandon
+{FR+}

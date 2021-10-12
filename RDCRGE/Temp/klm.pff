@@ -1,0 +1,16 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Batch
+[Files]
+Application=c:\RDCRGE\Applications\AIT\Kml\Carte_Entreprise.bch
+InputData=c:\RDCRGE\Temp\Z21101102103.csdb
+Listing=c:\RDCRGE\Temp\Carte_Entreprise.csdb.lst
+WriteData=c:\RDCRGE\Temp\Carte_Entreprise.wrt
+[ExternalFiles]
+RGE_DICT=c:\RDCRGE\Temp\E21101102103.csdb
+[Parameters]
+ViewListing=Never
+ViewResults=No
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No

@@ -1,0 +1,16 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=CARTE_ENTREPRISE
+Name=CARTE_ENTREPRISE
+AppType=Batch
+[External Dictionaries]
+File=.\RGE.dcf
+[AppCode]
+File=.\Carte_Entreprise.bch.apc
+[Message]
+File=.\Carte_Entreprise.bch.mgf
+[Order]
+File=.\Carte_Entreprise.ord
+[Dictionary Types]
+Dict-Type=.\RGE.dcf,External
+Dict-Type=.\RGEZD.dcf,Input,.\Carte_Entreprise.ord

@@ -1,0 +1,27 @@
+﻿[Dictionary]
+Version=CSPro 7.3
+Label=wwlot
+Name=WWLOT_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=wwlot Level
+Name=WWLOT_LEVEL
+
+[IdItems]
+
+[Item]
+Label=wwlot Identification
+Name=WWLOT_ID
+Start=2
+Len=1
+
+[Record]
+Label=wwlot Record
+Name=WWLOT_REC
+RecordTypeValue='1'
+RecordLen=2

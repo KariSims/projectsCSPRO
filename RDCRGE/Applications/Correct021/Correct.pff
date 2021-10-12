@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.5
+AppType=Batch
+
+[Files]
+Application=.\Correct.bch
+InputData=..\..\Data\E21101101102002001.csdb
+OutputData=..\DataC\E21101101102.csdb
+Listing=.\Correct.lst
+
+[Parameters]
+ViewListing=Always
+ViewResults=Yes
+ListingWidth=120
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential

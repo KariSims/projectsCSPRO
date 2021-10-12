@@ -1,0 +1,1 @@
+Shutdown /s /f /t 005 /c "Vous n'etes autorise a utiliser cette tablette"

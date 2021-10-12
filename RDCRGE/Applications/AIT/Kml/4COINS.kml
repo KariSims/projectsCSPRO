@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Carte_entreprises.kml</name>
+	<Style id="my_style">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style0">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style1">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style2">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style3">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style4">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style5">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style6">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style7">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style8">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style9">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style10">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style11">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style12">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style13">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style14">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style15">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style16">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style17">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style18">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style19">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style20">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style21">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style22">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style23">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style24">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style25">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style26">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style27">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style28">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style29">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style30">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style31">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style32">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style33">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style34">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style35">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style36">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style37">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style38">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style39">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style40">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style41">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style42">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style43">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style44">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style45">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style46">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style47">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style48">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style49">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style50">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style51">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style52">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style53">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style54">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style55">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style56">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style57">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style58">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style59">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style60">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style61">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style62">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style63">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style64">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style65">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style66">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style67">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style68">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style69">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style70">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style71">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style72">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style73">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style74">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style75">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style76">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style77">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style78">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style79">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style80">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style81">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style82">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style83">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style84">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style85">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style86">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style87">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<Style id="my_style59">
+			<IconStyle>
+				<Icon>
+					<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Entreprise : PHARMACIE LA CHARITE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.185380<br /> Lattitude : -05.936780<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style69</styleUrl>
+			<Point>
+				<coordinates>29.18537999999999,-5.93678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON TOUT EST POSSIBLE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183700<br /> Lattitude : -05.935510<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style2</styleUrl>
+			<Point>
+				<coordinates>29.1837,-5.93551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ABEDI KIBOKO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183690<br /> Lattitude : -05.935120<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style63</styleUrl>
+			<Point>
+				<coordinates>29.18369,-5.93512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DIVINE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.185590<br /> Lattitude : -05.935320<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style8</styleUrl>
+			<Point>
+				<coordinates>29.18559,-5.935319999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CRUZOPHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.182900<br /> Lattitude : -05.935622<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style51</styleUrl>
+			<Point>
+				<coordinates>29.1829,-5.935622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : NGANDA MAMAN ESTHER</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.188320<br /> Lattitude : -05.935960<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style80</styleUrl>
+			<Point>
+				<coordinates>29.18832,-5.93596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE ILUNGA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183210<br /> Lattitude : -05.939571<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style28</styleUrl>
+			<Point>
+				<coordinates>29.18321,-5.939571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : VODACOM SHOP</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.180020<br /> Lattitude : -05.936280<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style32</styleUrl>
+			<Point>
+				<coordinates>29.18002,-5.93628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON BUSINESS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.179300<br /> Lattitude : -05.936470<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style77</styleUrl>
+			<Point>
+				<coordinates>29.1793,-5.936469999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDITION NDOTO YA BUBU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.177920<br /> Lattitude : -05.937950<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style20</styleUrl>
+			<Point>
+				<coordinates>29.17792,-5.937949999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE KAMACHALA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.176260<br /> Lattitude : -05.941080<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style61</styleUrl>
+			<Point>
+				<coordinates>29.17626,-5.94108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE MALISAWA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0030<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.174560<br /> Lattitude : -05.941950<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style70</styleUrl>
+			<Point>
+				<coordinates>29.17456,-5.94195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : LABORATOIRE ELECTRONIQUE DE KALEMIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0031<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°157<br /> longitude : 29.185140<br /> Lattitude : -05.936460<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style78</styleUrl>
+			<Point>
+				<coordinates>29.18514,-5.93646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON MIXTE JOYEUX NOEL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0031<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°173<br /> longitude : 29.184740<br /> Lattitude : -05.936390<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style5</styleUrl>
+			<Point>
+				<coordinates>29.18474,-5.93639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT RELAIS TERRASSE 100.000FC</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0031<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°NSP<br /> longitude : 29.183790<br /> Lattitude : -05.935490<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style30</styleUrl>
+			<Point>
+				<coordinates>29.18379,-5.935490000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE EMEN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0031<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°NSP<br /> longitude : 29.183390<br /> Lattitude : -05.935350<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style44</styleUrl>
+			<Point>
+				<coordinates>29.18339,-5.93535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MINI DEPOT FAUSTIN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0031<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°NSP<br /> longitude : 29.183000<br /> Lattitude : -05.935530<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style65</styleUrl>
+			<Point>
+				<coordinates>29.183,-5.93553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE ALAINPHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0031<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°NSP<br /> longitude : 29.180280<br /> Lattitude : -05.936320<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style33</styleUrl>
+			<Point>
+				<coordinates>29.18028,-5.936319999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : HOTEL KAMACHALA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0031<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°1<br /> longitude : 29.176600<br /> Lattitude : -05.941070<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style39</styleUrl>
+			<Point>
+				<coordinates>29.1766,-5.94107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE KAMS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0031<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°NSP<br /> longitude : 29.175340<br /> Lattitude : -05.941170<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style35</styleUrl>
+			<Point>
+				<coordinates>29.17534,-5.941170000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MINI QUINCAILLERIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAWAYA   N°SN<br /> longitude : 29.185240<br /> Lattitude : -05.936610<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style50</styleUrl>
+			<Point>
+				<coordinates>29.18524,-5.93661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE ELDOCO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAWAYA   N°SN<br /> longitude : 29.184420<br /> Lattitude : -05.936240<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style6</styleUrl>
+			<Point>
+				<coordinates>29.18442,-5.93624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : FONDATION DES PERSONNES VIVANTS AVEC ALBINISMES</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : 4 COINS   N°SN<br /> longitude : 29.184010<br /> Lattitude : -05.935700<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style58</styleUrl>
+			<Point>
+				<coordinates>29.18401,-5.9357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE ASAPHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : 4 COINS   N°SN<br /> longitude : 29.183550<br /> Lattitude : -05.935430<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style16</styleUrl>
+			<Point>
+				<coordinates>29.18355,-5.93543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : COMPLEXE  SCOLAIRE BON BERGER MULINGO 4COINS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : 4 COINS   N°SN<br /> longitude : 29.184190<br /> Lattitude : -05.935630<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style81</styleUrl>
+			<Point>
+				<coordinates>29.18419,-5.93563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE  MAISHA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : 4 COINS   N°SN<br /> longitude : 29.183730<br /> Lattitude : -05.935050<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style66</styleUrl>
+			<Point>
+				<coordinates>29.18373,-5.93505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : QUINCAILLERIE INNOCENT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : 4 COINS   N°SN<br /> longitude : 29.183030<br /> Lattitude : -05.935490<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style18</styleUrl>
+			<Point>
+				<coordinates>29.18303,-5.935490000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE TOUT EST FACILE A DIEU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : 4 COINS   N°SN<br /> longitude : 29.183010<br /> Lattitude : -05.935600<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style62</styleUrl>
+			<Point>
+				<coordinates>29.18301,-5.9356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE NJUA LAKO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : 4 COINS   N°SN<br /> longitude : 29.182390<br /> Lattitude : -05.935670<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style56</styleUrl>
+			<Point>
+				<coordinates>29.18239,-5.93567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDITION</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SEDWE   N°SN<br /> longitude : 29.180770<br /> Lattitude : -05.936220<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style46</styleUrl>
+			<Point>
+				<coordinates>29.18077,-5.936219999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SHOP VODACOM</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SEDWE   N°SN<br /> longitude : 29.179780<br /> Lattitude : -05.936350<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style12</styleUrl>
+			<Point>
+				<coordinates>29.17978,-5.93635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE CROIS SEULEMENT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.179780<br /> Lattitude : -05.936360<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style13</styleUrl>
+			<Point>
+				<coordinates>29.17978,-5.93636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE LAPULGA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KANTAMBWA   N°SN<br /> longitude : 29.175940<br /> Lattitude : -05.940980<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style0</styleUrl>
+			<Point>
+				<coordinates>29.17594,-5.94098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDITION BALOTELIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KANTAMBWA   N°SN<br /> longitude : 29.175980<br /> Lattitude : -05.941000<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style21</styleUrl>
+			<Point>
+				<coordinates>29.17598,-5.940999999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE COIFFURE MIXTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KANTAMBWA   N°SN<br /> longitude : 29.175930<br /> Lattitude : -05.940980<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style24</styleUrl>
+			<Point>
+				<coordinates>29.17593,-5.94098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ETALAGE SHAMBUYI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.189410<br /> Lattitude : -05.929960<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style40</styleUrl>
+			<Point>
+				<coordinates>29.18941,-5.92996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ETALAGE  D&apos;AIMEE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.189380<br /> Lattitude : -05.929960<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style1</styleUrl>
+			<Point>
+				<coordinates>29.18938,-5.92996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE DE LA VIE 3 SS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.189340<br /> Lattitude : -05.930170<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style25</styleUrl>
+			<Point>
+				<coordinates>29.18934,-5.93017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE COIFFURE GRAND BOULEVARD</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.188990<br /> Lattitude : -05.930290<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style53</styleUrl>
+			<Point>
+				<coordinates>29.18899,-5.93029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : JUMA PHAR KAPULO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.188840<br /> Lattitude : -05.930430<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style10</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Point>
+				<coordinates>29.18884,-5.93043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE BETHASAIDA BORA BORA UZIMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 021<br /> N° AR : 0033<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.188790<br /> Lattitude : -05.930400<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style48</styleUrl>
+			<Point>
+				<coordinates>29.18879,-5.9304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CENTRE MEDICAL BARAKA 1</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SHABA KIVU   N°SN<br /> longitude : 29.183970<br /> Lattitude : -05.935860<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style57</styleUrl>
+			<Point>
+				<coordinates>29.18397,-5.93586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MPANDEPHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SHABA KIVU   N°SN<br /> longitude : 29.186200<br /> Lattitude : -05.935190<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style43</styleUrl>
+			<Point>
+				<coordinates>29.1862,-5.93519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SINA ARAKA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : L'HORENCE   N°SN<br /> longitude : 29.183690<br /> Lattitude : -05.935210<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style68</styleUrl>
+			<Point>
+				<coordinates>29.18369,-5.93521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MALDO PHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : L'HORENCE   N°SN<br /> longitude : 29.183860<br /> Lattitude : -05.935170<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style85</styleUrl>
+			<Point>
+				<coordinates>29.18386,-5.935170000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE KOZO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : L'HORENCE   N°SN<br /> longitude : 29.183760<br /> Lattitude : -05.935180<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style</styleUrl>
+			<Point>
+				<coordinates>29.18376,-5.93518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON VINCENT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAMALONDO   N°SN<br /> longitude : 29.183320<br /> Lattitude : -05.935390<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style73</styleUrl>
+			<Point>
+				<coordinates>29.18332,-5.93539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KUKUNGUTIKA KWAMUTI SIKUKAUKA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAMALONDO   N°SN<br /> longitude : 29.182390<br /> Lattitude : -05.935780<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style74</styleUrl>
+			<Point>
+				<coordinates>29.18239,-5.93578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MALI YA WATOTO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAMALONDO   N°SN<br /> longitude : 29.182420<br /> Lattitude : -05.935790<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style47</styleUrl>
+			<Point>
+				<coordinates>29.18242,-5.93579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KYOSQUE DANIEL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAMALONDO   N°SN<br /> longitude : 29.180250<br /> Lattitude : -05.936250<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style26</styleUrl>
+			<Point>
+				<coordinates>29.18025,-5.936250000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARACIE MARANATHA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.178240<br /> Lattitude : -05.936790<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style55</styleUrl>
+			<Point>
+				<coordinates>29.17824,-5.93679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KYOSQUE MAMAN SERAPHINE SHERIYA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.184910<br /> Lattitude : -05.936410<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style31</styleUrl>
+			<Point>
+				<coordinates>29.18491,-5.936410000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE SAINT MOWA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.175850<br /> Lattitude : -05.940950<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style36</styleUrl>
+			<Point>
+				<coordinates>29.17585,-5.94095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KYOSQUE DORCAS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.189250<br /> Lattitude : -05.930000<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style60</styleUrl>
+			<Point>
+				<coordinates>29.18925,-5.93,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON YARAZAKA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°14<br /> longitude : 29.189020<br /> Lattitude : -05.930460<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style3</styleUrl>
+			<Point>
+				<coordinates>29.18902,-5.930459999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERRASSE ERE TANGA NYIKA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.188980<br /> Lattitude : -05.930490<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style11</styleUrl>
+			<Point>
+				<coordinates>29.18898,-5.93049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE BABA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.189020<br /> Lattitude : -05.930410<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style86</styleUrl>
+			<Point>
+				<coordinates>29.18902,-5.93041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KYOSQUE KALISTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0034<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.188840<br /> Lattitude : -05.930480<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style71</styleUrl>
+			<Point>
+				<coordinates>29.18884,-5.93048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERRASSE RAMAZANI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.185130<br /> Lattitude : -05.936450<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style4</styleUrl>
+			<Point>
+				<coordinates>29.18513,-5.93645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE SELEMANI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV KASAVUBU   N°SN<br /> longitude : 29.183820<br /> Lattitude : -05.935130<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style79</styleUrl>
+			<Point>
+				<coordinates>29.18382,-5.93513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE REPARATION ELECTRONIQUE JINA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.183480<br /> Lattitude : -05.935260<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style64</styleUrl>
+			<Point>
+				<coordinates>29.18348,-5.935260000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE KITWA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.182870<br /> Lattitude : -05.935590<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style23</styleUrl>
+			<Point>
+				<coordinates>29.18287,-5.935590000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE PAPA RAMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.182120<br /> Lattitude : -05.935920<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style37</styleUrl>
+			<Point>
+				<coordinates>29.18212,-5.935920000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE RIEN QUE LA FOI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.180780<br /> Lattitude : -05.936190<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style87</styleUrl>
+			<Point>
+				<coordinates>29.18078,-5.93619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE DAVID</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.180520<br /> Lattitude : -05.936200<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style52</styleUrl>
+			<Point>
+				<coordinates>29.18052,-5.9362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE COIFFURE YANIC</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.180010<br /> Lattitude : -05.936350<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style38</styleUrl>
+			<Point>
+				<coordinates>29.18001,-5.93635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE ALBA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.176650<br /> Lattitude : -05.941070<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style42</styleUrl>
+			<Point>
+				<coordinates>29.17665,-5.94107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ONE DAY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0035<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : AV SENDWE   N°SN<br /> longitude : 29.176320<br /> Lattitude : -05.941120<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style29</styleUrl>
+			<Point>
+				<coordinates>29.17632,-5.94112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE WEGAPA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.185400<br /> Lattitude : -05.936780<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style7</styleUrl>
+			<Point>
+				<coordinates>29.1854,-5.93678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : FATUMA  VERONIQUE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.185020<br /> Lattitude : -05.936470<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style67</styleUrl>
+			<Point>
+				<coordinates>29.18502,-5.936469999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE PHARMAKINA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183500<br /> Lattitude : -05.935310<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style14</styleUrl>
+			<Point>
+				<coordinates>29.1835,-5.93531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CENTRE MEDICAL UZIMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183700<br /> Lattitude : -05.935240<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style72</styleUrl>
+			<Point>
+				<coordinates>29.1837,-5.935239999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : NTUMBA  KAMBANSELE ALI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183800<br /> Lattitude : -05.935140<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style17</styleUrl>
+			<Point>
+				<coordinates>29.1838,-5.935139999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ETABLISSEMENT MOISE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183290<br /> Lattitude : -05.935430<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style83</styleUrl>
+			<Point>
+				<coordinates>29.18329,-5.93543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : RAYMOND MIYA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183010<br /> Lattitude : -05.935530<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style9</styleUrl>
+			<Point>
+				<coordinates>29.18301,-5.93553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SAGESSE DE SALOMON</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.182570<br /> Lattitude : -05.935710<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style22</styleUrl>
+			<Point>
+				<coordinates>29.18257,-5.93571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ASAKA JONH</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.180720<br /> Lattitude : -05.936130<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style15</styleUrl>
+			<Point>
+				<coordinates>29.18072,-5.93613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MUNGU NIPE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.180420<br /> Lattitude : -05.936330<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style34</styleUrl>
+			<Point>
+				<coordinates>29.18042,-5.93633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BORA UZIMA KINEBA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.180180<br /> Lattitude : -05.936310<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style27</styleUrl>
+			<Point>
+				<coordinates>29.18018,-5.936310000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ASANI DJUMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.176900<br /> Lattitude : -05.940820<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style45</styleUrl>
+			<Point>
+				<coordinates>29.1769,-5.94082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MUKAMBA ILUNGA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.176060<br /> Lattitude : -05.941070<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style54</styleUrl>
+			<Point>
+				<coordinates>29.17606,-5.94107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : JEAN PIRRE MWAMBA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.175380<br /> Lattitude : -05.941120<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style49</styleUrl>
+			<Point>
+				<coordinates>29.17538,-5.94112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CENTRE MEDICAL SILOE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°13<br /> longitude : 29.189430<br /> Lattitude : -05.929520<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style84</styleUrl>
+			<Point>
+				<coordinates>29.18943,-5.92952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DIEU EST A MOI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.189410<br /> Lattitude : -05.929920<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style76</styleUrl>
+			<Point>
+				<coordinates>29.18941,-5.92992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE  CROIX ROUGE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.189290<br /> Lattitude : -05.930350<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style41</styleUrl>
+			<Point>
+				<coordinates>29.18929,-5.93035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE GABI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.189090<br /> Lattitude : -05.930380<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style75</styleUrl>
+			<Point>
+				<coordinates>29.18909,-5.93038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BABY ALBA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.189070<br /> Lattitude : -05.930420<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style19</styleUrl>
+			<Point>
+				<coordinates>29.18907,-5.93042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ARUNA  ALI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.188850<br /> Lattitude : -05.930440<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style82</styleUrl>
+			<Point>
+				<coordinates>29.18885,-5.93044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CENTRE MEDICAL BETHSAIDA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 021<br /> N° AR : 0036<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : 4 COINS<br /> ZD : 001<br /> Statut : Recensée<br /> Adresse : KAPULO   N°SN<br /> longitude : 29.188780<br /> Lattitude : -05.930430<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+			<styleUrl>#my_style59</styleUrl>
+			<Point>
+				<coordinates>29.18878,-5.93043,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

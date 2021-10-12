@@ -1,0 +1,47 @@
+﻿[FormFile]
+Version=CSPro 7.3
+Name=WWLOT_FF
+Label=CorrectionLot
+DefaultTextFont=-013 0000 0000 0000 0700 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+FieldEntryFont=0018 0000 0000 0000 0600 0000 0000 0000 0000 0000 0000 0000 0000 Courier New
+Type=OperatorControlled
+  
+[Dictionaries]
+File=..\Dicts\wwlot.dcf
+  
+[Form]
+Name=FORM000
+Label=wwlot Level
+QuestionTextHeight=215
+Level=1
+Size=418,185
+  
+Item=WWLOT_ID
+  
+[EndForm]
+  
+[Level]
+Name=WWLOT_LEVEL
+Label=wwlot Level
+  
+[Group]
+Required=Yes
+Name=WWLOT_LEVEL_FORM
+Label=wwlot Level
+Form=1
+LogicControl=No
+Max=1
+  
+[Field]
+Name=WWLOT_ID
+Position=378,140,393,160
+Item=WWLOT_ID,WWLOT_DICT
+FieldLabelType=DictionaryName
+Form=1
+  
+[Text]
+Position=196,143,268,159
+Text=WWLOT_ID
+ 
+[EndGroup]
+  

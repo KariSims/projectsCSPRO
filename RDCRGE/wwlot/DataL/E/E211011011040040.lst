@@ -1,0 +1,36 @@
+﻿Application     C:\RDCRGE_R\wwlot\Entry\CorrectionLot.bch
+Type            BATCH
+Input Data      <<Text File>> C:\RDCRGE_R\wwlot\DataE\E\E21101101104004003.cs
+<Output>        <<CSPro DB>> C:\RDCRGE_R\wwlot\DataS\E\E211011011040040.csdb
+
+Date            Dec 17, 2020
+Start Time      18:04:31
+End Time        18:04:31
+
+CSPro Process Summary
+
+      ╔══════════════════════════════════════════════════════╗
+      ║         0 Records Read   0% of input file            ║
+      ║         0 Ignored:       0 Unknown         0 Erased  ║
+      ║         1 Messages:      1 E      0 W      0 User    ║
+      ╠═════════╦══════════════╦══════════════╦══════════════╣
+      ║  Level  ║  Input Case  ║  Bad Struct  ║  Level Post  ║
+      ╠═════════╬══════════════╬══════════════╬══════════════╣
+      ║      1  ║           0  ║           0  ║           0  ║
+      ╚═════════╩══════════════╩══════════════╩══════════════╝
+
+Process Messages
+
+*** LEVEL 0 PREPROC has 1 message (1 E / 0 W / 0 U)
+    E   10105 There was an error accessing the data source: The data file does not exist:
+              C:\RDCRGE_R\wwlot\DataE\E\E21101101104004003.cs
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+   10105           1         There was an error accessing the data source: %s                                           
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------

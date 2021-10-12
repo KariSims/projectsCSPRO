@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.3
+AppType=Batch
+
+[Files]
+Application=.\CorrectionLot.bch
+InputData=C:\RDCRGE\wwlot\DataE\E21101102102002001.csdb
+OutputData=C:\RDCRGE\wwlot\DataS\E21101102102002001.csdb
+Listing=C:\RDCRGE\wwlot\DataL\E21101102102002001.lst
+
+[Parameters]
+ViewListing=Never
+ViewResults=No
+ListingWidth=120
+MessageWrap=No
+ErrmsgOverride=No
+InputOrder=Sequential

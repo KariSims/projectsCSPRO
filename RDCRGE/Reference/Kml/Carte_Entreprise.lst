@@ -1,0 +1,30 @@
+﻿Application     C:\RDCRGE\Reference\Kml\Carte_Entreprise.bch
+Type            BATCH
+Input Data      <<CSPro DB>> C:\RDCRGE\Data\Z.csdb
+<Output>        <<CSPro DB>> C:\RDCRGE\Reference\Kml\cdx.csdb
+External        RGE_DICT=<<Empty>> 
+<File>          Cartokml=
+<File>          ftemp=
+<File>          FichSaPart=
+
+Date            Dec 07, 2020
+Start Time      17:40:08
+End Time        17:40:29
+
+CSPro Process Summary
+
+      ╔══════════════════════════════════════════════════════╗
+      ║      1791 Records Read   100% of input file          ║
+      ║         0 Ignored:       0 Unknown         0 Erased  ║
+      ║         0 Messages:      0 E      0 W      0 User    ║
+      ╠═════════╦══════════════╦══════════════╦══════════════╣
+      ║  Level  ║  Input Case  ║  Bad Struct  ║  Level Post  ║
+      ╠═════════╬══════════════╬══════════════╬══════════════╣
+      ║      1  ║          50  ║           0  ║          50  ║
+      ╚═════════╩══════════════╩══════════════╩══════════════╝
+
+Process Messages
+
+
+CSPro Executor Normal End
+--------------------------------------------------------------------------------

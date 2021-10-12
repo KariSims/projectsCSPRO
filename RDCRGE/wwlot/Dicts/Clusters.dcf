@@ -1,0 +1,131 @@
+﻿[Dictionary]
+Version=CSPro 6.3
+Label=Clusters included in the sample
+Name=CLUSTERS
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=No
+DecimalChar=No
+
+[Level]
+Label=LEVEL1
+Name=LEVEL_1
+
+[IdItems]
+
+[Item]
+Label=Province code
+Name=YPROVINCE
+Start=1
+Len=2
+
+[ValueSet]
+Label=Province code
+Name=YPROVINCE_VS1
+Value=1;Capital city
+Value=2;Small city
+Value=3;Town
+Value=4;Rural
+
+[Item]
+Label=Ville / Territoire
+Name=YVILLE
+Start=3
+Len=3
+
+[Item]
+Label=Secteur/Chefferie /commune rurale/commune urbaine
+Name=YSEC
+Start=6
+Len=3
+
+[Item]
+Label=Quartier
+Name=YQTIER
+Start=9
+Len=3
+
+[Item]
+Label=Cluster number
+Name=YCLUSTER
+Start=12
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=Cluster variables
+Name=CLSTREC
+RecordTypeValue=''
+RecordLen=180
+
+[Item]
+Label=Province name
+Name=YPROVINCEN
+Start=15
+Len=25
+DataType=Alpha
+
+[ValueSet]
+Label=Province name
+Name=YPROVINCEN_VS1
+Value='1                        ';Capital city
+Value='2                        ';Small city
+Value='3                        ';Town
+Value='4                        ';Rural
+
+[Item]
+Label=Ville name
+Name=YVILLEN
+Start=40
+Len=25
+DataType=Alpha
+
+[ValueSet]
+Label=Ville name
+Name=YVILLEN_VS1
+Value='1                        ';Region 1
+Value='2                        ';Region 2
+Value='3                        ';Region 3
+Value='4                        ';Region 4
+Value='5                        ';Region 5
+
+[Item]
+Label=Secteur
+Name=YSECTEURN
+Start=65
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Quartier
+Name=YQUARTIER
+Start=90
+Len=25
+DataType=Alpha
+
+[Item]
+Label=Lib ZD
+Name=YZD
+Start=115
+Len=10
+DataType=Alpha
+
+[Item]
+Label=Repère de la ZD
+Name=YREPEREZD
+Start=125
+Len=50
+DataType=Alpha
+
+[Item]
+Label=Urban/rural
+Name=YURBRUR
+Start=175
+Len=1
+
+[Item]
+Label=HH in cluster (used for sampling purposes)
+Name=YTOTHH
+Start=176
+Len=5

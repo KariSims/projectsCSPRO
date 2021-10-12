@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Tabulation
+Operation=All
+
+[Files]
+Application=.\TabCE04.xtb
+InputData=..\..\..\Data\E011011041032340130.csdb
+OutputTBW=.\TabCE04.xtb.tbw
+Listing=.\TabCE04.xtb.lst
+
+
+[Parameters]
+ViewListing=OnError
+ViewResults=No
+InputOrder=Sequential
+

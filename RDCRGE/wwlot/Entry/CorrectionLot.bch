@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=CORRECTIONLOT
+Name=CORRECTIONLOT
+AppType=Batch
+[AppCode]
+File=.\CorrectionLot.bch.apc
+[Message]
+File=.\CorrectionLot.bch.mgf
+[Order]
+File=.\CorrectionLot.ord
+[Dictionary Types]
+Dict-Type=..\Dicts\RGE.dcf,Input,.\CorrectionLot.ord

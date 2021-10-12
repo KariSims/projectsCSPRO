@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Carte_entreprises.kml</name>
+	<Style id="my_style">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style0">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style1">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style2">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style3">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style4">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style5">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style6">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style7">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style8">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style9">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style10">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style11">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style12">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style13">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style14">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style15">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style16">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style17">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style18">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style19">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style20">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style21">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style22">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style23">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style24">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style25">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style26">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style27">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style28">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style29">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style30">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style31">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style32">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style33">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style34">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style35">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style36">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style37">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style38">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style39">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style40">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style41">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style42">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style43">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style44">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style45">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style46">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style47">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style48">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style49">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style50">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style51">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style52">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style53">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style54">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style55">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style56">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style57">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style58">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style59">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style60">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style61">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style62">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style63">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style64">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style65">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style66">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style67">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style68">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style69">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style70">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style71">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style72">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style73">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style74">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style75">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style76">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style77">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style78">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style79">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style80">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style81">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style82">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style83">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style84">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style85">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style86">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style87">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style88">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style89">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style90">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style91">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style92">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style93">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style94">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style95">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<Style id="my_style77">
+			<IconStyle>
+				<Icon>
+					<href>C:/RDCRGE/Reference/icons/Pharmacie.PNG</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Entreprise : KIOSQUE SHEKULI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.184000<br /> Lattitude : -05.936050<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style94</styleUrl>
+			<Point>
+				<coordinates>29.184,-5.93605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOQUE DIYE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183990<br /> Lattitude : -05.936010<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style58</styleUrl>
+			<Point>
+				<coordinates>29.18399,-5.93601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE ODETTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183830<br /> Lattitude : -05.935740<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style43</styleUrl>
+			<Point>
+				<coordinates>29.18383,-5.935740000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : RESTAURENT MARTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183720<br /> Lattitude : -05.935700<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style14</styleUrl>
+			<Point>
+				<coordinates>29.18372,-5.9357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON MIXTE LE SALUT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183650<br /> Lattitude : -05.935530<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style37</styleUrl>
+			<Point>
+				<coordinates>29.18365,-5.93553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE SHEKINAH</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183670<br /> Lattitude : -05.935690<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style9</styleUrl>
+			<Point>
+				<coordinates>29.18367,-5.93569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE KASHINDA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183590<br /> Lattitude : -05.935450<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style59</styleUrl>
+			<Point>
+				<coordinates>29.18359,-5.93545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ARUNA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.180470<br /> Lattitude : -05.936310<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style62</styleUrl>
+			<Point>
+				<coordinates>29.18047,-5.936310000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE JOSEPH</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.180130<br /> Lattitude : -05.936350<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style82</styleUrl>
+			<Point>
+				<coordinates>29.18013,-5.93635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MOULIN KIZABI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.180090<br /> Lattitude : -05.936340<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style54</styleUrl>
+			<Point>
+				<coordinates>29.18009,-5.93634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE SHABANI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.182370<br /> Lattitude : -05.935880<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style67</styleUrl>
+			<Point>
+				<coordinates>29.18237,-5.93588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE MAO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.182840<br /> Lattitude : -05.935690<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style86</styleUrl>
+			<Point>
+				<coordinates>29.18284,-5.93569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT AKM</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.182940<br /> Lattitude : -05.935590<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style79</styleUrl>
+			<Point>
+				<coordinates>29.18294,-5.935590000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE KALALA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183070<br /> Lattitude : -05.935530<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style11</styleUrl>
+			<Point>
+				<coordinates>29.18307,-5.93553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE NENTOMPA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.183320<br /> Lattitude : -05.935370<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style25</styleUrl>
+			<Point>
+				<coordinates>29.18332,-5.93537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MALEWA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : 4COIN   N°1<br /> longitude : 29.193200<br /> Lattitude : -05.942750<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style91</styleUrl>
+			<Point>
+				<coordinates>29.1932,-5.942750000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE LONGUE HISTOIRE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : 4COIN   N°2<br /> longitude : 29.183870<br /> Lattitude : -05.935770<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style32</styleUrl>
+			<Point>
+				<coordinates>29.18387,-5.93577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE LADIVERCITE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : 4COIN   N°3<br /> longitude : 29.183700<br /> Lattitude : -05.935540<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style50</styleUrl>
+			<Point>
+				<coordinates>29.1837,-5.93554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACI MUTEPHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : 4COIN   N°4<br /> longitude : 29.183620<br /> Lattitude : -05.935500<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style30</styleUrl>
+			<Point>
+				<coordinates>29.18362,-5.935500000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERACE JAMBO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : 4COIN   N°5<br /> longitude : 29.183450<br /> Lattitude : -05.935450<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style42</styleUrl>
+			<Point>
+				<coordinates>29.18345,-5.93545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CHOP VODA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°6<br /> longitude : 29.183330<br /> Lattitude : -05.935420<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style73</styleUrl>
+			<Point>
+				<coordinates>29.18333,-5.93542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise :  NINI QUINQUELLERI BUSHIRI ASANI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°7<br /> longitude : 29.182960<br /> Lattitude : -05.935540<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style21</styleUrl>
+			<Point>
+				<coordinates>29.18296,-5.93554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SHOP MATERAUX</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°8<br /> longitude : 29.182750<br /> Lattitude : -05.935750<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style76</styleUrl>
+			<Point>
+				<coordinates>29.18275,-5.93575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ETELIER DE  COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°9<br /> longitude : 29.182650<br /> Lattitude : -05.935760<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style5</styleUrl>
+			<Point>
+				<coordinates>29.18265,-5.93576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE DEGOL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°10<br /> longitude : 29.182340<br /> Lattitude : -05.935780<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style71</styleUrl>
+			<Point>
+				<coordinates>29.18234,-5.93578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SH0P SEFACE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°11<br /> longitude : 29.182250<br /> Lattitude : -05.935880<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style20</styleUrl>
+			<Point>
+				<coordinates>29.18225,-5.93588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACI MAISHA NIYA MUNGU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°12<br /> longitude : 29.182100<br /> Lattitude : -05.935960<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style</styleUrl>
+			<Point>
+				<coordinates>29.1821,-5.93596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT JUSTIN OMARI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°13<br /> longitude : 29.180750<br /> Lattitude : -05.936250<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style93</styleUrl>
+			<Point>
+				<coordinates>29.18075,-5.936250000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise :  ATELIER DE REPARATION  KAINDA  MUKONDO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°14<br /> longitude : 29.180660<br /> Lattitude : -05.936280<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style70</styleUrl>
+			<Point>
+				<coordinates>29.18066,-5.93628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE HENRI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.178240<br /> Lattitude : -05.937120<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style56</styleUrl>
+			<Point>
+				<coordinates>29.17824,-5.93712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE JEAN PIERRE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.178290<br /> Lattitude : -05.936890<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style35</styleUrl>
+			<Point>
+				<coordinates>29.17829,-5.936889999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MOULIN MWAMBA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.178110<br /> Lattitude : -05.937400<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style53</styleUrl>
+			<Point>
+				<coordinates>29.17811,-5.937400000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON PATIENT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.178040<br /> Lattitude : -05.937450<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style22</styleUrl>
+			<Point>
+				<coordinates>29.17804,-5.93745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON PATCHO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.178030<br /> Lattitude : -05.937460<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style17</styleUrl>
+			<Point>
+				<coordinates>29.17803,-5.937459999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CABINE TITO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.177810<br /> Lattitude : -05.939650<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style4</styleUrl>
+			<Point>
+				<coordinates>29.17781,-5.93965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE MAYUMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.177720<br /> Lattitude : -05.940050<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style48</styleUrl>
+			<Point>
+				<coordinates>29.17772,-5.94005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON KAIMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.177510<br /> Lattitude : -05.940240<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style88</styleUrl>
+			<Point>
+				<coordinates>29.17751000000001,-5.94024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE TCHAKU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.177490<br /> Lattitude : -05.940240<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style52</styleUrl>
+			<Point>
+				<coordinates>29.17749,-5.94024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON WASAFI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.176900<br /> Lattitude : -05.940870<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style6</styleUrl>
+			<Point>
+				<coordinates>29.1769,-5.94087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CABINE PAPY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.176860<br /> Lattitude : -05.940880<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style74</styleUrl>
+			<Point>
+				<coordinates>29.17686,-5.94088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CAFETARIAS SAFI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.176890<br /> Lattitude : -05.941030<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style84</styleUrl>
+			<Point>
+				<coordinates>29.17689,-5.94103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE OMBA PHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.176910<br /> Lattitude : -05.941060<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style95</styleUrl>
+			<Point>
+				<coordinates>29.17691,-5.94106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT RELAIS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.176900<br /> Lattitude : -05.941050<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style46</styleUrl>
+			<Point>
+				<coordinates>29.1769,-5.94105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : RESTAURANT MAMA NI MAMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.176930<br /> Lattitude : -05.940940<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style47</styleUrl>
+			<Point>
+				<coordinates>29.17693,-5.940940000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE DELA CROIX ROUGE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182220<br /> Lattitude : -05.938170<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style57</styleUrl>
+			<Point>
+				<coordinates>29.18222,-5.93817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE BAKARI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182550<br /> Lattitude : -05.942070<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style8</styleUrl>
+			<Point>
+				<coordinates>29.18255,-5.94207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE KITENGE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182540<br /> Lattitude : -05.942100<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style29</styleUrl>
+			<Point>
+				<coordinates>29.18254,-5.9421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE BANZA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182570<br /> Lattitude : -05.942130<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style65</styleUrl>
+			<Point>
+				<coordinates>29.18257,-5.94213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE BIG PHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182580<br /> Lattitude : -05.942160<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style3</styleUrl>
+			<Point>
+				<coordinates>29.18258,-5.94216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON MAISON BLANCHE2</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 021<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182580<br /> Lattitude : -05.942180<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style26</styleUrl>
+			<Point>
+				<coordinates>29.18258,-5.94218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT MIRA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 022<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182670<br /> Lattitude : -05.942150<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style23</styleUrl>
+			<Point>
+				<coordinates>29.18267,-5.94215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON LBUR3</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 023<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182620<br /> Lattitude : -05.942150<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style33</styleUrl>
+			<Point>
+				<coordinates>29.18262,-5.94215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE KITOKO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 024<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182740<br /> Lattitude : -05.942250<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style44</styleUrl>
+			<Point>
+				<coordinates>29.18274,-5.94225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MOULIN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 025<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182780<br /> Lattitude : -05.942250<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style16</styleUrl>
+			<Point>
+				<coordinates>29.18278,-5.94225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 026<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182770<br /> Lattitude : -05.942210<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style0</styleUrl>
+			<Point>
+				<coordinates>29.18277,-5.94221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CAFETARIAS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 027<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182770<br /> Lattitude : -05.942200<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style80</styleUrl>
+			<Point>
+				<coordinates>29.18277,-5.9422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 028<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182830<br /> Lattitude : -05.942250<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style12</styleUrl>
+			<Point>
+				<coordinates>29.18283,-5.94225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 029<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182840<br /> Lattitude : -05.942390<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style85</styleUrl>
+			<Point>
+				<coordinates>29.18284,-5.94239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDITION MERCI MA FAMILLE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 030<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.182960<br /> Lattitude : -05.942390<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style90</styleUrl>
+			<Point>
+				<coordinates>29.18296,-5.94239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CABINE J&apos;AIME KALEMIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 031<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.183070<br /> Lattitude : -05.942400<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style69</styleUrl>
+			<Point>
+				<coordinates>29.18307,-5.9424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EP TUKANKAMANE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 032<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.183290<br /> Lattitude : -05.942530<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style34</styleUrl>
+			<Point>
+				<coordinates>29.18329,-5.94253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CABINE GRACE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 033<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.183990<br /> Lattitude : -05.942590<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style64</styleUrl>
+			<Point>
+				<coordinates>29.18399,-5.942590000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : C.S. LA PATIENCE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 034<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.184090<br /> Lattitude : -05.942880<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style18</styleUrl>
+			<Point>
+				<coordinates>29.18409,-5.94288,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CABINE JOHN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 035<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : LUTCHIMBA   N°SN<br /> longitude : 29.183720<br /> Lattitude : -05.942530<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style81</styleUrl>
+			<Point>
+				<coordinates>29.18372,-5.94253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDITION FULL SERVICE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.184170<br /> Lattitude : -05.935710<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style75</styleUrl>
+			<Point>
+				<coordinates>29.18417,-5.93571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SHOP VODACOM PASTEUR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.183880<br /> Lattitude : -05.935810<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style49</styleUrl>
+			<Point>
+				<coordinates>29.18387999999999,-5.935809999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE PHARMAKINE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.183960<br /> Lattitude : -05.935490<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style40</styleUrl>
+			<Point>
+				<coordinates>29.18396,-5.935490000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE KIZA-PHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.183970<br /> Lattitude : -05.935670<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style2</styleUrl>
+			<Point>
+				<coordinates>29.18397,-5.93567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MAZIWA SAFI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.183300<br /> Lattitude : -05.935430<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style38</styleUrl>
+			<Point>
+				<coordinates>29.1833,-5.93543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ETS ZUZU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.182990<br /> Lattitude : -05.935540<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style89</styleUrl>
+			<Point>
+				<coordinates>29.18299,-5.93554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE FOND AMASSE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.182990<br /> Lattitude : -05.935570<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style51</styleUrl>
+			<Point>
+				<coordinates>29.18299,-5.935569999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE BEAUTE RAPHAEL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.182830<br /> Lattitude : -05.935660<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style83</styleUrl>
+			<Point>
+				<coordinates>29.18283,-5.935659999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON KIBA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.182770<br /> Lattitude : -05.935720<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style55</styleUrl>
+			<Point>
+				<coordinates>29.18277,-5.93572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE JEAN-PAUL KIOTO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.182500<br /> Lattitude : -05.935880<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style87</styleUrl>
+			<Point>
+				<coordinates>29.1825,-5.93588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE NGOY OMBENI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.182380<br /> Lattitude : -05.935910<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style41</styleUrl>
+			<Point>
+				<coordinates>29.18237999999999,-5.93591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DISPENSAIRE SANTE PLUS EBEN EZER</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.182210<br /> Lattitude : -05.936030<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style61</styleUrl>
+			<Point>
+				<coordinates>29.18221,-5.93603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON MIXTE PHILEMON</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.182150<br /> Lattitude : -05.935950<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style31</styleUrl>
+			<Point>
+				<coordinates>29.18215,-5.93595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE HENRIPHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.180850<br /> Lattitude : -05.936250<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style45</styleUrl>
+			<Point>
+				<coordinates>29.18085,-5.936250000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE JONATHAN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.180120<br /> Lattitude : -05.936450<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style10</styleUrl>
+			<Point>
+				<coordinates>29.18012,-5.93645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE BAHIZIRE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.SENDWE   N°SN<br /> longitude : 29.179340<br /> Lattitude : -05.936500<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style15</styleUrl>
+			<Point>
+				<coordinates>29.17934,-5.9365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE NGONGO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : CHABA KIVU   N°SN<br /> longitude : 29.183950<br /> Lattitude : -05.935930<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style7</styleUrl>
+			<Point>
+				<coordinates>29.18395,-5.93593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE KAPELA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°02<br /> longitude : 29.183970<br /> Lattitude : -05.935930<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style72</styleUrl>
+			<Point>
+				<coordinates>29.18397,-5.93593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE KINGI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°03<br /> longitude : 29.183880<br /> Lattitude : -05.935720<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style66</styleUrl>
+			<Point>
+				<coordinates>29.18387999999999,-5.93572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE PAUL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°04<br /> longitude : 29.183630<br /> Lattitude : -05.935540<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style78</styleUrl>
+			<Point>
+				<coordinates>29.18363,-5.93554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDITION AIGLE SERVICES</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°05<br /> longitude : 29.183530<br /> Lattitude : -05.935450<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style39</styleUrl>
+			<Point>
+				<coordinates>29.18353,-5.93545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE J.M</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°06<br /> longitude : 29.183510<br /> Lattitude : -05.935420<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style92</styleUrl>
+			<Point>
+				<coordinates>29.18351,-5.93542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE LA GRACE DE DIEU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°07<br /> longitude : 29.183410<br /> Lattitude : -05.935390<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style36</styleUrl>
+			<Point>
+				<coordinates>29.18341,-5.93539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE LA GRACE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°08<br /> longitude : 29.183050<br /> Lattitude : -05.935540<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style63</styleUrl>
+			<Point>
+				<coordinates>29.18305,-5.93554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE AIGLE JEHOVAH</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°12<br /> longitude : 29.182900<br /> Lattitude : -05.935600<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style19</styleUrl>
+			<Point>
+				<coordinates>29.1829,-5.9356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON NEEMA YA MUNGU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.182840<br /> Lattitude : -05.935610<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style27</styleUrl>
+			<Point>
+				<coordinates>29.18284,-5.93561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MSON DE CORDONNERIE CHEZ CADET</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.182680<br /> Lattitude : -05.935740<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style24</styleUrl>
+			<Point>
+				<coordinates>29.18268,-5.935740000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE NGOROMBE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°36<br /> longitude : 29.182380<br /> Lattitude : -05.935880<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style13</styleUrl>
+			<Point>
+				<coordinates>29.18237999999999,-5.93588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE MERCI SEIGNEUR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°38<br /> longitude : 29.182160<br /> Lattitude : -05.935940<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style68</styleUrl>
+			<Point>
+				<coordinates>29.18216,-5.93594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDITION KALEMBU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°39<br /> longitude : 29.180510<br /> Lattitude : -05.936280<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style1</styleUrl>
+			<Point>
+				<coordinates>29.18051,-5.93628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON JACQUE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°40<br /> longitude : 29.180190<br /> Lattitude : -05.936330<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style60</styleUrl>
+			<Point>
+				<coordinates>29.18019,-5.93633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE LA GRACE CHEZ EDDY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.179450<br /> Lattitude : -05.936480<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style28</styleUrl>
+			<Point>
+				<coordinates>29.17945,-5.93648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CENTRE MEDICAK RIZIKI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KATAMBWA<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : SENDWE   N°SN<br /> longitude : 29.179240<br /> Lattitude : -05.936550<br /><br /> Type de Bâtiment : Centre de santé<br />]]></description>
+			<styleUrl>#my_style77</styleUrl>
+			<Point>
+				<coordinates>29.17924,-5.93655,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

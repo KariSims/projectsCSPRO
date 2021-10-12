@@ -1,0 +1,157 @@
+﻿[Dictionary]
+Version=CSPro 7.2
+Label=Tasks
+Name=TASKS
+RecordTypeStart=0
+RecordTypeLen=0
+Positions=Relative
+ZeroFill=No
+DecimalChar=No
+
+[Level]
+Label=Tasks level
+Name=TASKS_LEVEL
+
+[IdItems]
+
+[Item]
+Label=Task Identification
+Name=TASK_ID
+Start=1
+Len=32
+DataType=Alpha
+
+[Record]
+Label=Tasks record
+Name=TASKS_REC
+RecordTypeValue=''
+RecordLen=1560
+
+[Item]
+Label=Template name
+Name=TASK_TEMPLATENAME
+Start=33
+Len=24
+DataType=Alpha
+
+[Item]
+Label=Label
+Name=TASK_LABEL
+Start=57
+Len=255
+DataType=Alpha
+
+[Item]
+Label=Status
+Name=TASK_STATUS
+Start=312
+Len=4
+
+[Item]
+Label=Parent ID
+Name=TASK_PARENTID
+Start=316
+Len=32
+DataType=Alpha
+
+[Item]
+Label=Numero de la ZD
+Name=TASK_NUMZD
+Start=348
+Len=3
+
+[Item]
+Label=ZD partie
+Name=TASK_ZDPART
+Start=351
+Len=1
+
+[Item]
+Label=Numéro de l'Agent recenseur
+Name=TASK_NUMAR
+Start=352
+Len=4
+
+[Item]
+Label=Nom de l'Agent recenseur
+Name=TASK_NOMAR
+Start=356
+Len=35
+DataType=Alpha
+
+[Item]
+Label=Variables
+Name=TASK_VARIABLES
+Start=391
+Len=72
+DataType=Alpha
+Occurrences=16
+
+[Item]
+Label=Variable name
+Name=TASK_VARNAME
+Start=391
+Len=24
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Variable value
+Name=TASK_VARVAL
+Start=415
+Len=48
+ItemType=SubItem
+DataType=Alpha
+
+[Item]
+Label=Province code
+Name=TASK_PROVINCE
+Start=1543
+Len=2
+
+[ValueSet]
+Label=Province code
+Name=TASK_PROVINCE_VS1
+Value=1;Capital city
+Value=2;Small city
+Value=3;Town
+Value=4;Rural
+
+[Item]
+Label=Ville / Territoire
+Name=TASK_VILLE
+Start=1545
+Len=3
+
+[Item]
+Label=Secteur/Chefferie /commune rurale/commune urbaine
+Name=TASK_SEC
+Start=1548
+Len=3
+
+[Item]
+Label=Quartier
+Name=TASK_QTIER
+Start=1551
+Len=3
+
+[Item]
+Label=Numéro de l'unité économique
+Name=TASK_NUMESE
+Start=1554
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Equipe
+Name=TASK_EQUIPE
+Start=1557
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Dummy
+Name=TASK_DUMMY
+Start=1560
+Len=1
+ZeroFill=Yes

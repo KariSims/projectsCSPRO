@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Carte_entreprises.kml</name>
+	<open>1</open>
+	<Style id="my_style">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style0">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style1">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style2">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style3">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style4">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style5">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style6">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style7">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style8">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style9">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style10">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style11">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style12">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style13">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style14">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style15">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style16">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style17">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style18">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style19">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<Style id="my_style">
+			<IconStyle>
+				<Icon>
+					<href>C:/RDCRGE/Reference/icons/magasin.PNG</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE KALUME</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.183820<br /> Lattitude : -05.914010<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style16</styleUrl>
+			<Point>
+				<coordinates>29.18382,-5.91401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE JEAN MUFAUME</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.182210<br /> Lattitude : -05.912790<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style18</styleUrl>
+			<Point>
+				<coordinates>29.18221,-5.91279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER  OSEKA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.181940<br /> Lattitude : -05.912920<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style3</styleUrl>
+			<Point>
+				<coordinates>29.18194,-5.91292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE COIFFURE JENOVIC</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.181870<br /> Lattitude : -05.912980<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style2</styleUrl>
+			<Point>
+				<coordinates>29.18187,-5.912979999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DISPENSAIRE BON BERGER MULINGO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.181869<br /> Lattitude : -05.912981<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style14</styleUrl>
+			<Point>
+				<coordinates>29.181869,-5.912981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE JOLIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.179780<br /> Lattitude : -05.916180<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style8</styleUrl>
+			<Point>
+				<coordinates>29.17978,-5.91618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE MUNGU NI JIBU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.179779<br /> Lattitude : -05.916181<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style0</styleUrl>
+			<Point>
+				<coordinates>29.179779,-5.916181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON SHABANI BENEZETHE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°75<br /> longitude : 29.182960<br /> Lattitude : -05.919400<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style17</styleUrl>
+			<Point>
+				<coordinates>29.18296,-5.9194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DISPENSAIRE UZIMA WETU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.183620<br /> Lattitude : -05.919750<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style4</styleUrl>
+			<Point>
+				<coordinates>29.18362,-5.91975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : VEMAPHAR</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.183270<br /> Lattitude : -05.919330<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style13</styleUrl>
+			<Point>
+				<coordinates>29.18327,-5.91933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDITION KAHOZI SEBA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.184640<br /> Lattitude : -05.920670<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style5</styleUrl>
+			<Point>
+				<coordinates>29.18464,-5.920670000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE LA GRACE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : KANKOMBA   N°SN<br /> longitude : 29.185020<br /> Lattitude : -05.920660<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style12</styleUrl>
+			<Point>
+				<coordinates>29.18502,-5.92066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDITION TOUT VA BIEN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : NKAKOMBA   N°NSP<br /> longitude : 29.184520<br /> Lattitude : -05.914600<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style7</styleUrl>
+			<Point>
+				<coordinates>29.18452,-5.9146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERRESSE EAU BENITE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : NKAKOMBA   N°NSP<br /> longitude : 29.181880<br /> Lattitude : -05.912840<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style6</styleUrl>
+			<Point>
+				<coordinates>29.18188,-5.91284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE JIMY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : NKAKOMBA   N°NSP<br /> longitude : 29.181890<br /> Lattitude : -05.913000<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style10</styleUrl>
+			<Point>
+				<coordinates>29.18189,-5.913000000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE LA VOIX DE DIEU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : NKAKOMBA   N°NSP<br /> longitude : 29.179700<br /> Lattitude : -05.916230<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style9</styleUrl>
+			<Point>
+				<coordinates>29.1797,-5.91623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE VERTERINAIRE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : NKAKOMBA   N°NSP<br /> longitude : 29.179670<br /> Lattitude : -05.916180<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style15</styleUrl>
+			<Point>
+				<coordinates>29.17967,-5.91618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE KIBANDA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : NKAKOMBA   N°NSP<br /> longitude : 29.180730<br /> Lattitude : -05.914650<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style1</styleUrl>
+			<Point>
+				<coordinates>29.18073,-5.91465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : COMPLEXE SCOLAIRE LA TENDRESSE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : NKAKOMBA   N°79<br /> longitude : 29.182660<br /> Lattitude : -05.919380<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style11</styleUrl>
+			<Point>
+				<coordinates>29.18266,-5.91938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CENTRE MEDICAL NEEMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : NKAKOMBA   N°103<br /> longitude : 29.185000<br /> Lattitude : -05.919430<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style19</styleUrl>
+			<Point>
+				<coordinates>29.185,-5.919430000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : KANKOMBA<br /> ZD : 004<br /> Statut : Recensée<br /> Adresse : NKAKOMBA   N°NSP<br /> longitude : 29.186060<br /> Lattitude : -59.920890<br /><br /> Type de Bâtiment : Kiosque<br />]]></description>
+			<styleUrl>#my_style</styleUrl>
+			<Point>
+				<coordinates>29.18606,-59.92089,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

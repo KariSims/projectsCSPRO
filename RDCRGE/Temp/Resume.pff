@@ -1,0 +1,17 @@
+﻿[Run Information]
+Version=CSPro 7.2
+AppType=Batch
+[Files]
+Application=c:\RDCRGE\Applications\AIT\Resume.bch
+InputData=c:\RDCRGE\Temp\Z21101101105.csdb
+Listing=c:\RDCRGE\Temp\Resume.csdb.lst
+WriteData=c:\RDCRGE\Temp\Resume.wrt
+[ExternalFiles]
+RGE_DICT=c:\RDCRGE\Temp\E21101101105.csdb
+TASKS=c:\RDCRGE\Tasks\PROVINCE21_ZDResume.dat
+[Parameters]
+ViewListing=Never
+ViewResults=No
+ListingWidth=80
+MessageWrap=No
+ErrmsgOverride=No

@@ -1,0 +1,2640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Carte_entreprises.kml</name>
+	<Style id="my_style">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style0">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style1">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style2">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style3">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style4">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style5">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style6">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style7">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style8">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style9">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style10">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style11">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style12">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style13">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style14">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style15">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style16">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style17">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style18">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style19">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style20">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style21">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style22">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style23">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style24">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style25">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style26">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style27">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style28">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style29">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style30">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style31">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style32">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style33">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style34">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style35">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style36">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style37">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style38">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style39">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style40">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style41">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style42">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style43">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style44">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style45">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style46">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style47">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style48">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style49">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style50">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style51">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style52">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style53">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style54">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style55">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style56">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style57">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style58">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style59">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style60">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style61">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style62">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style63">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style64">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style65">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style66">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style67">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style68">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style69">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style70">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style71">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style72">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style73">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style74">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style75">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style76">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style77">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style78">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style79">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style80">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style81">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style82">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style83">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style84">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style85">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style86">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style87">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style88">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style89">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style90">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style91">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style92">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style93">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style94">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style95">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style96">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style97">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style98">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style99">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style100">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style101">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style102">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style103">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style104">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style105">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style106">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style107">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style108">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style109">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style110">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style111">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style112">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style113">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style114">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style115">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style116">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style117">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style118">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style119">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style120">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style121">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style122">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style123">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style124">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style125">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style126">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style127">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style128">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style129">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style130">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style131">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style132">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style133">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style134">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style135">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style136">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style137">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style138">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style139">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style140">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style141">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style142">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style143">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style144">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style145">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style146">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style147">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style148">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style149">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style150">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style151">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style152">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style153">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style154">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style155">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style156">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style157">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style158">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style159">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style160">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style161">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style162">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style163">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style164">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style165">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style166">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style167">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style168">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style169">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style170">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style171">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style172">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="my_style173">
+		<IconStyle>
+			<Icon>
+				<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<Style id="my_style81">
+			<IconStyle>
+				<Icon>
+					<href>C:/RDCRGE/Reference/icons/ZD.PNG</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Entreprise : BATIMENT DES ATELIER</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°33<br /> longitude : 29.195760<br /> Lattitude : -05.925360<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style126</styleUrl>
+			<Point>
+				<coordinates>29.19576,-5.92536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KOISQUE MUGARUKA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.195620<br /> Lattitude : -05.924690<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style96</styleUrl>
+			<Point>
+				<coordinates>29.19562,-5.924689999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE EBEM</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.195840<br /> Lattitude : -05.924610<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style119</styleUrl>
+			<Point>
+				<coordinates>29.19584,-5.924609999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MALEWA MARIHAM</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.195850<br /> Lattitude : -05.924610<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style142</styleUrl>
+			<Point>
+				<coordinates>29.19585,-5.924609999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE KALAMBAY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196010<br /> Lattitude : -05.924600<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style112</styleUrl>
+			<Point>
+				<coordinates>29.19601,-5.924599999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT YUSUFU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196100<br /> Lattitude : -05.924600<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style93</styleUrl>
+			<Point>
+				<coordinates>29.1961,-5.924599999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT NGOY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196030<br /> Lattitude : -05.924590<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style137</styleUrl>
+			<Point>
+				<coordinates>29.19603,-5.92459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT FRANCOIS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196130<br /> Lattitude : -05.924560<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style138</styleUrl>
+			<Point>
+				<coordinates>29.19613,-5.92456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT MUKOBI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196140<br /> Lattitude : -05.924540<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style116</styleUrl>
+			<Point>
+				<coordinates>29.19614,-5.924540000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT SAJUMU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196180<br /> Lattitude : -05.924500<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style136</styleUrl>
+			<Point>
+				<coordinates>29.19618,-5.9245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT MAURICE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196180<br /> Lattitude : -05.924610<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style140</styleUrl>
+			<Point>
+				<coordinates>29.19618,-5.924609999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT FIDEL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196210<br /> Lattitude : -05.924620<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style127</styleUrl>
+			<Point>
+				<coordinates>29.19621,-5.924620000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : RESTAURENT ASI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196260<br /> Lattitude : -05.924630<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style134</styleUrl>
+			<Point>
+				<coordinates>29.19626,-5.92463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT ASIZA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.196700<br /> Lattitude : -05.924010<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style147</styleUrl>
+			<Point>
+				<coordinates>29.1967,-5.92401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATLIER COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°66<br /> longitude : 29.194650<br /> Lattitude : -05.920680<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style91</styleUrl>
+			<Point>
+				<coordinates>29.19465,-5.92068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE  ESTER</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°66<br /> longitude : 29.194610<br /> Lattitude : -05.920660<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style100</styleUrl>
+			<Point>
+				<coordinates>29.19461,-5.92066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE AMURANI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.194390<br /> Lattitude : -05.920330<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style99</styleUrl>
+			<Point>
+				<coordinates>29.19439,-5.92033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE ALEX</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°73<br /> longitude : 29.194260<br /> Lattitude : -05.920220<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style118</styleUrl>
+			<Point>
+				<coordinates>29.19426,-5.920219999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE DE PHOTO NURSE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°80<br /> longitude : 29.193840<br /> Lattitude : -05.919780<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style110</styleUrl>
+			<Point>
+				<coordinates>29.19384,-5.91978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMENTATION LA MENAGERE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°86<br /> longitude : 29.193750<br /> Lattitude : -05.919508<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style115</styleUrl>
+			<Point>
+				<coordinates>29.19375,-5.919508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE DIEU MERCI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 021<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°158<br /> longitude : 29.193420<br /> Lattitude : -05.919310<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style111</styleUrl>
+			<Point>
+				<coordinates>29.19342,-5.91931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE AMANI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 022<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°158<br /> longitude : 29.193440<br /> Lattitude : -05.919250<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style108</styleUrl>
+			<Point>
+				<coordinates>29.19344,-5.919250000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ROSETTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 023<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.193250<br /> Lattitude : -05.918970<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style104</styleUrl>
+			<Point>
+				<coordinates>29.19325,-5.91897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 024<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.192990<br /> Lattitude : -05.918760<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style132</styleUrl>
+			<Point>
+				<coordinates>29.19299000000001,-5.918760000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MOULIN LUHONGE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 025<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.192840<br /> Lattitude : -05.918410<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style122</styleUrl>
+			<Point>
+				<coordinates>29.19284,-5.918409999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE MATABARU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 026<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°98<br /> longitude : 29.192560<br /> Lattitude : -05.918110<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style75</styleUrl>
+			<Point>
+				<coordinates>29.19256,-5.918110000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUITQUE PARTICK</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 027<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.192500<br /> Lattitude : -05.918030<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style56</styleUrl>
+			<Point>
+				<coordinates>29.1925,-5.91803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUITIQUE MAMAN NANA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 028<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°100<br /> longitude : 29.192320<br /> Lattitude : -05.917860<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style48</styleUrl>
+			<Point>
+				<coordinates>29.19232,-5.917860000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KOISQUE MUSASA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 029<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.192080<br /> Lattitude : -05.917510<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style45</styleUrl>
+			<Point>
+				<coordinates>29.19208,-5.917509999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER  DE CORDONNERIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 030<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.191390<br /> Lattitude : -05.916650<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style80</styleUrl>
+			<Point>
+				<coordinates>29.19139,-5.91665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMENTION DIEU MERCI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 031<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°SN<br /> longitude : 29.191120<br /> Lattitude : -05.916180<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style46</styleUrl>
+			<Point>
+				<coordinates>29.19112,-5.91618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE OMARI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 032<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV  KALEMIE   N°126<br /> longitude : 29.190700<br /> Lattitude : -05.915470<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style47</styleUrl>
+			<Point>
+				<coordinates>29.1907,-5.915470000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE RIZIKI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 033<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV DILOLO   N°SN<br /> longitude : 29.191000<br /> Lattitude : -05.915240<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style60</styleUrl>
+			<Point>
+				<coordinates>29.191,-5.91524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE AZURUNI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 034<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV DILOLO   N°017<br /> longitude : 29.192100<br /> Lattitude : -05.915300<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style74</styleUrl>
+			<Point>
+				<coordinates>29.1921,-5.915300000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE MICHEL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 035<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV DILOLO   N°023<br /> longitude : 29.192600<br /> Lattitude : -05.913280<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style69</styleUrl>
+			<Point>
+				<coordinates>29.1926,-5.91328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE DANIEL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 036<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV DILOLO   N°SN<br /> longitude : 29.193190<br /> Lattitude : -05.916450<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style85</styleUrl>
+			<Point>
+				<coordinates>29.19319,-5.916449999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE MADO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 037<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV DILOLO   N°SN<br /> longitude : 29.193200<br /> Lattitude : -05.916580<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style102</styleUrl>
+			<Point>
+				<coordinates>29.1932,-5.91658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE GORETTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 038<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV DILOLO   N°SN<br /> longitude : 29.192290<br /> Lattitude : -05.917300<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style72</styleUrl>
+			<Point>
+				<coordinates>29.19229,-5.9173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MALEWA JOLIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 039<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV DILOLO   N°SN<br /> longitude : 29.192670<br /> Lattitude : -05.918040<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style44</styleUrl>
+			<Point>
+				<coordinates>29.19267,-5.91804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE DOREE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°1<br /> longitude : 29.195670<br /> Lattitude : -05.925390<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style43</styleUrl>
+			<Point>
+				<coordinates>29.19567,-5.92539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°2<br /> longitude : 29.195630<br /> Lattitude : -05.925370<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style88</styleUrl>
+			<Point>
+				<coordinates>29.19563,-5.92537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise :     KIOSQUE  MAMAN ALI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°3<br /> longitude : 29.195080<br /> Lattitude : -05.922920<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style67</styleUrl>
+			<Point>
+				<coordinates>29.19508,-5.92292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMATION DIEU VA TOUT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°4<br /> longitude : 29.195120<br /> Lattitude : -05.922920<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style58</styleUrl>
+			<Point>
+				<coordinates>29.19512,-5.92292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : RESTAURENT SO-MAS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°5<br /> longitude : 29.195150<br /> Lattitude : -05.922900<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style70</styleUrl>
+			<Point>
+				<coordinates>29.19515,-5.9229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE FRANCI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°6<br /> longitude : 29.195150<br /> Lattitude : -05.922830<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style54</styleUrl>
+			<Point>
+				<coordinates>29.19515,-5.92283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMENTATION PLACE EBENE SAIRE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°7<br /> longitude : 29.195110<br /> Lattitude : -05.922730<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style52</styleUrl>
+			<Point>
+				<coordinates>29.19511,-5.92273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMENTATION MZ</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°8<br /> longitude : 29.195280<br /> Lattitude : -05.922580<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style90</styleUrl>
+			<Point>
+				<coordinates>29.19528,-5.92258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE THERESE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°9<br /> longitude : 29.195220<br /> Lattitude : -05.922470<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style64</styleUrl>
+			<Point>
+				<coordinates>29.19522,-5.92247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON MIRABELLE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°10<br /> longitude : 29.195220<br /> Lattitude : -05.922470<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style87</styleUrl>
+			<Point>
+				<coordinates>29.19522,-5.92247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE HENRIETTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°11<br /> longitude : 29.195490<br /> Lattitude : -05.922160<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style62</styleUrl>
+			<Point>
+				<coordinates>29.19549,-5.92216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE YESU NIDJIBU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°12<br /> longitude : 29.195550<br /> Lattitude : -05.921940<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style61</styleUrl>
+			<Point>
+				<coordinates>29.19555,-5.92194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERRASE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°13<br /> longitude : 29.194670<br /> Lattitude : -05.921020<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style51</styleUrl>
+			<Point>
+				<coordinates>29.19467,-5.92102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : AMOUR PHARMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°14<br /> longitude : 29.192620<br /> Lattitude : -05.918330<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style86</styleUrl>
+			<Point>
+				<coordinates>29.19262,-5.91833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE DAMIEN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°15<br /> longitude : 29.192600<br /> Lattitude : -05.918310<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style78</styleUrl>
+			<Point>
+				<coordinates>29.1926,-5.91831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE COIFFURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°16<br /> longitude : 29.192640<br /> Lattitude : -05.918260<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style77</styleUrl>
+			<Point>
+				<coordinates>29.19264,-5.918259999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BLESING KETHY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°18<br /> longitude : 29.192590<br /> Lattitude : -05.918250<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style83</styleUrl>
+			<Point>
+				<coordinates>29.19259,-5.91825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE MWAYUMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°19<br /> longitude : 29.192660<br /> Lattitude : -05.918210<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style82</styleUrl>
+			<Point>
+				<coordinates>29.19266,-5.91821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE JPP</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°20<br /> longitude : 29.192450<br /> Lattitude : -05.918060<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style24</styleUrl>
+			<Point>
+				<coordinates>29.19245,-5.91806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE BILA YESU NI BURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°21<br /> longitude : 29.192270<br /> Lattitude : -05.917900<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style2</styleUrl>
+			<Point>
+				<coordinates>29.19227,-5.9179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MINI DEPOT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 021<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°22<br /> longitude : 29.192220<br /> Lattitude : -05.917860<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style41</styleUrl>
+			<Point>
+				<coordinates>29.19222,-5.917860000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BAR MBABAZI JEAN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 022<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°23<br /> longitude : 29.192100<br /> Lattitude : -05.917670<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style15</styleUrl>
+			<Point>
+				<coordinates>29.1921,-5.91767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MALEWA  RENE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 023<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°24<br /> longitude : 29.192030<br /> Lattitude : -05.917620<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style11</styleUrl>
+			<Point>
+				<coordinates>29.19203,-5.917620000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON  DE COIFFURE BON JENI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 024<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°25<br /> longitude : 29.191370<br /> Lattitude : -05.919660<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style10</styleUrl>
+			<Point>
+				<coordinates>29.19137,-5.91966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SHOP VODACON CARISE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 025<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°26<br /> longitude : 29.191780<br /> Lattitude : -05.919610<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style28</styleUrl>
+			<Point>
+				<coordinates>29.19178,-5.91961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER GRACE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 026<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°27<br /> longitude : 29.191840<br /> Lattitude : -05.919630<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style12</styleUrl>
+			<Point>
+				<coordinates>29.19184,-5.91963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMENTATION MILAVY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 027<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°28<br /> longitude : 29.191910<br /> Lattitude : -05.919620<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style13</styleUrl>
+			<Point>
+				<coordinates>29.19191,-5.91962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERASSE GOODN LUB</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 028<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°29<br /> longitude : 29.192010<br /> Lattitude : -05.919580<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style34</styleUrl>
+			<Point>
+				<coordinates>29.19201,-5.919580000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE ADELA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 029<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°30<br /> longitude : 29.192070<br /> Lattitude : -05.919560<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style17</styleUrl>
+			<Point>
+				<coordinates>29.19207,-5.919559999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE CHIRUCHIRU ABAMUGU CHEZ PAPA SIMO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 030<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°31<br /> longitude : 29.192100<br /> Lattitude : -05.919560<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style20</styleUrl>
+			<Point>
+				<coordinates>29.1921,-5.919559999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DEPOT  EMMANUEL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 031<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°32<br /> longitude : 29.192220<br /> Lattitude : -05.919540<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style32</styleUrl>
+			<Point>
+				<coordinates>29.19222,-5.91954,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE BADERWA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 032<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°33<br /> longitude : 29.192170<br /> Lattitude : -05.919500<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style18</styleUrl>
+			<Point>
+				<coordinates>29.19217,-5.919499999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE GULGALI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 033<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°34<br /> longitude : 29.192170<br /> Lattitude : -05.919470<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style16</styleUrl>
+			<Point>
+				<coordinates>29.19217,-5.91947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE  PARTI ILUNGA ALIMENTATION</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 034<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°35<br /> longitude : 29.192020<br /> Lattitude : -05.919400<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style22</styleUrl>
+			<Point>
+				<coordinates>29.19202,-5.9194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE  PARICQUE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 035<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°36<br /> longitude : 29.192030<br /> Lattitude : -05.919410<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style33</styleUrl>
+			<Point>
+				<coordinates>29.19203,-5.919409999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE MUSOGALA NYEBO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 036<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°37<br /> longitude : 29.192180<br /> Lattitude : -05.919330<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style35</styleUrl>
+			<Point>
+				<coordinates>29.19218,-5.91933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE DIEU AGI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 037<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : DAV   N°38<br /> longitude : 29.192170<br /> Lattitude : -05.919300<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style19</styleUrl>
+			<Point>
+				<coordinates>29.19217,-5.9193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERRASSE MARCHE CENTRAL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.192090<br /> Lattitude : -05.922740<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style31</styleUrl>
+			<Point>
+				<coordinates>29.19209,-5.92274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.192300<br /> Lattitude : -05.922720<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style25</styleUrl>
+			<Point>
+				<coordinates>29.1923,-5.922720000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE COIFFURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.192460<br /> Lattitude : -05.922760<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style37</styleUrl>
+			<Point>
+				<coordinates>29.19246,-5.92276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ANDRE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.192600<br /> Lattitude : -05.922740<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style27</styleUrl>
+			<Point>
+				<coordinates>29.1926,-5.92274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIR DE COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.192950<br /> Lattitude : -05.922620<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style42</styleUrl>
+			<Point>
+				<coordinates>29.19295,-5.92262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE SWEDI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.193270<br /> Lattitude : -05.922510<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style40</styleUrl>
+			<Point>
+				<coordinates>29.19327,-5.92251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SHOP VODACOM</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.193630<br /> Lattitude : -05.922430<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style21</styleUrl>
+			<Point>
+				<coordinates>29.19363,-5.92243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DIEU M&apos;A DONNE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.193680<br /> Lattitude : -05.922550<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style30</styleUrl>
+			<Point>
+				<coordinates>29.19368,-5.922549999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : RESTAURANT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.193750<br /> Lattitude : -05.922510<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style38</styleUrl>
+			<Point>
+				<coordinates>29.19375,-5.92251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : LIBRERIE BROTTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.193690<br /> Lattitude : -05.922420<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style29</styleUrl>
+			<Point>
+				<coordinates>29.19369,-5.92242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DISA SHOP</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.193860<br /> Lattitude : -05.922370<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style26</styleUrl>
+			<Point>
+				<coordinates>29.19386,-5.922369999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE AGNES</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.194080<br /> Lattitude : -05.922490<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style39</styleUrl>
+			<Point>
+				<coordinates>29.19408,-5.92249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE COIFFURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.194120<br /> Lattitude : -05.922510<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style36</styleUrl>
+			<Point>
+				<coordinates>29.19412,-5.92251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE KASONGA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.194160<br /> Lattitude : -05.922440<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style14</styleUrl>
+			<Point>
+				<coordinates>29.19416,-5.92244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE KYEUSI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.194160<br /> Lattitude : -05.922440<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style9</styleUrl>
+			<Point>
+				<coordinates>29.19416,-5.92244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE BEAUTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.194220<br /> Lattitude : -05.922470<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style23</styleUrl>
+			<Point>
+				<coordinates>29.19422,-5.92247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE NAFISA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.194280<br /> Lattitude : -05.922430<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style153</styleUrl>
+			<Point>
+				<coordinates>29.19428,-5.92243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE TCHOMBA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.194360<br /> Lattitude : -05.922010<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style164</styleUrl>
+			<Point>
+				<coordinates>29.19436,-5.92201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE COIFFURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : TANGANYIKA   N°SN<br /> longitude : 29.194560<br /> Lattitude : -05.921970<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style5</styleUrl>
+			<Point>
+				<coordinates>29.19456,-5.921970000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER PAPA ABEDI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.192200<br /> Lattitude : -05.917670<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style173</styleUrl>
+			<Point>
+				<coordinates>29.1922,-5.91767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON KIVU NIKWETU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 021<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.192080<br /> Lattitude : -05.917540<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style169</styleUrl>
+			<Point>
+				<coordinates>29.19208,-5.91754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MAISON D&apos;ART</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 022<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.192110<br /> Lattitude : -05.917450<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style</styleUrl>
+			<Point>
+				<coordinates>29.19211,-5.91745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE MAMA JULIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 023<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.191870<br /> Lattitude : -05.917230<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style159</styleUrl>
+			<Point>
+				<coordinates>29.19187,-5.91723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 024<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.191360<br /> Lattitude : -05.916200<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style156</styleUrl>
+			<Point>
+				<coordinates>29.19136,-5.916200000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER MENUISERIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 025<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.191290<br /> Lattitude : -05.916150<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style170</styleUrl>
+			<Point>
+				<coordinates>29.19129,-5.91615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE DIEU M&apos;A DONNE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 026<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.190990<br /> Lattitude : -05.915710<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style172</styleUrl>
+			<Point>
+				<coordinates>29.19099,-5.915710000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER DE COUTURE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 027<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.190800<br /> Lattitude : -05.915480<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style6</styleUrl>
+			<Point>
+				<coordinates>29.1908,-5.91548,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMENTATION</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 028<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.190980<br /> Lattitude : -05.915700<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style3</styleUrl>
+			<Point>
+				<coordinates>29.19098,-5.915699999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERRASSE COIN DES SAGES</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 029<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.190420<br /> Lattitude : -05.915100<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style160</styleUrl>
+			<Point>
+				<coordinates>29.19042,-5.9151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE CHANCE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 030<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.190410<br /> Lattitude : -05.915170<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style162</styleUrl>
+			<Point>
+				<coordinates>29.19041,-5.91517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE LWABAGO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 031<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.190390<br /> Lattitude : -05.915000<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style154</styleUrl>
+			<Point>
+				<coordinates>29.19039,-5.915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON DE BEAUTE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 032<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.190250<br /> Lattitude : -05.914900<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style1</styleUrl>
+			<Point>
+				<coordinates>29.19025,-5.914900000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE CHARLES</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 033<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.190120<br /> Lattitude : -05.914850<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style155</styleUrl>
+			<Point>
+				<coordinates>29.19012,-5.91485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MOULIN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 034<br /> N° AR : 0013<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : KALEMIE   N°SN<br /> longitude : 29.190360<br /> Lattitude : -05.914970<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style161</styleUrl>
+			<Point>
+				<coordinates>29.19036,-5.914969999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : HOTEL MURUMBI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.195230<br /> Lattitude : -05.922680<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style158</styleUrl>
+			<Point>
+				<coordinates>29.19523,-5.92268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BAR VIRTUAL WORLD</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.195290<br /> Lattitude : -05.922510<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style0</styleUrl>
+			<Point>
+				<coordinates>29.19529,-5.92251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERRASSE MAMBA BEACH</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.196480<br /> Lattitude : -05.923240<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style171</styleUrl>
+			<Point>
+				<coordinates>29.19648,-5.92324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : HOTEL LA VOGUE 1</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.194620<br /> Lattitude : -05.922830<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style168</styleUrl>
+			<Point>
+				<coordinates>29.19462,-5.92283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : HOTEL LA VOGUE 2</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.LUBUMBASHI   N°SN<br /> longitude : 29.192910<br /> Lattitude : -05.922030<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style152</styleUrl>
+			<Point>
+				<coordinates>29.19291,-5.92203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CLINIQUE HARMONIE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.LUBUMBASHI   N°SN<br /> longitude : 29.192920<br /> Lattitude : -05.921880<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style167</styleUrl>
+			<Point>
+				<coordinates>29.19292,-5.921879999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOOM HOTEL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.LUBUMBASHI   N°SN<br /> longitude : 29.192600<br /> Lattitude : -05.921060<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style151</styleUrl>
+			<Point>
+				<coordinates>29.1926,-5.921060000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : GUEST-HOUSE LA BENEDICT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.195270<br /> Lattitude : -05.921600<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style165</styleUrl>
+			<Point>
+				<coordinates>29.19527,-5.9216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : COMPLEXE SCOLAIRE LE BON BERGER</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.195640<br /> Lattitude : -05.920300<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style163</styleUrl>
+			<Point>
+				<coordinates>29.19564,-5.9203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERRASSE GRENADA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.195070<br /> Lattitude : -05.919550<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style166</styleUrl>
+			<Point>
+				<coordinates>29.19507,-5.91955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EDEN HOTEL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.194840<br /> Lattitude : -05.920050<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style8</styleUrl>
+			<Point>
+				<coordinates>29.19484,-5.92005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : COMPLEXE SCOLAIRE LE COURAGE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV DILOLO   N°SN<br /> longitude : 29.192970<br /> Lattitude : -05.916990<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style7</styleUrl>
+			<Point>
+				<coordinates>29.19297,-5.91699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : RESTAURANT KWETU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.192870<br /> Lattitude : -05.918700<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style4</styleUrl>
+			<Point>
+				<coordinates>29.19287,-5.9187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : POLYCLINIQUE KAHENGA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.193290<br /> Lattitude : -05.920280<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style157</styleUrl>
+			<Point>
+				<coordinates>29.19329,-5.92028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : POLYCLINIQUE HAFIA BORA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.191900<br /> Lattitude : -05.919310<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style141</styleUrl>
+			<Point>
+				<coordinates>29.1919,-5.91931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : DANCING CLUB RICKY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV.KALEMIE   N°SN<br /> longitude : 29.191950<br /> Lattitude : -05.919580<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style139</styleUrl>
+			<Point>
+				<coordinates>29.19195,-5.919580000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BAR ET RESTAURANT BOUQUET DES FLEURES</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV DILOLO   N°SN<br /> longitude : 29.191150<br /> Lattitude : -05.915070<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style117</styleUrl>
+			<Point>
+				<coordinates>29.19115,-5.91507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE SAFI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.195520<br /> Lattitude : -05.925270<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style97</styleUrl>
+			<Point>
+				<coordinates>29.19552,-5.925269999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE MUKISHI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.195180<br /> Lattitude : -05.923640<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style125</styleUrl>
+			<Point>
+				<coordinates>29.19518,-5.92364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMENTATION CHEZ MAMAN GERMAINE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.194930<br /> Lattitude : -05.922940<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style95</styleUrl>
+			<Point>
+				<coordinates>29.19493,-5.922939999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMENTATION MUNGU NI MAPENDO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.195020<br /> Lattitude : -05.922830<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style133</styleUrl>
+			<Point>
+				<coordinates>29.19502,-5.92283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : EXAUCE PRESSING</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.195080<br /> Lattitude : -05.922820<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style121</styleUrl>
+			<Point>
+				<coordinates>29.19508,-5.92282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON BIEN FAIT VIP</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.195390<br /> Lattitude : -05.922220<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style103</styleUrl>
+			<Point>
+				<coordinates>29.19539,-5.922219999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ALAIN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.195430<br /> Lattitude : -05.922140<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style148</styleUrl>
+			<Point>
+				<coordinates>29.19543,-5.922140000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ANDRE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.194880<br /> Lattitude : -05.921080<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style145</styleUrl>
+			<Point>
+				<coordinates>29.19488,-5.92108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE CHRISTINE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.194800<br /> Lattitude : -05.920950<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style143</styleUrl>
+			<Point>
+				<coordinates>29.1948,-5.92095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ROXI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.194760<br /> Lattitude : -05.920980<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style131</styleUrl>
+			<Point>
+				<coordinates>29.19476,-5.920979999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE DIEUDONNE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.194820<br /> Lattitude : -05.921040<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style120</styleUrl>
+			<Point>
+				<coordinates>29.19482,-5.92104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ELYA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.194640<br /> Lattitude : -05.920640<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style105</styleUrl>
+			<Point>
+				<coordinates>29.19464,-5.920639999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER NGANDU</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.194350<br /> Lattitude : -05.920290<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style101</styleUrl>
+			<Point>
+				<coordinates>29.19435,-5.92029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE PAPA PIERROT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.194160<br /> Lattitude : -05.920070<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style123</styleUrl>
+			<Point>
+				<coordinates>29.19416,-5.920069999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE MUNGELWA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.193910<br /> Lattitude : -05.919890<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style149</styleUrl>
+			<Point>
+				<coordinates>29.19391,-5.919889999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PEACE PHARMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.193990<br /> Lattitude : -05.919770<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style130</styleUrl>
+			<Point>
+				<coordinates>29.19399,-5.91977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE KIBIBI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN<br /> longitude : 29.193940<br /> Lattitude : -05.919900<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style129</styleUrl>
+			<Point>
+				<coordinates>29.19394,-5.9199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : FLORA PHARMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 12<br /> longitude : 29.193790<br /> Lattitude : -05.922370<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style128</styleUrl>
+			<Point>
+				<coordinates>29.19379,-5.922369999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER MWEMEDI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 13<br /> longitude : 29.194010<br /> Lattitude : -05.919900<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style135</styleUrl>
+			<Point>
+				<coordinates>29.19401,-5.9199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER MARDOCHE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 14<br /> longitude : 29.194020<br /> Lattitude : -05.919780<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style114</styleUrl>
+			<Point>
+				<coordinates>29.19402,-5.91978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE EMMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 021<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 15<br /> longitude : 29.193860<br /> Lattitude : -05.919750<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style98</styleUrl>
+			<Point>
+				<coordinates>29.19386,-5.91975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER NELSON</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 022<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 16<br /> longitude : 29.193790<br /> Lattitude : -05.919670<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style107</styleUrl>
+			<Point>
+				<coordinates>29.19379,-5.919670000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE ISACK</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 023<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 17<br /> longitude : 29.193460<br /> Lattitude : -05.919240<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style113</styleUrl>
+			<Point>
+				<coordinates>29.19346,-5.91924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : RESTAURANT BAGUMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 024<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 18<br /> longitude : 29.193370<br /> Lattitude : -05.919170<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style124</styleUrl>
+			<Point>
+				<coordinates>29.19337,-5.919169999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER VALATIN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 025<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 19<br /> longitude : 29.193290<br /> Lattitude : -05.918990<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style150</styleUrl>
+			<Point>
+				<coordinates>29.19329,-5.918989999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : MAISON D&apos;HABILLEMENT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 026<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 20<br /> longitude : 29.192960<br /> Lattitude : -05.918720<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style146</styleUrl>
+			<Point>
+				<coordinates>29.19296,-5.91872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SHOP BENJAMIN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 027<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 21<br /> longitude : 29.192750<br /> Lattitude : -05.918330<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style144</styleUrl>
+			<Point>
+				<coordinates>29.19275,-5.91833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON LA BELLE ETOILE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 028<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 22<br /> longitude : 29.192570<br /> Lattitude : -05.918140<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style109</styleUrl>
+			<Point>
+				<coordinates>29.19257,-5.91814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMACIE RECONNAISSANCE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 029<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 23<br /> longitude : 29.192530<br /> Lattitude : -05.918080<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style106</styleUrl>
+			<Point>
+				<coordinates>29.19253,-5.918079999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : CHEZ MAMAN ALPHO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 030<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 24<br /> longitude : 29.192450<br /> Lattitude : -05.918030<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style53</styleUrl>
+			<Point>
+				<coordinates>29.19245,-5.91803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : SALON AIR SHADAI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 031<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 25<br /> longitude : 29.192510<br /> Lattitude : -05.917950<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style92</styleUrl>
+			<Point>
+				<coordinates>29.19251,-5.917950000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ETALON SECURITY</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 032<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°152<br /> longitude : 29.193680<br /> Lattitude : -05.919560<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style68</styleUrl>
+			<Point>
+				<coordinates>29.19368,-5.919559999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE BONDO</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 033<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 01<br /> longitude : 29.192200<br /> Lattitude : -05.917640<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style65</styleUrl>
+			<Point>
+				<coordinates>29.1922,-5.91764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BAOBAB/KILOLO FILS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 034<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 02<br /> longitude : 29.192180<br /> Lattitude : -05.917580<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style71</styleUrl>
+			<Point>
+				<coordinates>29.19218,-5.91758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ALIMENTATION SAITE GRACE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 035<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 03<br /> longitude : 29.192140<br /> Lattitude : -05.917610<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style66</styleUrl>
+			<Point>
+				<coordinates>29.19214,-5.91761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : PHARMA HYGIENIC PLUS</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 036<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 04<br /> longitude : 29.192090<br /> Lattitude : -05.917550<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style84</styleUrl>
+			<Point>
+				<coordinates>29.19209,-5.91755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER KAZI NI KAZI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 037<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 05<br /> longitude : 29.191420<br /> Lattitude : -05.916680<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style55</styleUrl>
+			<Point>
+				<coordinates>29.19142,-5.91668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER JOHN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 038<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 06<br /> longitude : 29.191140<br /> Lattitude : -05.916180<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style89</styleUrl>
+			<Point>
+				<coordinates>29.19114,-5.91618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : RESTAURANT PASCAL</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 039<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 07<br /> longitude : 29.191070<br /> Lattitude : -05.916070<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style50</styleUrl>
+			<Point>
+				<coordinates>29.19107,-5.91607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE ESPERANCE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 040<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 08<br /> longitude : 29.190940<br /> Lattitude : -05.915870<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style63</styleUrl>
+			<Point>
+				<coordinates>29.19094,-5.915870000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE AMANI</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 041<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 09<br /> longitude : 29.190510<br /> Lattitude : -05.914920<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style49</styleUrl>
+			<Point>
+				<coordinates>29.19051,-5.91492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE EMMA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 042<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 10<br /> longitude : 29.190460<br /> Lattitude : -05.914850<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style73</styleUrl>
+			<Point>
+				<coordinates>29.19046000000001,-5.91485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE BIEN FAIT</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 043<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 11<br /> longitude : 29.190460<br /> Lattitude : -05.914870<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style57</styleUrl>
+			<Point>
+				<coordinates>29.19046000000001,-5.914869999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : BOUTIQUE D&apos;HABILLEMENT CYNTHIA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 044<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 12<br /> longitude : 29.190410<br /> Lattitude : -05.914840<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style79</styleUrl>
+			<Point>
+				<coordinates>29.19041,-5.91484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise :  BUREAUTIQUE TONTON</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 045<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 13<br /> longitude : 29.190350<br /> Lattitude : -05.914810<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style76</styleUrl>
+			<Point>
+				<coordinates>29.19035,-5.914810000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : TERASSE TUDJITUPE CHEZ PAPA KISANYA</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 046<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 14<br /> longitude : 29.190180<br /> Lattitude : -05.914740<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style94</styleUrl>
+			<Point>
+				<coordinates>29.19018,-5.91474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : KIOSQUE ANDRE</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 047<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 15<br /> longitude : 29.190110<br /> Lattitude : -05.914720<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style59</styleUrl>
+			<Point>
+				<coordinates>29.19011,-5.914720000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Entreprise : ATELIER VALATIN</name>
+			<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 048<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : DU LAC<br />Quartier : DAV<br /> ZD : 002<br /> Statut : Recensée<br /> Adresse : AV KALEMIE   N°SN 16<br /> longitude : 29.190250<br /> Lattitude : -05.914680<br /><br /> Type de Bâtiment : Atelier<br />]]></description>
+			<styleUrl>#my_style81</styleUrl>
+			<Point>
+				<coordinates>29.19025,-5.91468,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,649 @@
+﻿Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+<File>          PFFTEMP=
+<File>          TRANSFERLOGFILE=
+<File>          F1=
+<File>          FICH=
+<File>          PFFCONT=
+
+Date            Dec 07, 2020
+Start Time      14:18:46
+End Time        14:19:11
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+<File>          PFFTEMP=
+<File>          TRANSFERLOGFILE=
+<File>          F1=
+<File>          FICH=
+<File>          PFFCONT=
+
+Date            Dec 07, 2020
+Start Time      14:36:43
+End Time        14:37:04
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+    1780           1      -  Voulez-vous afficher les entreprises du Quartier(%s) ?                                    -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+<File>          PFFTEMP=
+<File>          TRANSFERLOGFILE=
+<File>          F1=
+<File>          FICH=
+<File>          PFFCONT=
+
+Date            Dec 07, 2020
+Start Time      14:39:09
+End Time        14:40:10
+
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+<File>          PFFTEMP=
+<File>          TRANSFERLOGFILE=
+<File>          F1=
+<File>          FICH=
+<File>          PFFCONT=
+
+Date            Dec 07, 2020
+Start Time      16:16:29
+End Time        16:16:29Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+<File>          PFFTEMP=
+<File>          TRANSFERLOGFILE=
+<File>          F1=
+<File>          FICH=
+<File>          PFFCONT=
+
+Date            Dec 07, 2020
+Start Time      17:34:16
+End Time        18:19:51
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+    1780           1      -  Voulez-vous afficher les entreprises du Quartier(%s) ?                                    -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          TEMPFILE=
+<File>          FMENU=
+<File>          BUFFER1=
+<File>          PFFTEMP=
+<File>          TRANSFERLOGFILE=
+<File>          F1=
+<File>          FICH=
+<File>          PFFCONT=
+
+Date            Dec 15, 2020
+Start Time      11:03:06
+End Time        11:03:32
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+    1780           1      -  Voulez-vous afficher les entreprises du Quartier(%s) ?                                    -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      11:29:27
+End Time        11:29:27Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      11:30:57
+End Time        11:30:57Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      11:34:47
+End Time        11:34:47Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      11:48:57
+End Time        11:48:57Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      14:41:25
+End Time        14:41:25Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      14:47:26
+End Time        14:47:26Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      14:51:20
+End Time        14:51:20Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      14:54:09
+End Time        14:54:09Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      14:55:46
+End Time        14:55:46Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      14:58:16
+End Time        14:58:16Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      15:03:44
+End Time        15:03:44Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      15:18:37
+End Time        15:18:37Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      15:24:10
+End Time        15:24:10Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      15:32:55
+End Time        15:53:30
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+    1783           1      -  Voulez-vous afficher les entreprises du Quartier(%s) ?                                    -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      15:55:29
+End Time        15:55:29Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      15:59:03
+End Time        15:59:03Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      16:00:17
+End Time        16:00:17Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      16:07:31
+End Time        16:07:31Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 15, 2020
+Start Time      16:22:53
+End Time        16:22:53Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 16, 2020
+Start Time      17:23:02
+End Time        17:23:02Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 16, 2020
+Start Time      17:27:25
+End Time        17:27:25Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 16, 2020
+Start Time      17:28:03
+End Time        17:28:50
+
+
+System messages:
+
+  Number        Freq         Message Text                                                                               
+  ------        ----         ------------                                                                               
+    2001           2         Cannot open file %s                                                                        
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+    1783           1      -  Voulez-vous afficher les entreprises du Quartier(%s) ?                                    -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 16, 2020
+Start Time      17:29:14
+End Time        17:29:14Application     C:\RDCRGE\Applications\AIT\Menu_AIT.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\RDCRGE\Temp\mNull.dat
+External        RGEZD=<<Empty>> 
+External        RGE_DICT=<<Empty>> 
+External        TASKS=<<Empty>> 
+External        CLUSTERS=<<Text File>> C:\RDCRGE\Reference\Carto.dat
+External        AIT_DICT=<<Text File>> C:\RDCRGE\Reference\AIT.dat
+<File>          tempFile=
+<File>          fMenu=
+<File>          buffer1=
+<File>          pffTemp=
+<File>          transferLogFile=
+<File>          f1=
+<File>          Fich=
+<File>          pffCont=
+
+Date            Dec 16, 2020
+Start Time      18:31:22
+End Time        18:31:22

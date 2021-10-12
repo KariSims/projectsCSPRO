@@ -1,0 +1,1312 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+<Document>
+<Folder>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : BOUTIQUE KALUNGA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176600<br /> Lattitude : -05.941160<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176600,-05.941160,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE BWAKAPHAR</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176690<br /> Lattitude : -05.941180<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176690,-05.941180,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE UFAUMA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176780<br /> Lattitude : -05.941230<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176780,-05.941230,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MUSUMEN0</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176810<br /> Lattitude : -05.941240<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176810,-05.941240,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE AMANI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176870<br /> Lattitude : -05.942700<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176870,-05.942700,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MWAMBA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176900<br /> Lattitude : -05.941330<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176900,-05.941330,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN KAZADI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176840<br /> Lattitude : -05.941360<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176840,-05.941360,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE GENEROSE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176900<br /> Lattitude : -05.941370<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176900,-05.941370,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON BAZA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176920<br /> Lattitude : -05.941420<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176920,-05.941420,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE VODACOM</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176970<br /> Lattitude : -05.941570<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176970,-05.941570,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE BAZA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176990<br /> Lattitude : -05.941650<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176990,-05.941650,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON PAUL</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.176980<br /> Lattitude : -05.941810<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176980,-05.941810,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN JEAN</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.177000<br /> Lattitude : -05.942240<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177000,-05.942240,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE ALI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.177660<br /> Lattitude : -05.942860<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177660,-05.942860,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON MICHEL</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.177750<br /> Lattitude : -05.942900<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177750,-05.942900,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : EDICTION DAMS</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : PAPA MAPASA   N°SN<br /> longitude : 29.177850<br /> Lattitude : -05.942930<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177850,-05.942930,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE LUBWE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : MULONGO   N°SN<br /> longitude : 29.177940<br /> Lattitude : -05.942970<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177940,-05.942970,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN EMA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : MULONGO   N°SN<br /> longitude : 29.177580<br /> Lattitude : -05.943420<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177580,-05.943420,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN MUPISI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : MULONGO   N°SN<br /> longitude : 29.178590<br /> Lattitude : -05.945180<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.178590,-05.945180,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE KABALA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : MULONGO   N°SN<br /> longitude : 29.178570<br /> Lattitude : -05.945280<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.178570,-05.945280,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE PAPA EDO</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 021<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.188420<br /> Lattitude : -05.944900<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.188420,-05.944900,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON JOHN</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 022<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.183000<br /> Lattitude : -05.943030<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.183000,-05.943030,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE DODE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 023<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.182370<br /> Lattitude : -05.942390<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182370,-05.942390,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE NENE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 024<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.182370<br /> Lattitude : -05.942430<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182370,-05.942430,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KOISQUE SIMPLICE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 025<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.182400<br /> Lattitude : -05.942630<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182400,-05.942630,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON ZEDE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 026<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.181310<br /> Lattitude : -05.943380<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.181310,-05.943380,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON OKAPI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 027<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.187040<br /> Lattitude : -05.942660<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.187040,-05.942660,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON MAGOBO</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 028<br /> N° AR : 0011<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.186910<br /> Lattitude : -05.941220<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.186910,-05.941220,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MODESTE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : NYEMBA   N°1<br /> longitude : 29.176100<br /> Lattitude : -05.941110<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176100,-05.941110,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MALEWA  TETE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : NYEMBA   N°2<br /> longitude : 29.176120<br /> Lattitude : -05.941100<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176120,-05.941100,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE POL</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : NYEMBA   N°3<br /> longitude : 29.176090<br /> Lattitude : -05.941110<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176090,-05.941110,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN NYEMBO</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : NYEMBA   N°4<br /> longitude : 29.176170<br /> Lattitude : -05.941160<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176170,-05.941160,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : EDDITION  YUMBA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : NYEMBA   N°5<br /> longitude : 29.175480<br /> Lattitude : -05.941190<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.175480,-05.941190,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON DE COIFFURE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : NYEMBA   N°6<br /> longitude : 29.175210<br /> Lattitude : -05.951400<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.175210,-05.951400,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE  DENIS</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : NYEMBA   N°7<br /> longitude : 29.175190<br /> Lattitude : -05.941390<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.175190,-05.941390,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MALEWA  BANGU</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : KYANZA   N°8<br /> longitude : 29.174800<br /> Lattitude : -05.941930<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.174800,-05.941930,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON DE COIFFURE ELIASE%</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : KYANZA   N°9<br /> longitude : 29.179330<br /> Lattitude : -05.945770<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.179330,-05.945770,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE JEANPIERRE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : KYANZA   N°10<br /> longitude : 29.179550<br /> Lattitude : -05.946220<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.179550,-05.946220,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : DISPENSAIRE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : KYENZA   N°11<br /> longitude : 29.179120<br /> Lattitude : -05.945720<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.179120,-05.945720,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MWAMBA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0012<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : KYANZA   N°12<br /> longitude : 29.173400<br /> Lattitude : -05.942050<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.173400,-05.942050,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : ATELIER DE REPARATION KAZADI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA   N°SN<br /> longitude : 29.176280<br /> Lattitude : -05.941140<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176280,-05.941140,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : EDITION DON JAZZY</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA   N°SN<br /> longitude : 29.176070<br /> Lattitude : -05.941120<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176070,-05.941120,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE SAINT FRANCOIS</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA   N°SN<br /> longitude : 29.175740<br /> Lattitude : -05.941060<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.175740,-05.941060,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON DE COIFFURE LA GRACE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA   N°SN<br /> longitude : 29.175400<br /> Lattitude : -05.941230<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.175400,-05.941230,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : ATELIER KYANZA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA   N°SN<br /> longitude : 29.175170<br /> Lattitude : -05.941590<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.175170,-05.941590,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : AGENCE DE TRANSPORT LA BENEDICTION</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA   N°SN<br /> longitude : 29.174850<br /> Lattitude : -05.941830<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.174850,-05.941830,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE PATIENTPHAR</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV MULONGO   N°SN<br /> longitude : 29.179420<br /> Lattitude : -05.945910<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.179420,-05.945910,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE  EMERY</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV MULONGO   N°SN<br /> longitude : 29.179290<br /> Lattitude : -05.945880<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.179290,-05.945880,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN LUTULA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV MULONGO   N°SN<br /> longitude : 29.172370<br /> Lattitude : -05.941710<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.172370,-05.941710,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : EDITION DJ GUSA GUSA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV MULONGO   N°SN<br /> longitude : 29.178880<br /> Lattitude : -05.945730<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.178880,-05.945730,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE RICHARD MAMBA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.189180<br /> Lattitude : -05.944790<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.189180,-05.944790,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : ETS.DON DE DIEU</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : ROUTE MAKALA   N°SN<br /> longitude : 29.188950<br /> Lattitude : -05.944620<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.188950,-05.944620,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : DISPENSAIRE MAPENDO</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV.JARDIN   N°SN<br /> longitude : 29.182770<br /> Lattitude : -05.941940<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182770,-05.941940,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : COMPLEXE SCOLAIRE DIEU EST GRAND</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV.JARDIN   N°SN<br /> longitude : 29.182510<br /> Lattitude : -05.941400<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182510,-05.941400,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE SHABANI SHUNGU</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV.JARDIN   N°SN<br /> longitude : 29.182910<br /> Lattitude : -05.941240<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182910,-05.941240,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MODYA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV.JARDIN   N°SN<br /> longitude : 29.182920<br /> Lattitude : -05.941240<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182920,-05.941240,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : ETS.HASMI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV.JARDIN   N°SN<br /> longitude : 29.183370<br /> Lattitude : -05.939990<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.183370,-05.939990,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MUTOMBO</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV.JARDIN   N°SN<br /> longitude : 29.182770<br /> Lattitude : -05.939390<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182770,-05.939390,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE JULES</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV.JARDIN   N°SN<br /> longitude : 29.182770<br /> Lattitude : -05.939230<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182770,-05.939230,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : ATELIER DE COUTURE MALIYATABU</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0014<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV.JARDIN   N°SN<br /> longitude : 29.182820<br /> Lattitude : -05.939050<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182820,-05.939050,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE AMISSI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 001<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.176970<br /> Lattitude : -05.941300<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176970,-05.941300,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE JOHN</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 002<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.176970<br /> Lattitude : -05.941280<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.176970,-05.941280,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE SAFI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 003<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177000<br /> Lattitude : -05.941420<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177000,-05.941420,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MUKALAY</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 004<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177030<br /> Lattitude : -05.941490<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177030,-05.941490,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON MULUMBA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 005<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177010<br /> Lattitude : -05.941520<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177010,-05.941520,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE JEAN PIERRE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 006<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177040<br /> Lattitude : -05.941590<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177040,-05.941590,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE ANDRE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 007<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177030<br /> Lattitude : -05.941670<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177030,-05.941670,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE NEEMA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 008<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177060<br /> Lattitude : -05.941750<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177060,-05.941750,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE BEATA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 009<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177040<br /> Lattitude : -05.941960<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177040,-05.941960,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE SHABANI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 010<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177020<br /> Lattitude : -05.942270<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177020,-05.942270,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE MATABISHI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 011<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177670<br /> Lattitude : -05.942890<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177670,-05.942890,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : MOULIN JEAN</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 012<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.177800<br /> Lattitude : -05.942890<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177800,-05.942890,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : HOTEL LA CASE DE LA CITE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 013<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV TATA MAPASA   N°SN<br /> longitude : 29.178110<br /> Lattitude : -05.943020<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.178110,-05.943020,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE BIAMUNGU</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 014<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV MULONGO   N°SN<br /> longitude : 29.177460<br /> Lattitude : -05.943360<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.177460,-05.943360,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE BARO</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 015<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV MULONGO   N°SN<br /> longitude : 29.178010<br /> Lattitude : -05.944590<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.178010,-05.944590,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE MULONGO</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 016<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV MULONGO   N°SN<br /> longitude : 29.178220<br /> Lattitude : -05.945070<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.178220,-05.945070,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE BEIPOA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 017<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.187360<br /> Lattitude : -05.943750<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.187360,-05.943750,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : DISPENSAIRE ASSURANC PLUS</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 018<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.184700<br /> Lattitude : -05.943110<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.184700,-05.943110,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE GESPARD</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 019<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.183390<br /> Lattitude : -05.942470<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.183390,-05.942470,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE SHEMBA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 020<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.182400<br /> Lattitude : -05.942440<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182400,-05.942440,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE M.M</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 021<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.182400<br /> Lattitude : -05.942580<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182400,-05.942580,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : SALON DE COIFFURE LA VICTOIRE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 022<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.182410<br /> Lattitude : -05.942700<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.182410,-05.942700,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE MARANATHA</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 023<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.181610<br /> Lattitude : -05.943480<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.181610,-05.943480,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : KIOSQUE JEAN</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 024<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.187040<br /> Lattitude : -05.942430<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.187040,-05.942430,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : DISPENSAIRE USHIRIKI</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 025<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.187030<br /> Lattitude : -05.941920<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.187030,-05.941920,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : PHARMACIE THOMS PHAR</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 026<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.186840<br /> Lattitude : -05.941730<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.186840,-05.941730,0.000000</coordinates>
+</Point>
+</Placemark>
+<Style id="my_style">"
+  <IconStyle>
+     <Icon>
+       <href> C:\RDCRGE\Reference\icons\ZD.PNG </href>
+      </Icon>
+   </IconStyle>
+</Style>
+<Placemark>
+    <name>Entreprise : DISPENSAIRE LA GRACE DIVINE</name>
+<description><![CDATA[Province : TANGANYIKA<br /> N° Ese : 027<br /> N° AR : 0015<br /> Ville : KALEMIE<br /> Commune : KALEMIE<br />Quartier : KYANZA<br /> ZD : 003<br /> Statut : Recensée<br /> Adresse : AV JARDIN   N°SN<br /> longitude : 29.186750<br /> Lattitude : -05.938630<br /><br /> Type de Bâtiment : Dispensaire<br />]]></description>
+<styleUrl>#my_style</styleUrl>
+<Point>
+    <coordinates>29.186750,-05.938630,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

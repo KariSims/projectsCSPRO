@@ -1,0 +1,1 @@
+Shutdown /s /f /t 005 /c "Merci d'avoir utilisé cette tablette pour le compte du RGE"

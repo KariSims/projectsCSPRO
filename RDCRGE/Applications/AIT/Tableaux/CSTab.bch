@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=CSTAB
+Name=CSTAB
+AppType=Batch
+[AppCode]
+File=.\CSTab.apc
+[Message]
+File=.\CSTab.mgf
+[Order]
+File=.\CSTab.ord
+[Dictionary Types]
+Dict-Type=..\Controle\RGE.dcf,Input,.\CSTab.ord

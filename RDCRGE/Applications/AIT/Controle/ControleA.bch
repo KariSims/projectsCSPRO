@@ -1,0 +1,13 @@
+﻿[CSPro Application]
+Version=CSPro 7.5
+Label=CONTROLEA
+Name=CONTROLEA
+AppType=Batch
+[AppCode]
+File=.\ControleA.bch.apc
+[Message]
+File=.\ControleA.bch.mgf
+[Order]
+File=.\ControleA.ord
+[Dictionary Types]
+Dict-Type=.\RGE.dcf,Input,.\ControleA.ord

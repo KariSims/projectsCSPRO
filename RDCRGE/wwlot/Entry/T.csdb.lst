@@ -1,0 +1,57 @@
+﻿Application     C:\RDCRGE\wwlot\Entry\CorrectionbyLot.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\RDCRGE\wwlot\Entry\T.csdb
+<File>          xpff=
+
+Date            Dec 17, 2020
+Start Time      18:19:36
+End Time        18:39:45
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      65           1      -  Nbre de fichiers : Vus = %d                                                               -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RDCRGE\wwlot\Entry\CorrectionbyLot.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\RDCRGE\wwlot\Entry\T.csdb
+<File>          xpff=
+
+Date            Dec 17, 2020
+Start Time      18:39:49
+End Time        18:41:00
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      66           1      -  Nbre de fichiers : Vus = %d                                                               -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
+Application     C:\RDCRGE\wwlot\Entry\CorrectionbyLot.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> C:\RDCRGE\wwlot\Entry\T.csdb
+<File>          xpff=
+
+Date            Dec 17, 2020
+Start Time      18:41:18
+End Time        18:41:23
+
+
+User unnumbered messages:
+
+    Line        Freq    %    Message Text                                                                          Denom
+    ----        ----  -----  ------------                                                                          -----
+      65           1      -  Nbre de fichiers : Vus = %d                                                               -
+
+
+CSPro Executor Normal End
+------------------------------------------------------------------------------------------------------------------------
